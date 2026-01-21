@@ -250,8 +250,8 @@
                   "longitude": 14.517770,
                   "checkpointTitle": "Ghar Hasan",
                   "checkpointText": "Legend has it that ... Currently closed for safety reasons but can take a sneak peak",
-                  "checkpointImage": "assets/badges/treks_znuber_landmark_hasan.png",
-                  "badgeImage": "assets/badges/treks_znuber_landmark_hasan.png"
+                  "checkpointImage": "assets/badges/treks_znuber_landmark_hasan.jpg",
+                  "badgeImage": "assets/badges/treks_znuber_landmark_hasan.jpg"
                 },
                 {
                   "id": "Znuber Cliffs Path",
@@ -280,8 +280,8 @@
                   "longitude": 14.524316,
                   "checkpointTitle": "Kuncizzjoni Chapel",
                   "checkpointText": "Info on the Chapel",
-                  "checkpointImage": "assets/badges/treks_znuber_landmark_kuncizzjoni.png",
-                  "badgeImage": "assets/badges/treks_znuber_landmark_kuncizzjoni.png"
+                  "checkpointImage": "assets/badges/treks_znuber_landmark_kuncizzjoni.jpg",
+                  "badgeImage": "assets/badges/treks_znuber_landmark_kuncizzjoni.jpg"
                 },                {
                   "id": "Benghisa Park",
                   "type": "milestone",
