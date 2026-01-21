@@ -156,6 +156,173 @@
             },
 
             {
+              "id": "nature-treks-southeast-znuber",
+              "name": "Benghisa-Znuber",
+              "bannerImage": "assets/images/treks_znuber_banner.jpg",
+              "badgeImage": "assets/badges/treks_znuber_badge.png",
+              "gpxFile": "assets/gpx/benghisa-znuber.gpx",
+              "shortDescription": "Cliffs, Caves & Znuber Valley",
+              "details": {
+                "distance": "9.8km",
+                "time": "2.5 hours",
+                "elevation": "310m",
+                "difficulty": "Moderate",
+                "loop": "Semi-Loop",
+                "shoes": "Hiking boots",
+                "hidden_gems": "2",
+                "iconic_landmarks": "2"
+              },
+              "checkpoints": [
+                {
+                  "id": "Birzebbuga Fortifications",
+                  "type": "milestone",
+                  "latitude": 35.820624,
+                  "longitude": 14.530162,  
+                  "checkpointTitle": "Fortification",
+                  "checkpointText": "Info on the fortified wall",
+                  "checkpointImage": "assets/images/treks_znuber_bbg_walls.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Benghisa Country Roads",
+                  "type": "milestone",
+                  "latitude": 35.816961, 
+                  "longitude": 14.529758,
+                  "checkpointTitle": "Country Roads",
+                  "checkpointText": "Farms & Farmhouses",
+                  "checkpointImage": "assets/images/treks_znuber_bbg_road.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Fort Benghisa",
+                  "type": "milestone",
+                  "latitude": 35.809143, 
+                  "longitude": 14.531811,
+                  "checkpointTitle": "Fort Benghisa",
+                  "checkpointText": "Info on the Fort",
+                  "checkpointImage": "assets/images/treks_znuber_benghisa_fort.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Solar Farm & Filfla",
+                  "type": "milestone",
+                  "latitude": 35.808298,
+                  "longitude": 14.531060,
+                  "checkpointTitle": "Solar Farm & Filfla",
+                  "checkpointText": "On your right - largest solar farm in Malta. Small Island of Filfla ... protected nature reserve... we'll walk closer to it and other treks with a closer view",
+                  "checkpointImage": "treks_znuber_filfla.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Towards Ghar Rih",
+                  "type": "milestone",
+                  "latitude": 35.807562,  
+                  "longitude": 14.522221,
+                  "checkpointTitle": "Towards Ghar Rih",
+                  "checkpointText": "Look for and follow this path for a hidden gem discovery. Goes alongside cliff edges. Stay safe and do only what you're comfortable with!",
+                  "checkpointImage": "assets/images/treks_znuber_ghar_rih_dir.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Ghar ir-Rih",
+                  "type": "hidden_gem",
+                  "latitude": 35.807245, 
+                  "longitude": 14.525101,
+                  "checkpointTitle": "Ghar ir Rih",
+                  "checkpointText": "Hidden Gem! You probably get why this cave gets it's name. Venture inside only if you feel you can do so safely",
+                  "checkpointImage": "assets/badges/treks_znuber_gem_ghar_rih.png",
+                  "badgeImage": "assets/badges/treks_znuber_gem_ghar_rih.png"
+                },
+                {
+                  "id": "Towards Ghar Hasan",
+                  "type": "milestone",
+                  "latitude": 35.807108, 
+                  "longitude": 14.518981,
+                  "checkpointTitle": "Towards the Next Cave",
+                  "checkpointText": "Find the path from the road to the cliffside path",
+                  "checkpointImage": "assets/images/treks_znuber_to_ghar_hasan.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Ghar Hasan",
+                  "type": "iconic_landmark",
+                  "latitude": 35.806661,
+                  "longitude": 14.517770,
+                  "checkpointTitle": "Ghar Hasan",
+                  "checkpointText": "Legend has it that ... Currently closed for safety reasons but can take a sneak peak",
+                  "checkpointImage": "assets/badges/treks_znuber_landmark_hasan.png",
+                  "badgeImage": "assets/badges/treks_znuber_landmark_hasan.png"
+                },
+                {
+                  "id": "Znuber Cliffs Path",
+                  "type": "milestone",
+                  "latitude": 35.807663, 
+                  "longitude": 14.510850,
+                  "checkpointTitle": "Znuber Cliffs Path",
+                  "checkpointText": "We'll next hike to Znuber valley. There are rock-hewn stairs leading to it. Follow them and stay safe!",
+                  "checkpointImage": "assets/images/treks_znuber_to_znuber_valley.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Znuber Valley",
+                  "type": "hidden_gem",
+                  "latitude": 35.809255, 
+                  "longitude": 14.510254,
+                  "checkpointTitle": "Znuber Valley",
+                  "checkpointText": "Enoy the cliff-sided valley view onto the sea and the iconic stair path",
+                  "checkpointImage": "assets/badges/treks_znuber_gem_wied_znuber.png",
+                  "badgeImage": "assets/badges/treks_znuber_gem_wied_znuber.png"
+                },
+                {
+                  "id": "Benghisa Kuncizzjoni Chapel",
+                  "type": "iconic_landmark",
+                  "latitude": 35.812633,   
+                  "longitude": 14.524316,
+                  "checkpointTitle": "Kuncizzjoni Chapel",
+                  "checkpointText": "Info on the Chapel",
+                  "checkpointImage": "assets/badges/treks_znuber_landmark_kuncizzjoni.png",
+                  "badgeImage": "assets/badges/treks_znuber_landmark_kuncizzjoni.png"
+                },                {
+                  "id": "Benghisa Park",
+                  "type": "milestone",
+                  "latitude": 35.809255, 
+                  "longitude": 14.510254,
+                  "checkpointTitle": "Benghisa Park",
+                  "checkpointText": "Recently opened park where you can enjoy and gather info on various tree species. Many picnic tables where you can take a snack and some rest before the final stretch back to Pretty Bay",
+                  "checkpointImage": "assets/images/treks_znuber_benghisa_park.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Bus routes and parking information. Coordinates to start point."
+                  },
+                  {
+                    "title": "Cliffs, Caves & Znuber Valley",
+                    "description": "Benghisa countryside - Then... Details on the type of excursion."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "Cliffside Paths & entering caves. Do only what you are comfortable and safe doing."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Terrain - Shoes. Weather conditions."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "WCs, picnic areas, restaurants and other facilities"
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_znuber_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_znuber_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0
+            },
+            {
               "id": "nature-treks-test-route",
               "name": "Test Route",
               "bannerImage": "assets/images/treks_inwadar_banner.jpg",
