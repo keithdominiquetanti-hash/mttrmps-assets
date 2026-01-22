@@ -4,7 +4,7 @@
       "name": "Nature Treks",
       "regions": [
         {
-          "name": "South East",
+          "name": "South & South East",
           "treks": [
             {
               "id": "nature-treks-southeast-inwadar",
@@ -390,6 +390,224 @@
                 ],
                 "imagePrimary": "assets/images/details/treks_inwadar_info_img1.jpg",
                 "imageSecondary": "assets/images/details/treks_inwadar_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0
+            }
+          ]
+        },
+
+        {
+          "name": "West",
+          "treks": [
+            {
+              "id": "nature-treks-west-lapsi",
+              "name": "Tempji-Lapsi Trail",
+              "bannerImage": "assets/images/treks_lapsi_bay.jpg",
+              "badgeImage": "assets/badges/treks_lapsi_badge.png",
+              "gpxFile": "assets/gpx/tempji-lapsi.gpx",
+              "shortDescription": "Archeological Park with Prehistoric Temples to Pristine Bays",
+              "details": {
+                "distance": "8.7km",
+                "time": "2.5 hours",
+                "elevation": "290m",
+                "difficulty": "Challenging",
+                "loop": "Loop",
+                "shoes": "Hiking boots",
+                "hidden_gems": "2",
+                "iconic_landmarks": "4"
+              },
+              "checkpoints": [
+                {
+                  "id": "Visitor Centre",
+                  "type": "milestone",
+                  "latitude": 35.827339, 
+                  "longitude": 14.444052,
+                  "checkpointTitle": "Visitor Centre",
+                  "checkpointText": "Buy tickets during from here to view artefacts and visit the Hagar Qim and Mnajdra Archeological Archeological Park. Buy tickets from here or a snack",
+                  "checkpointImage": "assets/images/treks_lapsi_visitor_centre.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Hagar Qim temples",
+                  "type": "milestone",
+                  "latitude": 35.827457, 
+                  "longitude": 14.442728,
+                  "checkpointTitle": "Hagar Qim",
+                  "checkpointText": "Hagar Qim info - The first of the two... dated...",
+                  "checkpointImage": "assets/images/treks_lapsi_hagar_qim.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Mnajdra temples",
+                  "type": "iconic_landmark",
+                  "latitude": 35.826839, 
+                  "longitude": 14.437159,
+                  "checkpointTitle": "Mnajdra",
+                  "checkpointText": "The second set of temples... ",
+                  "checkpointImage": "assets/badges/treks_lapsi_landmark_mnajdra.png",
+                  "badgeImage": "assets/badges/treks_lapsi_landmark_mnajdra.png"
+                },
+                {
+                  "id": "Congreve Memorial",
+                  "type": "iconic_landmark",
+                  "latitude": 35.825911, 
+                  "longitude": 14.437675,
+                  "checkpointTitle": "Congreve Memorial",
+                  "checkpointText": "Monument dedicated to Sir Walter Congreve, a former Governor of Malta who upon his wish was buried at sea between this Monument and the island of Filfla",
+                  "checkpointImage": "assets/badges/treks_lapsi_landmark_congreve.png",
+                  "badgeImage": "assets/badges/treks_lapsi_landmark_congreve.png"
+                },
+                {
+                  "id": "Hamrija Tower",
+                  "type": "iconic_landmark",
+                  "latitude": 35.824586, 
+                  "longitude": 14.439936,
+                  "checkpointTitle": "Hamrija Tower",
+                  "checkpointText": "One of the 13 coastal towers built by the Knights of St John Grand Master de Redin. Built in 1658-1659 as part of a chain of coastal fortifications to protect agaist the threat of a Turkish invasion and corsairs",
+                  "checkpointImage": "assets/badges/treks_lapsi_landmark_hamrija.png",
+                  "badgeImage": "assets/badges/treks_lapsi_landmark_hamrija.png"
+                },
+                {
+                  "id": "Back to Congreve Memorial",
+                  "type": "hidden_gem",
+                  "latitude": 35.825701, 
+                  "longitude": 14.437902,
+                  "checkpointTitle": "Heading down",
+                  "checkpointText": "Now we head back to Congreve Memorial over the Garrigue landscape. Look for a steep path down on the left side of the memorial. Path is very steep so do only in safe conditions - get down on your bottocks if required for further safety!",
+                  "checkpointImage": "",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Ghar Hanex Window",
+                  "type": "hidden_gem",
+                  "latitude": 35.823320, 
+                  "longitude": 14.438578,
+                  "checkpointTitle": "Ghar Hanex Window",
+                  "checkpointText": "Natural arch .... ",
+                  "checkpointImage": "assets/badges/treks_lapsi_gem_ghar_hanex.png",
+                  "badgeImage": "assets/badges/treks_lapsi_gem_ghar_hanex.png"
+                },
+                {
+                  "id": "Lapsi Small bay",
+                  "type": "milestone",
+                  "latitude": 35.824867, 
+                  "longitude": 14.435452,
+                  "checkpointTitle": "Small bay",
+                  "checkpointText": "The coastal stretch we will be following (higher up) is formed by several of such pretty small bays",
+                  "checkpointImage": "assets/images/treks_lapsi_bay.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Lapsi Small Inlet Sea",
+                  "type": "hidden_gem",
+                  "latitude": 35.826473, 
+                  "longitude": 14.432932,
+                  "checkpointTitle": "Small Inlet Sea",
+                  "checkpointText": "Proceed with caution to discover this hidden small inlet sea formation",
+                  "checkpointImage": "assets/badges/treks_lapsi_gem_inland_sea.png",
+                  "badgeImage": "assets/badges/treks_lapsi_gem_inland_sea.png"
+                },
+                {
+                  "id": "Ghar Lapsi Bay",
+                  "type": "iconic_landmark",
+                  "latitude": 35.827605, 
+                  "longitude": 14.423751,
+                  "checkpointTitle": "Ghar Lapsi Bay",
+                  "checkpointText": "One of the most iconic bays in the Maltese Islands. Admire the cave formation enclosing the bay. Restaurant, restrooms and WC facilities",
+                  "checkpointImage": "assets/badges/treks_lapsi_landmark_lapsi.png",
+                  "badgeImage": "assets/badges/treks_lapsi_landmark_lapsi.png"
+                },
+                {
+                  "id": "Lapsi Tower",
+                  "type": "milestone",
+                  "latitude": 35.828780,   
+                  "longitude": 14.421218,
+                  "checkpointTitle": "Lapsi Tower",
+                  "checkpointText": "Lapsi Tower... You can get closer taking a side path",
+                  "checkpointImage": "assets/images/treks_lapsi_tower.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Lapsi Aqueduct",
+                  "type": "milestone",
+                  "latitude": 35.830850,
+                  "longitude": 14.420586,
+                  "checkpointTitle": "Lapsi Aqueduct",
+                  "checkpointText": "Info on the water carriage",
+                  "checkpointImage": "assets/images/treks_lapsi_aqueduct.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wied ix-Xaqqa",
+                  "type": "milestone",
+                  "latitude": 35.833828, 
+                  "longitude": 14.417373,
+                  "checkpointTitle": "Xaqqa Valley",
+                  "checkpointText": "Take a look at the sea valley formation whilst respecting private property",
+                  "checkpointImage": "assets/images/treks_lapsi_xaqqa_valley.jpg",
+                  "badgeImage": ""
+                },                
+                {
+                  "id": "Panorama Road",
+                  "type": "milestone",
+                  "latitude": 35.833812, 
+                  "longitude": 14.422353,
+                  "checkpointTitle": "Panorama Road",
+                  "checkpointText": "Only stretch of trek alongside road traffic... but wide street and named Panarama Road for a reason!",
+                  "checkpointImage": "assets/images/treks_lapsi_panoramic_view.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Path back to Temples",
+                  "type": "milestone",
+                  "latitude": 35.831106,
+                  "longitude": 14.433299,
+                  "checkpointTitle": "Path back to temples",
+                  "checkpointText": "Look for this path on your right for a more scenic off the beaten trek to the Megalithic temples. You'll be walking in a Garigue (Xaghri) landscape characteristic of many parts of the island, consisting of exposed open spaces with rugged, rocky outcrops and dry shrubs which spring into life in Autumn. The most common hosted species is the Mediterranean Thyme whose perfume attracts many species, including the Maltese bee.",
+                  "checkpointImage": "assets/images/treks_lapsi_route_back.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Lapsi View Back",
+                  "type": "milestone",
+                  "latitude": 35.827127,
+                  "longitude": 14.438359,
+                  "checkpointTitle": "Back to Temples",
+                  "checkpointText": "As we reach the temples and end of trek, take some time again to admire the view. Hope you enjoyed the trek!",
+                  "checkpointImage": "assets/images/treks_lapsi_view_back.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Bus routes and parking information. Coordinates to start point."
+                  },
+                  {
+                    "title": "Archeological Park and then heading to hidden gems and landmarks along the Coast",
+                    "description": "Details on the type of excursion."
+                  },
+                  {
+                    "title": "Another trek combining history and nature",
+                    "description": "The trail passes near ancient watchtowers and fortifications."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Terrain - Shoes. Weather conditions."
+                  },
+                  {
+                    "title": "Safety Warnings",
+                    "description": "Terrain - Shoes. Weather conditions."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "WCs, picnic areas, restaurants and other facilities"
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_lapsi_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_lapsi_info_img2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0
