@@ -1,7 +1,7 @@
 {
   "categories": [
     { 
-      "name": "Nature Treks",
+      "name": "Nature Hikes",
       "regions": [
         {
           "name": "South & South East",
@@ -14,13 +14,13 @@
               "gpxFile": "assets/gpx/inwadar.gpx",
               "shortDescription": "History and Nature",
               "details": {
-                "distance": "7.8km",
+                "distance": "8.2km",
                 "time": "2 hours",
-                "elevation": "98m",
+                "elevation": "120m",
                 "difficulty": "Moderate",
                 "loop": "Semi-Loop",
                 "shoes": "Hiking boots",
-                "hidden_gems": "1",
+                "hidden_gems": "2",
                 "iconic_landmarks": "1"
               },
               "checkpoints": [
@@ -41,6 +41,16 @@
                   "longitude": 14.552317,
                   "checkpointTitle": "Tal-Milord",
                   "checkpointText": "Quick extra deviations - paths towards seaside for some amazing formations.",
+                  "checkpointImage": "assets/badges/treks_inwadar_gem_milord_cave.png",
+                  "badgeImage": "assets/badges/treks_inwadar_gem_milord_cave.png"
+                },
+                {
+                  "id": "Tal Milord Cave Formation",
+                  "type": "hidden_gem",
+                  "latitude": 35.882897, 
+                  "longitude": 14.555915,
+                  "checkpointTitle": "Tal-Milord Cave formation",
+                  "checkpointText": "Coastal erosion at work, forming a mild cave formation",
                   "checkpointImage": "assets/images/treks_inwadar_milord.jpg",
                   "badgeImage": ""
                 },
@@ -608,6 +618,175 @@
                 ],
                 "imagePrimary": "assets/images/details/treks_lapsi_info_img1.jpg",
                 "imageSecondary": "assets/images/details/treks_lapsi_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0
+            }
+          ]
+        }
+      ]
+    },
+
+    { 
+      "name": "Accessible Walks",
+      "regions": [
+        {
+          "name": "West",
+          "treks": [
+            {
+              "id": "accessible-walks-gudja-ghaxaq",
+              "name": "Gudja-Ghaxaq Countryside",
+              "bannerImage": "assets/images/treks_inwadar_banner.jpg",
+              "badgeImage": "assets/badges/treks_inwadar_badge.png",
+              "gpxFile": "assets/gpx/inwadar.gpx",
+              "shortDescription": "History and Nature",
+              "details": {
+                "distance": "8.2km",
+                "time": "2 hours",
+                "elevation": "120m",
+                "difficulty": "Moderate",
+                "loop": "Semi-Loop",
+                "shoes": "Hiking boots",
+                "hidden_gems": "2",
+                "iconic_landmarks": "1"
+              },
+              "checkpoints": [
+                {
+                  "id": "Inwadar Pillboxes",
+                  "type": "milestone",
+                  "latitude": 35.887831,
+                  "longitude": 14.550161,
+                  "checkpointTitle": "Pillboxes",
+                  "checkpointText": "Over this route you can find over 10 pillboxes as in the image. They are the last type of Malta's fortified coastal defences built by the British rule in WW2 and used to house infantrymen armed with small arms. Note the slits for small arms and machine gun fire. The letter P is first character for discount code",
+                  "checkpointImage": "assets/images/treks_inwadar_pillbox.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Inwadar tal-Milord",
+                  "type": "milestone",
+                  "latitude": 35.885362,
+                  "longitude": 14.552317,
+                  "checkpointTitle": "Tal-Milord",
+                  "checkpointText": "Quick extra deviations - paths towards seaside for some amazing formations.",
+                  "checkpointImage": "assets/badges/treks_inwadar_gem_milord_cave.png",
+                  "badgeImage": "assets/badges/treks_inwadar_gem_milord_cave.png"
+                },
+                {
+                  "id": "Tal Milord Cave Formation",
+                  "type": "hidden_gem",
+                  "latitude": 35.882897, 
+                  "longitude": 14.555915,
+                  "checkpointTitle": "Tal-Milord Cave formation",
+                  "checkpointText": "Coastal erosion at work, forming a mild cave formation",
+                  "checkpointImage": "assets/images/treks_inwadar_milord.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Inwadar Sea Inlet",
+                  "type": "milestone",
+                  "latitude": 35.881002,
+                  "longitude": 14.557182,
+                  "checkpointTitle": "Sea Inlet",
+                  "checkpointText": "A beautiful inlet. Take a moment to enjoy the view.",
+                  "checkpointImage": "assets/images/treks_inwadar_inlet1.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Inwadar Torri Mwejgel",
+                  "type": "iconic_landmark",
+                  "latitude": 35.878066,
+                  "longitude": 14.563799,
+                  "checkpointTitle": "Mwejgel Tower",
+                  "checkpointText": "Watchtower built in 1659 by Knights of St John Grand Master de Redin, as the 9th of the 13 de Redin towers. Note the single entrance on first floor that would have been accessible by a retractable rope or ladder. The number of stone layers before tower entrance are your next 2 characters for discount code",
+                  "checkpointImage": "assets/images/treks_inwadar_torri.jpg",
+                  "badgeImage": "assets/badges/treks_inwadar_landmark_torri.png"
+                },
+                {
+                  "id": "Inwadar Tower Inlet",
+                  "type": "milestone",
+                  "latitude": 35.877617,
+                  "longitude": 14.564179,
+                  "checkpointTitle": "Sea Inlet by the Tower",
+                  "checkpointText": "One of the flagship landmarks of the park. We will now take a detour to an uphill path to the right for more discoveries",
+                  "checkpointImage": "assets/images/treks_inwadar_tower_inlet.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Inwadar Kappella San Nikola",
+                  "type": "hidden_gem",
+                  "latitude": 35.873780,
+                  "longitude": 14.561976,
+                  "checkpointTitle": "Kappella San Nikola",
+                  "checkpointText": "Built in baroque style out of local limestone, presumably built to serve the religious needs of farmers who lived in the area, and it is sometimes known as Tas-Subriċint. Doorway is decorated with the coat of arms of Bishop Bartolomé Rull, surmounted by the arms of Grand Master Manuel Pinto da Fonseca. The marked year of completion make up your next 4 characters to discount code",
+                  "checkpointImage": "assets/images/treks_imwadar_kappella.jpg",
+                  "badgeImage": "assets/badges/treks_inwadar_gem_kappella.png"
+                },
+                {
+                  "id": "Inwadar Zonqor Views",
+                  "type": "milestone",
+                  "latitude": 35.871514,
+                  "longitude": 14.565442,
+                  "checkpointTitle": "Zonqor Viewpoint",
+                  "checkpointText": "You are in the quaint residential area of Zonqor. Letter Z is your next character for discount code. Small park on your right if you would like a tranquil rest",
+                  "checkpointImage": "assets/images/treks_inwadar_bandli.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Inwadar Zonqor Bay",
+                  "type": "milestone",
+                  "latitude": 35.867105,
+                  "longitude": 14.572147,
+                  "checkpointTitle": "Zonqor Bay",
+                  "checkpointText": "A deep sea swimming zone, with numerous salt pans on the shore. Couple of restaurants and snack bars nearby. Look out for a particular colour patterned structure - count the number of layers and the digits are your next 2 characters for discount code",
+                  "checkpointImage": "assets/images/treks_inwadar_zonqor_bay.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Inwadar Reentrance",
+                  "type": "milestone",
+                  "latitude": 35.868414,
+                  "longitude": 14.573161,
+                  "checkpointTitle": "Back to Inwadar Park",
+                  "checkpointText": "We're about to re-enter the official Inwadar Park area. WCs and small picnic area available before entrance.",
+                  "checkpointImage": "assets/images/treks_inwadar_picnic.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Inwadar BBQ Area",
+                  "type": "milestone",
+                  "latitude": 35.870811,
+                  "longitude": 14.570585,
+                  "checkpointTitle": "BBQ Area",
+                  "checkpointText": "BBQ Area on the right should you wish to return for a different kind of experience. Straight ramp ahead for easier terrain",
+                  "checkpointImage": "assets/images/treks_inwadar_bbq.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Bus routes and parking information. Coordinates to start point."
+                  },
+                  {
+                    "title": "A National Park",
+                    "description": "Details on the type of excursion."
+                  },
+                  {
+                    "title": "History besides nature",
+                    "description": "The trail passes near ancient watchtowers and fortifications."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Terrain - Shoes. Weather conditions."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "WCs, picnic areas, restaurants and other facilities"
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_inwadar_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_inwadar_info_img2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0
