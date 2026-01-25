@@ -628,137 +628,117 @@
     },
 
     { 
-      "name": "Accessible Walks",
+      "name": "Stroller Walks",
       "regions": [
         {
           "name": "West",
           "treks": [
             {
-              "id": "accessible-walks-gudja-ghaxaq",
+              "id": "stroller-walks-gudja-ghaxaq",
               "name": "Gudja-Ghaxaq Countryside",
-              "bannerImage": "assets/images/treks_inwadar_banner.jpg",
-              "badgeImage": "assets/badges/treks_inwadar_badge.png",
-              "gpxFile": "assets/gpx/inwadar.gpx",
+              "bannerImage": "assets/images/stroller_gudja_ghaxaq_agriculture_land.jpg",
+              "badgeImage": "assets/badges/stroller_gudja_ghaxaq_badge.png",
+              "gpxFile": "assets/gpx/stroller-gudja-ghaxaq.gpx",
               "shortDescription": "History and Nature",
               "details": {
-                "distance": "8.2km",
-                "time": "2 hours",
-                "elevation": "120m",
-                "difficulty": "Moderate",
-                "loop": "Semi-Loop",
-                "shoes": "Hiking boots",
-                "hidden_gems": "2",
-                "iconic_landmarks": "1"
+                "distance": "4.5km",
+                "time": "1 hour",
+                "elevation": "52m",
+                "difficulty": "Easy",
+                "loop": "Loop",
+                "shoes": "Trainers",
+                "hidden_gems": "0",
+                "iconic_landmarks": "2"
               },
               "checkpoints": [
                 {
-                  "id": "Inwadar Pillboxes",
+                  "id": "Gudja Bandli",
                   "type": "milestone",
-                  "latitude": 35.887831,
-                  "longitude": 14.550161,
-                  "checkpointTitle": "Pillboxes",
-                  "checkpointText": "Over this route you can find over 10 pillboxes as in the image. They are the last type of Malta's fortified coastal defences built by the British rule in WW2 and used to house infantrymen armed with small arms. Note the slits for small arms and machine gun fire. The letter P is first character for discount code",
-                  "checkpointImage": "assets/images/treks_inwadar_pillbox.jpg",
+                  "latitude": 35.847625, 
+                  "longitude": 14.506098,
+                  "checkpointTitle": "Bandli tax-Xlejli",
+                  "checkpointText": "Area known as tax-Xlejli in Gudja. Restroom facilties",
+                  "checkpointImage": "assets/images/stroller_gudja_ghaxaq_xlejli_bandli.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Inwadar tal-Milord",
+                  "id": "Gudja Countryside Path",
                   "type": "milestone",
-                  "latitude": 35.885362,
-                  "longitude": 14.552317,
-                  "checkpointTitle": "Tal-Milord",
-                  "checkpointText": "Quick extra deviations - paths towards seaside for some amazing formations.",
-                  "checkpointImage": "assets/badges/treks_inwadar_gem_milord_cave.png",
-                  "badgeImage": "assets/badges/treks_inwadar_gem_milord_cave.png"
-                },
-                {
-                  "id": "Tal Milord Cave Formation",
-                  "type": "hidden_gem",
-                  "latitude": 35.882897, 
-                  "longitude": 14.555915,
-                  "checkpointTitle": "Tal-Milord Cave formation",
-                  "checkpointText": "Coastal erosion at work, forming a mild cave formation",
-                  "checkpointImage": "assets/images/treks_inwadar_milord.jpg",
+                  "latitude": 35.846983, 
+                  "longitude": 14.506083,
+                  "checkpointTitle": "Gudja Countryside Path",
+                  "checkpointText": "Now moving to countryside roads. Although quite quiet, the streets are narrow so keep on the left side",
+                  "checkpointImage": "assets/images/stroller_gudja_ghaxaq_first_path.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Inwadar Sea Inlet",
+                  "id": "Gudja Ta Loretu",
                   "type": "milestone",
-                  "latitude": 35.881002,
-                  "longitude": 14.557182,
-                  "checkpointTitle": "Sea Inlet",
-                  "checkpointText": "A beautiful inlet. Take a moment to enjoy the view.",
-                  "checkpointImage": "assets/images/treks_inwadar_inlet1.jpg",
+                  "latitude": 35.842738,   
+                  "longitude": 14.507044,
+                  "checkpointTitle": "Ta Loretu Church",
+                  "checkpointText": "In the distance over the fields you can spot the Ta Loretu chapel. Another landmark you can reach from the centre of Gudja on another trek",
+                  "checkpointImage": "assets/images/stroller_gudja_ghaxaq_ta_loretu_distance.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Inwadar Torri Mwejgel",
+                  "id": "Gudja - Saptan Valley",
                   "type": "iconic_landmark",
-                  "latitude": 35.878066,
-                  "longitude": 14.563799,
-                  "checkpointTitle": "Mwejgel Tower",
-                  "checkpointText": "Watchtower built in 1659 by Knights of St John Grand Master de Redin, as the 9th of the 13 de Redin towers. Note the single entrance on first floor that would have been accessible by a retractable rope or ladder. The number of stone layers before tower entrance are your next 2 characters for discount code",
-                  "checkpointImage": "assets/images/treks_inwadar_torri.jpg",
-                  "badgeImage": "assets/badges/treks_inwadar_landmark_torri.png"
+                  "latitude": 35.839413,  
+                  "longitude": 14.513355,
+                  "checkpointTitle": "Saptan Valley",
+                  "checkpointText": "Enjoy an iconic view of this trek overlooking the Saptan Valley",
+                  "checkpointImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png",
+                  "badgeImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png"
                 },
                 {
-                  "id": "Inwadar Tower Inlet",
+                  "id": "It-Turretta Ghaxaq",
                   "type": "milestone",
-                  "latitude": 35.877617,
-                  "longitude": 14.564179,
-                  "checkpointTitle": "Sea Inlet by the Tower",
-                  "checkpointText": "One of the flagship landmarks of the park. We will now take a detour to an uphill path to the right for more discoveries",
-                  "checkpointImage": "assets/images/treks_inwadar_tower_inlet.jpg",
+                  "latitude": 35.847282,  
+                  "longitude": 14.514651,
+                  "checkpointTitle": "It-Turretta",
+                  "checkpointText": "One of the three semaphore towers in Malta. We are now in the village of Hal Ghaxaq",
+                  "checkpointImage": "assets/images/stroller_gudja_ghaxaq_semaphore_tower.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Inwadar Kappella San Nikola",
-                  "type": "hidden_gem",
-                  "latitude": 35.873780,
-                  "longitude": 14.561976,
-                  "checkpointTitle": "Kappella San Nikola",
-                  "checkpointText": "Built in baroque style out of local limestone, presumably built to serve the religious needs of farmers who lived in the area, and it is sometimes known as Tas-Subriċint. Doorway is decorated with the coat of arms of Bishop Bartolomé Rull, surmounted by the arms of Grand Master Manuel Pinto da Fonseca. The marked year of completion make up your next 4 characters to discount code",
-                  "checkpointImage": "assets/images/treks_imwadar_kappella.jpg",
-                  "badgeImage": "assets/badges/treks_inwadar_gem_kappella.png"
+                  "id": "Ghaxaq Small Park - Animal Monument",
+                  "type": "iconic_landmark",
+                  "latitude": 35.847679, 
+                  "longitude": 14.514191,
+                  "checkpointTitle": "Tiny Park dedicated to Animal love",
+                  "checkpointText": "A small haven where you can take a break near the monument dedicated to animals and let the little ones name the animals",
+                  "checkpointImage": "assets/badges/stroller_gudja_ghaxaq_landmark_animals_monument.png",
+                  "badgeImage": "assets/badges/stroller_gudja_ghaxaq_landmark_animals_monument.png"
                 },
                 {
-                  "id": "Inwadar Zonqor Views",
+                  "id": "Ghaxaq - Green Views",
                   "type": "milestone",
-                  "latitude": 35.871514,
-                  "longitude": 14.565442,
-                  "checkpointTitle": "Zonqor Viewpoint",
-                  "checkpointText": "You are in the quaint residential area of Zonqor. Letter Z is your next character for discount code. Small park on your right if you would like a tranquil rest",
-                  "checkpointImage": "assets/images/treks_inwadar_bandli.jpg",
+                  "latitude": 35.846703, 
+                  "longitude": 14.510277,
+                  "checkpointTitle": "More Nature Views",
+                  "checkpointText": "Enjoy more views over the agricultural fields",
+                  "checkpointImage": "assets/images/stroller_gudja_ghaxaq_agriculture_land.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Inwadar Zonqor Bay",
+                  "id": "Xlejli Tower",
                   "type": "milestone",
-                  "latitude": 35.867105,
-                  "longitude": 14.572147,
-                  "checkpointTitle": "Zonqor Bay",
-                  "checkpointText": "A deep sea swimming zone, with numerous salt pans on the shore. Couple of restaurants and snack bars nearby. Look out for a particular colour patterned structure - count the number of layers and the digits are your next 2 characters for discount code",
-                  "checkpointImage": "assets/images/treks_inwadar_zonqor_bay.jpg",
+                  "latitude": 35.847010, 
+                  "longitude": 14.508820,
+                  "checkpointTitle": "Xlejli Tower",
+                  "checkpointText": "The Xlejli Tower also known as Bettina Tower now comes into view. It is thought to have served as a watchtower as far as from Roman or Medieval times but its exact age remains a mystery. It is located within a private Palazzo but you can get closer from the paths on your right",
+                  "checkpointImage": "assets/images/stroller_gudja_ghaxaq_xlejli_tower.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Inwadar Reentrance",
+                  "id": "Back to Gudja Church",
                   "type": "milestone",
-                  "latitude": 35.868414,
-                  "longitude": 14.573161,
-                  "checkpointTitle": "Back to Inwadar Park",
-                  "checkpointText": "We're about to re-enter the official Inwadar Park area. WCs and small picnic area available before entrance.",
-                  "checkpointImage": "assets/images/treks_inwadar_picnic.jpg",
-                  "badgeImage": ""
-                },
-                {
-                  "id": "Inwadar BBQ Area",
-                  "type": "milestone",
-                  "latitude": 35.870811,
-                  "longitude": 14.570585,
-                  "checkpointTitle": "BBQ Area",
-                  "checkpointText": "BBQ Area on the right should you wish to return for a different kind of experience. Straight ramp ahead for easier terrain",
-                  "checkpointImage": "assets/images/treks_inwadar_bbq.jpg",
+                  "latitude": 35.848349, 
+                  "longitude": 14.502510,
+                  "checkpointTitle": "Back to Gudja Parish Chruch",
+                  "checkpointText": "Roman Catholic church dedicated to the Assumption of St. Mary whose feast is celebrated on the 15th of August. Built mostly in Baroque style and built in 1656 on the plans of Tumas Dingli. The trek now closes at Gnien Raymond Caruana for a well deserved rest or kids play time.",
+                  "checkpointImage": "assets/images/stroller_gudja_ghaxaq_gudja_church.jpg",
                   "badgeImage": ""
                 }
               ],
@@ -766,30 +746,30 @@
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Bus routes and parking information. Coordinates to start point."
+                    "description": "Route starts from the parish church of Gudja and ends at a nearby garden. Bus 88 from Valletta goes to start location. Most parking slots in tax-Xlejli area if by private transport. Start location coordinates: 35.8481865, 14.5027438"
                   },
                   {
-                    "title": "A National Park",
-                    "description": "Details on the type of excursion."
-                  },
-                  {
-                    "title": "History besides nature",
-                    "description": "The trail passes near ancient watchtowers and fortifications."
+                    "title": "Type of Walk",
+                    "description": "Most of walk goes along countryside roads in Gudja and Ghaxaq to enjoy most of the nature views in this area."
                   },
                   {
                     "title": "Terrain",
-                    "description": "Terrain - Shoes. Weather conditions."
+                    "description": "Very flat route, most of it on tarmac roads with parts on a bit bumpier concrete paths."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "While light on traffic, vehicles can approach on some of the narrow countryside roads. Keep caution by sticking to left side of the road."
                   },
                   {
                     "title": "Amenities",
-                    "description": "WCs, picnic areas, restaurants and other facilities"
+                    "description": "Route takes to a public garden with restroom facilities a few minutes after the start, and ends in another public garden. Restaurant with Maltese cuisine near Parish church."
                   }
                 ],
-                "imagePrimary": "assets/images/details/treks_inwadar_info_img1.jpg",
-                "imageSecondary": "assets/images/details/treks_inwadar_info_img2.jpg"
+                "imagePrimary": "assets/images/details/stroller_gudja_ghaxaq_info1.jpg",
+                "imageSecondary": "assets/images/details/stroller_gudja_ghaxaq_info2.jpg"
               },
-              "standardPrice": 3.0,
-              "discountedPrice": 2.0
+              "standardPrice": 0.0,
+              "discountedPrice": 0.0
             }
           ]
         }
