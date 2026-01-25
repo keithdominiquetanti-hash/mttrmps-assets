@@ -166,6 +166,141 @@
             },
 
             {
+              "id": "nature-treks-southeast-pultu",
+              "name": "Pultu Trail",
+              "bannerImage": "assets/images/treks_pultu_info1.jpg",
+              "badgeImage": "assets/badges/treks_pultu_badge.png",
+              "gpxFile": "assets/gpx/pultu.gpx",
+              "shortDescription": "Valleys walk from Birzebbuga",
+              "details": {
+                "distance": "5.7km",
+                "time": "1.5 hours",
+                "elevation": "85m",
+                "difficulty": "Moderate",
+                "loop": "Loop",
+                "shoes": "Trekking shoes",
+                "hidden_gems": "2",
+                "iconic_landmarks": "1"
+              },
+              "checkpoints": [
+                {
+                  "id": "Start of Wied Zembaq",
+                  "type": "milestone",
+                  "latitude": 35.829770, 
+                  "longitude": 14.526927,
+                  "checkpointTitle": "Start of Wied Zembaq",
+                  "checkpointText": "Description....",
+                  "checkpointImage": "assets/images/treks_pultu_wied_zembaq_start.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Zembaq Pillbox",
+                  "type": "milestone",
+                  "latitude": 35.831471, 
+                  "longitude": 14.524345,
+                  "checkpointTitle": "WW2 Pillbox",
+                  "checkpointText": "Glimpse of World War 2 Pillbox fortification used to host infantry men with machine gun fire.",
+                  "checkpointImage": "assets/images/treks_pultu_pillbox.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Zembaq - Has Saptan Valleys",
+                  "type": "milestone",
+                  "latitude": 35.835236,  
+                  "longitude": 14.516818,
+                  "checkpointTitle": "Has Saptan Shimmy",
+                  "checkpointText": "Has Saptan is characterised by a series of freshwater rockpools within Lower Coralline Limestone hosting rare species like the Tadpole Shrimp and the Painted Frog.",
+                  "checkpointImage": "assets/images/treks_pultu_saptan_valley.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Dar ta Pultu",
+                  "type": "hidden_gem",
+                  "latitude": 35.835714,  
+                  "longitude": 14.520392,
+                  "checkpointTitle": "Dar ta Pultu",
+                  "checkpointText": "Info on the house",
+                  "checkpointImage": "assets/badges/treks_pultu_gem_dar_ta_pultu.png",
+                  "badgeImage": "assets/badges/treks_pultu_gem_dar_ta_pultu.png"
+                },
+                {
+                  "id": "Wied Zembaq Back",
+                  "type": "milestone",
+                  "latitude": 35.832731, 
+                  "longitude": 14.526265,
+                  "checkpointTitle": "Wied Zembaq East",
+                  "checkpointText": "Hope you enjoyed this walk overlooking Wied Zembaq over its East side. Now we will be taking a path on your left side - look for rocks forming natural steps to a perpendicular path higher up.",
+                  "checkpointImage": "assets/images/treks_wied_zembaq_back.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Borh in-Nadur",
+                  "type": "iconic_landmark",
+                  "latitude": 35.832228, 
+                  "longitude": 14.527519,
+                  "checkpointTitle": "Borg in-Nadur Hill",
+                  "checkpointText": "Historical info on the wall. There are also Perhistoric temple remains cared after by Heritage Malta. After the trek you may wish to by a combo ticket to vist this site togeteher with Ghar Dalam Cave (500,000 year old pre-historic cave) and Museum. Tickets from Heritage Malta site or Ghar Dalam Museum.",
+                  "checkpointImage": "assets/badges/treks_pultu_landmark_borg_nadur.png",
+                  "badgeImage": "assets/badges/treks_pultu_landmark_borg_nadur.png"
+                },
+                {
+                  "id": "Gnien il-Paci",
+                  "type": "hidden_gem",
+                  "latitude": 35.832284, 
+                  "longitude": 14.529031,
+                  "checkpointTitle": "Gnien il-Paci",
+                  "checkpointText": "A peacuful haven for tranquility and Catholic prayer dedicated to St. Mary",
+                  "checkpointImage": "assets/badges/treks_pultu_gem_gnien_paci.png",
+                  "badgeImage": "assets/badges/treks_pultu_gem_gnien_paci.png"
+                },
+                {
+                  "id": "St. George's Bay",
+                  "type": "milestone",
+                  "latitude": 35.832309,  
+                  "longitude": 14.530606,
+                  "checkpointTitle": "St. George's Bay",
+                  "checkpointText": "A small sandy beach with views towards Marsaxlokk. Enjoy the final stroll along the promenade and traditional Maltese boards ending our trek at Pretty Bay",
+                  "checkpointImage": "assets/images/treks_pultu_st_georges_bay.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Pinto battery",
+                  "type": "milestone",
+                  "latitude": 35.826683,   
+                  "longitude": 14.533265,
+                  "checkpointTitle": "Pinto battery",
+                  "checkpointText": "Battery constructed in 1716 by the Order of St John and tasked with defending Pretty bay. Whilst now in poor condition, traces of the semi-circular gun platform have survived. The parapet, redan and ditch have been destroyed altogether.",
+                  "checkpointImage": "assets/images/treks_pultu_pinto_battery.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Route starts from the San Pietru fil-Ktajjen Birzeubbuga Parish church and ends at nearby Pretty Bay. From Valletta you can tae bus routes 80 or 82. Starting coordinates: 35.827314, 14.527435"
+                  },
+                  {
+                    "title": "The route",
+                    "description": "Will take us over and into a number of valleys - Valleys Zembaq, Saptan and Dalam, with the highlight being reaching id-Dar ta Pultu nestled within the valleys."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Relatively easy terrain with a mix of asphalted road and off the beaten track. Trekking shoes recommended, and necessary if terrain may not be dry"
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Public toilets present at Pretty Bay which is the end destination (close to starting location). Plenty of restaurants and snack bars available near start and end locations too!"
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_pultu_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_pultu_info2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0
+            },
+
+            {
               "id": "nature-treks-southeast-znuber",
               "name": "Benghisa-Znuber",
               "bannerImage": "assets/images/treks_znuber_banner.jpg",
@@ -178,7 +313,7 @@
                 "elevation": "310m",
                 "difficulty": "Moderate",
                 "loop": "Semi-Loop",
-                "shoes": "Hiking boots",
+                "shoes": "Trekking Shoes",
                 "hidden_gems": "2",
                 "iconic_landmarks": "2"
               },
@@ -345,7 +480,7 @@
                 "elevation": "98m",
                 "difficulty": "Moderate",
                 "loop": "Semi-Loop",
-                "shoes": "Hiking boots",
+                "shoes": "Trekking Shoes",
                 "hidden_gems": "1",
                 "iconic_landmarks": "1"
               },
@@ -423,7 +558,7 @@
                 "elevation": "290m",
                 "difficulty": "Challenging",
                 "loop": "Loop",
-                "shoes": "Hiking boots",
+                "shoes": "Trekking Shoes",
                 "hidden_gems": "2",
                 "iconic_landmarks": "4"
               },
