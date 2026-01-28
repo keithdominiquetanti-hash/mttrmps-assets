@@ -758,6 +758,150 @@
               "discountedPrice": 2.0
             }
           ]
+        },
+
+        {
+          "name": "East & Ports",
+          "treks": [
+            {
+              "id": "nature-treks-east-ghomor-mensija",
+              "name": "Ghomor & Mensija Valleys",
+              "bannerImage": "assets/images/treks_ghomor_mensija.jpg",
+              "badgeImage": "assets/badges/treks_ghmor_mensija_badge.png",
+              "gpxFile": "assets/gpx/ghomor-mensija.gpx",
+              "shortDescription": "Green lungs of the East",
+              "details": {
+                "distance": "4.7km",
+                "time": "1 hour",
+                "elevation": "80m",
+                "difficulty": "Easy",
+                "loop": "Oat & Back",
+                "shoes": "Trainers",
+                "hidden_gems": "1",
+                "iconic_landmarks": "3"
+              },
+              "checkpoints": [
+                {
+                  "id": "Ghomor Valley Road",
+                  "type": "milestone",
+                  "latitude": 35.916711,   
+                  "longitude": 14.486625,
+                  "checkpointTitle": "Ghomor Valley View",
+                  "checkpointText": "Ghomor Valley View",
+                  "checkpointImage": "assets/images/treks_lapsi_visitor_centre.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Path to Valley",
+                  "type": "milestone",
+                  "latitude": 35.916547,  
+                  "longitude": 14.485573,
+                  "checkpointTitle": "Path to Ghomor Valley",
+                  "checkpointText": "Venture into the heart of the valley",
+                  "checkpointImage": "assets/images/treks_lapsi_hagar_qim.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Ghomor Valley",
+                  "type": "hidden_gem",
+                  "latitude": 35.916812,   
+                  "longitude": 14.483518,
+                  "checkpointTitle": "Ghamor Valley",
+                  "checkpointText": "Ghomor Valley",
+                  "checkpointImage": "assets/badges/treks_ghomor_mensija_ghomor_valley.png",
+                  "badgeImage": "assets/badges/treks_ghomor_mensija_ghomor_valley.png"
+                },
+                {
+                  "id": "Mensija View",
+                  "type": "iconic_landmark",
+                  "latitude": 35.917592,  
+                  "longitude": 14.482452,
+                  "checkpointTitle": "Mensija View",
+                  "checkpointText": "Enjoy an elevated view of the Mensija Valley we'll be heading to next",
+                  "checkpointImage": "assets/badges/treks_ghomor_mensija_mensija_view.png",
+                  "badgeImage": "assets/badges/treks_ghomor_mensija_mensija_view.png"
+                },
+                {
+                  "id": "Heart of Mensija Valley",
+                  "type": "milestone",
+                  "latitude": 35.917542,  
+                  "longitude": 14.475934,
+                  "checkpointTitle": "Mensija Valley",
+                  "checkpointText": "In the heart of the Mensia Valley vegetation",
+                  "checkpointImage": "assets/images/treks_lapsi_bay.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Mensija Valley Exit",
+                  "type": "milestone",
+                  "latitude": 35.915831, 
+                  "longitude": 14.478693,
+                  "checkpointTitle": "Mensija Valley Exit",
+                  "checkpointText": "Joining back a main road for a short while as we head back to the Coast",
+                  "checkpointImage": "assets/images/treks_lapsi_bay.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Spinola View Bridge",
+                  "type": "milestone",
+                  "latitude": 35.918082, 
+                  "longitude": 14.489096,
+                  "checkpointTitle": "Spinola View Bridge",
+                  "checkpointText": "View of Ghomor Valley to one Side and Spinola Bay to the other",
+                  "checkpointImage": "assets/images/treks_lapsi_bay.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Spinola bay",
+                  "type": "iconic_landmark",
+                  "latitude": 35.919011,  
+                  "longitude": 14.490424,
+                  "checkpointTitle": "Spinola bay",
+                  "checkpointText": "The coastal stretch we will be following (higher up) is formed by several of such pretty small bays",
+                  "checkpointImage": "assets/badges/treks_ghomor_mensija_spinola_bay.png",
+                  "badgeImage": "assets/badges/treks_ghomor_mensija_spinola_bay.png"
+                },
+                {
+                  "id": "Balluta Bay",
+                  "type": "iconic_landmark",
+                  "latitude": 35.914476,  
+                  "longitude": 14.493674,
+                  "checkpointTitle": "Balluta Bay",
+                  "checkpointText": "Info on the church of Mt Carmel",
+                  "checkpointImage": "assets/badges/treks_ghomor_mensija_balluta_bay.png",
+                  "badgeImage": "assets/badges/treks_ghomor_mensija_balluta_bay.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Bus routes and parking information. Coordinates to start point."
+                  },
+                  {
+                    "title": "Bays to Valleys and Back",
+                    "description": "Details on the type of excursion."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Head into off the beaten track valley paths and then end along a stretch of coast promenade."
+                  },
+                  {
+                    "title": "Footwear",
+                    "description": "Trainers are enough in dry conditions. Trekking shoes advisable in possibly wet conditions."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "WCs, picnic areas, restaurants and other facilities"
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_lapsi_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_lapsi_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0
+            }
+          ]
         }
       ]
     },
