@@ -19,7 +19,7 @@
                 "elevation": "120m",
                 "difficulty": "Moderate",
                 "loop": "Semi-Loop",
-                "shoes": "Hiking boots",
+                "shoes": "Trekking Shoes",
                 "hidden_gems": "2",
                 "iconic_landmarks": "1"
               },
@@ -41,8 +41,8 @@
                   "longitude": 14.552317,
                   "checkpointTitle": "Tal-Milord",
                   "checkpointText": "Quick extra deviations - paths towards seaside for some amazing formations.",
-                  "checkpointImage": "assets/badges/treks_inwadar_gem_milord_cave.png",
-                  "badgeImage": "assets/badges/treks_inwadar_gem_milord_cave.png"
+                  "checkpointImage": "assets/images/treks_inwadar_milord.jpg",
+                  "badgeImage": ""
                 },
                 {
                   "id": "Tal Milord Cave Formation",
@@ -51,8 +51,8 @@
                   "longitude": 14.555915,
                   "checkpointTitle": "Tal-Milord Cave formation",
                   "checkpointText": "Coastal erosion at work, forming a mild cave formation",
-                  "checkpointImage": "assets/images/treks_inwadar_milord.jpg",
-                  "badgeImage": ""
+                  "checkpointImage": "assets/badges/treks_inwadar_gem_milord_cave.png",
+                  "badgeImage": "assets/badges/treks_inwadar_gem_milord_cave.png"
                 },
                 {
                   "id": "Inwadar Sea Inlet",
@@ -160,6 +160,175 @@
                 ],
                 "imagePrimary": "assets/images/details/treks_inwadar_info_img1.jpg",
                 "imageSecondary": "assets/images/details/treks_inwadar_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0
+            },
+
+            {
+              "id": "nature-treks-southeast-hofriet",
+              "name": "San Tumas - Hofriet",
+              "bannerImage": "assets/images/treks_hofriet_xrobb_lghagin.jpg",
+              "badgeImage": "assets/badges/treks_hofriet_badge.png",
+              "gpxFile": "assets/gpx/hofriet-test.gpx",
+              "shortDescription": "White Cliffs Walk",
+              "details": {
+                "distance": "10.0km",
+                "time": "2.5 hours",
+                "elevation": "220m",
+                "difficulty": "Challenging",
+                "loop": "Out & Back",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "1",
+                "iconic_landmarks": "3"
+              },
+              "checkpoints": [
+                {
+                  "id": "Bajja San Tumas",
+                  "type": "milestone",
+                  "latitude": 35.854820,   
+                  "longitude": 14.564289,
+                  "checkpointTitle": "Bajja San Tumas",
+                  "checkpointText": "Also known as ir-Ramla taz-Zejtun.",
+                  "checkpointImage": "assets/images/treks_hofriet_san_tumas.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Rihama Battery",
+                  "type": "milestone",
+                  "latitude": 35.849875,  
+                  "longitude": 14.564917,
+                  "checkpointTitle": "Rihama Battery",
+                  "checkpointText": "Artillery battery built by Knights of St. John in 1714-1716 to defend St. Thomas Bay. Known also as Ducluseaux Battery, possibly after the French knight Ducluseaux de Handessus. Part of it (its redan) has collapsed into the sea due to coastal erosion. Pass by the gate and the battery to follow this path",
+                  "checkpointImage": "assets/images/treks_hofriet_rihama.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Munxar Window",
+                  "type": "hidden_gem",
+                  "latitude": 35.850088,   
+                  "longitude": 14.568378,
+                  "checkpointTitle": "Munxar Window",
+                  "checkpointText": "Natural limestone arch sculpted over centuries by sea winds and erosion",
+                  "checkpointImage": "assets/badges/treks_hofriet_munxar_window.png",
+                  "badgeImage": "assets/badges/treks_hofriet_munxar_window.png"
+                },
+                {
+                  "id": "Ponta tal-Munxar",
+                  "type": "inconic_landmark",
+                  "latitude": 35.849606,  
+                  "longitude": 14.571257,
+                  "checkpointTitle": "Ponta tal-Munxar",
+                  "checkpointText": "Popular trekking landmark soft with spectacular views of light-colored limestone cliffs. Proceed with caution along the cliff edge.",
+                  "checkpointImage": "assets/badges/treks_hofriet_ponta_munxar.png",
+                  "badgeImage": "assets/badges/treks_hofriet_ponta_munxar.png"
+                },
+                {
+                  "id": "Kappella u Torri ta' San Pawl Nawfragu",
+                  "type": "milestone",
+                  "latitude": 35.844396,  
+                  "longitude": 14.564712,
+                  "checkpointTitle": "Kappella u Torri ta' San Pawl Nawfragu",
+                  "checkpointText": "We have now entered the area known as Xrobb l-Ghagin and passing by a tower used for residential purposes with an adjacent chapel dedicated to the Shipwreck of St. Paul built in the 18th century. At the cross roads we will first go to the left to explore more Xrobb l-Ghagin",
+                  "checkpointImage": "assets/images/treks_hofriet_san_pawl_nawfragu.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Xrobb l-Ghagin",
+                  "type": "milestone",
+                  "latitude": 35.843319, 
+                  "longitude": 14.564791,
+                  "checkpointTitle": "Xrobb l-Ghagin",
+                  "checkpointText": "Weirdly named area literally meaning `the squeezing of the dough` for the fragile geological composition. We will first go downhill passing by the Xrobb l-Ghagin Sustainability Centre (Picnic area with WCs) for more views of the Hofra il-Kbira and then come back up here to take a side path onto the cliff side" ,
+                  "checkpointImage": "assets/images/treks_hofriet_xrobb_lghagin.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Il-Hofra il-Kbira",
+                  "type": "iconic_landmark",
+                  "latitude": 35.841167, 
+                  "longitude": 14.568449,
+                  "checkpointTitle": "Il-Hofra il-Kbira",
+                  "checkpointText": "We will be visiting two wonderful limestone cliffed bays known as il-Hofra il-Kbira (the large hole) and il-Hofra iż-Żgħira (the small hole). Observe the small natural arch in between the two bays. Take the stepped path down to the bay for am amazing sea level and cliff side views to it.",
+                  "checkpointImage": "assets/badges/treks_hofriet_il_hofra_il_kbira.png",
+                  "badgeImage": "assets/badges/treks_hofriet_il_hofra_il_kbira.png"
+                },
+                {
+                  "id": "Il-Hofra iz-Zghira",
+                  "type": "iconic_landmark",
+                  "latitude": 35.837873,   
+                  "longitude": 14.563904,
+                  "checkpointTitle": "Il-Hofra iz-Zghira",
+                  "checkpointText": "We have walked along a small promontory known as Ras il-Fenek where we can get spectacular views of both the Hofriet Bays on either side of it.",
+                  "checkpointImage": "assets/badges/treks_hofriet_landmark_il_hofra_iz_zghira.png",
+                  "badgeImage": "assets/badges/treks_hofriet_landmark_il_hofra_iz_zghira.png"
+                },
+                {
+                  "id": "Forti tas-Silg",
+                  "type": "milestone",
+                  "latitude": 35.840678, 
+                  "longitude": 14.557743,
+                  "checkpointTitle": "Forti tas-Silg",
+                  "checkpointText": "A polygonal fort built by the British between 1879 and 1883. Its primary function was as a fire control point controlling the massed guns of Fort Delimara on the headland below. Since 1991, the fort has been rented to the Island Sanctuary as a refuge for dogs. Nice grassed areas around the Fort's ditch which makes an ideal picnic spot",
+                  "checkpointImage": "assets/images/treks_hofriet_forti_tas_slig.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "St. Paul's Battery",
+                  "type": "milestone",
+                  "latitude": 35.843311,  
+                  "longitude": 14.559817,
+                  "checkpointTitle": "St. Paul's Battery",
+                  "checkpointText": "Built between 1881 and 1886 by the British to help Fort Tas-Silġ cover the defence of St Thomas Bay. You can take a small semi-circular walk around the D-shaped battery with three gun emplacements. Can also can serve as a great picnic spot!",
+                  "checkpointImage": "assets/images/treks_hofriet_st_paul_battery.jpg",
+                  "badgeImage": "" 
+                },
+              {
+                  "id": "Small Sandy Beach",
+                  "type": "milestone",
+                  "latitude": 35.855257, 
+                  "longitude": 14.565710,
+                  "checkpointTitle": "Sandy beach",
+                  "checkpointText": "A popular recreational area with a small sandy beach highly frequented by locals to swim and relax during the hot summer months, especially for young children.",
+                  "checkpointImage": "assets/images/treks_hofriet_st_paul_battery.jpg",
+                  "badgeImage": "" 
+                },
+                {
+                  "id": "Ponta tal-Mignuna",
+                  "type": "milestone",
+                  "latitude": 35.857532, 
+                  "longitude": 14.570101,
+                  "checkpointTitle": "Ponta tal-Mignuna",
+                  "checkpointText": "We could only end the trek with more amazing views of white cliffed seas overlooking St. Thomas Bay. There is a stepped way down to get to sea-level and to a deep sea swimming spot which you may want to keep in mind for next summer",
+                  "checkpointImage": "assets/images/treks_hofriet_st_paul_battery.jpg",
+                  "badgeImage": "" 
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Bus routes and parking information. Coordinates to start point."
+                  },
+                  {
+                    "title": "White Cliffs and Specatcular Bays",
+                    "description": "Details on the type of excursion."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Large parts on off the beaten track for which trekking shoes are highly recommended for comfort and safety."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "Parts of this trek are along cliff edges. Keep focus and caution"
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "WCs near start and end points and half way through during the opening hours of the Xrobb l-Ghagin Sustainability Centre. Plenty of restaurants and snack bars at the starting and ending destinations."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_hofriet_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_hofriet_info_img2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0
