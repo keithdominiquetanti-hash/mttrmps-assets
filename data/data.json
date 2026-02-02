@@ -40,7 +40,7 @@
                   "latitude": 35.885362,
                   "longitude": 14.552317,
                   "checkpointTitle": "Tal-Milord",
-                  "checkpointText": "Quick extra deviations - paths towards seaside for some amazing formations.",
+                  "checkpointText": "A deep sea bathing summer spot for locals. We will soon take a quick extra deviation with a path on the right alongside the next Pillbox paths for more coastal formations.",
                   "checkpointImage": "assets/images/treks_inwadar_milord.jpg",
                   "badgeImage": ""
                 },
@@ -50,7 +50,7 @@
                   "latitude": 35.882897, 
                   "longitude": 14.555915,
                   "checkpointTitle": "Tal-Milord Cave formation",
-                  "checkpointText": "Coastal erosion at work, forming a mild cave formation",
+                  "checkpointText": "Coastal erosion at work, forming a mild cave formation. Avoid edges and going under the small caves/ rocks as this area is subject to heavy coastal erosions",
                   "checkpointImage": "assets/badges/treks_inwadar_gem_milord_cave.png",
                   "badgeImage": "assets/badges/treks_inwadar_gem_milord_cave.png"
                 },
@@ -60,7 +60,7 @@
                   "latitude": 35.881002,
                   "longitude": 14.557182,
                   "checkpointTitle": "Sea Inlet",
-                  "checkpointText": "A beautiful inlet. Take a moment to enjoy the view.",
+                  "checkpointText": "A beautiful sea inlet - one of the many we'll observe along the route. Take a moment to enjoy the view.",
                   "checkpointImage": "assets/images/treks_inwadar_inlet1.jpg",
                   "badgeImage": ""
                 },
@@ -100,7 +100,7 @@
                   "latitude": 35.871514,
                   "longitude": 14.565442,
                   "checkpointTitle": "Zonqor Viewpoint",
-                  "checkpointText": "You are in the quaint residential area of Zonqor. Letter Z is your next character for discount code. Small park on your right if you would like a tranquil rest",
+                  "checkpointText": "You are in the quaint residential area of Zonqor. Letter Z is your next character for discount code. Small garden on your right if you would like a tranquil rest",
                   "checkpointImage": "assets/images/treks_inwadar_bandli.jpg",
                   "badgeImage": ""
                 },
@@ -130,7 +130,7 @@
                   "latitude": 35.870811,
                   "longitude": 14.570585,
                   "checkpointTitle": "BBQ Area",
-                  "checkpointText": "BBQ Area on the right should you wish to return for a different kind of experience. Straight ramp ahead for easier terrain",
+                  "checkpointText": "BBQ Area on the right should you wish to return for a scenic BBQ. Straight ramp ahead for easier terrain - right one for a bit more rugged return to starting point.",
                   "checkpointImage": "assets/images/treks_inwadar_bbq.jpg",
                   "badgeImage": ""
                 }
@@ -139,30 +139,32 @@
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Bus routes and parking information. Coordinates to start point."
+                    "description": "Route starts from the main bus station in Xghajra. Bus routes 94 from Valletta and 120 from Pembroke/ Mater Dei have this station as their destination. Plenty of parking spaces available along promenade. Start location coordinates: 35.887845, 14.549888"
                   },
                   {
-                    "title": "A National Park",
-                    "description": "Details on the type of excursion."
-                  },
-                  {
-                    "title": "History besides nature",
-                    "description": "The trail passes near ancient watchtowers and fortifications."
+                    "title": "The route",
+                    "description": "Takes us across and back the Inwadar National Park along the coast near ix-Xgħajra, Ħaż-Żabbar and Wied il-Għajn, offering a unique blend of history and nature experiences."
                   },
                   {
                     "title": "Terrain",
-                    "description": "Terrain - Shoes. Weather conditions."
+                    "description": "Mostly off the beaten track terrain with some rocky parts, but relatively easy. Comfortable trainers suffice in dry conditions but also consider trekking shoes for more comfort and safety."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "Some parts of this trek takes to cliff edges and areas subject to coastal erosion. Take caution and avoid going to extreme edges."
                   },
                   {
                     "title": "Amenities",
-                    "description": "WCs, picnic areas, restaurants and other facilities"
+                    "description": "A restaurant is located near the start/ end locaton with nearby public toilets. The same applies half way through the trek. Also passess by small gardens and picnic table area for some rest/ packed lunch"
                   }
                 ],
                 "imagePrimary": "assets/images/details/treks_inwadar_info_img1.jpg",
                 "imageSecondary": "assets/images/details/treks_inwadar_info_img2.jpg"
               },
               "standardPrice": 3.0,
-              "discountedPrice": 2.0
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
             },
 
             {
@@ -175,7 +177,7 @@
               "details": {
                 "distance": "10.0km",
                 "time": "2.5 hours",
-                "elevation": "220m",
+                "elevation": "210m",
                 "difficulty": "Challenging",
                 "loop": "Out & Back",
                 "shoes": "Trekking Shoes",
@@ -189,7 +191,7 @@
                   "latitude": 35.854820,   
                   "longitude": 14.564289,
                   "checkpointTitle": "Bajja San Tumas",
-                  "checkpointText": "Also known as ir-Ramla taz-Zejtun.",
+                  "checkpointText": "Also known as ir-Ramla taz-Zejtun, offers a mix of sandy shores and flat, rocky areas. You may also find SeaSport providers - one of the best locations for kayaking to explore the nearby sea caves and cliffs.",
                   "checkpointImage": "assets/images/treks_hofriet_san_tumas.jpg",
                   "badgeImage": ""
                 },
@@ -209,13 +211,13 @@
                   "latitude": 35.850088,   
                   "longitude": 14.568378,
                   "checkpointTitle": "Munxar Window",
-                  "checkpointText": "Natural limestone arch sculpted over centuries by sea winds and erosion",
+                  "checkpointText": "Natural limestone arch sculpted over centuries by sea winds and erosion. An iconic landmark of the Munxar path",
                   "checkpointImage": "assets/badges/treks_hofriet_munxar_window.png",
                   "badgeImage": "assets/badges/treks_hofriet_munxar_window.png"
                 },
                 {
                   "id": "Ponta tal-Munxar",
-                  "type": "inconic_landmark",
+                  "type": "iconic_landmark",
                   "latitude": 35.849606,  
                   "longitude": 14.571257,
                   "checkpointTitle": "Ponta tal-Munxar",
@@ -239,7 +241,7 @@
                   "latitude": 35.843319, 
                   "longitude": 14.564791,
                   "checkpointTitle": "Xrobb l-Ghagin",
-                  "checkpointText": "Weirdly named area literally meaning `the squeezing of the dough` for the fragile geological composition. We will first go downhill passing by the Xrobb l-Ghagin Sustainability Centre (Picnic area with WCs) for more views of the Hofra il-Kbira and then come back up here to take a side path onto the cliff side" ,
+                  "checkpointText": "Area name literally meaning `the squeezing of the dough` for the fragile geological composition. We will first go downhill passing by the Xrobb l-Ghagin Sustainability Centre (Picnic area with WCs) for more views of the Hofra il-Kbira and then come back up here to take a side path onto the cliff side" ,
                   "checkpointImage": "assets/images/treks_hofriet_xrobb_lghagin.jpg",
                   "badgeImage": ""
                 },
@@ -324,14 +326,16 @@
                   },
                   {
                     "title": "Amenities",
-                    "description": "WCs near start and end points and half way through during the opening hours of the Xrobb l-Ghagin Sustainability Centre. Plenty of restaurants and snack bars at the starting and ending destinations."
+                    "description": "WCs near start and end points and half way through during the opening hours of the Xrobb l-Ghagin Sustainability Centre. Plenty of restaurants and snack bars at the starting and ending destinations. Various seasport providers at St. Thomas Bay."
                   }
                 ],
                 "imagePrimary": "assets/images/details/treks_hofriet_info_img1.jpg",
                 "imageSecondary": "assets/images/details/treks_hofriet_info_img2.jpg"
               },
               "standardPrice": 3.0,
-              "discountedPrice": 2.0
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
             },
 
             {
@@ -466,7 +470,9 @@
                 "imageSecondary": "assets/images/details/treks_pultu_info2.jpg"
               },
               "standardPrice": 3.0,
-              "discountedPrice": 2.0
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
             },
 
             {
@@ -634,7 +640,9 @@
                 "imageSecondary": "assets/images/details/treks_znuber_info_img2.jpg"
               },
               "standardPrice": 3.0,
-              "discountedPrice": 2.0
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
             },
             {
               "id": "nature-treks-test-route",
@@ -706,7 +714,9 @@
                 "imageSecondary": "assets/images/details/treks_inwadar_info_img2.jpg"
               },
               "standardPrice": 3.0,
-              "discountedPrice": 2.0
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
             }
           ]
         },
@@ -924,7 +934,9 @@
                 "imageSecondary": "assets/images/details/treks_lapsi_info_img2.jpg"
               },
               "standardPrice": 3.0,
-              "discountedPrice": 2.0
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
             }
           ]
         },
@@ -987,8 +999,8 @@
                   "longitude": 14.482452,
                   "checkpointTitle": "Mensija View",
                   "checkpointText": "Enjoy an elevated view of the Mensija Valley we'll be heading to next",
-                  "checkpointImage": "assets/badges/treks_ghomor_mensija_mensija_view.png",
-                  "badgeImage": "assets/badges/treks_ghomor_mensija_mensija_view.png"
+                  "checkpointImage": "assets/badges/treks_ghomor_mensija_mensija_view.jpg",
+                  "badgeImage": "assets/badges/treks_ghomor_mensija_mensija_view.jpg"
                 },
                 {
                   "id": "Heart of Mensija Valley",
@@ -1068,7 +1080,9 @@
                 "imageSecondary": "assets/images/details/treks_lapsi_info_img2.jpg"
               },
               "standardPrice": 3.0,
-              "discountedPrice": 2.0
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
             }
           ]
         }
@@ -1217,7 +1231,9 @@
                 "imageSecondary": "assets/images/details/stroller_gudja_ghaxaq_info2.jpg"
               },
               "standardPrice": 0.0,
-              "discountedPrice": 0.0
+              "discountedPrice": 0.0,
+              "couponTrekTrigger": "",
+              "couponTrigger": ""
             }
           ]
         }
