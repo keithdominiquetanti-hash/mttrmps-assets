@@ -946,14 +946,14 @@
           "treks": [
             {
               "id": "nature-treks-east-ghomor-mensija",
-              "name": "Ghomor & Mensija Valleys",
-              "bannerImage": "assets/images/treks_ghomor_mensija.jpg",
-              "badgeImage": "assets/badges/treks_ghmor_mensija_badge.png",
+              "name": "Wied Ghomor & Mensija",
+              "bannerImage": "assets/images/treks_ghomor_badge.jpg",
+              "badgeImage": "assets/badges/treks_ghomor_badge.png",
               "gpxFile": "assets/gpx/ghomor-mensija.gpx",
-              "shortDescription": "Green lungs of the East",
+              "shortDescription": "Green lung of the East",
               "details": {
-                "distance": "4.7km",
-                "time": "1 hour",
+                "distance": "5.1km",
+                "time": "1.5 hours",
                 "elevation": "80m",
                 "difficulty": "Easy",
                 "loop": "Oat & Back",
@@ -963,121 +963,121 @@
               },
               "checkpoints": [
                 {
-                  "id": "Ghomor Valley Road",
+                  "id": "Wied Ghomor Flyover",
                   "type": "milestone",
-                  "latitude": 35.916711,   
-                  "longitude": 14.486625,
-                  "checkpointTitle": "Ghomor Valley View",
-                  "checkpointText": "Ghomor Valley View",
-                  "checkpointImage": "assets/images/treks_lapsi_visitor_centre.jpg",
+                  "latitude": 35.916684,   
+                  "longitude": 14.486562,
+                  "checkpointTitle": "Wied Ghomor Flyover",
+                  "checkpointText": "First glimples of the Wied Ghomor greener as we walk under a flyover road.",
+                  "checkpointImage": "assets/images/treks_ghomor_flyover.jpg",
                   "badgeImage": ""
                 },
                 {
                   "id": "Path to Valley",
                   "type": "milestone",
-                  "latitude": 35.916547,  
-                  "longitude": 14.485573,
-                  "checkpointTitle": "Path to Ghomor Valley",
-                  "checkpointText": "Venture into the heart of the valley",
-                  "checkpointImage": "assets/images/treks_lapsi_hagar_qim.jpg",
+                  "latitude": 35.916521,  
+                  "longitude": 14.485655,
+                  "checkpointTitle": "Path to Wied Ghomor",
+                  "checkpointText": "Take the road on the left for a path into the valley",
+                  "checkpointImage": "assets/images/treks_ghomor_ghomor_valley_path.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Ghomor Valley",
+                  "id": "Wied Ghomor",
                   "type": "hidden_gem",
-                  "latitude": 35.916812,   
-                  "longitude": 14.483518,
-                  "checkpointTitle": "Ghamor Valley",
-                  "checkpointText": "Ghomor Valley",
-                  "checkpointImage": "assets/badges/treks_ghomor_mensija_ghomor_valley.png",
-                  "badgeImage": "assets/badges/treks_ghomor_mensija_ghomor_valley.png"
+                  "latitude": 35.917212,   
+                  "longitude": 14.481985,
+                  "checkpointTitle": "Wied Ghomor",
+                  "checkpointText": "You have reached the heart of the vallery and its greener vegetation. Enjoy the peaceful surroundings. You can venture further if feeling adventorous and conditions allow but this routes goes back along the same path we came from.",
+                  "checkpointImage": "assets/badges/treks_ghomor_wied_ghomor.png",
+                  "badgeImage": "assets/badges/treks_ghomor_wied_ghomor.png"
                 },
                 {
                   "id": "Mensija View",
                   "type": "iconic_landmark",
-                  "latitude": 35.917592,  
-                  "longitude": 14.482452,
+                  "latitude": 35.917646,   
+                  "longitude": 14.482443,
                   "checkpointTitle": "Mensija View",
-                  "checkpointText": "Enjoy an elevated view of the Mensija Valley we'll be heading to next",
-                  "checkpointImage": "assets/badges/treks_ghomor_mensija_mensija_view.jpg",
-                  "badgeImage": "assets/badges/treks_ghomor_mensija_mensija_view.jpg"
+                  "checkpointText": "From the short flight of steps enjoy an elevated view of the Mensija Valley we'll be heading to next",
+                  "checkpointImage": "assets/badges/treks_ghomor_landmark_mensija.png",
+                  "badgeImage": "assets/badges/treks_ghomor_landmark_mensija.png"
                 },
                 {
-                  "id": "Heart of Mensija Valley",
+                  "id": "Wied Mensija",
                   "type": "milestone",
-                  "latitude": 35.917542,  
-                  "longitude": 14.475934,
-                  "checkpointTitle": "Mensija Valley",
-                  "checkpointText": "In the heart of the Mensia Valley vegetation",
-                  "checkpointImage": "assets/images/treks_lapsi_bay.jpg",
+                  "latitude": 35.917383, 
+                  "longitude": 14.476273,
+                  "checkpointTitle": "Wied Mensija",
+                  "checkpointText": "Again surronded by vegetation, we are in the heart of the second valley of the trek - Wied Mensija.",
+                  "checkpointImage": "assets/images/treks_ghomor_mensija_valley.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Mensija Valley Exit",
+                  "id": "Mensija Picnic Area",
                   "type": "milestone",
-                  "latitude": 35.915831, 
-                  "longitude": 14.478693,
-                  "checkpointTitle": "Mensija Valley Exit",
-                  "checkpointText": "Joining back a main road for a short while as we head back to the Coast",
-                  "checkpointImage": "assets/images/treks_lapsi_bay.jpg",
+                  "latitude": 35.916136, 
+                  "longitude": 14.477907,
+                  "checkpointTitle": "Mensija Picnic Area",
+                  "checkpointText": "A suggestive picnic area with views over the valley. A good spot for a snack break before we head back to the coast. We will next walk for a short while on a busy road. Take care, especially crossing the road",
+                  "checkpointImage": "assets/images/treks_ghomor_picnic_tables.jpg",
                   "badgeImage": ""
                 },
                 {
                   "id": "Spinola View Bridge",
                   "type": "milestone",
-                  "latitude": 35.918082, 
-                  "longitude": 14.489096,
+                  "latitude": 35.918090, 
+                  "longitude": 14.489071,
                   "checkpointTitle": "Spinola View Bridge",
-                  "checkpointText": "View of Ghomor Valley to one Side and Spinola Bay to the other",
-                  "checkpointImage": "assets/images/treks_lapsi_bay.jpg",
+                  "checkpointText": "Ghomor Valley on one Side and Spinola Bay on the other, with the St. Julian's Parish church right in front. One of the more modern churches built in 1961 and visited by the Pope in 1989.",
+                  "checkpointImage": "assets/images/treks_ghomor_bridge.jpg",
                   "badgeImage": ""
                 },
                 {
                   "id": "Spinola bay",
                   "type": "iconic_landmark",
-                  "latitude": 35.919011,  
-                  "longitude": 14.490424,
+                  "latitude": 35.919026,  
+                  "longitude": 14.490511,
                   "checkpointTitle": "Spinola bay",
-                  "checkpointText": "The coastal stretch we will be following (higher up) is formed by several of such pretty small bays",
-                  "checkpointImage": "assets/badges/treks_ghomor_mensija_spinola_bay.png",
-                  "badgeImage": "assets/badges/treks_ghomor_mensija_spinola_bay.png"
+                  "checkpointText": "One of the most picturesque and iconic bays in Malta, with vibrant colours from the colourful luzzus and lively atmosphere. Picturesque in different ways during both the day and night",
+                  "checkpointImage": "assets/badges/treks_ghomor_landmark_spinola.png",
+                  "badgeImage": "assets/badges/treks_ghomor_landmark_spinola.png"
                 },
                 {
                   "id": "Balluta Bay",
                   "type": "iconic_landmark",
-                  "latitude": 35.914476,  
-                  "longitude": 14.493674,
+                  "latitude": 35.914600,  
+                  "longitude": 14.493586,
                   "checkpointTitle": "Balluta Bay",
-                  "checkpointText": "Info on the church of Mt Carmel",
-                  "checkpointImage": "assets/badges/treks_ghomor_mensija_balluta_bay.png",
-                  "badgeImage": "assets/badges/treks_ghomor_mensija_balluta_bay.png"
+                  "checkpointText": "The small sandy beach overlooked by splendid Neo-Gothic facade of the Church of Our Lady of Mount Carmel, make this another iconic hotspot in the Maltese islands. The interior Gothic architecture of the church is equally impressive. This promenade stretch offers a magnificient relaxing spot to end the trek.",
+                  "checkpointImage": "assets/badges/treks_ghomor_landmark_balluta.png",
+                  "badgeImage": "assets/badges/treks_ghomor_landmark_balluta.png"
                 }
               ],
               "detailContent": {
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Bus routes and parking information. Coordinates to start point."
+                    "description": "The route starts from the well known Spinola Bay, near the `LOVE` monument. Bus routes 13, 14 and 16 run from Valletta and Sliema to the bay. Routes 202, 212 and 222 arrive from Northern regions. Finding parking can be challenging - the Ta' Giorni area in nearby San Gwann is a quieter option and not too distant. Route ends in nearby Balluta Bay. GPS coordinates to starting point: 35.9191, 14.4900."
                   },
                   {
-                    "title": "Bays to Valleys and Back",
-                    "description": "Details on the type of excursion."
+                    "title": "The Route",
+                    "description": "A scenic walk starting from coast and heading into the green lung of the area - Wied Ghomor and Mensija. Returns to the coastal promenade, ending at the picturesque Balluta bay."
                   },
                   {
                     "title": "Terrain",
-                    "description": "Head into off the beaten track valley paths and then end along a stretch of coast promenade."
+                    "description": "For the major part on asphalted roads, venturing into some valley paths. Can be done in trainers in dry conditions. Little elevation change."
                   },
                   {
-                    "title": "Footwear",
-                    "description": "Trainers are enough in dry conditions. Trekking shoes advisable in possibly wet conditions."
+                    "title": "Safety Warning",
+                    "description": "A small part of the route is along busy roads and contains a couple of busy road crossings. Take caution and use zebra crossing/ lights where possible"
                   },
                   {
                     "title": "Amenities",
-                    "description": "WCs, picnic areas, restaurants and other facilities"
+                    "description": "The starting and ending locations are at very touristic areas with a wide variety of tourist amenities. Half way through, the route passes by a quiet picnic area with tables - so bringing a packed lunch is also a good idea!"
                   }
                 ],
-                "imagePrimary": "assets/images/details/treks_lapsi_info_img1.jpg",
-                "imageSecondary": "assets/images/details/treks_lapsi_info_img2.jpg"
+                "imagePrimary": "assets/images/details/treks_ghomor_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_ghomor_info2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
