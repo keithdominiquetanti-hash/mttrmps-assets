@@ -1085,6 +1085,102 @@
               "couponTrigger": "Z"
             }
           ]
+        },
+
+        {
+          "name": "Central",
+          "treks": [
+            {
+              "id": "nature-treks-central-wied-kbir",
+              "name": "Wied il-Kbir & Wied Qirda",
+              "bannerImage": "assets/images/treks_ghomor_badge.jpg",
+              "badgeImage": "assets/badges/treks_ghomor_badge.png",
+              "gpxFile": "assets/gpx/wied-kbir-qirda-test.gpx",
+              "shortDescription": "Connecting two of largest valleys",
+              "details": {
+                "distance": "9.2km",
+                "time": "2.5 hours",
+                "elevation": "150m",
+                "difficulty": "Challenging",
+                "loop": "Loop",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "1",
+                "iconic_landmarks": "3"
+              },
+              "checkpoints": [
+                {
+                  "id": "Valley View",
+                  "type": "milestone",
+                  "latitude": 35.868421,    
+                  "longitude": 14.475164,
+                  "checkpointTitle": "Valley View",
+                  "checkpointText": "First glimples of the Wied Ghomor greener as we walk under a flyover road.",
+                  "checkpointImage": "assets/images/treks_ghomor_flyover.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Ghar Hanzir",
+                  "type": "hidden_gem",
+                  "latitude": 35.862529,    
+                  "longitude": 14.468653,
+                  "checkpointTitle": "Ghar Hanzir",
+                  "checkpointText": "Ghar Hanzir",
+                  "checkpointImage": "assets/badges/treks_ghomor_wied_ghomor.png",
+                  "badgeImage": "assets/badges/treks_ghomor_wied_ghomor.png"
+                },
+                {
+                  "id": "Open spot",
+                  "type": "milestone",
+                  "latitude": 35.858930,  
+                  "longitude": 14.466928,
+                  "checkpointTitle": "Open spot",
+                  "checkpointText": "Open Spot to relax",
+                  "checkpointImage": "assets/images/treks_ghomor_mensija_valley.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Moving to Wied Qirda",
+                  "type": "milestone",
+                  "latitude": 35.863844, 
+                  "longitude": 14.467426,
+                  "checkpointTitle": "Wied Qirda",
+                  "checkpointText": "Wied Qirda",
+                  "checkpointImage": "assets/images/treks_ghomor_picnic_tables.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "The route starts from the well known Spinola Bay, near the `LOVE` monument. Bus routes 13, 14 and 16 run from Valletta and Sliema to the bay. Routes 202, 212 and 222 arrive from Northern regions. Finding parking can be challenging - the Ta' Giorni area in nearby San Gwann is a quieter option and not too distant. Route ends in nearby Balluta Bay. GPS coordinates to starting point: 35.9191, 14.4900."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "A scenic walk starting from coast and heading into the green lung of the area - Wied Ghomor and Mensija. Returns to the coastal promenade, ending at the picturesque Balluta bay."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "For the major part on asphalted roads, venturing into some valley paths. Can be done in trainers in dry conditions. Little elevation change."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "A small part of the route is along busy roads and contains a couple of busy road crossings. Take caution and use zebra crossing/ lights where possible"
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "The starting and ending locations are at very touristic areas with a wide variety of tourist amenities. Half way through, the route passes by a quiet picnic area with tables - so bringing a packed lunch is also a good idea!"
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_ghomor_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_ghomor_info2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            }
+          ]
         }
       ]
     },
