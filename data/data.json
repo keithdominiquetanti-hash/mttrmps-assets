@@ -1093,87 +1093,157 @@
             {
               "id": "nature-treks-central-wied-kbir",
               "name": "Wied il-Kbir & Wied Qirda",
-              "bannerImage": "assets/images/treks_ghomor_badge.jpg",
-              "badgeImage": "assets/badges/treks_ghomor_badge.png",
-              "gpxFile": "assets/gpx/wied-kbir-qirda-test.gpx",
-              "shortDescription": "Connecting two of largest valleys",
+              "bannerImage": "assets/images/treks_wied_kbir_viewpoint.jpg",
+              "badgeImage": "assets/badges/treks_wied_kbir_badge.png",
+              "gpxFile": "assets/gpx/wied-kbir-qirda.gpx",
+              "shortDescription": "The larget valley system in Malta",
               "details": {
-                "distance": "9.2km",
-                "time": "2.5 hours",
-                "elevation": "150m",
+                "distance": "7.8km",
+                "time": "2 hours",
+                "elevation": "110m",
                 "difficulty": "Challenging",
-                "loop": "Loop",
-                "shoes": "Trekking Shoes",
-                "hidden_gems": "1",
-                "iconic_landmarks": "3"
+                "loop": "Semi-Loop",
+                "shoes": "Trekking Boots",
+                "hidden_gems": "2",
+                "iconic_landmarks": "1"
               },
               "checkpoints": [
                 {
-                  "id": "Valley View",
+                  "id": "Valley bridges",
                   "type": "milestone",
-                  "latitude": 35.868421,    
-                  "longitude": 14.475164,
-                  "checkpointTitle": "Valley View",
-                  "checkpointText": "First glimples of the Wied Ghomor greener as we walk under a flyover road.",
-                  "checkpointImage": "assets/images/treks_ghomor_flyover.jpg",
+                  "latitude": 35.866489,     
+                  "longitude": 14.474163,
+                  "checkpointTitle": "Valley Bridges",
+                  "checkpointText": "We are coming across the second small bridge over the valley bed. You can take the short path on the left amongst the trees in one direction and stick to the road when coming back the other direction.",
+                  "checkpointImage": "assets/images/treks_wied_kbir_bridges.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Water systems",
+                  "type": "milestone",
+                  "latitude": 35.866489,     
+                  "longitude": 14.474163,
+                  "checkpointTitle": "Water systems",
+                  "checkpointText": "You will come across some water management related structures as Wied il-Kbir houses one of Malta's most significant historical and modern water management systems. Originally developed in the late 19th century, it continues to be a critical node in the national network managed by the Water Services Corporation. The system was largely the brainchild of British engineer Sir Osbert Chadwick in the 1880s.",
+                  "checkpointImage": "assets/images/treks_wied_kbir_water_systems.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Crosspaths",
+                  "type": "milestone",
+                  "latitude": 35.862539,       
+                  "longitude": 14.468724,
+                  "checkpointTitle": "Crosspaths",
+                  "checkpointText": "We will be using all the paths in this crossroads - take first the leftest one for a hidden gem discovery and then when coming back take the one straight ahead",
+                  "checkpointImage": "assets/images/treks_wied_kbir_crosspaths.jpg",
                   "badgeImage": ""
                 },
                 {
                   "id": "Ghar Hanzir",
                   "type": "hidden_gem",
-                  "latitude": 35.862529,    
-                  "longitude": 14.468653,
+                  "latitude": 35.862471,    
+                  "longitude": 14.469019,
                   "checkpointTitle": "Ghar Hanzir",
-                  "checkpointText": "Ghar Hanzir",
-                  "checkpointImage": "assets/badges/treks_ghomor_wied_ghomor.png",
-                  "badgeImage": "assets/badges/treks_ghomor_wied_ghomor.png"
+                  "checkpointText": "ALso known as Ghar Tas-Slaleb because of the carved crosses at the start of the carve. Hence it is believed to have been used as a medieval church. Venture into only where you know you can safely return and with appropriate ligthing.",
+                  "checkpointImage": "assets/badges/treks_wied_kbir_gem_ghar_hanzir.png",
+                  "badgeImage": "assets/badges/treks_wied_kbir_gem_ghar_hanzir.png"
                 },
                 {
-                  "id": "Open spot",
+                  "id": "Open area",
                   "type": "milestone",
-                  "latitude": 35.858930,  
-                  "longitude": 14.466928,
-                  "checkpointTitle": "Open spot",
-                  "checkpointText": "Open Spot to relax",
-                  "checkpointImage": "assets/images/treks_ghomor_mensija_valley.jpg",
+                  "latitude": 35.859105,  
+                  "longitude": 14.467048,
+                  "checkpointTitle": "Open area",
+                  "checkpointText": "A nice small open area where you can sit on a rock to take in the surroundings and maybe a snack too before proceeding with more challenging parts of the trek",
+                  "checkpointImage": "assets/images/treks_wied_kbir_open_area.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Moving to Wied Qirda",
+                  "id": "Wied il-Kbir Valley Path",
+                  "type": "milestone", 
+                  "latitude": 35.858920,  
+                  "longitude": 14.466550,
+                  "checkpointTitle": "Valley Path",
+                  "checkpointText": "We will now take a scenic and more rugged path within the valley. So we will not have checkpoints for a while. There is mainly a single path along the route, with a single main cross path. Always stick to the one mostly to your right.",
+                  "checkpointImage": "assets/images/treks_wied_kbir_valley_path.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Viewpoint",
                   "type": "milestone",
-                  "latitude": 35.863844, 
-                  "longitude": 14.467426,
+                  "latitude": 35.856414, 
+                  "longitude": 14.456428,
+                  "checkpointTitle": "Viewpoint",
+                  "checkpointText": "This elevated spot offers one of the most iconic viewpoints over the valley. Take some time to enjoy it and take it all in.",
+                  "checkpointImage": "assets/images/treks_wied_kbir_viewpoint.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "More Views on onto fields & valley",
+                  "type": "milestone", 
+                  "latitude": 35.858457,   
+                  "longitude": 14.460216,
+                  "checkpointTitle": "More Views on onto fields & valley",
+                  "checkpointText": "The quarry on left side is no great sight but on the otherside you can look over for some more amazing views over the fields and valleys. Also see if you can spot this traditional Maltese well.",
+                  "checkpointImage": "assets/images/treks_wied_kbir_well.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wied il-Kbir Viewpoint",
+                  "type": "iconic_landmark",  
+                  "latitude": 35.862064,  
+                  "longitude": 14.467304,
+                  "checkpointTitle": "Iconic Wied il-Kbir Viewpoint",
+                  "checkpointText": "Enjoy the amazing view of the steep valley along which we started the route and reached Ghar Hanzir. The earned badge will also keep this memory for you!",
+                  "checkpointImage": "assets/badges/treks_wied_kbir_landmark_wied_kbir.png",
+                  "badgeImage": "assets/badges/treks_wied_kbir_landmark_wied_kbir.png"
+                },
+                {
+                  "id": "Wied Qirda Valley Bed",
+                  "type": "milestone", 
+                  "latitude": 35.863016,  
+                  "longitude": 14.468185,
                   "checkpointTitle": "Wied Qirda",
-                  "checkpointText": "Wied Qirda",
-                  "checkpointImage": "assets/images/treks_ghomor_picnic_tables.jpg",
+                  "checkpointText": "We will now trek a part of the Wied Qirda valley bed, which is narrower and its rock faces offer interesting formations. For instance look out for the following resemebling an elephant's head!",
+                  "checkpointImage": "assets/images/treks_wied_kbir_qirda.jpg",
                   "badgeImage": ""
+                },
+                {
+                  "id": "The Tomb of the English Lady",
+                  "type": "hidden_gem", 
+                  "latitude": 35.863907,  
+                  "longitude": 14.462058,
+                  "checkpointTitle": "The Tomb of the English Lady",
+                  "checkpointText": "A mysterious rock-carved doorway believed by some to be a tomb, alhough no remains have been found within. thought to have been built by Major Patrick Yule of the Royal Engineers around 1842-43, possibly in memory of a Lycian expedition. Locals also associate it with the burial of an English woman who died in the area. You can proceed with trekking along this path through thicker vegetation and which takes you to the main upper path of Wied Qirda (explored in another route). This routes concludes by trekking back to our starting point.",
+                  "checkpointImage": "assets/badges/treks_wied_kbir_gem_qabar.png",
+                  "badgeImage": "assets/badges/treks_wied_kbir_gem_qabar.png"
                 }
               ],
               "detailContent": {
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "The route starts from the well known Spinola Bay, near the `LOVE` monument. Bus routes 13, 14 and 16 run from Valletta and Sliema to the bay. Routes 202, 212 and 222 arrive from Northern regions. Finding parking can be challenging - the Ta' Giorni area in nearby San Gwann is a quieter option and not too distant. Route ends in nearby Balluta Bay. GPS coordinates to starting point: 35.9191, 14.4900."
+                    "description": "Starting point most easily reached by private vehicle or ride share, with possibility of side road parking at the start of the valley. Otherwise, bus routes 73 and 74 from Valletta have 10-minute away stops. GPS coordinates to starting point: 35.87060, 14.47625."
                   },
                   {
                     "title": "The Route",
-                    "description": "A scenic walk starting from coast and heading into the green lung of the area - Wied Ghomor and Mensija. Returns to the coastal promenade, ending at the picturesque Balluta bay."
+                    "description": "The route is in the form of a semi-loop, starting and ending at the start of Wied il-Kbir Valley from Qormi side. Trekking along a large valley system we will explore Wied il-Kbir and Wied Qirda and explore some of their interesting geological formations and vegetation."
                   },
                   {
                     "title": "Terrain",
-                    "description": "For the major part on asphalted roads, venturing into some valley paths. Can be done in trainers in dry conditions. Little elevation change."
+                    "description": "Large parts of the trek route goes along rugged and rockey paths, so trekking boots are necessary. This is also a main water catchemnt area that can hold water and muddy paths for several days. Elevation change is moderate." 
                   },
                   {
                     "title": "Safety Warning",
-                    "description": "A small part of the route is along busy roads and contains a couple of busy road crossings. Take caution and use zebra crossing/ lights where possible"
+                    "description": "Cave discovered along the way - venture only where you are sure you can safely return and with appropriate ligthing. Rocky paths can be slippery, even with trekking boots."
                   },
                   {
                     "title": "Amenities",
-                    "description": "The starting and ending locations are at very touristic areas with a wide variety of tourist amenities. Half way through, the route passes by a quiet picnic area with tables - so bringing a packed lunch is also a good idea!"
+                    "description": "This is a trek fully immersed in nature with no amenities or facilities along the way. So bring plenty of water and food for re-fuelling at some of the amazing open areas and viewpoints of this trek."
                   }
                 ],
-                "imagePrimary": "assets/images/details/treks_ghomor_info1.jpg",
-                "imageSecondary": "assets/images/details/treks_ghomor_info2.jpg"
+                "imagePrimary": "assets/images/details/treks_wied_kbir_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_wied_kbir_info2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
