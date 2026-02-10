@@ -100,7 +100,7 @@
                   "latitude": 35.871514,
                   "longitude": 14.565442,
                   "checkpointTitle": "Zonqor Viewpoint",
-                  "checkpointText": "You are in the quaint residential area of Zonqor. Letter Z is your next character for discount code. Small garden on your right if you would like a tranquil rest",
+                  "checkpointText": "You are in the quaint residential area of Zonqor. Letter Z is your next character for discount code. Small playground on your right if you would like a tranquil rest",
                   "checkpointImage": "assets/images/treks_inwadar_bandli.jpg",
                   "badgeImage": ""
                 },
@@ -155,7 +155,7 @@
                   },
                   {
                     "title": "Amenities",
-                    "description": "A restaurant is located near the start/ end locaton with nearby public toilets. The same applies half way through the trek. Also passess by small gardens and picnic table area for some rest/ packed lunch"
+                    "description": "A restaurant is located near the start/ end locaton with nearby public toilets. The same applies half way through the trek. Also passess by small playgrounds and picnic table area for some rest/ packed lunch"
                   }
                 ],
                 "imagePrimary": "assets/images/details/treks_inwadar_info_img1.jpg",
@@ -937,6 +937,127 @@
               "discountedPrice": 2.0,
               "couponTrekTrigger": "A",
               "couponTrigger": "Z"
+            },
+
+            {
+              "id": "nature-treks-west-girgenti-laferla",
+              "name": "Girgenti-Laferla Cross",
+              "bannerImage": "assets/images/treks_lapsi_bay.jpg",
+              "badgeImage": "assets/badges/treks_lapsi_badge.png",
+              "gpxFile": "assets/gpx/girgenti-laferla-design.gpx",
+              "shortDescription": "Walking up to the Laferla Cross",
+              "details": {
+                "distance": "8.3km",
+                "time": "2 hours",
+                "elevation": "150m",
+                "difficulty": "Moderate",
+                "loop": "Loop",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "2",
+                "iconic_landmarks": "2"
+              },
+              "checkpoints": [
+                {
+                  "id": "Start of Wied Hesri",
+                  "type": "milestone",
+                  "latitude": 35.860349, 
+                  "longitude": 14.434045,
+                  "checkpointTitle": "Start of Wied Hesri",
+                  "checkpointText": "Start of Wied Hesri",
+                  "checkpointImage": "assets/images/treks_laferla_wied_hesri.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wied Hesri",
+                  "type": "hidden_gem",
+                  "latitude": 35.857556,   
+                  "longitude": 14.428858,
+                  "checkpointTitle": "Wied Hesri",
+                  "checkpointText": "Wied Hesri",
+                  "checkpointImage": "assets/badges/treks_laferla_gem_wied_hesri.png",
+                  "badgeImage": "assets/badges/treks_laferla_gem_wied_hesri.png"
+                },
+                {
+                  "id": "Girgenti Bridge",
+                  "type": "milestone",
+                  "latitude": 35.855860,  
+                  "longitude": 14.415060,
+                  "checkpointTitle": "Girgenti Bridge",
+                  "checkpointText": "Girgenti Bridge",
+                  "checkpointImage": "assets/images/treks_laferla_girgenti_bridge.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Madonna tal-Konsagrazzjoni Chapel",
+                  "type": "iconic_landmark",
+                  "latitude": 35.852439,   
+                  "longitude": 14.410993,
+                  "checkpointTitle": "Madonna tal-Konsagrazzjoni Chapel",
+                  "checkpointText": "Madonna tal-Konsagrazzjoni Chapel",
+                  "checkpointImage": "assets/badges/treks_laferla_landmark_madonna_konsagrazzjoni.png",
+                  "badgeImage": "assets/badges/treks_laferla_landmark_madonna_konsagrazzjoni.png"
+                },
+                {
+                  "id": "Wied Girgenti",
+                  "type": "hidden_gem",
+                  "latitude": 35.849579,     
+                  "longitude": 14.410057,
+                  "checkpointTitle": "Wied Girgenti",
+                  "checkpointText": "Wied Girgenti",
+                  "checkpointImage": "assets/badges/treks_laferla_gem_wied_girgenti.png",
+                  "badgeImage": "assets/badges/treks_laferla_gem_wied_girgenti.png"
+                },
+                {
+                  "id": "Laferla Cross",
+                  "type": "iconic_landmark",
+                  "latitude": 35.849860,   
+                  "longitude": 14.416881,
+                  "checkpointTitle": "Laferla Cross",
+                  "checkpointText": "Laferla Cross",
+                  "checkpointImage": "assets/badges/treks_laferla_landmark_laferla_cross.png",
+                  "badgeImage": "assets/badges/treks_laferla_landmark_laferla_cross.png"
+                },
+                {
+                  "id": "Our Lady of Mt Carmel Cemetery",
+                  "type": "milestone",
+                  "latitude": 35.856430,   
+                  "longitude": 14.428762,
+                  "checkpointTitle": "Our Lady of Mt Carmel Cemetery",
+                  "checkpointText": "Our Lady of Mt Carmel Cemetery",
+                  "checkpointImage": "assets/images/treks_laferla_our_lady_of_mt_carmel_cemetery.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Bus routes and parking information. Coordinates to start point."
+                  },
+                  {
+                    "title": "The route",
+                    "description": "Details on the type of excursion."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Terrain - Shoes. Weather conditions."
+                  },
+                  {
+                    "title": "Safety Warnings",
+                    "description": "Terrain - Shoes. Weather conditions."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "WCs, picnic areas, restaurants and other facilities"
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_lapsi_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_lapsi_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
             }
           ]
         },
@@ -1374,7 +1495,7 @@
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Route starts from the parish church of Gudja and ends at a nearby garden. Bus 88 from Valletta goes to start location. Most parking slots in tax-Xlejli area if by private transport. Start location coordinates: 35.8481865, 14.5027438"
+                    "description": "Route starts from the parish church of Gudja and ends at a nearby playground. Bus 88 from Valletta goes to start location. Most parking slots in tax-Xlejli area if by private transport. Start location coordinates: 35.8481865, 14.5027438"
                   },
                   {
                     "title": "Type of Walk",
@@ -1390,7 +1511,7 @@
                   },
                   {
                     "title": "Amenities",
-                    "description": "Route takes to a public garden with restroom facilities a few minutes after the start, and ends in another public garden. Restaurant with Maltese cuisine near Parish church."
+                    "description": "Route takes to a playground with restroom facilities a few minutes after the start, and ends in another public garden. Restaurant with Maltese cuisine near Parish church."
                   }
                 ],
                 "imagePrimary": "assets/images/details/stroller_gudja_ghaxaq_info1.jpg",
