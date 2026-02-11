@@ -1077,7 +1077,7 @@
                 "time": "1.5 hours",
                 "elevation": "80m",
                 "difficulty": "Easy",
-                "loop": "Oat & Back",
+                "loop": "Out & Back",
                 "shoes": "Trainers",
                 "hidden_gems": "1",
                 "iconic_landmarks": "3"
@@ -1365,6 +1365,163 @@
                 ],
                 "imagePrimary": "assets/images/details/treks_wied_kbir_info1.jpg",
                 "imageSecondary": "assets/images/details/treks_wied_kbir_info2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            }
+          ]
+        },
+
+        {
+          "name": "North",
+          "treks": [
+            {
+              "id": "nature-treks-north-wied-qannotta",
+              "name": "Wied Qannotta - Ghajn Rihana",
+              "bannerImage": "assets/images/treks_qannotta_viewpoint.jpg",
+              "badgeImage": "assets/badges/treks_wied_qannotta_badge.png",
+              "gpxFile": "assets/gpx/wied-qannotta-design.gpx",
+              "shortDescription": "One of the greenest valleys",
+              "details": {
+                "distance": "8.9km",
+                "time": "2 hours",
+                "elevation": "160m",
+                "difficulty": "Moderate",
+                "loop": "Loop",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "1",
+                "iconic_landmarks": "3"
+              },
+              "checkpoints": [
+                {
+                  "id": "San Pawl Milqi",
+                  "type": "milestone",
+                  "latitude": 35.933549,     
+                  "longitude": 14.411295,
+                  "checkpointTitle": "San Pawl Milqi",
+                  "checkpointText": "Largest Roman Villa remains",
+                  "checkpointImage": "assets/images/treks_qannotta_san_pawl_milqi.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Start of Wied Qannotta",
+                  "type": "milestone",
+                  "latitude": 35.938189,    
+                  "longitude": 14.410291,
+                  "checkpointTitle": "Start of Wied Qannotta",
+                  "checkpointText": "Info on Wied Qannotta",
+                  "checkpointImage": "assets/images/treks_qannotta_start_valley.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wied Qannotta Chapel",
+                  "type": "hidden_gem",
+                  "latitude": 35.935160,   
+                  "longitude": 14.399212,
+                  "checkpointTitle": "Wied Qannotta Chapel",
+                  "checkpointText": "Info on Wied Qannotta Chapel",
+                  "checkpointImage": "assets/badges/treks_wied_kbir_landmark_wied_kbir.png",
+                  "badgeImage": "assets/badges/treks_wied_kbir_landmark_wied_kbir.png"
+                },
+                {
+                  "id": "Wied Qannotta Viewpoint",
+                  "type": "iconic_landmark",
+                  "latitude": 35.930415,   
+                  "longitude": 14.401541,
+                  "checkpointTitle": "Wied Qannotta Viewpoint",
+                  "checkpointText": "Wied Qannotta Viewpoint.",
+                  "checkpointImage": "assets/badges/treks_qannotta_viewpoint.png",
+                  "badgeImage": "assets/badges/treks_qannotta_viewpoint.png"
+                },
+                {
+                  "id": "Kappella Santa Margerita",
+                  "type": "iconic_landmark",
+                  "latitude": 35.925214,    
+                  "longitude": 14.415693,
+                  "checkpointTitle": "Kappella Santa Margerita",
+                  "checkpointText": "Kappella Santa Margerita ta Ghajn Rihana",
+                  "checkpointImage": "assets/badges/treks_qannotta_landmark_santa_margerita.png",
+                  "badgeImage": "assets/badges/treks_qannotta_landmark_santa_margerita.png"
+                },
+                {
+                  "id": "Ghajn Rihana",
+                  "type": "milestone",
+                  "latitude": 35.925887, 
+                  "longitude": 14.416695,
+                  "checkpointTitle": "Ghajn Rihana",
+                  "checkpointText": "Ghajn Rihana valley",
+                  "checkpointImage": "assets/images/treks_qannotta_ghajn_rihana.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Tal-Qadi Area",
+                  "type": "milestone",
+                  "latitude": 35.933025,  
+                  "longitude": 14.422930,
+                  "checkpointTitle": "Tal-Qadi Area",
+                  "checkpointText": "Tal-Qadi Area",
+                  "checkpointImage": "assets/images/treks_qannotta_tal_qadi_road.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Tal-Qadi Temple",
+                  "type": "iconic_landmark",
+                  "latitude": 35.936758,  
+                  "longitude": 14.420412,
+                  "checkpointTitle": "Tal-Qadi Temple",
+                  "checkpointText": "Tal-Qadi Temple",
+                  "checkpointImage": "assets/badges/treks_qannotta_landmark_qadi_temple.png",
+                  "badgeImage": "assets/badges/treks_qannotta_landmark_qadi_temple.png"
+                },
+
+                {
+                  "id": "St. Michael Chapel",
+                  "type": "milestone",
+                  "latitude": 35.941062,  
+                  "longitude": 14.420474,
+                  "checkpointTitle": "St. Michael Chapel",
+                  "checkpointText": "St. Michael Chapel & Bird Park.",
+                  "checkpointImage": "assets/images/treks_qannotta_st_michael_chapel.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Burmarrad Valley Fields",
+                  "type": "milestone",
+                  "latitude": 35.937211,  
+                  "longitude": 14.415499, 
+                  "checkpointTitle": "Burmarrad Valley Fields",
+                  "checkpointText": "Burmarrad Valley Fields",
+                  "checkpointImage": "assets/images/treks_qannotta_valley_fields.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Start and end from near Burmarrad church. Bus routes & parking.  GPS coordinates to starting point: 35.934630, 14.414336."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "Wied Qannotta, Ghajn Rihana, tal-Qadi"
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Mix of valley paths and asphalted road"
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "One major road crossings but with pedestrian traffic lights available - use them for safety"
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Not a main tourist area, with some snack bars/ small restaurants near the start/ end location."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_ghomor_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_ghomor_info2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
