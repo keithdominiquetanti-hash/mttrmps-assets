@@ -172,7 +172,7 @@
               "name": "San Tumas - Hofriet",
               "bannerImage": "assets/images/treks_hofriet_xrobb_lghagin.jpg",
               "badgeImage": "assets/badges/treks_hofriet_badge.png",
-              "gpxFile": "assets/gpx/hofriet-test.gpx",
+              "gpxFile": "assets/gpx/hofriet.gpx",
               "shortDescription": "White Cliffs Walk",
               "details": {
                 "distance": "10.0km",
@@ -228,18 +228,18 @@
                 {
                   "id": "Kappella u Torri ta' San Pawl Nawfragu",
                   "type": "milestone",
-                  "latitude": 35.844396,  
-                  "longitude": 14.564712,
+                  "latitude": 35.844406,  
+                  "longitude": 14.564695,
                   "checkpointTitle": "Kappella u Torri ta' San Pawl Nawfragu",
-                  "checkpointText": "We have now entered the area known as Xrobb l-Ghagin and passing by a tower used for residential purposes with an adjacent chapel dedicated to the Shipwreck of St. Paul built in the 18th century. At the cross roads we will first go to the left to explore more Xrobb l-Ghagin",
+                  "checkpointText": "We have now entered the area known as Xrobb l-Ghagin and passing by a tower used for residential purposes with an adjacent chapel dedicated to the Shipwreck of St. Paul built in the 18th century. At the cross roads we will first go to the left to explore Xrobb l-Ghagin. After you take the left bend look back to see the chapel.",
                   "checkpointImage": "assets/images/treks_hofriet_san_pawl_nawfragu.jpg",
                   "badgeImage": ""
                 },
                 {
                   "id": "Xrobb l-Ghagin",
                   "type": "milestone",
-                  "latitude": 35.843319, 
-                  "longitude": 14.564791,
+                  "latitude": 35.843325,  
+                  "longitude": 14.564726,
                   "checkpointTitle": "Xrobb l-Ghagin",
                   "checkpointText": "Area name literally meaning `the squeezing of the dough` for the fragile geological composition. We will first go downhill passing by the Xrobb l-Ghagin Sustainability Centre (Picnic area with WCs) for more views of the Hofra il-Kbira and then come back up here to take a side path onto the cliff side" ,
                   "checkpointImage": "assets/images/treks_hofriet_xrobb_lghagin.jpg",
@@ -407,7 +407,7 @@
                   "badgeImage": ""
                 },
                 {
-                  "id": "Borh in-Nadur",
+                  "id": "Borg in-Nadur",
                   "type": "iconic_landmark",
                   "latitude": 35.832228, 
                   "longitude": 14.527519,
@@ -644,6 +644,194 @@
               "couponTrekTrigger": "A",
               "couponTrigger": "Z"
             },
+
+            {
+              "id": "nature-treks-southeast-gudja-chapels",
+              "name": "St. Lucija - Gudja Chapels",
+              "bannerImage": "assets/images/treks_gudja_chapels_stlucija_promenade.jpg",
+              "badgeImage": "assets/badges/treks_gudja_chapels_badge.png",
+              "gpxFile": "assets/gpx/stlucia-gudja-chapels.gpx",
+              "shortDescription": "Chapels nestled within fields",
+              "details": {
+                "distance": "7.9km",
+                "time": "2 hours",
+                "elevation": "71m",
+                "difficulty": "Easy",
+                "loop": "Loop",
+                "shoes": "Trainers",
+                "hidden_gems": "2",
+                "iconic_landmarks": "2"
+              },
+              "checkpoints": [
+                {
+                  "id": "Santa Lucija Parish Church",
+                  "type": "milestone",
+                  "latitude": 35.862718, 
+                  "longitude": 14.505494,
+                  "checkpointTitle": "Santa Lucija Parish Church",
+                  "checkpointText": "The first of several religious churches and chapels along this trek, this Santa Lucija parish church is dedicate to Pope Paul X. The first stone was laid on 6 November 1969 by Archbishop Mgr Michael Gonzi.",
+                  "checkpointImage": "assets/images/treks_gudja_chapels_stlucija_church.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Santa Lucija Promenade",
+                  "type": "milestone",
+                  "latitude": 35.861621, 
+                  "longitude": 14.506562,
+                  "checkpointTitle": "Santa Lucija Promenade",
+                  "checkpointText": "A short stroll along this pathway that offers vistas of the surrounding countryside and fields. The available benches offer the opportunity to soak in more the views",
+                  "checkpointImage": "assets/images/treks_gudja_chapels_stlucija_promenade.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Into the countryside",
+                  "type": "milestone",
+                  "latitude": 35.861149, 
+                  "longitude": 14.505549,
+                  "checkpointTitle": "Into the countryside",
+                  "checkpointText": "We will now take this path on the left to immerse more into the countryside and field paths.",
+                  "checkpointImage": "assets/images/treks_gudja_chapels_into_countryside.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Gudja fields path",
+                  "type": "iconic_landmark",
+                  "latitude": 35.856506,  
+                  "longitude": 14.502072,
+                  "checkpointTitle": "Gudja fields path",
+                  "checkpointText": "This narrow countryside path with dense vegetation on both sides offers a unique experience worthy of an iconic landmark badge.",
+                  "checkpointImage": "assets/badges/treks_gudja_chapels_landmark_fields_path.png",
+                  "badgeImage": "assets/badges/treks_gudja_chapels_landmark_fields_path.png"
+                },
+                {
+                  "id": "To Gudja village",
+                  "type": "milestone",
+                  "latitude": 35.851418, 
+                  "longitude": 14.502261,
+                  "checkpointTitle": "To Gudja village",
+                  "checkpointText": "We have reached the end of this quiet countryside road. We will next head to Gudja village for which one needs to cross a busy road - use the pedestrian lights or crossings to do so safely.",
+                  "checkpointImage": "assets/images/treks_gudja_chapel_to_gudja_village.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Gnien il-Kmand Entrance",
+                  "type": "milestone",
+                  "latitude": 35.851268,  
+                  "longitude": 14.499413,
+                  "checkpointTitle": "Gnien il-Kmand Entrance",
+                  "checkpointText": "You are seeing the beautiful facade of The Lieutenant Gardens that were built between 1800 to 1809 under Sir Alexander John Ball - the first British Governor of Malta & Gozo - as a sign of appreciation of Maltese sacrifice and bravery in forcing capitulation of the occupying French forces. The garden is privately owned but the path alongside it leads to a recently opened public Reading Garden with a hidden gem.",
+                  "checkpointImage": "assets/images/treks_gudja_chapels_gnien_kmand.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Kappella ta' Bir Miftuh",
+                  "type": "hidden_gem",
+                  "latitude": 35.851597,  
+                  "longitude": 14.497176,
+                  "checkpointTitle": "Kappella ta' Bir Miftuh",
+                  "checkpointText": "A 15th century medieval chapel dedicated to St. Mary, which had served as a parish church up to 1676. On the arrival of the Knights of St John, a captain was appointed to defend the area of Bir Miftuħ. In 1565, during the Great Siege of Malta, the church was desecrated by the invading Turks. It is said that in order to preserve the treasures of the church, including the bells, from the invaders, the people buried them in the tombs of the church. ",
+                  "checkpointImage": "assets/badges/treks_gudja_chapels_gem_bir_miftuh.png",
+                  "badgeImage": "assets/badges/treks_gudja_chapels_gem_bir_miftuh.png"
+                },
+                {
+                  "id": "Path to the next chapel",
+                  "type": "milestone",
+                  "latitude": 35.844317,  
+                  "longitude": 14.502343,
+                  "checkpointTitle": "Path to the next chapel",
+                  "checkpointText": "Another scenic path that takes to the next field nestled chapel.",
+                  "checkpointImage": "assets/images/treks_gudja_chapels_path_loretu.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Santa Marija ta' Loretu",
+                  "type": "hidden_gem",
+                  "latitude": 35.841828, 
+                  "longitude": 14.500803,
+                  "checkpointTitle": "Santa Marija ta' Loretu",
+                  "checkpointText": "Built in 1676 giving thanks to Our Lady of Loreto for the deliverance of the plague which pestered the Maltese Islands that year. Was occupied by the military during World War II, connecting the well under the church to an underground shelter.",
+                  "checkpointImage": "assets/badges/treks_gudja_chapels_gem_ta_loretu.png",
+                  "badgeImage": "assets/badges/treks_gudja_chapels_gem_ta_loretu.png"
+                },
+                {
+                  "id": "Gudja Parish Church",
+                  "type": "milestone",
+                  "latitude": 35.847666,  
+                  "longitude": 14.502462,
+                  "checkpointTitle": "Gudja Parish Church",
+                  "checkpointText": "Roman Catholic church dedicated to the Assumption of St. Mary whose feast is celebrated on the 15th of August. Built mostly in Baroque style and built in 1656 on the plans of Tumas Dingli. Note the St. Mary and St. Joseph statues flanking the church - a common dual commemoration in the village you might have also observed in some of the countryside structures.",
+                  "checkpointImage": "assets/images/treks_gudja_chapels_gudja_church.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Announciation Chapel",
+                  "type": "milestone",
+                  "latitude": 35.849155,  
+                  "longitude": 14.502828,
+                  "checkpointTitle": "Announciation Chapel",
+                  "checkpointText": "Built in 1754 on the site of an earlier medieval one. Note the statues of St. Joachim and St. Anne sculpted on the faceade.",
+                  "checkpointImage": "assets/images/treks_gudja_chapels_announciation_chapel.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "St. Catherine Chapel",
+                  "type": "milestone",
+                  "latitude": 35.849510,  
+                  "longitude": 14.504351,
+                  "checkpointTitle": "St. Catherine Chapel",
+                  "checkpointText": "This final chapel in the village of Gudja represents a typical example of 17th century ecclesiastical architecture, rectangular in shape and characteristics water sprouts. Internal altar piece in the centre of the apse depics the martyrdom of St. Catherine. We will now head to the earlier countryside path in reverse direction to St. Lucija",
+                  "checkpointImage": "assets/images/treks_gudja_chapels_st_catherine_chapel.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Back to St. Lucija Fields",
+                  "type": "milestone",
+                  "latitude": 35.860159,  
+                  "longitude": 14.501120,
+                  "checkpointTitle": "Back to St. Lucija Fields",
+                  "checkpointText": "Taking from the other end the field side promenade in St. Lucija before heading slightly uphill to the final destination",
+                  "checkpointImage": "assets/images/treks_gudja_chapels_back_st_lucija.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Garden of Serenity",
+                  "type": "iconic_landmark",
+                  "latitude": 35.863356,  
+                  "longitude": 14.502899,
+                  "checkpointTitle": "Garden of Serenity",
+                  "checkpointText": "Our trek ends at the lovely Chinese Garden of Serenity - a very peaceful garden and also symbolises yin and yang, life from birth to death. The garden has fountains, a zig zag formed corridors, bridges, different types of doors with their own specific meaning - a perfect setting for a rest at the end of a long trek.",
+                  "checkpointImage": "assets/badges/treks_gudja_chapels_landmark_chinese_garden.png",
+                  "badgeImage": "assets/badges/treks_gudja_chapels_landmark_chinese_garden.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Bus routes 80 and 83 serve St. Lucija from Valletta bus terminus. Village offers plenty of private vehicle parking spaces. Starting coordinates: 35.863554, 14.505095"
+                  },
+                  {
+                    "title": "The route",
+                    "description": "Route takes us to several churches and chapels, mainly in Gudja two of which are beautifully nestled within countryside fields. Route starts from the centre of St. Lucija village and ends at the Chinese Garden of Serenity in same village."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Almost entirely on asphalted roads and with little elevation gain. Can be done in comofortable trainers."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Route passes along a number of benches and small gardens/ playgrounds where one can take a break with a snack. WC facilities near starting location, within main Gudja playground and the end Chinese Garden of Serenity playground"
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_gudja_chapels_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_gudja_chapels_info_img1.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+
             {
               "id": "nature-treks-test-route",
               "name": "Test Route",
