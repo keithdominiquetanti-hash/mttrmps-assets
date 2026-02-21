@@ -651,7 +651,7 @@
               "bannerImage": "assets/images/treks_gudja_chapels_stlucija_promenade.jpg",
               "badgeImage": "assets/badges/treks_gudja_chapels_badge.png",
               "gpxFile": "assets/gpx/stlucia-gudja-chapels.gpx",
-              "shortDescription": "Chapels nestled within fields",
+              "shortDescription": "Exploring field-nestled chapels and countryside paths",
               "details": {
                 "distance": "7.9km",
                 "time": "2 hours",
@@ -824,7 +824,92 @@
                   }
                 ],
                 "imagePrimary": "assets/images/details/treks_gudja_chapels_info_img1.jpg",
-                "imageSecondary": "assets/images/details/treks_gudja_chapels_info_img1.jpg"
+                "imageSecondary": "assets/images/details/treks_gudja_chapels_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+
+            {
+              "id": "nature-treks-zejtun-marsaxlokk",
+              "name": "Zejtun-Marasaxlokk",
+              "bannerImage": "assets/images/treks_zejtun_marsaxlokk_badge.jpg",
+              "badgeImage": "assets/badges/treks_zejtun_marsaxlokk_badge.png",
+              "gpxFile": "assets/gpx/zejtun-mxlokk-design.gpx",
+              "shortDescription": "Zejtun-Marasaxlokk Countryside",
+              "details": {
+                "distance": "5.8km",
+                "time": "1.5 hours",
+                "elevation": "70m",
+                "difficulty": "Easy",
+                "loop": "Loop",
+                "shoes": "Trainers",
+                "hidden_gems": "1",
+                "iconic_landmarks": "2"
+              },
+              "checkpoints": [
+                {
+                  "id": "Batterija Misrah Strejnu",
+                  "type": "milestone",
+                  "latitude": 35.850721,  
+                  "longitude": 14.546935,
+                  "checkpointTitle": "Batterija Misrah Strejnu",
+                  "checkpointText": "Batterija Misrah Strejnu",
+                  "checkpointImage": "assets/images/treks_inwadar_pillbox.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Tas Silg Chapel",
+                  "type": "milestone",
+                  "latitude": 35.844670,   
+                  "longitude": 14.552446,
+                  "checkpointTitle": "Tas Silg Chapel",
+                  "checkpointText": "Tas Silg Chapel",
+                  "checkpointImage": "assets/images/treks_inwadar_pillbox.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Tas Silg Archeological Complex",
+                  "type": "milestone",
+                  "latitude": 35.845692,   
+                  "longitude": 14.551957,
+                  "checkpointTitle": "Tas Silg Archeological Complex",
+                  "checkpointText": "Tas Silg Archeological Complex",
+                  "checkpointImage": "assets/images/treks_inwadar_pillbox.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Hal Ginwi Temple",
+                  "type": "milestone",
+                  "latitude": 35.848027,   
+                  "longitude": 14.547490,
+                  "checkpointTitle": "Hal Ginwi Temple",
+                  "checkpointText": "Hal Ginwi Temple",
+                  "checkpointImage": "assets/images/treks_inwadar_pillbox.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Kappella San Niklaw",
+                  "type": "milestone",
+                  "latitude": 35.848679,  
+                  "longitude": 14.547513,
+                  "checkpointTitle": "Batterija Misrah Strejnu",
+                  "checkpointText": "Batterija Misrah Strejnu",
+                  "checkpointImage": "assets/images/treks_inwadar_pillbox.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Test Route",
+                    "description": "To check if it works"
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_inwadar_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_inwadar_info_img2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
