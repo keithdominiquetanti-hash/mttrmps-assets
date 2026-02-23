@@ -834,82 +834,138 @@
 
             {
               "id": "nature-treks-zejtun-marsaxlokk",
-              "name": "Zejtun-Marasaxlokk",
-              "bannerImage": "assets/images/treks_zejtun_marsaxlokk_badge.jpg",
-              "badgeImage": "assets/badges/treks_zejtun_marsaxlokk_badge.png",
-              "gpxFile": "assets/gpx/zejtun-mxlokk-design.gpx",
+              "name": "San Girgor - Tas-Silg",
+              "bannerImage": "assets/images/treks_zejtun_mxlokk_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_zejtun_mxlokk_badge.png",
+              "gpxFile": "assets/gpx/zejtun-mxlokk.gpx",
               "shortDescription": "Zejtun-Marasaxlokk Countryside",
               "details": {
-                "distance": "5.8km",
+                "distance": "5.2km",
                 "time": "1.5 hours",
-                "elevation": "70m",
+                "elevation": "75m",
                 "difficulty": "Easy",
                 "loop": "Loop",
                 "shoes": "Trainers",
-                "hidden_gems": "1",
+                "hidden_gems": "2",
                 "iconic_landmarks": "2"
               },
               "checkpoints": [
                 {
-                  "id": "Batterija Misrah Strejnu",
+                  "id": "Gnien l-Ghannejja Zwieten",
                   "type": "milestone",
-                  "latitude": 35.850721,  
-                  "longitude": 14.546935,
-                  "checkpointTitle": "Batterija Misrah Strejnu",
-                  "checkpointText": "Batterija Misrah Strejnu",
-                  "checkpointImage": "assets/images/treks_inwadar_pillbox.jpg",
+                  "latitude": 35.852410,   
+                  "longitude": 14.538073,
+                  "checkpointTitle": "Gnien l-Ghannejja Zwieten",
+                  "checkpointText": "During opening hours it is worth visiting this beautifully designed garden dedicated to renowned singers of traditional Maltese folk music (Ghana) from Zejtun. One can find statues commemorating these singers, a kids playground and a wide vista over Zejtun fields up to St. THomas Bay in Marsascala.",
+                  "checkpointImage": "assets/images/treks_zejtun_mxlokk_gnien_ghannejja.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Tas Silg Chapel",
+                  "id": "Gnien tal-Kmandant Facade",
                   "type": "milestone",
-                  "latitude": 35.844670,   
-                  "longitude": 14.552446,
-                  "checkpointTitle": "Tas Silg Chapel",
-                  "checkpointText": "Tas Silg Chapel",
-                  "checkpointImage": "assets/images/treks_inwadar_pillbox.jpg",
+                  "latitude": 35.852238,   
+                  "longitude": 14.537466,
+                  "checkpointTitle": "Gnien tal-Kmandant Facade",
+                  "checkpointText": "From inside the playground one could also get an outside look to this garden commissioned by the first British Governor of Malta Sir Alexander Ball for the enjoyment of the village captains nominated by the British. We have encountered other similar gardens and facades in some of our other treks.",
+                  "checkpointImage": "assets/images/treks_zejtun_mxlokk_gnien_kmandant.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Tas Silg Archeological Complex",
+                  "id": "Alley Roads",
                   "type": "milestone",
-                  "latitude": 35.845692,   
-                  "longitude": 14.551957,
-                  "checkpointTitle": "Tas Silg Archeological Complex",
-                  "checkpointText": "Tas Silg Archeological Complex",
-                  "checkpointImage": "assets/images/treks_inwadar_pillbox.jpg",
-                  "badgeImage": ""
-                },
-                {
-                  "id": "Hal Ginwi Temple",
-                  "type": "milestone",
-                  "latitude": 35.848027,   
-                  "longitude": 14.547490,
-                  "checkpointTitle": "Hal Ginwi Temple",
-                  "checkpointText": "Hal Ginwi Temple",
-                  "checkpointImage": "assets/images/treks_inwadar_pillbox.jpg",
+                  "latitude": 35.849581,     
+                  "longitude": 14.544945,
+                  "checkpointTitle": "Alley Roads",
+                  "checkpointText": "This countryside road taking to Marsaxlokk has numerous side alleys. If you want a small detour to venture into one of them, we have just arrived to one of the most characteristic - A dead-end alley with green fields and low-lying farm structures that takes close to the site of the British Battery of Mistrah Strejnu (properly visible from the other side).",
+                  "checkpointImage": "assets/images/treks_zejtun_mxlokk_alley_road.jpg",
                   "badgeImage": ""
                 },
                 {
                   "id": "Kappella San Niklaw",
-                  "type": "milestone",
+                  "type": "hidden_gem",
                   "latitude": 35.848679,  
                   "longitude": 14.547513,
-                  "checkpointTitle": "Batterija Misrah Strejnu",
-                  "checkpointText": "Batterija Misrah Strejnu",
-                  "checkpointImage": "assets/images/treks_inwadar_pillbox.jpg",
+                  "checkpointTitle": "Kappella San Niklaw",
+                  "checkpointText": "A remotely located chapel within a scenic setting that was rebuilt in 1640 in an architectural style typical of the 17th century. Historic records of this chapel data back to the start of the 16th century. The feast of St. Nicholas is celebrated in this chapel yearly on the 6th of December.",
+                  "checkpointImage": "assets/badges/treks_zejtun_mxlokk_gem_san_niklaw_chapel.png",
+                  "badgeImage": "assets/badges/treks_zejtun_mxlokk_gem_san_niklaw_chapel.png"
+                },
+                {
+                  "id": "Tas Silg Archeological Complex",
+                  "type": "iconic_landmark",
+                  "latitude": 35.845721,    
+                  "longitude": 14.551859,
+                  "checkpointTitle": "Tas Silg Archeological Complex",
+                  "checkpointText": "On either side of the road you can observed excavated remains of a multi-period sanctuary site with over 4,000 years of history. Overlooking Marasaxlokk bay, the site originated as a Neolithic megalithic temple (around 3000 BC), was adapted by the Phoenicians for hosting a temple dedicated to the goddess Astarte, and later served as a Roman sanctuary for Juno before being replaced by a Byzantine monastery.",
+                  "checkpointImage": "assets/badges/treks_zejtun_mxlokk_landmark_tas_silg_temples.png",
+                  "badgeImage": "assets/badges/treks_zejtun_mxlokk_landmark_tas_silg_temples.png"
+                },
+                {
+                  "id": "Tas Silg Church",
+                  "type": "iconic_landmark",
+                  "latitude": 35.844670,   
+                  "longitude": 14.552446,
+                  "checkpointTitle": "Tas Silg Church",
+                  "checkpointText": "Dedicated to our Lady of the Snows, this church was originally built in 1650 by a well to-do family. Was used by the military during WW2 and today the convent has been turned into a religious retreat house. Our Lady of the Snows? originates from a 4th-century Roman legend, where, during the night of August 5, 352 (or 358) A.D., a miraculous, unseasonal snowfall covered the Esquiline Hill in Rome. It is definitely one of the churches with the most amazing scenery. Once having taken in the views onto Delimara hills, we can take the path on the side of the church for another amazing view.",
+                  "checkpointImage": "assets/badges/treks_zejtun_mxlokk_lanmark_tas_silg_church.png",
+                  "badgeImage": "assets/badges/treks_zejtun_mxlokk_lanmark_tas_silg_church.png"
+                },
+                {
+                  "id": "Delimara & Marsaxlokk Bay View",
+                  "type": "hidden_gem",
+                  "latitude": 35.843959,   
+                  "longitude": 14.551450,
+                  "checkpointTitle": "Delimara & Marsaxlokk Bay View",
+                  "checkpointText": "This quite hidden spot offers an amazing open view onto Delimara promontory and Marsaxlokk Bay. Areas we will discover more fully in one of our other treks.",
+                  "checkpointImage": "assets/badges/treks_zejtun_mxlokk_gem_delimara_view.png",
+                  "badgeImage": "assets/badges/treks_zejtun_mxlokk_gem_delimara_view.png"
+                },
+                {
+                  "id": "Path back to Zejtun",
+                  "type": "milestone",
+                  "latitude": 35.843641,  
+                  "longitude": 14.544899,
+                  "checkpointTitle": "Path back to Zejtun",
+                  "checkpointText": "Path back to Zejtun",
+                  "checkpointImage": "assets/images/treks_zejtun_mxlokk_path_back_zejtun.jpg",
+                  "badgeImage": "This path will lead us back to Zejtun. Along the way some dogs might follow and bark at you. Harmless, but if this can panic you, one can still take the path back in reverse direction and rejoin the designed route at a later point."
+                },
+                {
+                  "id": "St. Gregory - Old Parish Church",
+                  "type": "milestone",
+                  "latitude": 35.852855,  
+                  "longitude": 14.538014,
+                  "checkpointTitle": "St. Gregory - Old Parish Church",
+                  "checkpointText": "Dedicated to St. Catherine of Alexandria, although it is more commonly known as the church of St. Gregory due to the fact that the famous annual procession of St. Gregory held on the first Wedensday after Easter ends here with a celebrated mass (traditionally starting from Mdina but now confined to a shorter route within Zejtun. It is one of the oldest churches in Malta dating before the 15th century, which is also marked by the more fortified looking architectural style. Our trek ends here, where you can also observed a statue dedicated to St. Gregory in the middle of the nearby parking lot.",
+                  "checkpointImage": "assets/images/treks_zejtun_mxlokk_st_gregory_old_parish.jpg",
                   "badgeImage": ""
                 }
               ],
               "detailContent": {
                 "highlights": [
                   {
-                    "title": "Test Route",
-                    "description": "To check if it works"
+                    "title": "Getting there",
+                    "description": "The route starts adjacent to a public garden dedicated to Ghannejja (Maltese folk singers) from Zejtun. Served by bus 84 from Valletta to 'Girgor' bus stop. Private vehicle parking spaces available on the opposite side of the garden, near the old parish church. GPS coordinates to starting point: 35.852771, 14.538642."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "Takes us along countryside roads and paths to Marsaxlokk and back, encountering various historical landmarks and scenic views along the way. Taking a small loop then it returns close to the starting point at the nearby Zejtun Old Parish church dedicated to St. Gregory."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Along asphalted roads with little elevation change. Can be done in comfortable trainers."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "When taking a different path back from Marsaxlokk to Zejtun, some dogs might follow and bark at you. Harmless, but if this can panic you, one can still take the path back in reverse direction and rejoin the designed route at a later point."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Public WC facility within the public garden at route start & end."
                   }
                 ],
-                "imagePrimary": "assets/images/details/treks_inwadar_info_img1.jpg",
-                "imageSecondary": "assets/images/details/treks_inwadar_info_img2.jpg"
+                "imagePrimary": "assets/images/details/treks_zejtun_mxlokk_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_zejtun_mxlokk_info_img2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
