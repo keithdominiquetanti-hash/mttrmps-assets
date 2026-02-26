@@ -1856,6 +1856,127 @@
               "discountedPrice": 2.0,
               "couponTrekTrigger": "A",
               "couponTrigger": "Z"
+            },
+
+            {
+              "id": "nature-treks-north-qlejgha-bingemma",
+              "name": "Wied Qlejgha - Bingemma",
+              "bannerImage": "assets/images/treks_qannotta_viewpoint.jpg",
+              "badgeImage": "assets/badges/treks_wied_qannotta_badge.png",
+              "gpxFile": "assets/gpx/qlejgha-bingemma.gpx",
+              "shortDescription": "From Chadwick Lakes to Victoria Lines",
+              "details": {
+                "distance": "10.3m",
+                "time": "2.5 hours",
+                "elevation": "210m",
+                "difficulty": "Challenging",
+                "loop": "Loop",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "0",
+                "iconic_landmarks": "4"
+              },
+              "checkpoints": [
+                {
+                  "id": "Chadwick Lakes",
+                  "type": "milestone",
+                  "latitude": 35.891746, 
+                  "longitude": 14.389242,
+                  "checkpointTitle": "Chadwick Lakes",
+                  "checkpointText": "Chadwick Lakes",
+                  "checkpointImage": "assets/images/treks_qannotta_san_pawl_milqi.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wied Qlejgha CrossRoad",
+                  "type": "milestone",
+                  "latitude": 35.896995,    
+                  "longitude": 14.394345,
+                  "checkpointTitle": "Wied Qlejgha CrossRoad",
+                  "checkpointText": "Wied Qlejgha CrossRoad",
+                  "checkpointImage": "assets/images/treks_qannotta_start_valley.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Il-Qolla",
+                  "type": "milestone",
+                  "latitude": 35.898979,   
+                  "longitude": 14.386149,
+                  "checkpointTitle": "Il-Qolla",
+                  "checkpointText": "Il-Qolla",
+                  "checkpointImage": "assets/images/treks_qannotta_start_valley.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Bingemma Viewpoint",
+                  "type": "milestone",
+                  "latitude": 35.905470,   
+                  "longitude": 14.379744,
+                  "checkpointTitle": "Bingemma Viewpoint",
+                  "checkpointText": "Bingemma Viewpoint",
+                  "checkpointImage": "assets/images/treks_qannotta_start_valley.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Bingemma Victoria Lines",
+                  "type": "milestone",
+                  "latitude": 35.903415,   
+                  "longitude": 14.378821,
+                  "checkpointTitle": "Bingemma Victoria Lines",
+                  "checkpointText": "Bingemma Victoria Lines",
+                  "checkpointImage": "assets/images/treks_qannotta_start_valley.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Chapel of Our Lady of Itria",
+                  "type": "milestone",
+                  "latitude": 35.903372,    
+                  "longitude": 14.377322,
+                  "checkpointTitle": "Chapel of Our Lady of Itria",
+                  "checkpointText": "Chapel of Our Lady of Itria",
+                  "checkpointImage": "assets/images/treks_qannotta_start_valley.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Tas-Salib Chapel",
+                  "type": "milestone",
+                  "latitude": 35.891447,     
+                  "longitude": 14.380882,
+                  "checkpointTitle": "Tas-Salib Chapel",
+                  "checkpointText": "Tas-Salib Chapel",
+                  "checkpointImage": "assets/images/treks_qannotta_start_valley.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Start and end from near Burmarrad church. Bus routes & parking.  GPS coordinates to starting point: 35.934630, 14.414336."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "Wied Qannotta, Ghajn Rihana, tal-Qadi"
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Mix of valley paths and asphalted road"
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "One major road crossings but with pedestrian traffic lights available - use them for safety"
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Not a main tourist area, with some snack bars/ small restaurants near the start/ end location."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_ghomor_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_ghomor_info2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
             }
           ]
         }
