@@ -1707,122 +1707,122 @@
           "name": "North",
           "treks": [
             {
-              "id": "nature-treks-north-wied-qannotta",
+              "id": "nature-treks-north-wied-qannotta-rihana",
               "name": "Wied Qannotta - Ghajn Rihana",
-              "bannerImage": "assets/images/treks_qannotta_viewpoint.jpg",
-              "badgeImage": "assets/badges/treks_wied_qannotta_badge.png",
-              "gpxFile": "assets/gpx/wied-qannotta-design.gpx",
-              "shortDescription": "One of the greenest valleys",
+              "bannerImage": "assets/images/details/treks_qannotta_info_img1.jpg",
+              "badgeImage": "assets/badges/ttreks_qannotta_rihana_badge.png",
+              "gpxFile": "assets/gpx/wied-qannotta-rihana.gpx",
+              "shortDescription": "For amazing green views with a touch of historic heritage",
               "details": {
-                "distance": "8.9km",
+                "distance": "8.8km",
                 "time": "2 hours",
-                "elevation": "160m",
+                "elevation": "150m",
                 "difficulty": "Moderate",
                 "loop": "Loop",
                 "shoes": "Trekking Shoes",
-                "hidden_gems": "1",
+                "hidden_gems": "2",
                 "iconic_landmarks": "3"
               },
               "checkpoints": [
+                  {
+                  "id": "Burmarrad Parish Church",
+                  "type": "milestone",
+                  "latitude": 35.933787,  
+                  "longitude": 14.415023, 
+                  "checkpointTitle": "Burmarrad Parish Church",
+                  "checkpointText": "The trek starts from the Burmarrad Parish Church of the Immaculate Heart of Mary - a modern Roman Catholic sanctuary established in 1971 and managed by the Franciscan Conventual Friars.",
+                  "checkpointImage": "assets/images/treks_qannotta_rihana_burmarrad_church.jpg",
+                  "badgeImage": ""
+                },
                 {
                   "id": "San Pawl Milqi",
-                  "type": "milestone",
-                  "latitude": 35.933549,     
-                  "longitude": 14.411295,
+                  "type": "iconic_landmark",
+                  "latitude": 35.933298,      
+                  "longitude": 14.411455,
                   "checkpointTitle": "San Pawl Milqi",
-                  "checkpointText": "Largest Roman Villa remains",
-                  "checkpointImage": "assets/images/treks_qannotta_san_pawl_milqi.jpg",
-                  "badgeImage": ""
+                  "checkpointText": "archaeological site features the most extensive remains of a Roman agricultural villa ever discovered in Malta, including ancient olive-pressing equipment and fortifications. Managed by Heritage Malta, the site is traditionally believed to be where St. Publius welcomed St. Paul after his shipwreck, though it remains closed to the public except for special open days.",
+                  "checkpointImage": "assets/badges/treks_qannotta_rihana_landmark_san_pawl_milqi.png",
+                  "badgeImage": "assets/badges/treks_qannotta_rihana_landmark_san_pawl_milqi.png"
                 },
                 {
                   "id": "Start of Wied Qannotta",
                   "type": "milestone",
-                  "latitude": 35.938189,    
-                  "longitude": 14.410291,
+                  "latitude": 35.938096,    
+                  "longitude": 14.409811,
                   "checkpointTitle": "Start of Wied Qannotta",
-                  "checkpointText": "Info on Wied Qannotta",
-                  "checkpointImage": "assets/images/treks_qannotta_start_valley.jpg",
+                  "checkpointText": "We now take the path to Wied Qannotta -  a scenic, fertile valley stretching between Burmarrad, Wardija and Bidnija. As a typical Maltese wadi, it serves as a natural watercourse during the rainy season, supporting local agriculture and vital groundwater collection.",
+                  "checkpointImage": "assets/images/treks_qannotta_rihana_start_qannotta.jpg",
                   "badgeImage": ""
                 },
                 {
                   "id": "Wied Qannotta Chapel",
                   "type": "hidden_gem",
-                  "latitude": 35.935160,   
-                  "longitude": 14.399212,
+                  "latitude": 35.935131,    
+                  "longitude": 14.399484,
                   "checkpointTitle": "Wied Qannotta Chapel",
-                  "checkpointText": "Info on Wied Qannotta Chapel",
-                  "checkpointImage": "assets/badges/treks_wied_kbir_landmark_wied_kbir.png",
-                  "badgeImage": "assets/badges/treks_wied_kbir_landmark_wied_kbir.png"
+                  "checkpointText": "The short uphill path has taken us this derelict 16th-century wayside chapel. Originally dedicated to the Nativity of Our Lady, it was rededicated to the Immaculate Conception in the 18th century following a rebuilding. Make sure to also take in the amazing views over the valley from this spot.",
+                  "checkpointImage": "assets/badges/treks_qannotta_rihana_gem_qannotta_chapel.png",
+                  "badgeImage": "assets/badges/treks_qannotta_rihana_gem_qannotta_chapel.png"
                 },
                 {
                   "id": "Wied Qannotta Viewpoint",
                   "type": "iconic_landmark",
-                  "latitude": 35.930415,   
-                  "longitude": 14.401541,
+                  "latitude": 35.930209,   
+                  "longitude": 14.401636,
                   "checkpointTitle": "Wied Qannotta Viewpoint",
-                  "checkpointText": "Wied Qannotta Viewpoint.",
-                  "checkpointImage": "assets/badges/treks_qannotta_viewpoint.png",
-                  "badgeImage": "assets/badges/treks_qannotta_viewpoint.png"
+                  "checkpointText": "Take a moment to enjoy one of the greenest viewpoints in Malta, overlooking the fertile valley of Wied Qannotta nestled between the Wardija and Bidnija hills",
+                  "checkpointImage": "assets/badges/treks_qannotta_rihana_landmark_viewpoint.png",
+                  "badgeImage": "assets/badges/treks_qannotta_rihana_landmark_viewpoint.png"
                 },
                 {
                   "id": "Kappella Santa Margerita",
-                  "type": "iconic_landmark",
-                  "latitude": 35.925214,    
-                  "longitude": 14.415693,
+                  "type": "milestone",
+                  "latitude": 35.925183,     
+                  "longitude": 14.415717,
                   "checkpointTitle": "Kappella Santa Margerita",
-                  "checkpointText": "Kappella Santa Margerita ta Ghajn Rihana",
-                  "checkpointImage": "assets/badges/treks_qannotta_landmark_santa_margerita.png",
-                  "badgeImage": "assets/badges/treks_qannotta_landmark_santa_margerita.png"
+                  "checkpointText": "The downhill path with the green views onlooking the Targa Gap ridge, has taken us to the chapel of St. Margaret. Though its exact origins are unknown, it was first documented in 1575 by Monsignor Pietro Dusina and later rebuilt in its current form in the 18th century.",
+                  "checkpointImage": "assets/images/treks_qannotta_rihana_st_margerita_chapel.jpg",
+                  "badgeImage": ""
                 },
                 {
                   "id": "Ghajn Rihana",
-                  "type": "milestone",
-                  "latitude": 35.925887, 
-                  "longitude": 14.416695,
+                  "type": "iconic_landmark",
+                  "latitude": 35.925035,   
+                  "longitude": 14.416726,
                   "checkpointTitle": "Ghajn Rihana",
-                  "checkpointText": "Ghajn Rihana valley",
+                  "checkpointText": "We have now reached a recently regenerated path alongside the natural watercourse of Ghajn Rihana. The name likely refers to the myrtle plant (riħan), and the valley features a stream that flows for most of the year, particularly after the winter rains.",
                   "checkpointImage": "assets/images/treks_qannotta_ghajn_rihana.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Tal-Qadi Area",
-                  "type": "milestone",
-                  "latitude": 35.933025,  
-                  "longitude": 14.422930,
-                  "checkpointTitle": "Tal-Qadi Area",
-                  "checkpointText": "Tal-Qadi Area",
-                  "checkpointImage": "assets/images/treks_qannotta_tal_qadi_road.jpg",
-                  "badgeImage": ""
-                },
-                {
                   "id": "Tal-Qadi Temple",
-                  "type": "iconic_landmark",
-                  "latitude": 35.936758,  
-                  "longitude": 14.420412,
+                  "type": "hidden_gem",
+                  "latitude": 35.936764,  
+                  "longitude": 14.420418,
                   "checkpointTitle": "Tal-Qadi Temple",
-                  "checkpointText": "Tal-Qadi Temple",
-                  "checkpointImage": "assets/badges/treks_qannotta_landmark_qadi_temple.png",
-                  "badgeImage": "assets/badges/treks_qannotta_landmark_qadi_temple.png"
+                  "checkpointText": "Hidden amongst the farmhouses lies the Tal Qadi Temple - a megalithic temple site dating back to the Tarxien phase (c. 3300–3000 BC). A famous globigerina limestone slab was discovered here in 1927, featuring incised star-like symbols and a crescent moon. Many scholars believe it represents one of the world's oldest lunar calendars or star maps.",
+                  "checkpointImage": "assets/badges/treks_qannotta_rihana_landmark_tal_qadi_temple.png",
+                  "badgeImage": "assets/badges/treks_qannotta_rihana_landmark_tal_qadi_temple.png"
                 },
 
                 {
                   "id": "St. Michael Chapel",
                   "type": "milestone",
-                  "latitude": 35.941062,  
-                  "longitude": 14.420474,
+                  "latitude": 35.941045,  
+                  "longitude": 14.420448,
                   "checkpointTitle": "St. Michael Chapel",
-                  "checkpointText": "St. Michael Chapel & Bird Park.",
-                  "checkpointImage": "assets/images/treks_qannotta_st_michael_chapel.jpg",
+                  "checkpointText": "We have now reached the most renowned Bird Park in Malta, as well as St. Michael Chapel. This is a late 16th-century wayside chapel, rebuilt in its present form in the 18th century. Characterised by simple facade and small bell-cot, standing as a historic landmark within the fertile Għajn Riħana valley.",
+                  "checkpointImage": "assets/images/treks_qannotta_rihana_st_michael_chapel.jpg",
                   "badgeImage": ""
                 },
                 {
                   "id": "Burmarrad Valley Fields",
                   "type": "milestone",
-                  "latitude": 35.937211,  
-                  "longitude": 14.415499, 
+                  "latitude": 35.938778,  
+                  "longitude": 14.418163, 
                   "checkpointTitle": "Burmarrad Valley Fields",
-                  "checkpointText": "Burmarrad Valley Fields",
-                  "checkpointImage": "assets/images/treks_qannotta_valley_fields.jpg",
+                  "checkpointText": "Thanks for experiencing with us this trek, which now approaches the end through the quiet fields of the Burmarrad plain before reaching again the Burmarrad Parish Church.",
+                  "checkpointImage": "assets/images/treks_qannotta_rihana_burmarrad_fields.jpg",
                   "badgeImage": ""
                 }
               ],
@@ -1830,27 +1830,27 @@
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Start and end from near Burmarrad church. Bus routes & parking.  GPS coordinates to starting point: 35.934630, 14.414336."
+                    "description": "Start and end from near Burmarrad Parish church. From Valletta, buses 41, 42, 45, 48, or 250 offer a direct route to the area. Vehicle parking best sought in side streets or proceeding further near Lidl supermarket.  GPS coordinates to starting point: 35.933550, 14.415173."
                   },
                   {
                     "title": "The Route",
-                    "description": "Wied Qannotta, Ghajn Rihana, tal-Qadi"
+                    "description": "From the hamlet of Burmarrad, the route heads into the scenic valley of Wied Qannotta, before looping back through the Ghajn Rihana valley whilst exploring scenic views and some hidden historic landmarks."
                   },
                   {
                     "title": "Terrain",
-                    "description": "Mix of valley paths and asphalted road"
+                    "description": "Within Wied Qannotta, the path is a mix of soily and rocky terrain, with some short uphill sections. Certain areas can also hold muddy waters. Trekking shoes are hence recommended. The rest of the route is largely on asphalted or level paths."
                   },
                   {
                     "title": "Safety Warning",
-                    "description": "One major road crossings but with pedestrian traffic lights available - use them for safety"
+                    "description": "One major road crossings but with pedestrian traffic lights available - use them for safety."
                   },
                   {
                     "title": "Amenities",
-                    "description": "Not a main tourist area, with some snack bars/ small restaurants near the start/ end location."
+                    "description": "Food outlets and small bars/ pubs present in the centre of Burmarrad hamlet near the start and end points of the route. The rest of the route is immeersed in nature."
                   }
                 ],
-                "imagePrimary": "assets/images/details/treks_ghomor_info1.jpg",
-                "imageSecondary": "assets/images/details/treks_ghomor_info2.jpg"
+                "imagePrimary": "assets/images/details/treks_qannotta_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_qannotta_info_img2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
