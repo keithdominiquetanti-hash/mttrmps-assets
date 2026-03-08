@@ -1710,7 +1710,7 @@
               "id": "nature-treks-north-wied-qannotta-rihana",
               "name": "Wied Qannotta - Ghajn Rihana",
               "bannerImage": "assets/images/details/treks_qannotta_info_img1.jpg",
-              "badgeImage": "assets/badges/ttreks_qannotta_rihana_badge.png",
+              "badgeImage": "assets/badges/treks_qannotta_rihana_badge.png",
               "gpxFile": "assets/gpx/wied-qannotta-rihana.gpx",
               "shortDescription": "For amazing green views with a touch of historic heritage",
               "details": {
@@ -1791,8 +1791,8 @@
                   "longitude": 14.416726,
                   "checkpointTitle": "Ghajn Rihana",
                   "checkpointText": "We have now reached a recently regenerated path alongside the natural watercourse of Ghajn Rihana. The name likely refers to the myrtle plant (riħan), and the valley features a stream that flows for most of the year, particularly after the winter rains.",
-                  "checkpointImage": "assets/images/treks_qannotta_ghajn_rihana.jpg",
-                  "badgeImage": ""
+                  "checkpointImage": "assets/badges/treks_qannotta_rihana_landmark_ghajn_rihana.png",
+                  "badgeImage": "assets/badges/treks_qannotta_rihana_landmark_ghajn_rihana.png"
                 },
                 {
                   "id": "Tal-Qadi Temple",
@@ -1801,8 +1801,8 @@
                   "longitude": 14.420418,
                   "checkpointTitle": "Tal-Qadi Temple",
                   "checkpointText": "Hidden amongst the farmhouses lies the Tal Qadi Temple - a megalithic temple site dating back to the Tarxien phase (c. 3300–3000 BC). A famous globigerina limestone slab was discovered here in 1927, featuring incised star-like symbols and a crescent moon. Many scholars believe it represents one of the world's oldest lunar calendars or star maps.",
-                  "checkpointImage": "assets/badges/treks_qannotta_rihana_landmark_tal_qadi_temple.png",
-                  "badgeImage": "assets/badges/treks_qannotta_rihana_landmark_tal_qadi_temple.png"
+                  "checkpointImage": "assets/badges/treks_qannotta_rihana_gem_tal_qadi_temple.png",
+                  "badgeImage": "assets/badges/treks_qannotta_rihana_gem_tal_qadi_temple.png"
                 },
 
                 {
@@ -1859,91 +1859,111 @@
             },
 
             {
-              "id": "nature-treks-north-qlejgha-bingemma",
-              "name": "Wied Qlejgha - Bingemma",
+              "id": "nature-treks-north-chadwick-bingemma",
+              "name": "Fiddien - Bingemma",
               "bannerImage": "assets/images/treks_qannotta_viewpoint.jpg",
-              "badgeImage": "assets/badges/treks_wied_qannotta_badge.png",
-              "gpxFile": "assets/gpx/qlejgha-bingemma.gpx",
-              "shortDescription": "From Chadwick Lakes to Victoria Lines",
+              "badgeImage": "assets/badges/treks_fiddien_bingemma_badge.png",
+              "gpxFile": "assets/gpx/chadwick-bingemma.gpx",
+              "shortDescription": "From Chadwick Lakes to Bingemma",
               "details": {
                 "distance": "10.3m",
                 "time": "2.5 hours",
-                "elevation": "210m",
-                "difficulty": "Challenging",
+                "elevation": "193m",
+                "difficulty": "Moderate",
                 "loop": "Loop",
                 "shoes": "Trekking Shoes",
-                "hidden_gems": "0",
+                "hidden_gems": "1",
                 "iconic_landmarks": "4"
               },
               "checkpoints": [
                 {
-                  "id": "Chadwick Lakes",
+                  "id": "Chadwick Lakes Trail",
                   "type": "milestone",
-                  "latitude": 35.891746, 
-                  "longitude": 14.389242,
-                  "checkpointTitle": "Chadwick Lakes",
-                  "checkpointText": "Chadwick Lakes",
-                  "checkpointImage": "assets/images/treks_qannotta_san_pawl_milqi.jpg",
+                  "latitude": 35.886523,  
+                  "longitude": 14.380316,
+                  "checkpointTitle": "Chadwick Lakes Trail",
+                  "checkpointText": "Recently opened trail along Fiddien Valley to Chadwick Lakes. The area got its name after the intervention of Sir Osbert Chadwick, when during the second half of the 19th century planned several dams, of various sizes and forms, with the intention to retain as much rainwater as possible.",
+                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
                   "badgeImage": ""
+                },
+                {
+                  "id": "Chadwick Lakes",
+                  "type": "iconic_landmark",
+                  "latitude": 35.891877,   
+                  "longitude": 14.389337,
+                  "checkpointTitle": "Chadwick Lakes",
+                  "checkpointText": "You have now reached the main water catchment area of the Qlejgha Valley, forming the most searched scene  within the Chadwick lakes system. The stream then continues to meander around the valley floor, forming small pools, or even small waterfalls, wherever there are depressions in the ground. The amount of water present in the valley is very seasonal.",
+                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
+                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
                 },
                 {
                   "id": "Wied Qlejgha CrossRoad",
                   "type": "milestone",
-                  "latitude": 35.896995,    
-                  "longitude": 14.394345,
+                  "latitude": 35.897011,    
+                  "longitude": 14.394325,
                   "checkpointTitle": "Wied Qlejgha CrossRoad",
-                  "checkpointText": "Wied Qlejgha CrossRoad",
-                  "checkpointImage": "assets/images/treks_qannotta_start_valley.jpg",
+                  "checkpointText": "The uphill path on the left side takes us to the planned route to Bingemma but it is suggested to first continue for the rest of the road ahead to enjoy in full the Qlejgha valley, and then return to this mark.",
+                  "checkpointImage": "assets/images/treks_fiddien_bingemma_path_to_qolla.jpg",
                   "badgeImage": ""
                 },
                 {
                   "id": "Il-Qolla",
-                  "type": "milestone",
-                  "latitude": 35.898979,   
-                  "longitude": 14.386149,
+                  "type": "hidden_gem",
+                  "latitude": 35.899172,    
+                  "longitude": 14.386061,
                   "checkpointTitle": "Il-Qolla",
-                  "checkpointText": "Il-Qolla",
-                  "checkpointImage": "assets/images/treks_qannotta_start_valley.jpg",
-                  "badgeImage": ""
+                  "checkpointText": "The climb was worth it. Has taken us to this hlll known as il-Qolla with 360 degree scenic views. Venture into the rock formations of the hill for more amazing views. A great place to take a snack break in some shade provided by the trees.",
+                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_gem_qolla.png",
+                  "badgeImage": "assets/badges/treks_fiddien_bingemma_gem_qolla.png"
                 },
                 {
                   "id": "Bingemma Viewpoint",
-                  "type": "milestone",
-                  "latitude": 35.905470,   
-                  "longitude": 14.379744,
+                  "type": "iconic_landmark",
+                  "latitude": 35.904034,   
+                  "longitude": 14.378261,
                   "checkpointTitle": "Bingemma Viewpoint",
-                  "checkpointText": "Bingemma Viewpoint",
-                  "checkpointImage": "assets/images/treks_qannotta_start_valley.jpg",
-                  "badgeImage": ""
+                  "checkpointText": "Reaching near the Bingemma cliff edge, you can enjoy views over the Bingemma Gap with the Victoria Lines on the left, Our Lady of Itria chapel ahead, the town of Mgarr on the right and the Gozo channel ahead.",
+                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_bingemma_viewpoint.png",
+                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_bingemma_viewpoint.png"
                 },
                 {
-                  "id": "Bingemma Victoria Lines",
-                  "type": "milestone",
-                  "latitude": 35.903415,   
-                  "longitude": 14.378821,
-                  "checkpointTitle": "Bingemma Victoria Lines",
-                  "checkpointText": "Bingemma Victoria Lines",
-                  "checkpointImage": "assets/images/treks_qannotta_start_valley.jpg",
-                  "badgeImage": ""
+                  "id": "Bingemma Gap Victoria Lines",
+                  "type": "iconic_landmark",
+                  "latitude": 35.903623,    
+                  "longitude": 14.378781,
+                  "checkpointTitle": "Bingemma Gap Victoria Lines",
+                  "checkpointText": "We have already been walking along the Victoria Lines - a 12km British line of fortifications along the width of Malta - but we have now reached one of its most scenic and photographed spots within the Bingemma Gap",
+                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_gap.png",
+                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_gap.png"
                 },
                 {
                   "id": "Chapel of Our Lady of Itria",
-                  "type": "milestone",
-                  "latitude": 35.903372,    
-                  "longitude": 14.377322,
+                  "type": "iconic_landmark",
+                  "latitude": 35.903387,     
+                  "longitude": 14.377328,
                   "checkpointTitle": "Chapel of Our Lady of Itria",
-                  "checkpointText": "Chapel of Our Lady of Itria",
-                  "checkpointImage": "assets/images/treks_qannotta_start_valley.jpg",
-                  "badgeImage": ""
+                  "checkpointText": "A humble rural chapel quietly overlooking the surrounding valleys. Built centuries ago by local farmers and travelers, it has long served as a peaceful waypoint for those crossing these Maltese hills.",
+                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_itria.png",
+                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_itria.png"
                 },
                 {
                   "id": "Tas-Salib Chapel",
                   "type": "milestone",
-                  "latitude": 35.891447,     
-                  "longitude": 14.380882,
+                  "latitude": 35.891454,     
+                  "longitude": 14.380914,
                   "checkpointTitle": "Tas-Salib Chapel",
-                  "checkpointText": "Tas-Salib Chapel",
-                  "checkpointImage": "assets/images/treks_qannotta_start_valley.jpg",
+                  "checkpointText": "A small countryside chapel that has watched over this path for generations. Pilgrims and villagers once stopped here to rest and pray, making it a quiet landmark along Rabat’s old rural routes.",
+                  "checkpointImage": "assets/images/treks_fiddien_bingemma_tas_salib_chapel.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wied il-Fiddien Bridge View",
+                  "type": "milestone",
+                  "latitude": 35.891454,     
+                  "longitude": 14.380914,
+                  "checkpointTitle": "Wied il-Fiddien Bridge View",
+                  "checkpointText": "As we reach the end of the route, we go over this bridge over Wied il-Fiddien which we had gone under in the first part of the Chadwick Lakes trail. Take a moment to again enjoy the serenity of the Fiddien Valley.",
+                  "checkpointImage": "assets/images/treks_fiddien_bingemma_wied_fiddien_view.jpg",
                   "badgeImage": ""
                 }
               ],
@@ -1951,27 +1971,27 @@
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Start and end from near Burmarrad church. Bus routes & parking.  GPS coordinates to starting point: 35.934630, 14.414336."
+                    "description": "Route starts and ends near entrance to Chadwick Lakes trail. By bus one can take routes 50, 51, 52, 53 from Valletta to Rabat (Stop at Saqqajja) and then change route to 109, and stop at Fiddien. By car there are limited parking spaces available near entrance - for less parking worries, leave vehicle near Għajn National Water Conservation Centre and take a 500m walk to start route. GPS coordinates to starting point: 35.886291, 14.380207"
                   },
                   {
                     "title": "The Route",
-                    "description": "Wied Qannotta, Ghajn Rihana, tal-Qadi"
+                    "description": "First takes the recently regenerated and incredibly scenic path to Chadwick Lakes and walk within the Fidden and Qlejgha valleys, before heading up towards the Bingemma cliff viewpoints and Victoria lines at Bingemma Gap. A shorter return route is taken along vehicle roads surrunded by greenery."
                   },
                   {
                     "title": "Terrain",
-                    "description": "Mix of valley paths and asphalted road"
+                    "description": "Crossing Fiddien and Qlejgha valley paths, as well as rocky terrain at Bingemma Gap. Possible with trainer shoes in dry conditions but trekking shoes recommended."
                   },
                   {
                     "title": "Safety Warning",
-                    "description": "One major road crossings but with pedestrian traffic lights available - use them for safety"
+                    "description": "Keep safe and do not take risks near Bingemma Cliff Edges."
                   },
                   {
                     "title": "Amenities",
-                    "description": "Not a main tourist area, with some snack bars/ small restaurants near the start/ end location."
+                    "description": "No restrooms or food outlets along the route, so think ahead and bring water and snacks with you. On Weekends, there are usually some stands with traditional Maltese snacks set up near Chadwick Lakes trail entrance."
                   }
                 ],
-                "imagePrimary": "assets/images/details/treks_ghomor_info1.jpg",
-                "imageSecondary": "assets/images/details/treks_ghomor_info2.jpg"
+                "imagePrimary": "assets/images/details/treks_fiddien_bingemma_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_fiddien_bingemma_info2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
