@@ -1699,6 +1699,96 @@
               "discountedPrice": 2.0,
               "couponTrekTrigger": "A",
               "couponTrigger": "Z"
+            },
+            {
+              "id": "nature-treks-central-wied-sewda",
+              "name": "Wied is-Sewda",
+              "bannerImage": "assets/images/treks_wied_kbir_viewpoint.jpg",
+              "badgeImage": "assets/badges/treks_wied_kbir_badge.png",
+              "gpxFile": "assets/gpx/wied-is-sewda.gpx",
+              "shortDescription": "Valley connectingQormi-Attard-Zebbug",
+              "details": {
+                "distance": "7.5km",
+                "time": "2 hours",
+                "elevation": "78m",
+                "difficulty": "Easy",
+                "loop": "Loop",
+                "shoes": "Trekking Boots",
+                "hidden_gems": "1",
+                "iconic_landmarks": "2"
+              },
+              "checkpoints": [
+                {
+                  "id": "Kappella ta' Fuq il-Blat",
+                  "type": "milestone",
+                  "latitude": 35.884099,       
+                  "longitude": 14.468190,
+                  "checkpointTitle": "Kappella ta' Fuq il-Blat",
+                  "checkpointText": "Kappella ta' Fuq il-Blat",
+                  "checkpointImage": "assets/images/treks_wied_kbir_bridges.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wied is-Sewda",
+                  "type": "iconic_landmark",  
+                  "latitude": 35.885659,    
+                  "longitude": 14.446677,
+                  "checkpointTitle": "Wied is-Sewda",
+                  "checkpointText": "Wied is-Sewda",
+                  "checkpointImage": "assets/badges/treks_wied_kbir_landmark_wied_kbir.png",
+                  "badgeImage": "assets/badges/treks_wied_kbir_landmark_wied_kbir.png"
+                },
+                {
+                  "id": "Kappella tal-Hlas",
+                  "type": "hidden_gem",
+                  "latitude": 35.878125,    
+                  "longitude": 14.455328,
+                  "checkpointTitle": "Kappella tal-Hlas",
+                  "checkpointText": "Kappella tal-Hlas",
+                  "checkpointImage": "assets/badges/treks_wied_kbir_gem_ghar_hanzir.png",
+                  "badgeImage": "assets/badges/treks_wied_kbir_gem_ghar_hanzir.png"
+                },
+                {
+                  "id": "Knisja San Gorg",
+                  "type": "iconic_landmark",  
+                  "latitude": 35.881942,     
+                  "longitude": 14.468567,
+                  "checkpointTitle": "Knisja San Gorg",
+                  "checkpointText": "Knisja San Gorg",
+                  "checkpointImage": "assets/badges/treks_wied_kbir_landmark_wied_kbir.png",
+                  "badgeImage": "assets/badges/treks_wied_kbir_landmark_wied_kbir.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Starting point most easily reached by private vehicle or ride share, with possibility of side road parking at the start of the valley. Otherwise, bus routes 73 and 74 from Valletta have 10-minute away stops. GPS coordinates to starting point: 35.88384, 14.46906."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "The route is in the form of a semi-loop, starting and ending at the start of Wied il-Kbir Valley from Qormi side. Trekking along a large valley system we will explore Wied il-Kbir and Wied Qirda and explore some of their interesting geological formations and vegetation."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Large parts of the trek route goes along rugged and rockey paths, so trekking boots are necessary. This is also a main water catchemnt area that can hold water and muddy paths for several days. Elevation change is moderate." 
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "Cave discovered along the way - venture only where you are sure you can safely return and with appropriate ligthing. Rocky paths can be slippery, even with trekking boots."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "This is a trek fully immersed in nature with no amenities or facilities along the way. So bring plenty of water and food for re-fuelling at some of the amazing open areas and viewpoints of this trek."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_wied_kbir_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_wied_kbir_info2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
             }
           ]
         },
