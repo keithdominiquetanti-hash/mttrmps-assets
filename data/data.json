@@ -1703,87 +1703,113 @@
             {
               "id": "nature-treks-central-wied-sewda",
               "name": "Wied is-Sewda",
-              "bannerImage": "assets/images/treks_wied_kbir_viewpoint.jpg",
-              "badgeImage": "assets/badges/treks_wied_kbir_badge.png",
+              "bannerImage": "assets/images/assets/images/details/treks_wied_is_sewda_info1.jpg",
+              "badgeImage": "assets/badges/treks_wied_sewda_badge.png",
               "gpxFile": "assets/gpx/wied-is-sewda.gpx",
-              "shortDescription": "Valley connectingQormi-Attard-Zebbug",
+              "shortDescription": "Valley connecting Qormi-Attard-Zebbug",
               "details": {
-                "distance": "7.5km",
-                "time": "2 hours",
-                "elevation": "78m",
+                "distance": "7.4km",
+                "time": "1.5 hours",
+                "elevation": "80m",
                 "difficulty": "Easy",
                 "loop": "Loop",
-                "shoes": "Trekking Boots",
-                "hidden_gems": "1",
+                "shoes": "Trainers",
+                "hidden_gems": "2",
                 "iconic_landmarks": "2"
               },
               "checkpoints": [
+              {
+                  "id": "Kappella St. Marija tal-Blat",
+                  "type": "hidden_gem",  
+                  "latitude": 35.883824, 
+                  "longitude": 14.468262,
+                  "checkpointTitle": "Kappella St. Marija tal-Blat",
+                  "checkpointText": "This small chapel is dedicated to Our Lady and reflects the long tradition of Marian devotion found in the Maltese countryside. Its name “tal-Blat” (“of the rock”) likely refers to the rocky ground or stone outcrop on which the chapel was built. It's lighting at night adds charm to the chapel.",
+                  "checkpointImage": "assets/badges/treks_wied_sewda_gem_tal_blat.png",
+                  "badgeImage": "assets/badges/treks_wied_sewda_gem_tal_blat.png"
+                },
                 {
-                  "id": "Kappella ta' Fuq il-Blat",
+                  "id": "Path to Attard",
                   "type": "milestone",
-                  "latitude": 35.884099,       
-                  "longitude": 14.468190,
-                  "checkpointTitle": "Kappella ta' Fuq il-Blat",
-                  "checkpointText": "Kappella ta' Fuq il-Blat",
-                  "checkpointImage": "assets/images/treks_wied_kbir_bridges.jpg",
+                  "latitude": 35.884845,        
+                  "longitude": 14.461814,
+                  "checkpointTitle": "Path to Attard",
+                  "checkpointText": "You are now on a long path leading to Attard and overlooking the main Wied is-Sewda path. Enjoy the peaceful surroundings along various farmhouses and niches with statues dedicated to St. Mary",
+                  "checkpointImage": "assets/images/treks_wied_sewda_path_to_attard.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Shifting to Wied is-Sewda path",
+                  "type": "milestone",
+                  "latitude": 35.886803,         
+                  "longitude": 14.442703,
+                  "checkpointTitle": "Shifting to Wied is-Sewda path",
+                  "checkpointText": "You will soon reach the end of this path after which we need to take a left for a very short stretch along a main road before taking again a left to enter the main Wied is-Sewda path whose entrance is displayed in the image.",
+                  "checkpointImage": "assets/images/treks_wied_sewda_shifting_paths.jpg",
                   "badgeImage": ""
                 },
                 {
                   "id": "Wied is-Sewda",
                   "type": "iconic_landmark",  
-                  "latitude": 35.885659,    
-                  "longitude": 14.446677,
+                  "latitude": 35.885674,    
+                  "longitude": 14.446679,
                   "checkpointTitle": "Wied is-Sewda",
-                  "checkpointText": "Wied is-Sewda",
-                  "checkpointImage": "assets/badges/treks_wied_kbir_landmark_wied_kbir.png",
-                  "badgeImage": "assets/badges/treks_wied_kbir_landmark_wied_kbir.png"
+                  "checkpointText": "Wied is-Sewda is one of the longest valleys on the island, cutting through the landscape as it carries seasonal rainwater toward the coast. Its name, meaning the black valley, may derive from the dark soil and shaded rock formations found along parts of its course.",
+                  "checkpointImage": "assets/badges/treks_wied_sewda_landmark_wied_sewda.png",
+                  "badgeImage": "assets/badges/treks_wied_sewda_landmark_wied_sewda.png"
+                },
+                {
+                  "id": "Path to Tal-Hlas Chapel",
+                  "type": "milestone",
+                  "latitude": 35.884673,         
+                  "longitude": 14.454671,
+                  "checkpointTitle": "Path to Tal-Hlas Chapel",
+                  "checkpointText": "Route now takes a detour to the uphill countryside roads that will lead us to the Tal-Hlas Chapel with some scenic view spots over the valley along the way",
+                  "checkpointImage": "assets/images/treks_wied_sewda_path_to_hlas.jpg",
+                  "badgeImage": ""
                 },
                 {
                   "id": "Kappella tal-Hlas",
                   "type": "hidden_gem",
-                  "latitude": 35.878125,    
-                  "longitude": 14.455328,
+                  "latitude": 35.878245,     
+                  "longitude": 14.455555,
                   "checkpointTitle": "Kappella tal-Hlas",
-                  "checkpointText": "Kappella tal-Hlas",
-                  "checkpointImage": "assets/badges/treks_wied_kbir_gem_ghar_hanzir.png",
-                  "badgeImage": "assets/badges/treks_wied_kbir_gem_ghar_hanzir.png"
+                  "checkpointText": "This chapel is dedicated to Our Lady of Deliverance (tal-Ħlas), reflecting a long-standing devotion to the Virgin Mary as a protector and intercessor in times of need. Its traditional stone architecture and rural setting echo the centuries-old practice of building small chapels as places for prayer and thanksgiving in the Maltese countryside.",
+                  "checkpointImage": "assets/badges/treks_wied_sewda_gem_tal_hlas.png",
+                  "badgeImage": "assets/badges/treks_wied_sewda_gem_tal_hlas.png"
                 },
                 {
-                  "id": "Knisja San Gorg",
+                  "id": "St. George Parish Church",
                   "type": "iconic_landmark",  
-                  "latitude": 35.881942,     
-                  "longitude": 14.468567,
-                  "checkpointTitle": "Knisja San Gorg",
-                  "checkpointText": "Knisja San Gorg",
-                  "checkpointImage": "assets/badges/treks_wied_kbir_landmark_wied_kbir.png",
-                  "badgeImage": "assets/badges/treks_wied_kbir_landmark_wied_kbir.png"
+                  "latitude": 35.881989,      
+                  "longitude": 14.468795,
+                  "checkpointTitle": "St. George Parish Church",
+                  "checkpointText": "This parish church, dedicated to St. George, was completed in the late 17th century and is one of Qormi's two historic parish churches. Designed in the Baroque style, it reflects the town’s growth during that period",
+                  "checkpointImage": "assets/badges/treks_wied_sewda_landmark_san_gorg.png",
+                  "badgeImage": "assets/badges/treks_wied_sewda_landmark_san_gorg.png"
                 }
               ],
               "detailContent": {
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Starting point most easily reached by private vehicle or ride share, with possibility of side road parking at the start of the valley. Otherwise, bus routes 73 and 74 from Valletta have 10-minute away stops. GPS coordinates to starting point: 35.88384, 14.46906."
+                    "description": "The trek starts towards the end of Qormi Valley Road and ends at the nearby San Gorg Parish church. Finding parking along Valley Road can be challenging, unless proceeding to its end. Bus routes 61 and 63 from Valletta get you close to the starting point. GPS coordinates to starting point: 35.88308, 14.46882" 
                   },
                   {
                     "title": "The Route",
-                    "description": "The route is in the form of a semi-loop, starting and ending at the start of Wied il-Kbir Valley from Qormi side. Trekking along a large valley system we will explore Wied il-Kbir and Wied Qirda and explore some of their interesting geological formations and vegetation."
+                    "description": "The route is designed over paths in Wied is-Sewda that lies between the towns of Qormi, Attard and Zebbug. It fast takes a countryside path from Qormi to Attard overlooking the main Wied is-Sewda path which will be then taken in the reverse direction from Attard. From the main path we divert uphill to the tal-Hlas Chapel before heading to Qormi's historic town roads to conclude route at St. George Parish Church."
                   },
                   {
                     "title": "Terrain",
-                    "description": "Large parts of the trek route goes along rugged and rockey paths, so trekking boots are necessary. This is also a main water catchemnt area that can hold water and muddy paths for several days. Elevation change is moderate." 
-                  },
-                  {
-                    "title": "Safety Warning",
-                    "description": "Cave discovered along the way - venture only where you are sure you can safely return and with appropriate ligthing. Rocky paths can be slippery, even with trekking boots."
+                    "description": "Although almost entirely on countryside paths, the route is fully asphalted roads so can be done in trainers. If on or following rainy days, trekking shoes are more adbvisable." 
                   },
                   {
                     "title": "Amenities",
-                    "description": "This is a trek fully immersed in nature with no amenities or facilities along the way. So bring plenty of water and food for re-fuelling at some of the amazing open areas and viewpoints of this trek."
+                    "description": "Some cafes and bars can be found near St. George Parish Church marking the end of the route. Qormi is renowned for its local bakeries and sweets shops - good places for a treat after the trek!"
                   }
                 ],
-                "imagePrimary": "assets/images/details/treks_wied_kbir_info1.jpg",
-                "imageSecondary": "assets/images/details/treks_wied_kbir_info2.jpg"
+                "imagePrimary": "assets/images/details/treks_wied_is_sewda_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_wied_is_sewda_info1.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
