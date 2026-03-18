@@ -1067,8 +1067,8 @@
                 "difficulty": "Challenging",
                 "loop": "Loop",
                 "shoes": "Trekking Shoes",
-                "hidden_gems": "2",
-                "iconic_landmarks": "4"
+                "hidden_gems": "1",
+                "iconic_landmarks": "3"
               },
               "checkpoints": [
                 {
@@ -1533,6 +1533,137 @@
               "discountedPrice": 2.0,
               "couponTrekTrigger": "A",
               "couponTrigger": "Z"
+            },
+
+              {
+              "id": "nature-treks-east-gharghur",
+              "name": "Gharghur & Wied id-Dis",
+              "bannerImage": "assets/images/treks_ghomor_badge.jpg",
+              "badgeImage": "assets/badges/treks_ghomor_badge.png",
+              "gpxFile": "assets/gpx/gharghur-test.gpx",
+              "shortDescription": "Top of the WOrld and Valleys of Gharghur",
+              "details": {
+                "distance": "8.9km",
+                "time": "2 hours",
+                "elevation": "160m",
+                "difficulty": "Moderate",
+                "loop": "Loop",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "1",
+                "iconic_landmarks": "4"
+              },
+              "checkpoints": [
+                {
+                  "id": "Wied Anglu",
+                  "type": "milestone",
+                  "latitude": 35.925004,    
+                  "longitude": 14.448660,
+                  "checkpointTitle": "Wied Anglu",
+                  "checkpointText": "Wied Anglu",
+                  "checkpointImage": "assets/images/treks_ghomor_flyover.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Ghar San Brinkat",
+                  "type": "iconic_landmark",
+                  "latitude": 35.929815,     
+                  "longitude": 14.449051,
+                  "checkpointTitle": "Ghar San Brinkat",
+                  "checkpointText": "Ghar San Brinkat",
+                  "checkpointImage": "assets/badges/treks_ghomor_landmark_mensija.png",
+                  "badgeImage": "assets/badges/treks_ghomor_landmark_mensija.png"
+                },
+                { 
+                  "id": "Top of the World",
+                  "type": "milestone",
+                  "latitude": 35.931629,     
+                  "longitude": 14.453314,
+                  "checkpointTitle": "Top of the World",
+                  "checkpointText": "Top of the World",
+                  "checkpointImage": "assets/images/treks_ghomor_flyover.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Gharghur Victoria Lines",
+                  "type": "iconic_landmark",
+                  "latitude": 35.932424,     
+                  "longitude": 14.456256,
+                  "checkpointTitle": "Gharghur Victoria Lines",
+                  "checkpointText": "Gharghur Victoria Lines",
+                  "checkpointImage": "assets/badges/treks_ghomor_landmark_mensija.png",
+                  "badgeImage": "assets/badges/treks_ghomor_landmark_mensija.png"
+                },
+                {
+                  "id": "Fort Madliena",
+                  "type": "iconic_landmark",
+                  "latitude": 35.930007,      
+                  "longitude": 14.461803,
+                  "checkpointTitle": "Fort Madliena",
+                  "checkpointText": "Fort Madliena",
+                  "checkpointImage": "assets/badges/treks_ghomor_landmark_mensija.png",
+                  "badgeImage": "assets/badges/treks_ghomor_landmark_mensija.png"
+                },
+                {
+                  "id": "Wied id-Dis",
+                  "type": "milestone",
+                  "latitude": 35.928059,      
+                  "longitude": 14.461483,
+                  "checkpointTitle": "Wied id-Dis bridge",
+                  "checkpointText": "Wied id-Dis bridge",
+                  "checkpointImage": "assets/images/treks_ghomor_flyover.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Under Wied id-Dis Bridge",
+                  "type": "hidden_gem",
+                  "latitude": 35.926143,   
+                  "longitude": 14.460935,
+                  "checkpointTitle": "Under Wied id-Dis Bridge",
+                  "checkpointText": "Under Wied id-Dis Bridge",
+                  "checkpointImage": "assets/badges/treks_ghomor_wied_ghomor.png",
+                  "badgeImage": "assets/badges/treks_ghomor_wied_ghomor.png"
+                },
+                {
+                  "id": "Kappella taz-Zellieqa",
+                  "type": "milestone",
+                  "latitude": 35.926105,  
+                  "longitude": 14.455317,
+                  "checkpointTitle": "Kappella taz-Zellieqa",
+                  "checkpointText": "Kappella taz-Zellieqa.",
+                  "checkpointImage": "assets/images/treks_ghomor_mensija_valley.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "The route starts from the well known Spinola Bay, near the `LOVE` monument. Bus routes 13, 14 and 16 run from Valletta and Sliema to the bay. Routes 202, 212 and 222 arrive from Northern regions. Finding parking can be challenging - the Ta' Giorni area in nearby San Gwann is a quieter option and not too distant. Route ends in nearby Balluta Bay. GPS coordinates to starting point: 35.923970, 14.453121."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "A scenic walk starting from coast and heading into the green lung of the area - Wied Ghomor and Mensija. Returns to the coastal promenade, ending at the picturesque Balluta bay."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "For the major part on asphalted roads, venturing into some valley paths. Can be done in trainers in dry conditions. Little elevation change."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "A small part of the route is along busy roads and contains a couple of busy road crossings. Take caution and use zebra crossing/ lights where possible"
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "The starting and ending locations are at very touristic areas with a wide variety of tourist amenities. Half way through, the route passes by a quiet picnic area with tables - so bringing a packed lunch is also a good idea!"
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_ghomor_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_ghomor_info2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
             }
           ]
         },
@@ -1809,7 +1940,7 @@
                   }
                 ],
                 "imagePrimary": "assets/images/details/treks_wied_is_sewda_info1.jpg",
-                "imageSecondary": "assets/images/details/treks_wied_is_sewda_info1.jpg"
+                "imageSecondary": "assets/images/details/treks_wied_is_sewda_info2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
