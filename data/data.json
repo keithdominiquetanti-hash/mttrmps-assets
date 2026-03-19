@@ -7,167 +7,6 @@
           "name": "South & South East",
           "treks": [
             {
-              "id": "nature-treks-southeast-inwadar",
-              "name": "Inwadar National Park",
-              "bannerImage": "assets/images/treks_inwadar_banner.jpg",
-              "badgeImage": "assets/badges/treks_inwadar_badge.png",
-              "gpxFile": "assets/gpx/inwadar.gpx",
-              "shortDescription": "History and Nature",
-              "details": {
-                "distance": "8.2km",
-                "time": "2 hours",
-                "elevation": "120m",
-                "difficulty": "Moderate",
-                "loop": "Semi-Loop",
-                "shoes": "Trekking Shoes",
-                "hidden_gems": "2",
-                "iconic_landmarks": "1"
-              },
-              "checkpoints": [
-                {
-                  "id": "Inwadar Pillboxes",
-                  "type": "milestone",
-                  "latitude": 35.887831,
-                  "longitude": 14.550161,
-                  "checkpointTitle": "Pillboxes",
-                  "checkpointText": "Over this route you can find over 10 pillboxes as in the image. They are the last type of Malta's fortified coastal defences built by the British rule in WW2 and used to house infantrymen armed with small arms. Note the slits for small arms and machine gun fire. The letter P is first character for discount code",
-                  "checkpointImage": "assets/images/treks_inwadar_pillbox.jpg",
-                  "badgeImage": ""
-                },
-                {
-                  "id": "Inwadar tal-Milord",
-                  "type": "milestone",
-                  "latitude": 35.885362,
-                  "longitude": 14.552317,
-                  "checkpointTitle": "Tal-Milord",
-                  "checkpointText": "A deep sea bathing summer spot for locals. We will soon take a quick extra deviation with a path on the right alongside the next Pillbox paths for more coastal formations.",
-                  "checkpointImage": "assets/images/treks_inwadar_milord.jpg",
-                  "badgeImage": ""
-                },
-                {
-                  "id": "Tal Milord Cave Formation",
-                  "type": "hidden_gem",
-                  "latitude": 35.882897, 
-                  "longitude": 14.555915,
-                  "checkpointTitle": "Tal-Milord Cave formation",
-                  "checkpointText": "Coastal erosion at work, forming a mild cave formation. Avoid edges and going under the small caves/ rocks as this area is subject to heavy coastal erosions",
-                  "checkpointImage": "assets/badges/treks_inwadar_gem_milord_cave.png",
-                  "badgeImage": "assets/badges/treks_inwadar_gem_milord_cave.png"
-                },
-                {
-                  "id": "Inwadar Sea Inlet",
-                  "type": "milestone",
-                  "latitude": 35.881002,
-                  "longitude": 14.557182,
-                  "checkpointTitle": "Sea Inlet",
-                  "checkpointText": "A beautiful sea inlet - one of the many we'll observe along the route. Take a moment to enjoy the view.",
-                  "checkpointImage": "assets/images/treks_inwadar_inlet1.jpg",
-                  "badgeImage": ""
-                },
-                {
-                  "id": "Inwadar Torri Mwejgel",
-                  "type": "iconic_landmark",
-                  "latitude": 35.878066,
-                  "longitude": 14.563799,
-                  "checkpointTitle": "Mwejgel Tower",
-                  "checkpointText": "Watchtower built in 1659 by Knights of St John Grand Master de Redin, as the 9th of the 13 de Redin towers. Note the single entrance on first floor that would have been accessible by a retractable rope or ladder. The number of stone layers before tower entrance are your next 2 characters for discount code",
-                  "checkpointImage": "assets/images/treks_inwadar_torri.jpg",
-                  "badgeImage": "assets/badges/treks_inwadar_landmark_torri.png"
-                },
-                {
-                  "id": "Inwadar Tower Inlet",
-                  "type": "milestone",
-                  "latitude": 35.877617,
-                  "longitude": 14.564179,
-                  "checkpointTitle": "Sea Inlet by the Tower",
-                  "checkpointText": "One of the flagship landmarks of the park. We will now take a detour to an uphill path to the right for more discoveries",
-                  "checkpointImage": "assets/images/treks_inwadar_tower_inlet.jpg",
-                  "badgeImage": ""
-                },
-                {
-                  "id": "Inwadar Kappella San Nikola",
-                  "type": "hidden_gem",
-                  "latitude": 35.873780,
-                  "longitude": 14.561976,
-                  "checkpointTitle": "Kappella San Nikola",
-                  "checkpointText": "Built in baroque style out of local limestone, presumably built to serve the religious needs of farmers who lived in the area, and it is sometimes known as Tas-Subriċint. Doorway is decorated with the coat of arms of Bishop Bartolomé Rull, surmounted by the arms of Grand Master Manuel Pinto da Fonseca. The marked year of completion make up your next 4 characters to discount code",
-                  "checkpointImage": "assets/images/treks_imwadar_kappella.jpg",
-                  "badgeImage": "assets/badges/treks_inwadar_gem_kappella.png"
-                },
-                {
-                  "id": "Inwadar Zonqor Views",
-                  "type": "milestone",
-                  "latitude": 35.871514,
-                  "longitude": 14.565442,
-                  "checkpointTitle": "Zonqor Viewpoint",
-                  "checkpointText": "You are in the quaint residential area of Zonqor. Letter Z is your next character for discount code. Small playground on your right if you would like a tranquil rest",
-                  "checkpointImage": "assets/images/treks_inwadar_bandli.jpg",
-                  "badgeImage": ""
-                },
-                {
-                  "id": "Inwadar Zonqor Bay",
-                  "type": "milestone",
-                  "latitude": 35.867105,
-                  "longitude": 14.572147,
-                  "checkpointTitle": "Zonqor Bay",
-                  "checkpointText": "A deep sea swimming zone, with numerous salt pans on the shore. Couple of restaurants and snack bars nearby. Look out for a particular colour patterned structure - count the number of layers and the digits are your next 2 characters for discount code",
-                  "checkpointImage": "assets/images/treks_inwadar_zonqor_bay.jpg",
-                  "badgeImage": ""
-                },
-                {
-                  "id": "Inwadar Reentrance",
-                  "type": "milestone",
-                  "latitude": 35.868414,
-                  "longitude": 14.573161,
-                  "checkpointTitle": "Back to Inwadar Park",
-                  "checkpointText": "We're about to re-enter the official Inwadar Park area. WCs and small picnic area available before entrance.",
-                  "checkpointImage": "assets/images/treks_inwadar_picnic.jpg",
-                  "badgeImage": ""
-                },
-                {
-                  "id": "Inwadar BBQ Area",
-                  "type": "milestone",
-                  "latitude": 35.870811,
-                  "longitude": 14.570585,
-                  "checkpointTitle": "BBQ Area",
-                  "checkpointText": "BBQ Area on the right should you wish to return for a scenic BBQ. Straight ramp ahead for easier terrain - right one for a bit more rugged return to starting point.",
-                  "checkpointImage": "assets/images/treks_inwadar_bbq.jpg",
-                  "badgeImage": ""
-                }
-              ],
-              "detailContent": {
-                "highlights": [
-                  {
-                    "title": "Getting there",
-                    "description": "Route starts from the main bus station in Xghajra. Bus routes 94 from Valletta and 120 from Pembroke/ Mater Dei have this station as their destination. Plenty of parking spaces available along promenade. Start location coordinates: 35.887845, 14.549888"
-                  },
-                  {
-                    "title": "The route",
-                    "description": "Takes us across and back the Inwadar National Park along the coast near ix-Xgħajra, Ħaż-Żabbar and Wied il-Għajn, offering a unique blend of history and nature experiences."
-                  },
-                  {
-                    "title": "Terrain",
-                    "description": "Mostly off the beaten track terrain with some rocky parts, but relatively easy. Comfortable trainers suffice in dry conditions but also consider trekking shoes for more comfort and safety."
-                  },
-                  {
-                    "title": "Safety Warning",
-                    "description": "Some parts of this trek takes to cliff edges and areas subject to coastal erosion. Take caution and avoid going to extreme edges."
-                  },
-                  {
-                    "title": "Amenities",
-                    "description": "A restaurant is located near the start/ end locaton with nearby public toilets. The same applies half way through the trek. Also passess by small playgrounds and picnic table area for some rest/ packed lunch"
-                  }
-                ],
-                "imagePrimary": "assets/images/details/treks_inwadar_info_img1.jpg",
-                "imageSecondary": "assets/images/details/treks_inwadar_info_img2.jpg"
-              },
-              "standardPrice": 3.0,
-              "discountedPrice": 2.0,
-              "couponTrekTrigger": "A",
-              "couponTrigger": "Z"
-            },
-
-            {
               "id": "nature-treks-southeast-hofriet",
               "name": "San Tumas - Hofriet",
               "bannerImage": "assets/images/treks_hofriet_xrobb_lghagin.jpg",
@@ -331,6 +170,157 @@
                 ],
                 "imagePrimary": "assets/images/details/treks_hofriet_info_img1.jpg",
                 "imageSecondary": "assets/images/details/treks_hofriet_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+
+            { 
+              "id": "nature-treks-southeast-delimara",
+              "name": "Delimara Bays",
+              "bannerImage": "assets/images/treks_inwadar_banner.jpg",
+              "badgeImage": "assets/badges/treks_delimara_badge.png",
+              "gpxFile": "assets/gpx/delimara-test.gpx",
+              "shortDescription": "Exploring wonderful bays and fortifications along the Delimara peninsula",
+              "details": {
+                "distance": "8.9km",
+                "time": "2 hours",
+                "elevation": "158m",
+                "difficulty": "Moderate",
+                "loop": "Semi-Loop",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "2",
+                "iconic_landmarks": "1"
+              },
+              "checkpoints": [
+                {
+                  "id": "Marsaxlokk Tourist Office",
+                  "type": "milestone",
+                  "latitude": 35.840795, 
+                  "longitude": 14.546797,
+                  "checkpointTitle": "Marsaxlokk Tourist Office",
+                  "checkpointText": "Marsaxlokk Tourist Office - Marketplace - Il-Maghluq Bay",
+                  "checkpointImage": "assets/images/treks_inwadar_pillbox.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Under Forti tas-Silg",
+                  "type": "milestone",
+                  "latitude": 35.839804, 
+                  "longitude": 14.555544,
+                  "checkpointTitle": "Under Forti tas-Silg",
+                  "checkpointText": "Alongside the outer fortification of Forti tas-Silg and after the uphill efforts we will get rewarded with great views onto Marsaxlokk bay.",
+                  "checkpointImage": "assets/images/treks_inwadar_milord.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wolsely Battery",
+                  "type": "hidden_gem",
+                  "latitude": 35.835312,  
+                  "longitude": 14.557463,
+                  "checkpointTitle": "Wolsely Battery",
+                  "checkpointText": "Wolsely Battery - a historic military installation.",
+                  "checkpointImage": "assets/badges/treks_inwadar_gem_milord_cave.png",
+                  "badgeImage": "assets/badges/treks_inwadar_gem_milord_cave.png"
+                },
+                {
+                  "id": "Hofra iz-Zghira Viewpoint",
+                  "type": "milestone",
+                  "latitude": 35.835636,   
+                  "longitude": 14.559667,
+                  "checkpointTitle": "Hofra iz-Zghira Viewpoint",
+                  "checkpointText": "Amazing spot for a view over one of the most idyllic bays in Malta, known as il-Hofra iz-Zghira. Make sure to also do our Hofriet trek - one of the best treks discovering other such beauty.",
+                  "checkpointImage": "assets/images/treks_inwadar_inlet1.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "St. Peter's Pool",
+                  "type": "iconic_landmark",
+                  "latitude": 35.832984,  
+                  "longitude": 14.561851,
+                  "checkpointTitle": "St. Peter's Pool",
+                  "checkpointText": "St. Peter's Pool - a natural swimming pool with crystal clear waters and stunning rock formations. A popular spot for swimming and cliff diving, especially during the summer months. Take a moment to enjoy the views and perhaps take a refreshing dip if you're up for it!",
+                  "checkpointImage": "assets/images/treks_inwadar_torri.jpg",
+                  "badgeImage": "assets/badges/treks_inwadar_landmark_torri.png"
+                },
+                {
+                  "id": "Power Station",
+                  "type": "milestone",
+                  "latitude": 35.830576, 
+                  "longitude": 14.558714,
+                  "checkpointTitle": "Power Station",
+                  "checkpointText": "We have just walked alongside Malta's main power station, which has been in operation since 1992 and is a key part of Malta's energy infrastructure. Head straight on the main road and then we'll later return to this point via an alternative coastal path",
+                  "checkpointImage": "assets/images/treks_inwadar_tower_inlet.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Fort Delimara",
+                  "type": "iconic_landmark",
+                  "latitude": 35.825301,  
+                  "longitude": 14.558170,
+                  "checkpointTitle": "Fort Delimara",
+                  "checkpointText": "Fort Delimara - a polygonal fort built by the British between 1876 and 1888. It was armed with heavy artillery and served as a key defensive position for the island. The fort is now in a state of disrepair but still offers a fascinating glimpse into Malta's military history. Take the adjcacent road along the Fort for a unique view onto Marsaxlokk harbour",
+                  "checkpointImage": "assets/images/treks_imwadar_kappella.jpg",
+                  "badgeImage": "assets/badges/treks_inwadar_gem_kappella.png"
+                },
+                {
+                  "id": "Delimara Lighthouse",
+                  "type": "milestone", 
+                  "latitude": 35.822102,  
+                  "longitude": 14.559174,
+                  "checkpointTitle": "Delimara Lighthouse",
+                  "checkpointText": "Delimara Lighthouse",
+                  "checkpointImage": "assets/images/treks_inwadar_bandli.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Xifer l-Infern",
+                  "type": "hidden_gem",
+                  "latitude": 35.819637,   
+                  "longitude": 14.560265,
+                  "checkpointTitle": "Xifer l-Infern",
+                  "checkpointText": "A change of scenery into a tranquil coastal setting in an area inappropriately known as Xifer l-Infern (Hell's Edge). You will observe that it hosts one of the major Salt Pan, an amazing rock outlet within the sea and further on also a small bay inlet named il-Kalanka tal-Gidien.",
+                  "checkpointImage": "assets/badges/treks_inwadar_gem_milord_cave.png",
+                  "badgeImage": "assets/badges/treks_inwadar_gem_milord_cave.png"
+                },
+                {
+                  "id": "Kalanka Bay",
+                  "type": "iconic_landmark",
+                  "latitude": 35.824753,  
+                  "longitude": 14.559093,
+                  "checkpointTitle": "Kalanka Bay",
+                  "checkpointText": "Kalanka Bay. We have now visited all the major landmarks of this route and can head back to the end point - take the marked route on the map alongside the bay if accessible. If not accessible due to ongoing works, you can walk back opposite the bay to Fort Delimara and take the main road back. At Fort tas-Silg we take a downhill path back to Marsaxlokk harbour",
+                  "checkpointImage": "assets/images/treks_inwadar_kalanka_bay.jpg",
+                  "badgeImage": "assets/badges/treks_inwadar_gem_kalanka_bay.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Route start and end points are at the popular Marsaxlokk Bay. There is a small parking lot near the Marsaxlokk Tourist Office. Bus routes 81 and 85 take from Valletta to Marsaxlokk. Area is very busy on Sunday mornings for the highly popular fish market. Start location coordinates: 35.841235, 14.545254"
+                  },
+                  {
+                    "title": "The route",
+                    "description": "Starts from Marsaxlokk bay and heads uphill to the Delimary peninsula in search of iconic popular and less known bays, as well as some interesting fortifications and structures. The route ends at the other side of Marsaxlokk bay for some more serene views over the bay."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "For the major part on asphalted roads but also taking some rocky/ soily paths for which trekking shoes are recommended. Moderate elevation changes."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "Some parts of this trek takes to cliff edges and areas subject to coastal erosion. Take caution and avoid going to extreme edges."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Marsaxlokk bay is a highly touristic area with plenty of restaurants, coffee shops and other amenities. Tourist Office where you can gather further information is located near starting point, with adjacent WC facilities."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_inwadar_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_inwadar_info_img2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
@@ -638,6 +628,167 @@
                 ],
                 "imagePrimary": "assets/images/details/treks_znuber_info_img1.jpg",
                 "imageSecondary": "assets/images/details/treks_znuber_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+
+            {
+              "id": "nature-treks-southeast-inwadar",
+              "name": "Inwadar National Park",
+              "bannerImage": "assets/images/treks_inwadar_banner.jpg",
+              "badgeImage": "assets/badges/treks_inwadar_badge.png",
+              "gpxFile": "assets/gpx/inwadar.gpx",
+              "shortDescription": "History and Nature",
+              "details": {
+                "distance": "8.2km",
+                "time": "2 hours",
+                "elevation": "120m",
+                "difficulty": "Moderate",
+                "loop": "Semi-Loop",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "2",
+                "iconic_landmarks": "1"
+              },
+              "checkpoints": [
+                {
+                  "id": "Inwadar Pillboxes",
+                  "type": "milestone",
+                  "latitude": 35.887831,
+                  "longitude": 14.550161,
+                  "checkpointTitle": "Pillboxes",
+                  "checkpointText": "Over this route you can find over 10 pillboxes as in the image. They are the last type of Malta's fortified coastal defences built by the British rule in WW2 and used to house infantrymen armed with small arms. Note the slits for small arms and machine gun fire. The letter P is first character for discount code",
+                  "checkpointImage": "assets/images/treks_inwadar_pillbox.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Inwadar tal-Milord",
+                  "type": "milestone",
+                  "latitude": 35.885362,
+                  "longitude": 14.552317,
+                  "checkpointTitle": "Tal-Milord",
+                  "checkpointText": "A deep sea bathing summer spot for locals. We will soon take a quick extra deviation with a path on the right alongside the next Pillbox paths for more coastal formations.",
+                  "checkpointImage": "assets/images/treks_inwadar_milord.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Tal Milord Cave Formation",
+                  "type": "hidden_gem",
+                  "latitude": 35.882897, 
+                  "longitude": 14.555915,
+                  "checkpointTitle": "Tal-Milord Cave formation",
+                  "checkpointText": "Coastal erosion at work, forming a mild cave formation. Avoid edges and going under the small caves/ rocks as this area is subject to heavy coastal erosions",
+                  "checkpointImage": "assets/badges/treks_inwadar_gem_milord_cave.png",
+                  "badgeImage": "assets/badges/treks_inwadar_gem_milord_cave.png"
+                },
+                {
+                  "id": "Inwadar Sea Inlet",
+                  "type": "milestone",
+                  "latitude": 35.881002,
+                  "longitude": 14.557182,
+                  "checkpointTitle": "Sea Inlet",
+                  "checkpointText": "A beautiful sea inlet - one of the many we'll observe along the route. Take a moment to enjoy the view.",
+                  "checkpointImage": "assets/images/treks_inwadar_inlet1.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Inwadar Torri Mwejgel",
+                  "type": "iconic_landmark",
+                  "latitude": 35.878066,
+                  "longitude": 14.563799,
+                  "checkpointTitle": "Mwejgel Tower",
+                  "checkpointText": "Watchtower built in 1659 by Knights of St John Grand Master de Redin, as the 9th of the 13 de Redin towers. Note the single entrance on first floor that would have been accessible by a retractable rope or ladder. The number of stone layers before tower entrance are your next 2 characters for discount code",
+                  "checkpointImage": "assets/images/treks_inwadar_torri.jpg",
+                  "badgeImage": "assets/badges/treks_inwadar_landmark_torri.png"
+                },
+                {
+                  "id": "Inwadar Tower Inlet",
+                  "type": "milestone",
+                  "latitude": 35.877617,
+                  "longitude": 14.564179,
+                  "checkpointTitle": "Sea Inlet by the Tower",
+                  "checkpointText": "One of the flagship landmarks of the park. We will now take a detour to an uphill path to the right for more discoveries",
+                  "checkpointImage": "assets/images/treks_inwadar_tower_inlet.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Inwadar Kappella San Nikola",
+                  "type": "hidden_gem",
+                  "latitude": 35.873780,
+                  "longitude": 14.561976,
+                  "checkpointTitle": "Kappella San Nikola",
+                  "checkpointText": "Built in baroque style out of local limestone, presumably built to serve the religious needs of farmers who lived in the area, and it is sometimes known as Tas-Subriċint. Doorway is decorated with the coat of arms of Bishop Bartolomé Rull, surmounted by the arms of Grand Master Manuel Pinto da Fonseca. The marked year of completion make up your next 4 characters to discount code",
+                  "checkpointImage": "assets/images/treks_imwadar_kappella.jpg",
+                  "badgeImage": "assets/badges/treks_inwadar_gem_kappella.png"
+                },
+                {
+                  "id": "Inwadar Zonqor Views",
+                  "type": "milestone",
+                  "latitude": 35.871514,
+                  "longitude": 14.565442,
+                  "checkpointTitle": "Zonqor Viewpoint",
+                  "checkpointText": "You are in the quaint residential area of Zonqor. Letter Z is your next character for discount code. Small playground on your right if you would like a tranquil rest",
+                  "checkpointImage": "assets/images/treks_inwadar_bandli.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Inwadar Zonqor Bay",
+                  "type": "milestone",
+                  "latitude": 35.867105,
+                  "longitude": 14.572147,
+                  "checkpointTitle": "Zonqor Bay",
+                  "checkpointText": "A deep sea swimming zone, with numerous salt pans on the shore. Couple of restaurants and snack bars nearby. Look out for a particular colour patterned structure - count the number of layers and the digits are your next 2 characters for discount code",
+                  "checkpointImage": "assets/images/treks_inwadar_zonqor_bay.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Inwadar Reentrance",
+                  "type": "milestone",
+                  "latitude": 35.868414,
+                  "longitude": 14.573161,
+                  "checkpointTitle": "Back to Inwadar Park",
+                  "checkpointText": "We're about to re-enter the official Inwadar Park area. WCs and small picnic area available before entrance.",
+                  "checkpointImage": "assets/images/treks_inwadar_picnic.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Inwadar BBQ Area",
+                  "type": "milestone",
+                  "latitude": 35.870811,
+                  "longitude": 14.570585,
+                  "checkpointTitle": "BBQ Area",
+                  "checkpointText": "BBQ Area on the right should you wish to return for a scenic BBQ. Straight ramp ahead for easier terrain - right one for a bit more rugged return to starting point.",
+                  "checkpointImage": "assets/images/treks_inwadar_bbq.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Route starts from the main bus station in Xghajra. Bus routes 94 from Valletta and 120 from Pembroke/ Mater Dei have this station as their destination. Plenty of parking spaces available along promenade. Start location coordinates: 35.887845, 14.549888"
+                  },
+                  {
+                    "title": "The route",
+                    "description": "Takes us across and back the Inwadar National Park along the coast near ix-Xgħajra, Ħaż-Żabbar and Wied il-Għajn, offering a unique blend of history and nature experiences."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Mostly off the beaten track terrain with some rocky parts, but relatively easy. Comfortable trainers suffice in dry conditions but also consider trekking shoes for more comfort and safety."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "Some parts of this trek takes to cliff edges and areas subject to coastal erosion. Take caution and avoid going to extreme edges."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "A restaurant is located near the start/ end locaton with nearby public toilets. The same applies half way through the trek. Also passess by small playgrounds and picnic table area for some rest/ packed lunch"
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_inwadar_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_inwadar_info_img2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
