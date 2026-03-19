@@ -180,19 +180,19 @@
             { 
               "id": "nature-treks-southeast-delimara",
               "name": "Delimara Bays",
-              "bannerImage": "assets/images/treks_inwadar_banner.jpg",
+              "bannerImage": "assets/images/treks_delimara_info1.jpg",
               "badgeImage": "assets/badges/treks_delimara_badge.png",
-              "gpxFile": "assets/gpx/delimara-test.gpx",
+              "gpxFile": "assets/gpx/delimara.gpx",
               "shortDescription": "Exploring wonderful bays and fortifications along the Delimara peninsula",
               "details": {
-                "distance": "8.9km",
+                "distance": "8.5km",
                 "time": "2 hours",
-                "elevation": "158m",
+                "elevation": "155m",
                 "difficulty": "Moderate",
                 "loop": "Semi-Loop",
                 "shoes": "Trekking Shoes",
                 "hidden_gems": "2",
-                "iconic_landmarks": "1"
+                "iconic_landmarks": "3"
               },
               "checkpoints": [
                 {
@@ -201,39 +201,39 @@
                   "latitude": 35.840795, 
                   "longitude": 14.546797,
                   "checkpointTitle": "Marsaxlokk Tourist Office",
-                  "checkpointText": "Marsaxlokk Tourist Office - Marketplace - Il-Maghluq Bay",
-                  "checkpointImage": "assets/images/treks_inwadar_pillbox.jpg",
+                  "checkpointText": "As we walk past the Tourist Office where you can gather further information on the area during opening hours, we are walking along the streets where the Sunday fish market is held and then walk close to a small sandy beach known as tal-Maghluq",
+                  "checkpointImage": "assets/images/treks_delimara_tourist_office.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Under Forti tas-Silg",
+                  "id": "Along Forti tas-Silg",
                   "type": "milestone",
                   "latitude": 35.839804, 
                   "longitude": 14.555544,
-                  "checkpointTitle": "Under Forti tas-Silg",
-                  "checkpointText": "Alongside the outer fortification of Forti tas-Silg and after the uphill efforts we will get rewarded with great views onto Marsaxlokk bay.",
-                  "checkpointImage": "assets/images/treks_inwadar_milord.jpg",
+                  "checkpointTitle": "Along Forti tas-Silg",
+                  "checkpointText": "Now standing alongside the outer walls of Forti tas-Silg - a 19th-century polygonal fort built by the British to defend the harbour. After the uphill efforts we will get rewarded with great views onto Marsaxlokk harbour over the next part of the trek.",
+                  "checkpointImage": "assets/images/treks_delimara_along_fort_tas_silg.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Wolsely Battery",
-                  "type": "hidden_gem",
-                  "latitude": 35.835312,  
-                  "longitude": 14.557463,
-                  "checkpointTitle": "Wolsely Battery",
-                  "checkpointText": "Wolsely Battery - a historic military installation.",
-                  "checkpointImage": "assets/badges/treks_inwadar_gem_milord_cave.png",
-                  "badgeImage": "assets/badges/treks_inwadar_gem_milord_cave.png"
+                  "id": "Wolsely Battery Pillbox",
+                  "type": "milestone",
+                  "latitude": 35.835095,    
+                  "longitude": 14.556771,
+                  "checkpointTitle": "Wolsely Battery Pillbox",
+                  "checkpointText": "This pillbox forms part of the Wolesley Battery (behind the pillbox but not accessible), a coastal fortification built by the British in the late 19th century to defend strategic maritime approaches. Designed to support artillery positions, it reflects the shift toward reinforced concrete defenses and coordinated coastal surveillance. We will now take the road passing alongside it.",
+                  "checkpointImage": "assets/images/treks_delimara_wolsely_pillbox.jpg",
+                  "badgeImage": ""
                 },
                 {
                   "id": "Hofra iz-Zghira Viewpoint",
-                  "type": "milestone",
-                  "latitude": 35.835636,   
-                  "longitude": 14.559667,
+                  "type": "hidden_gem",
+                  "latitude": 35.835197,     
+                  "longitude": 14.560359,
                   "checkpointTitle": "Hofra iz-Zghira Viewpoint",
                   "checkpointText": "Amazing spot for a view over one of the most idyllic bays in Malta, known as il-Hofra iz-Zghira. Make sure to also do our Hofriet trek - one of the best treks discovering other such beauty.",
-                  "checkpointImage": "assets/images/treks_inwadar_inlet1.jpg",
-                  "badgeImage": ""
+                  "checkpointImage": "assets/badges/treks_delimara_gem_hofra_zghira.png",
+                  "badgeImage": "assets/badges/treks_delimara_gem_hofra_zghira.png"
                 },
                 {
                   "id": "St. Peter's Pool",
@@ -241,9 +241,9 @@
                   "latitude": 35.832984,  
                   "longitude": 14.561851,
                   "checkpointTitle": "St. Peter's Pool",
-                  "checkpointText": "St. Peter's Pool - a natural swimming pool with crystal clear waters and stunning rock formations. A popular spot for swimming and cliff diving, especially during the summer months. Take a moment to enjoy the views and perhaps take a refreshing dip if you're up for it!",
-                  "checkpointImage": "assets/images/treks_inwadar_torri.jpg",
-                  "badgeImage": "assets/badges/treks_inwadar_landmark_torri.png"
+                  "checkpointText": "A naturally carved limestone inlet, this pool is known for its flat rock ledges and remarkably clear, deep water shaped by centuries of wave action. Its sheltered formation creates calm conditions, making it a popular spot for swimming and cliff diving.",
+                  "checkpointImage": "assets/badges/treks_delimara_landmark_st_peters.png",
+                  "badgeImage": "assets/badges/treks_delimara_landmark_st_peters.png"
                 },
                 {
                   "id": "Power Station",
@@ -252,7 +252,7 @@
                   "longitude": 14.558714,
                   "checkpointTitle": "Power Station",
                   "checkpointText": "We have just walked alongside Malta's main power station, which has been in operation since 1992 and is a key part of Malta's energy infrastructure. Head straight on the main road and then we'll later return to this point via an alternative coastal path",
-                  "checkpointImage": "assets/images/treks_inwadar_tower_inlet.jpg",
+                  "checkpointImage": "assets/images/treks_delimara_power_station.jpg",
                   "badgeImage": ""
                 },
                 {
@@ -261,9 +261,9 @@
                   "latitude": 35.825301,  
                   "longitude": 14.558170,
                   "checkpointTitle": "Fort Delimara",
-                  "checkpointText": "Fort Delimara - a polygonal fort built by the British between 1876 and 1888. It was armed with heavy artillery and served as a key defensive position for the island. The fort is now in a state of disrepair but still offers a fascinating glimpse into Malta's military history. Take the adjcacent road along the Fort for a unique view onto Marsaxlokk harbour",
-                  "checkpointImage": "assets/images/treks_imwadar_kappella.jpg",
-                  "badgeImage": "assets/badges/treks_inwadar_gem_kappella.png"
+                  "checkpointText": "Built by the British in the late 19th century, this polygonal fort was designed to guard key coastal approaches with heavy artillery and thick defensive walls. It later gained strategic importance as the site of a large coastal gun emplacement, reflecting advances in long-range naval defense. Take the adjcacent road along the Fort for a unique view onto Marsaxlokk harbour",
+                  "checkpointImage": "assets/badges/treks_delimara_landmark_fort_delimara.png",
+                  "badgeImage": "assets/badges/treks_delimara_landmark_fort_delimara.png"
                 },
                 {
                   "id": "Delimara Lighthouse",
@@ -271,8 +271,8 @@
                   "latitude": 35.822102,  
                   "longitude": 14.559174,
                   "checkpointTitle": "Delimara Lighthouse",
-                  "checkpointText": "Delimara Lighthouse",
-                  "checkpointImage": "assets/images/treks_inwadar_bandli.jpg",
+                  "checkpointText": "First lit in the mid-19th century, this lighthouse was built by the British to guide vessels navigating the busy sea routes nearby. Its elevated position and powerful beam made it a crucial navigational aid, later modernized as maritime technology evolved.",
+                  "checkpointImage": "assets/images/treks_delimara_lighthouse.jpg",
                   "badgeImage": ""
                 },
                 {
@@ -281,9 +281,9 @@
                   "latitude": 35.819637,   
                   "longitude": 14.560265,
                   "checkpointTitle": "Xifer l-Infern",
-                  "checkpointText": "A change of scenery into a tranquil coastal setting in an area inappropriately known as Xifer l-Infern (Hell's Edge). You will observe that it hosts one of the major Salt Pan, an amazing rock outlet within the sea and further on also a small bay inlet named il-Kalanka tal-Gidien.",
-                  "checkpointImage": "assets/badges/treks_inwadar_gem_milord_cave.png",
-                  "badgeImage": "assets/badges/treks_inwadar_gem_milord_cave.png"
+                  "checkpointText": "A change of scenery into a raw and secluded coastal setting which is quite opposite to the area's name -  Xifer l-Infern (Hell's Edge). You will observe that it hosts one of the major Salt Pan area, the Devil's Edge Rock and further on also a small bay inlet named il-Kalanka tal-Gidien.",
+                  "checkpointImage": "assets/badges/treks_delimara_badge_xifer_linfern.png",
+                  "badgeImage": "assets/badges/treks_delimara_badge_xifer_linfern.png"
                 },
                 {
                   "id": "Kalanka Bay",
@@ -291,9 +291,9 @@
                   "latitude": 35.824753,  
                   "longitude": 14.559093,
                   "checkpointTitle": "Kalanka Bay",
-                  "checkpointText": "Kalanka Bay. We have now visited all the major landmarks of this route and can head back to the end point - take the marked route on the map alongside the bay if accessible. If not accessible due to ongoing works, you can walk back opposite the bay to Fort Delimara and take the main road back. At Fort tas-Silg we take a downhill path back to Marsaxlokk harbour",
-                  "checkpointImage": "assets/images/treks_inwadar_kalanka_bay.jpg",
-                  "badgeImage": "assets/badges/treks_inwadar_gem_kalanka_bay.png"
+                  "checkpointText": "A small, secluded inlet shaped by natural erosion, this bay is framed by smooth limestone shelves that slope gently into clear, deep water. We have now visited all the major landmarks of this route and can head back to the end point - take the marked route on the map alongside the bay if accessible. If not accessible due to ongoing works, you can walk back opposite the bay to Fort Delimara and take the main road back. Before Fort tas-Silg we take a downhill path back to Marsaxlokk harbour",
+                  "checkpointImage": "assets/badges/treks_delimara_landmark_kalanka_bay.png",
+                  "badgeImage": "assets/badges/treks_delimara_landmark_kalanka_bay.png"
                 }
               ],
               "detailContent": {
@@ -319,8 +319,8 @@
                     "description": "Marsaxlokk bay is a highly touristic area with plenty of restaurants, coffee shops and other amenities. Tourist Office where you can gather further information is located near starting point, with adjacent WC facilities."
                   }
                 ],
-                "imagePrimary": "assets/images/details/treks_inwadar_info_img1.jpg",
-                "imageSecondary": "assets/images/details/treks_inwadar_info_img2.jpg"
+                "imagePrimary": "assets/images/details/treks_delimara_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_delimara_info2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
