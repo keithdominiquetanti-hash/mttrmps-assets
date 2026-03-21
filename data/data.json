@@ -1688,16 +1688,16 @@
 
               {
               "id": "nature-treks-east-gharghur",
-              "name": "Gharghur & Wied id-Dis",
-              "bannerImage": "assets/images/treks_ghomor_badge.jpg",
-              "badgeImage": "assets/badges/treks_ghomor_badge.png",
-              "gpxFile": "assets/gpx/gharghur-test.gpx",
-              "shortDescription": "Top of the WOrld and Valleys of Gharghur",
+              "name": "Gharghur Victoria Lines Trail",
+              "bannerImage": "assets/images/treks_gharghur_info1.jpg",
+              "badgeImage": "assets/badges/treks_gharghur_badge.png",
+              "gpxFile": "assets/gpx/gharghur.gpx",
+              "shortDescription": "Victory Lines Trail and Valleys of Gharghur",
               "details": {
-                "distance": "8.9km",
+                "distance": "6.9km",
                 "time": "2 hours",
-                "elevation": "160m",
-                "difficulty": "Moderate",
+                "elevation": "180",
+                "difficulty": "Challenging",
                 "loop": "Loop",
                 "shoes": "Trekking Shoes",
                 "hidden_gems": "1",
@@ -1705,83 +1705,93 @@
               },
               "checkpoints": [
                 {
-                  "id": "Wied Anglu",
+                  "id": "St. Bartholomew's Minitiature Church",
                   "type": "milestone",
-                  "latitude": 35.925004,    
-                  "longitude": 14.448660,
-                  "checkpointTitle": "Wied Anglu",
-                  "checkpointText": "Wied Anglu",
-                  "checkpointImage": "assets/images/treks_ghomor_flyover.jpg",
+                  "latitude": 35.925542,     
+                  "longitude": 14.450176,
+                  "checkpointTitle": "St. Bartholomew's Minitiature Church",
+                  "checkpointText": "A lovely and skilfully crafted minitiature statue of the Parish church of St. Bartholomew, that had characterised the trek starting point. Route now takes a scenic path overlooking Wied Anglu and reaching the area known as Birguma, before we actually had down into the valley along the Victoria Lines",
+                  "checkpointImage": "assets/images/treks_gharghur_miniature_church.jpg",
                   "badgeImage": ""
+                },
+                { 
+                  "id": "Birguma",
+                  "type": "milestone",
+                  "latitude": 35.926484,  
+                  "longitude": 14.442028,
+                  "checkpointTitle": "Birguma",
+                  "checkpointText": "Having reached the Birguma residential area with its villas, now look for a rightside path for the path along the Victoria Lines. Part of a 19th-century British defensive line stretching across the island, this path follows fortifications built to create a strategic land barrier. We will take the Gharghur part of the path with old walls, watch posts, and natural escarpments that once formed a continuous line of defense. Worth taking some safe lookbacks along the way for more scenic views. Take care.",
+                  "checkpointImage": "assets/images/treks_gharghur_birguma.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wied Anglu Victoria Lines",
+                  "type": "iconic_landmark",
+                  "latitude": 35.929026,     
+                  "longitude": 14.448410,
+                  "checkpointTitle": "Wied Anglu Victoria Lines",
+                  "checkpointText": "Hope you enjoy the highly scenic experience of descending and ascending the Wied Anglu valleybed along the historic Victoria Lines. Here is an iconic landmark badge as a memory of the experience.",
+                  "checkpointImage": "assets/badges/treks_gharghur_landmark_wied_anglu.png",
+                  "badgeImage": "assets/badges/treks_gharghur_landmark_wied_anglu.png"
                 },
                 {
                   "id": "Ghar San Brinkat",
-                  "type": "iconic_landmark",
-                  "latitude": 35.929815,     
-                  "longitude": 14.449051,
+                  "type": "hidden_gem",
+                  "latitude": 35.929849,     
+                  "longitude": 14.449079,
                   "checkpointTitle": "Ghar San Brinkat",
-                  "checkpointText": "Ghar San Brinkat",
-                  "checkpointImage": "assets/badges/treks_ghomor_landmark_mensija.png",
-                  "badgeImage": "assets/badges/treks_ghomor_landmark_mensija.png"
+                  "checkpointText": "These rock-cut cave are believed to have been used since antiquity, taking advantage of the soft limestone to create simple yet effective shelters. Archaeological findings suggest periods of habitation and reuse, offering insight into early rural life and adaptation to the landscape. What a home view they used to have!",
+                  "checkpointImage": "assets/badges/treks_gharghur_gem_san_brinkat.png",
+                  "badgeImage": "assets/badges/treks_gharghur_gem_san_brinkat.png"
                 },
                 { 
-                  "id": "Top of the World",
+                  "id": "Top of the World Viewpoint",
                   "type": "milestone",
-                  "latitude": 35.931629,     
-                  "longitude": 14.453314,
-                  "checkpointTitle": "Top of the World",
-                  "checkpointText": "Top of the World",
-                  "checkpointImage": "assets/images/treks_ghomor_flyover.jpg",
+                  "latitude": 35.931590,     
+                  "longitude": 14.453181,
+                  "checkpointTitle": "Top of the World Viewpoint",
+                  "checkpointText": "Hope you enjoyed the amazing wide vistas from the different viewpoints from this area known as 'Top of the Word'. Here is a main viewing point where you can also take a break with a view on the benches that overlook the Malta's North East area and on a clear day as far as Gozo and Comino. Right ahead you are looking at the Bahar ic-Caghaq coastal area. After a small break, the route continues along the Victoria Lines heading down another valley.",
+                  "checkpointImage": "assets/images/treks_gharghur_top_world.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Gharghur Victoria Lines",
+                  "id": "Wied Faham Victoria Lines",
                   "type": "iconic_landmark",
-                  "latitude": 35.932424,     
-                  "longitude": 14.456256,
-                  "checkpointTitle": "Gharghur Victoria Lines",
-                  "checkpointText": "Gharghur Victoria Lines",
-                  "checkpointImage": "assets/badges/treks_ghomor_landmark_mensija.png",
-                  "badgeImage": "assets/badges/treks_ghomor_landmark_mensija.png"
+                  "latitude": 35.932252,       
+                  "longitude": 14.456014,
+                  "checkpointTitle": "Wied Faham Victoria Lines",
+                  "checkpointText": "Again another snenic valley descent and ascent along the Victoria Lines, this time along Wied Faham. You are actually now standing within the San Giovanni Battery - a late 19th-century British military fortification completed in December 1898 it was designed to house quick-firing guns and machine guns, and featuring concrete platforms and an underground magazine.",
+                  "checkpointImage": "assets/badges/treks_gharghur_landmark_wied_faham.png",
+                  "badgeImage": "assets/badges/treks_gharghur_landmark_wied_faham.png"
                 },
-                {
-                  "id": "Fort Madliena",
-                  "type": "iconic_landmark",
-                  "latitude": 35.930007,      
-                  "longitude": 14.461803,
-                  "checkpointTitle": "Fort Madliena",
-                  "checkpointText": "Fort Madliena",
-                  "checkpointImage": "assets/badges/treks_ghomor_landmark_mensija.png",
-                  "badgeImage": "assets/badges/treks_ghomor_landmark_mensija.png"
-                },
-                {
-                  "id": "Wied id-Dis",
+                { 
+                  "id": "Fort Madliena Path",
                   "type": "milestone",
-                  "latitude": 35.928059,      
-                  "longitude": 14.461483,
-                  "checkpointTitle": "Wied id-Dis bridge",
-                  "checkpointText": "Wied id-Dis bridge",
-                  "checkpointImage": "assets/images/treks_ghomor_flyover.jpg",
+                  "latitude": 35.931230,    
+                  "longitude": 14.458848,
+                  "checkpointTitle": "Fort Madliena Path",
+                  "checkpointText": "If fatigue has not taken over, you can now take a small and quiet circular route around Fort Madliena and its ditch, and amongst surrounding trees. Constructed by the British in the late 19th century, Fort Madliena formed part of the Victoria Lines defensive system designed to divide and protect the island. Its polygonal layout, deep ditch, and caponier defenses reflect advances in military engineering of the period.",
+                  "checkpointImage": "assets/images/treks_gharghur_fort_madliena.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Under Wied id-Dis Bridge",
-                  "type": "hidden_gem",
-                  "latitude": 35.926143,   
-                  "longitude": 14.460935,
-                  "checkpointTitle": "Under Wied id-Dis Bridge",
-                  "checkpointText": "Under Wied id-Dis Bridge",
-                  "checkpointImage": "assets/badges/treks_ghomor_wied_ghomor.png",
-                  "badgeImage": "assets/badges/treks_ghomor_wied_ghomor.png"
+                  "id": "Wied id-Dis Bridge",
+                  "type": "iconic_landmark",
+                  "latitude": 35.927370,   
+                  "longitude": 14.461346,
+                  "checkpointTitle": "Wied id-Dis Bridge",
+                  "checkpointText": "A highly picturesque and photographed spot, this is a charming stone bridge spanning the Wied id-Dis valley. Enjoy the views over the valley",
+                  "checkpointImage": "assets/badges/treks_gharghur_landmark_wied_dis_bridge.png",
+                  "badgeImage": "assets/badges/treks_gharghur_landmark_wied_dis_bridge.png"
                 },
                 {
                   "id": "Kappella taz-Zellieqa",
                   "type": "milestone",
-                  "latitude": 35.926105,  
-                  "longitude": 14.455317,
+                  "latitude": 35.926112,  
+                  "longitude": 14.455370,
                   "checkpointTitle": "Kappella taz-Zellieqa",
-                  "checkpointText": "Kappella taz-Zellieqa.",
-                  "checkpointImage": "assets/images/treks_ghomor_mensija_valley.jpg",
+                  "checkpointText": "A beuatiful chapel perched on a flight of steps facing scenic valley views, this is a locally cherished chapel formerly known as Santa Marija taz-Zellieqa chapel. Dating back to 1530 and rebult in 1650.",
+                  "checkpointImage": "assets/images/treks_gharghur_zellieqa.jpg",
                   "badgeImage": ""
                 }
               ],
@@ -1789,27 +1799,27 @@
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "The route starts from the well known Spinola Bay, near the `LOVE` monument. Bus routes 13, 14 and 16 run from Valletta and Sliema to the bay. Routes 202, 212 and 222 arrive from Northern regions. Finding parking can be challenging - the Ta' Giorni area in nearby San Gwann is a quieter option and not too distant. Route ends in nearby Balluta Bay. GPS coordinates to starting point: 35.923970, 14.453121."
+                    "description": "Route starts from the Gharghur Parish church dedicated to St. Bartholomew and ends at a nearby valley area behind the church. Since finding parking near the churc is difficult, looking for parking in the residential area behind it provides better options. Bus routes 46 and 260 connect Valletta and Gharghur. GPS coordinates to starting point: 35.923972, 14.453204."
                   },
                   {
                     "title": "The Route",
-                    "description": "A scenic walk starting from coast and heading into the green lung of the area - Wied Ghomor and Mensija. Returns to the coastal promenade, ending at the picturesque Balluta bay."
+                    "description": "This route explores varuious valleys surrounding Gharghur (Wied Anglu, Wied Faham and Wied id-Dis), with a main section of it being along the Victoria Lines trail section for spanning from the Birguma area to Madliena."
                   },
                   {
                     "title": "Terrain",
-                    "description": "For the major part on asphalted roads, venturing into some valley paths. Can be done in trainers in dry conditions. Little elevation change."
+                    "description": "Sections on the Victoria Lines path are quite rugged and involve descending and climbing a substantial number of high stepped stairs, and a significant elevation change within short distance. Trekking shoes are recommended for safety and comfort."
                   },
                   {
                     "title": "Safety Warning",
-                    "description": "A small part of the route is along busy roads and contains a couple of busy road crossings. Take caution and use zebra crossing/ lights where possible"
+                    "description": "Take care along the Victoria Lines path as some sections edge over the valleys with no side walls. This route should be done in dry and non-windy conditions for safety, and not recommended for those with fear of heights."
                   },
                   {
                     "title": "Amenities",
-                    "description": "The starting and ending locations are at very touristic areas with a wide variety of tourist amenities. Half way through, the route passes by a quiet picnic area with tables - so bringing a packed lunch is also a good idea!"
+                    "description": "Local band clubs and bars are located directly near the church square at the starting point, where you can enjoy a snack or a drink in these tranditional bars and which typically have restroom facilities available for patrons. The church itself has restroom facilities. Benches where one can rest with a view are avaialable at the Top of the World area, right in between the two main efforts of this trek."
                   }
                 ],
-                "imagePrimary": "assets/images/details/treks_ghomor_info1.jpg",
-                "imageSecondary": "assets/images/details/treks_ghomor_info2.jpg"
+                "imagePrimary": "assets/images/details/treks_gharghur_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_gharghur_info2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
