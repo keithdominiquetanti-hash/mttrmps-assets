@@ -427,13 +427,13 @@
                   "badgeImage": ""
                 },
                 {
-                  "id": "Pinto battery",
+                  "id": "St. George Redoubt & Chapel",
                   "type": "milestone",
-                  "latitude": 35.826683,   
-                  "longitude": 14.533265,
-                  "checkpointTitle": "Pinto battery",
-                  "checkpointText": "Battery constructed in 1716 by the Order of St John and tasked with defending Pretty bay. Whilst now in poor condition, traces of the semi-circular gun platform have survived. The parapet, redan and ditch have been destroyed altogether.",
-                  "checkpointImage": "assets/images/treks_pultu_pinto_battery.jpg",
+                  "latitude": 35.830866,   
+                  "longitude": 14.530588,
+                  "checkpointTitle": "St. George Redoubt & Chapel",
+                  "checkpointText": "The chapel dedicated to Saint George predates the surrounding fortifications (known to be already existing in 16th century), originally serving as a rural place of worship for the area. In the early 18th century, the Order of Saint John incorporated it into a redoubt, building defensive walls around the structure as part of a wider coastal defense network.",
+                  "checkpointImage": "assets/images/treks_pultu_st_george_battery.jpg",
                   "badgeImage": ""
                 }
               ],
@@ -1125,6 +1125,137 @@
             },
 
             {
+              "id": "nature-treks-babu-maqluba",
+              "name": "Wied Babu - Maqluba",
+              "bannerImage": "assets/images/treks_zejtun_mxlokk_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_zejtun_mxlokk_badge.png",
+              "gpxFile": "assets/gpx/babu-qrendi-test.gpx",
+              "shortDescription": "Wied Babu - Maqluba Test",
+              "details": {
+                "distance": "7.0km",
+                "time": "1.5 hours",
+                "elevation": "155m",
+                "difficulty": "Moderate",
+                "loop": "Loop",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "2",
+                "iconic_landmarks": "2"
+              },
+              "checkpoints": [
+                {
+                  "id": "Path to Wied Babu",
+                  "type": "milestone",
+                  "latitude": 35.825717,    
+                  "longitude": 14.460281,
+                  "checkpointTitle": "Path to Wied Babu",
+                  "checkpointText": "Hope you are enjoying one of the most spectacular views of the steep Wied Babu cliffs leading to the sea. Now look for a path over the small wall that actually leads us there over rugged terrain.",
+                  "checkpointImage": "assets/images/treks_zejtun_mxlokk_gnien_ghannejja.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wied Babu",
+                  "type": "hidden_gem",
+                  "latitude": 35.822103,   
+                  "longitude": 14.458558,
+                  "checkpointTitle": "Wied Babu",
+                  "checkpointText": "Congratulations for reaching this amazing spot - a memorable experience worth a hidden gem badge.",
+                  "checkpointImage": "assets/badges/treks_zejtun_mxlokk_gem_san_niklaw_chapel.png",
+                  "badgeImage": "assets/badges/treks_zejtun_mxlokk_gem_san_niklaw_chapel.png"
+                },
+                {
+                  "id": "Blue Grotto",
+                  "type": "iconic_landmark",
+                  "latitude": 35.821994,      
+                  "longitude": 14.457567,
+                  "checkpointTitle": "Blue Grotto",
+                  "checkpointText": "A striking natural arch carved into the limestone cliffs, this formation is part of a network of sea caves shaped by centuries of wave erosion. The way sunlight reflects off the seabed and into the cave creates vivid blue hues that shift throughout the day. Worth taking a boat trip to experience it at sea-level - the adjacent downhill road leads to the shore where one can take such rides on traditional Maltese boats.",
+                  "checkpointImage": "assets/badges/treks_zejtun_mxlokk_landmark_tas_silg_temples.png",
+                  "badgeImage": "assets/badges/treks_zejtun_mxlokk_landmark_tas_silg_temples.png"
+                },
+                {
+                  "id": "Wied iz-Zurrieq View",
+                  "type": "milestone",
+                  "latitude": 35.823730,    
+                  "longitude": 14.453138,
+                  "checkpointTitle": "Wied iz-Zurrieq View",
+                  "checkpointText": "Elevated view over Wied iz-Zurrieq bay inlet - This narrow inlet cuts deep into the limestone coastline, formed by the persistent action of waves exploiting natural fissures in the rock. Its steep cliffs and sheltered waters have long provided a natural landing point and access to nearby sea caves.",
+                  "checkpointImage": "assets/images/treks_zejtun_mxlokk_gnien_kmandant.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Heading to Qrendi",
+                  "type": "milestone",
+                  "latitude": 35.827499,     
+                  "longitude": 14.445619,
+                  "checkpointTitle": "Heading to Qrendi",
+                  "checkpointText": "We are now the Mnajdra and Hagar Qim temples and Archeological Complex, and at the starting point of another of our trekking routes that leads from here to Lapsi bay. For this particular trek, we take the road on the right that takes us the charismatic village of Qrendi.",
+                  "checkpointImage": "assets/images/treks_zejtun_mxlokk_alley_road.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "St. Matthew Church - Maqluba Square",
+                  "type": "iconic_landmark",
+                  "latitude": 35.831435,     
+                  "longitude": 14.456541,
+                  "checkpointTitle": "St. Matthew Church - Maqluba Square",
+                  "checkpointText": "Dating back to the 17th century, this chapel is dedicated to Saint Matthew and is closely linked to the nearby Maqluba sinkhole we will be visiting next. Its simple Baroque design and enduring presence reflect both religious devotion and the cultural significance of the surrounding landscape.",
+                  "checkpointImage": "assets/badges/treks_zejtun_mxlokk_landmark_tas_silg_temples.png",
+                  "badgeImage": "assets/badges/treks_zejtun_mxlokk_landmark_tas_silg_temples.png"
+                },
+                {
+                  "id": "Maqluba Sinkhole",
+                  "type": "hidden_gem",
+                  "latitude": 35.830872,  
+                  "longitude": 14.457359,
+                  "checkpointTitle": "Maqluba Sinkhole",
+                  "checkpointText": "A large sinkhole formed by the sudden collapse of limestone bedrock. Its steep sides and lush interior create a unique microhabitat, contrasting sharply with the surrounding terrain. Local tradition recounts a dramatic collapse in 1343, when the ground suddenly gave way following a violent storm, swallowing buildings that once stood on the site. According to legend, only a small chapel dedicated to Saint Matthew remained untouched (behind the current church which we'll get to next), reinforcing the area’s strong religious associations.",
+                  "checkpointImage": "assets/badges/treks_zejtun_mxlokk_gem_san_niklaw_chapel.png",
+                  "badgeImage": "assets/badges/treks_zejtun_mxlokk_gem_san_niklaw_chapel.png"
+                },
+                {
+                  "id": "Kappella tal-Madonna tal-Hniena",
+                  "type": "hidden_gem",
+                  "latitude": 35.832000,  
+                  "longitude": 14.463538,
+                  "checkpointTitle": "Kappella tal-Madonna tal-Hniena",
+                  "checkpointText": "This chapel was built in 1650 and is dedicated to Our Lady of Mercy, traditionally invoked for protection from illness and misfortune. It became a focal point for local devotion, particularly during times of hardship, and is associated with annual celebrations that reflect enduring community traditions.",
+                  "checkpointImage": "assets/badges/treks_zejtun_mxlokk_gem_san_niklaw_chapel.png",
+                  "badgeImage": "assets/badges/treks_zejtun_mxlokk_gem_san_niklaw_chapel.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "The route starts and concludes at the Zurrieq main road leading to Blue Grotto. Plenty of parking spots avaialble on the side roads. Bus route 74 connects Valletta to the starting location at stops 'Formosa' or 'Wied'. GPS coordinates to starting point: 35.829129, 14.468738."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "Takes us along countryside roads and paths to Marsaxlokk and back, encountering various historical landmarks and scenic views along the way. Taking a small loop then it returns close to the starting point at the nearby Zejtun Old Parish church dedicated to St. Gregory."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "For the major part on asphalted roads and pavements, except for an excursion to reach the valley bed and sea shore of Wied Babu where the terrain is very rugged with strong elevation drops/ rises. Trekking shoes recommended for this part of the excursion."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "The excursion to Wied Babu is quite tortuous and rugged and call for special care. Always respect private land."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Some snackbar and take away outlets are located on the Zurrieq Main Road near the starting/ ending locations. Public WC facilities not directly on route, but available with diversions to Wied iz-Zurrieq (downhill road) or at the Mnajdra and Hagar Qim Archeological complex. Some of the most panoramic picnic tables in Malta available along the route."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_zejtun_mxlokk_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_zejtun_mxlokk_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+
+            {
               "id": "nature-treks-test-route",
               "name": "Test Route",
               "bannerImage": "assets/images/treks_inwadar_banner.jpg",
@@ -1701,7 +1832,7 @@
                 "loop": "Loop",
                 "shoes": "Trekking Shoes",
                 "hidden_gems": "1",
-                "iconic_landmarks": "4"
+                "iconic_landmarks": "3"
               },
               "checkpoints": [
                 {
