@@ -1256,6 +1256,93 @@
             },
 
             {
+              "id": "nature-treks-kirkop-safi",
+              "name": "Kirkop - Safi",
+              "bannerImage": "assets/images/treks_zejtun_mxlokk_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_zejtun_mxlokk_badge.png",
+              "gpxFile": "assets/gpx/kirkop-safi-test.gpx",
+              "shortDescription": "Kirkop - Safi",
+              "details": {
+                "distance": "6.8km",
+                "time": "1.5 hours",
+                "elevation": "63m",
+                "difficulty": "Easy",
+                "loop": "Loop",
+                "shoes": "Trainers",
+                "hidden_gems": "1",
+                "iconic_landmarks": "2"
+              },
+              "checkpoints": [
+                {
+                  "id": "Gnien Alexander Ball",
+                  "type": "iconic_landmark",
+                  "latitude": 35.834921,     
+                  "longitude": 14.490142,
+                  "checkpointTitle": "Gnien Alexander Ball",
+                  "checkpointText": "This is a historic, public space named after Captain Sir Alexander Ball, the first British Civil Commissioner of Malta. Originally built with permission from King George III, this garden is one of a series of such gardens commissioned between 1802 and 1808, and was planted with trees, vines, and herbs to promote local self-sufficiency. Its main feature is the vine-covered trellises along central pathways. Captain Ball, who admired these gardens, frequently visited, with the Ħal Safi garden being one of his favourites.",
+                   "checkpointImage": "assets/badges/treks_zejtun_mxlokk_landmark_tas_silg_temples.png",
+                  "badgeImage": "assets/badges/treks_zejtun_mxlokk_landmark_tas_silg_temples.png"
+                },
+                {
+                  "id": "Misrah Hlantun",
+                  "type": "hidden_gem",
+                  "latitude": 35.827713,    
+                  "longitude": 14.491465,
+                  "checkpointTitle": "Misrah Hlantun",
+                  "checkpointText": "Named after the medieval noble Ħal Antun, this square preserves one of the oldest place names in the area, reflecting feudal land ownership in late medieval Malta. It developed as a small village core, historically serving as a meeting point for surrounding agricultural communities and local routes.",
+                  "checkpointImage": "assets/badges/treks_zejtun_mxlokk_gem_san_niklaw_chapel.png",
+                  "badgeImage": "assets/badges/treks_zejtun_mxlokk_gem_san_niklaw_chapel.png"
+                },
+                {
+                  "id": "Safi Parish Church & Square",
+                  "type": "iconic_landmark",
+                  "latitude": 35.833599,      
+                  "longitude": 14.483699,
+                  "checkpointTitle": "Safi Parish Church & Square",
+                  "checkpointText": "Dedicated to the Conversion of Saint Paul, the Safi parish church was constructed between 1724 and 1732 to serve the newly established parish. Its façade is attributed to the architect Giovanni Barbara, featuring restrained Baroque elements and a proportioned bell tower typical of early 18th-century Maltese ecclesiastical design.",
+                  "checkpointImage": "assets/badges/treks_zejtun_mxlokk_landmark_tas_silg_temples.png",
+                  "badgeImage": "assets/badges/treks_zejtun_mxlokk_landmark_tas_silg_temples.png"
+                },
+                {
+                  "id": "Kirkop Menhir",
+                  "type": "iconic_landmark",
+                  "latitude": 35.844690,       
+                  "longitude": 14.485071,
+                  "checkpointTitle": "Kirkop Menhir",
+                  "checkpointText": "This prehistoric standing stone is thought to date back to Malta’s Bronze Age, representing one of the few surviving menhirs on the islands. Its purpose remains uncertain, though such stones are often linked to ritual, territorial marking, or early forms of monument building.",
+                  "checkpointImage": "assets/badges/treks_zejtun_mxlokk_landmark_tas_silg_temples.png",
+                  "badgeImage": "assets/badges/treks_zejtun_mxlokk_landmark_tas_silg_temples.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Route starts and ends at the Kirkop Parish church and square, with parking spaces available mostly at the nearby Misrah iz-Zernieq. Bus routes 71 and 73 have Kirkop as a stop in between the Valletta to Zurrieq bus route. GPS coordinates to starting point: 35.842180, 14.485949."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "Travels in between two of Malta's smallest and most traditional villages  known for their quiet, time-stands-still atmosphere, characterized by narrow winding streets, historic village cores, and deep-rooted agricultural traditions. We will also explore some interesting landmarks along the country roads surronding the villages."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Trek is entirely and ashphalted surfaces and can be done easily in trainers to keep light footed and comfortable."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Route is within and between two queiet villages having some small grocery shops and bars. WC facilities at Misrah iz-Zernieq right next to the route starting point."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_zejtun_mxlokk_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_zejtun_mxlokk_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+
+            {
               "id": "nature-treks-test-route",
               "name": "Test Route",
               "bannerImage": "assets/images/treks_inwadar_banner.jpg",
