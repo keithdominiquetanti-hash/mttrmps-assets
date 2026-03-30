@@ -1756,6 +1756,248 @@
               "discountedPrice": 2.0,
               "couponTrekTrigger": "A",
               "couponTrigger": "Z"
+            },
+
+            {
+              "id": "nature-treks-west-hazrun-tejtes",
+              "name": "Wied Hazrun - Ghajn Tejtes",
+              "bannerImage": "assets/images/treks_hazrun_tejtes_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_hazrun_tejtes_badge.png",
+              "gpxFile": "assets/gpx/hazrun-tejtes.gpx",
+              "shortDescription": "From Dingli Cliffs to panoramic views of Ghajn Tejtes",
+              "details": {
+                "distance": "9.5km",
+                "time": "2.5 hours",
+                "elevation": "135m",
+                "difficulty": "Moderate",
+                "loop": "Semi-Loop",
+                "shoes": "Trainers",
+                "hidden_gems": "2",
+                "iconic_landmarks": "1"
+              },
+              "checkpoints": [
+                {
+                  "id": "Panoramic Road",
+                  "type": "milestone",
+                  "latitude": 35.856063, 
+                  "longitude": 14.375062,
+                  "checkpointTitle": "Panoramic Road",
+                  "checkpointText": "We are on Panoramic Road offering some of the most iconic views from atop Dingli Cliffs. This Northern stretch of the road is less frequented but not less spectacular. Also look out for a small path towards the cliffs that leads to a viewpoint balcony for unobstructed views.",
+                  "checkpointImage": "assets/images/treks_hazrun_tejtes_balcony_views.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Small Paved Square with St. Paul Statue",
+                  "type": "milestone",
+                  "latitude": 35.859920,   
+                  "longitude": 14.371679,
+                  "checkpointTitle": "Small Paved Square with St. Paul Statue",
+                  "checkpointText": "A particular spot consisting of a small paved square with a structure having a statue of St. Paul.",
+                  "checkpointImage": "assets/images/treks_hazrun_tejtes_st_paul.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Road to Wied Hazrun",
+                  "type": "milestone",
+                  "latitude": 35.868700,  
+                  "longitude": 14.374100,
+                  "checkpointTitle": "Road to Wied Hazrun",
+                  "checkpointText": "At this building having a niche with a statue of Madonna and child, take the road on its left side to head to views of Wied Hazrun.",
+                  "checkpointImage": "assets/images/treks_hazrun_tejtes_road_to_hazrun.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wied Hazrun View",
+                  "type": "hidden_gem",
+                  "latitude": 35.867499,   
+                  "longitude": 14.368564,
+                  "checkpointTitle": "Wied Hazrun View",
+                  "checkpointText": "Open view over Wied Hazrun, which is one of Dingli’s most ecologically rich valleys that sustains some of Malta’s oldest cultivated fields and rare native holm oaks. Characterised by its terraced slopes, garigue, and maquis habitats. One has also views onto  Ghajn Tejtes valley where we will be heading next.",
+                  "checkpointImage": "assets/badges/treks_hazrun_tejtes_gem_wied_hazrun.png",
+                  "badgeImage": "assets/badges/treks_hazrun_tejtes_gem_wied_hazrun.png"
+                },
+                {
+                  "id": "Ghajn Tejtes",
+                  "type": "hidden_gem",
+                  "latitude": 35.872755,     
+                  "longitude": 14.366746,
+                  "checkpointTitle": "Ghajn Tejtes",
+                  "checkpointText": "The name Għajn Tejtes preserves the memory of a natural spring, recalling the importance of freshwater sources in sustaining Malta’s rural landscapes and communities. Surrounded by open countryside, it remains a place where the island’s geology, water heritage, and traditional pathways are closely intertwined.",
+                  "checkpointImage": "assets/badges/treks_hazrun_tejtes_gem_ghajn_tejtes.png",
+                  "badgeImage": "assets/badges/treks_hazrun_tejtes_gem_ghajn_tejtes.png"
+                },
+                {
+                  "id": "View onto Ras id-Dawwara",
+                  "type": "iconic_landmark",
+                  "latitude": 35.864898,    
+                  "longitude": 14.363845,
+                  "checkpointTitle": "View onto Ras id-Dawwara",
+                  "checkpointText": "Now have arrived at the Northest end of Dingli Panoramic road. From this vantage point, the landscape opens out toward Ras id-Dawwara, a rugged headland defined by sheer cliffs and the meeting of land and sea. The view highlights the stark beauty of Malta’s western coastline, where wind, rock, and water have shaped a dramatic and ever-changing natural scene. Ras id-Dawwara is a key highlight and landmark in one of our other treks starting from Migra il-Ferha.",
+                  "checkpointImage": "assets/badges/treks_hazrun_tejtes_landmark_dingli_view.png",
+                  "badgeImage": "assets/badges/treks_hazrun_tejtes_landmark_dingli_view.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "The route starts from the well known Dingli Panoramic Road, near the small roundabout between the Northern and Southern parts of the road. Parking may be searched along this road or perhaps better just before the mentioned roundabout. Bus route 52 directly connects Dingli to Valletta. Starting GPS coordinates: 35.855742, 14.377155."
+                  },
+                  {
+                    "title": "The route",
+                    "description": "First heads in the Mtahleb direction to reach panoramic views of Wied Hazrun and Ghajn Tejtes. Then heads back to the Northern end of the Panoramic Road before returning to the starting point with views over the cliffs along the way back."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Route is all on tarmaced or cemented roads, so can be done in comfortable trainers or walking shoes."
+                  },
+                  {
+                    "title": "Safety Warnings",
+                    "description": "A bit of a longer route is taken to circumvent private property. Whilst all roads were public at the time of route design, always be respectful of private property and check for any changes in access rights or conditions before embarking on the trek."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "The Cliffs restaurant and visitor centre near the start/end points is the only main strucutre along the cliffs and route - it is the most reliable option for restoration or WC facilities."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_hazrun_tejtes_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_hazrun_tejtes_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+
+            {
+              "id": "nature-treks-west-barka-katerina",
+              "name": "Ghar Barka - Santa Katerina",
+              "bannerImage": "assets/images/details/treks_katerina_info_img2.jpg",
+              "badgeImage": "assets/badges/treks_ghar_barka_santa_katerina_badge.png",
+              "gpxFile": "assets/gpx/barka-santa-katerina.gpx",
+              "shortDescription": "One of the lushest treks in Malta with unique green spots and paths",
+              "details": {
+                "distance": "7.2km",
+                "time": "2 hours",
+                "elevation": "110m",
+                "difficulty": "Moderate",
+                "loop": "Loop",
+                "shoes": "Trainers",
+                "hidden_gems": "3",
+                "iconic_landmarks": "1"
+              },
+              "checkpoints": [
+                {
+                  "id": "Lunzjata Path",
+                  "type": "milestone",
+                  "latitude": 35.881357,  
+                  "longitude": 14.383599,
+                  "checkpointTitle": "Lunzjata Path",
+                  "checkpointText": "As you start getting glimpses of the green areas we will be exploring, half way though the upcoming downhill take this path on the left - one of the most scenic and characteristic paths in the Maltese Islands.",
+                  "checkpointImage": "assets/images/treks_katerina_luzjata_path.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Kappella tal-Lunzjata",
+                  "type": "hidden_gem",
+                  "latitude": 35.876344,    
+                  "longitude": 14.384179,
+                  "checkpointTitle": "Kappella tal-Lunzjata",
+                  "checkpointText": "Built in the 16th century, this chapel is dedicated to the Annunciation and is one of the older rural churches in the area, reflecting early post-medieval religious practice. Nearby, the Dar tal-Irtiri was later established as a retreat house, used for spiritual exercises and quiet reflection within a secluded setting.",
+                  "checkpointImage": "assets/badges/treks_santa_katerina_gem_lunzjata_chapel.png",
+                  "badgeImage": "assets/badges/treks_santa_katerina_gem_lunzjata_chapel.png"
+                },
+                {
+                  "id": "Way to Santa Katerina",
+                  "type": "milestone",
+                  "latitude": 35.876478,   
+                  "longitude": 14.392717,
+                  "checkpointTitle": "Way to Santa Katerina",
+                  "checkpointText": "We make a U-turn around this charming Maltese farmhouse and head along Santa Keterina Road for a peaceful walk and some more discoveries. Observe this particular insigna following the turn, just right after which you also come in front of Tax-Xierfa Museum - a museum dedicated to preserving the rich agricultural heritage of Malta.",
+                  "checkpointImage": "assets/images/treks_katerina_insigna.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Santa Katerina Chapel",
+                  "type": "iconic_landmark",
+                  "latitude": 35.870741,    
+                  "longitude": 14.384605,
+                  "checkpointTitle": "Santa Katerina (tad-Dahla) Chapel",
+                  "checkpointText": "Have now reached the tiny hamlet of Santa Katerina, known as Tad-Daħla, meaning entry, probably because this area was once a main entry point to Rabat. The few houses here are built around the small church of Saint Catherine, a church with a long history spanning over 500 years. It was first built here in the year 1500 and was one of the 30 countryside chapels which fell under the auspice of the old capital of Malta, Mdina.",
+                  "checkpointImage": "assets/badges/treks_santa_katerina_landmark_chapel.png",
+                  "badgeImage": "assets/badges/treks_santa_katerina_landmark_chapel.png"
+                },
+                {
+                  "id": "Santa Katerina View",
+                  "type": "hidden_gem",
+                  "latitude": 35.870359,    
+                  "longitude": 14.384153,
+                  "checkpointTitle": "Santa Katerina View",
+                  "checkpointText": "An amazing vantage point, revealing terraced fields shaped over centuries to make use of the natural contours. One of greenest and most fertile landscape sustained by seasonal water flow creating an amazing green corridor. A view that remains impressed in memory for its beauty and uniqueness in the Maltese Islands.",
+                  "checkpointImage": "assets/badges/treks_santa_katerina_gem_santa_katerina_view.png",
+                  "badgeImage": "assets/badges/treks_santa_katerina_gem_santa_katerina_view.png"
+                },
+                {
+                  "id": "Crossways",
+                  "type": "milestone",
+                  "latitude": 35.869724,   
+                  "longitude": 14.382713,
+                  "checkpointTitle": "Crossways",
+                  "checkpointText": "We will be later heading back to the starting point via the countryside path on the right, but before that, head straight for a while and then take a path on the left for another unique and spectacular view.",
+                  "checkpointImage": "assets/images/treks_katerina_crossways.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Dar il-Bniet View",
+                  "type": "hidden_gem",
+                  "latitude": 35.866997,    
+                  "longitude": 14.380839,
+                  "checkpointTitle": "Dar il-Bniet View",
+                  "checkpointText": "Another amazing and quite unique spot, completely surrounding by greenery. The view of the trees in the middle of the plain is quite a sight. Behind them lies the village of Dingli, specifically the agricultural estate known as Dar il-Bniet, literally meaning House of Daughters. Local folklore suggests it refers to former female inhabitants, with legends of three mysterious girls sometimes seen crossing the road on moonlit nights. Take in the surroundings before heading back along the path referred to earlier.",
+                  "checkpointImage": "assets/badges/treks_santa_katerina_gem_dar_il_bniet_view.png",
+                  "badgeImage": "assets/badges/treks_santa_katerina_gem_dar_il_bniet_view.png"
+                },
+                {
+                  "id": "Valley Path",
+                  "type": "milestone",
+                  "latitude": 35.873517,    
+                  "longitude": 14.381687,
+                  "checkpointTitle": "Valley Path",
+                  "checkpointText": "Hope you are enjoying this incredibly peaceful path with agricultural fields on one side and the valley cliffs we walked atop earlier on the other side. Notice the small bridges which cross over waterways following some heavy rainfall.",
+                  "checkpointImage": "assets/images/treks_katerina_valley_path.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "The route starts and ends at the outskirts of Rabat and Mtarfa, near the Ghajn National Water Conservation Centre. There is a small parking lot just next to the Centre. Direct bus routes 52 and 56 can be taken from Valletta. Starting GPS coordinates: 35.884221, 14.390732."
+                  },
+                  {
+                    "title": "The route",
+                    "description": "Starts from the Rabat rural area known as Ghar Barka and heads to some amazing pathways the lush agricultural lands and valleys of the tal-Lunzjata and Santa Katerina areas. The route offers some of the greenest and nature immersed views on the islands in Winter - we will discover some of the most scenic and sports."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Route is almost entierly on asphalted or concreted paths within countryside fields and agricultural lands, with moderate elevation changes. Only a short stretch for the discovery of a hidden gem of a view is on a dirt track which can be very muddy following rainfall. So doable with trainers but trekking boots are more recommnended since this is a strong water catchement area."
+                  },
+                  {
+                    "title": "Safety Warnings",
+                    "description": "Always respect private property - some parts of the route are at risk of becoming private property (even if they were not when this route was reconned)."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "WCs facilities near the Ghajn National Water Conservation Centre - a food truck also often stations close to this centre. Otherwise, the route is along quiet residential and rural areas with no particular amenities - so do bring enough water and snacks for the trek."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_katerina_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_katerina_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
             }
           ]
         },
