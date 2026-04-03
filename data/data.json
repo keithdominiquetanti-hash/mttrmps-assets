@@ -2734,7 +2734,7 @@
               "gpxFile": "assets/gpx/chadwick-bingemma.gpx",
               "shortDescription": "From Chadwick Lakes to Bingemma",
               "details": {
-                "distance": "10.3m",
+                "distance": "10.3km",
                 "time": "2.5 hours",
                 "elevation": "193m",
                 "difficulty": "Moderate",
@@ -2840,6 +2840,319 @@
                   {
                     "title": "Getting there",
                     "description": "Route starts and ends near entrance to Chadwick Lakes trail. By bus one can take routes 50, 51, 52, 53 from Valletta to Rabat (Stop at Saqqajja) and then change route to 109, and stop at Fiddien. By car there are limited parking spaces available near entrance - for less parking worries, leave vehicle near Għajn National Water Conservation Centre and take a 500m walk to start route. GPS coordinates to starting point: 35.886291, 14.380207"
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "First takes the recently regenerated and incredibly scenic path to Chadwick Lakes and walk within the Fidden and Qlejgha valleys, before heading up towards the Bingemma cliff viewpoints and Victoria lines at Bingemma Gap. A shorter return route is taken along vehicle roads surrunded by greenery."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Crossing Fiddien and Qlejgha valley paths, as well as rocky terrain at Bingemma Gap. Possible with trainer shoes in dry conditions but trekking shoes recommended."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "Keep safe and do not take risks near Bingemma Cliff Edges."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "No restrooms or food outlets along the route, so think ahead and bring water and snacks with you. On Weekends, there are usually some stands with traditional Maltese snacks set up near Chadwick Lakes trail entrance."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_fiddien_bingemma_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_fiddien_bingemma_info2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+
+            {
+              "id": "nature-treks-north-ahrax-coast",
+              "name": "Ahrax - Southern Coast",
+              "bannerImage": "assets/images/treks_qannotta_viewpoint.jpg",
+              "badgeImage": "assets/badges/treks_fiddien_bingemma_badge.png",
+              "gpxFile": "assets/gpx/ahrax-southern-coast-test.gpx",
+              "shortDescription": "The Sourthern Coast of Ahrax with views onto Ghadira Bay",
+              "details": {
+                "distance": "7.0km",
+                "time": "2.0 hours",
+                "elevation": "100m",
+                "difficulty": "Moderate",
+                "loop": "Loop",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "1",
+                "iconic_landmarks": "1"
+              },
+              "checkpoints": [
+                {
+                  "id": "Tal-Imgahrrqa Bay",
+                  "type": "milestone",
+                  "latitude": 35.977884,   
+                  "longitude": 14.356380,
+                  "checkpointTitle": "Tal-Imgharrqa Bay",
+                  "checkpointText": "Tal-Imgharrqa Bay is a scenic spot offering stunning views of the surrounding landscape.",
+                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Slugs Bay",
+                  "type": "hidden_gem",
+                  "latitude": 35.891877,   
+                  "longitude": 14.389337,
+                  "checkpointTitle": "Slugs Bay",
+                  "checkpointText": "Dahlet ix-Xileb.",
+                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
+                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                },
+                {
+                  "id": "Ahrax Immaculate Conception Chapel",
+                  "type": "iconic_landmark",
+                  "latitude": 35.988284,    
+                  "longitude": 14.375299,
+                  "checkpointTitle": "Ahrax Immaculate Conception Chapel",
+                  "checkpointText": "Ahrax Immaculate Conception Chapel.",
+                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
+                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                },
+                {
+                  "id": "Foresta 2000",
+                  "type": "milestone",
+                  "latitude": 35.975157,    
+                  "longitude": 14.347650,
+                  "checkpointTitle": "Foresta 2000",
+                  "checkpointText": "Foresta 2000.",
+                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Route starts and ends near entrance to Chadwick Lakes trail. By bus one can take routes 50, 51, 52, 53 from Valletta to Rabat (Stop at Saqqajja) and then change route to 109, and stop at Fiddien. By car there are limited parking spaces available near entrance - for less parking worries, leave vehicle near Għajn National Water Conservation Centre and take a 500m walk to start route. GPS coordinates to starting point: 35.973959, 14.348979"
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "First takes the recently regenerated and incredibly scenic path to Chadwick Lakes and walk within the Fidden and Qlejgha valleys, before heading up towards the Bingemma cliff viewpoints and Victoria lines at Bingemma Gap. A shorter return route is taken along vehicle roads surrunded by greenery."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Crossing Fiddien and Qlejgha valley paths, as well as rocky terrain at Bingemma Gap. Possible with trainer shoes in dry conditions but trekking shoes recommended."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "Keep safe and do not take risks near Bingemma Cliff Edges."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "No restrooms or food outlets along the route, so think ahead and bring water and snacks with you. On Weekends, there are usually some stands with traditional Maltese snacks set up near Chadwick Lakes trail entrance."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_fiddien_bingemma_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_fiddien_bingemma_info2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+
+            {
+              "id": "nature-treks-north-selmun-tunnara",
+              "name": "Selmun - Mgiebah",
+              "bannerImage": "assets/images/treks_qannotta_viewpoint.jpg",
+              "badgeImage": "assets/badges/treks_fiddien_bingemma_badge.png",
+              "gpxFile": "assets/gpx/ahrax-selmum-tunnara-test.gpx",
+              "shortDescription": "From Selmun through Mgiebah Bay and to Tunnaras in Mellieha",
+              "details": {
+                "distance": "7.3km",
+                "time": "2.0 hours",
+                "elevation": "180m",
+                "difficulty": "Challenging",
+                "loop": "Loop",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "2",
+                "iconic_landmarks": "1"
+              },
+              "checkpoints": [
+                {
+                  "id": "Selmun Chapel",
+                  "type": "milestone",
+                  "latitude": 35.957174,    
+                  "longitude": 14.380101,
+                  "checkpointTitle": "Selmun Chapel",
+                  "checkpointText": "Selmun Chapel.",
+                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Imgiebah Bay",
+                  "type": "hidden_gem",
+                  "latitude": 35.967878,    
+                  "longitude": 14.381489,
+                  "checkpointTitle": "Imgiebah Bay",
+                  "checkpointText": "Imgiebah Bay is a scenic spot offering stunning views of the surrounding landscape.",
+                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
+                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                },
+                {
+                  "id": "Selmun Palace",
+                  "type": "iconic_landmark",
+                  "latitude": 35.959035,      
+                  "longitude": 14.380966,
+                  "checkpointTitle": "Selmun Palace",
+                  "checkpointText": "Selmun Palace is a historic site with significant cultural value.",
+                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
+                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                },
+                {
+                  "id": "Irdum Ghajn Hadid",
+                  "type": "hidden_gem",
+                  "latitude": 35.966528,   
+                  "longitude": 14.386597,
+                  "checkpointTitle": "Irdum Ghajn Hadid",
+                  "checkpointText": "Irdum Ghajn Hadid is a hidden gem offering a peaceful retreat in the heart of the countryside.",
+                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
+                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Route starts and ends near entrance to Chadwick Lakes trail. By bus one can take routes 50, 51, 52, 53 from Valletta to Rabat (Stop at Saqqajja) and then change route to 109, and stop at Fiddien. By car there are limited parking spaces available near entrance - for less parking worries, leave vehicle near Għajn National Water Conservation Centre and take a 500m walk to start route. GPS coordinates to starting point: 35.956695, 14.379940"
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "First takes the recently regenerated and incredibly scenic path to Chadwick Lakes and walk within the Fidden and Qlejgha valleys, before heading up towards the Bingemma cliff viewpoints and Victoria lines at Bingemma Gap. A shorter return route is taken along vehicle roads surrunded by greenery."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Crossing Fiddien and Qlejgha valley paths, as well as rocky terrain at Bingemma Gap. Possible with trainer shoes in dry conditions but trekking shoes recommended."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "Keep safe and do not take risks near Bingemma Cliff Edges."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "No restrooms or food outlets along the route, so think ahead and bring water and snacks with you. On Weekends, there are usually some stands with traditional Maltese snacks set up near Chadwick Lakes trail entrance."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_fiddien_bingemma_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_fiddien_bingemma_info2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+
+            {
+              "id": "nature-treks-north-ghadira-ghajn-tuta",
+              "name": "Ghadira - Ghajn Tuta",
+              "bannerImage": "assets/images/treks_qannotta_viewpoint.jpg",
+              "badgeImage": "assets/badges/treks_fiddien_bingemma_badge.png",
+              "gpxFile": "assets/gpx/ghadira-ghajn-tuta-test.gpx",
+              "shortDescription": "Mellieha Bays, Cliffs & more.",
+              "details": {
+                "distance": "10.4km",
+                "time": "3.0 hours",
+                "elevation": "331m",
+                "difficulty": "Challenging",
+                "loop": "Loop",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "2",
+                "iconic_landmarks": "2"
+              },
+              "checkpoints": [
+                {
+                  "id": "Ras il-Qammiegh",
+                  "type": "milestone",
+                  "latitude": 35.968914,      
+                  "longitude": 14.322403,
+                  "checkpointTitle": "Ras il-Qammieh",
+                  "checkpointText": "Ras il-Qammieh.",
+                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Cliffs Arch",
+                  "type": "hidden_gem",
+                  "latitude": 35.978645,       
+                  "longitude": 14.327349,
+                  "checkpointTitle": "Cliffs Arch",
+                  "checkpointText": "Cliffs Arch is a natural formation offering spectacular views.",
+                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
+                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                },
+                {
+                  "id": "Ta Qassisu",
+                  "type": "milestone",
+                  "latitude": 35.978059,        
+                  "longitude": 14.324892,
+                  "checkpointTitle": "Ta Qassisu",
+                  "checkpointText": "Ta Qassisu is a scenic spot offering beautiful views.",
+                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Latnija Cave",
+                  "type": "hidden_gem",
+                  "latitude": 35.977701,        
+                  "longitude": 14.328328,
+                  "checkpointTitle": "Latnija Cave",
+                  "checkpointText": "Latnija Cave is a hidden gem offering a peaceful retreat in the heart of the countryside.",
+                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
+                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                },
+                {
+                  "id": "Paradise Bay",
+                  "type": "iconic_landmark",
+                  "latitude": 35.982274,      
+                  "longitude": 14.330978,
+                  "checkpointTitle": "Paradise Bay",
+                  "checkpointText": "Paradise Bay is a beautiful coastal area with pristine beaches.",
+                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
+                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                },
+                {
+                  "id": "Gebel Qammiegh Viewpoint",
+                  "type": "milestone",
+                  "latitude": 35.971869,        
+                  "longitude": 14.324835,
+                  "checkpointTitle": "Gebel Qammiegh Viewpoint",
+                  "checkpointText": "Gebel Qammiegh Viewpoint offers breathtaking panoramic views.",
+                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "It-Torri l-Ahmar",
+                  "type": "iconic_landmark",
+                  "latitude": 35.982274,      
+                  "longitude": 14.330978,
+                  "checkpointTitle": "It-Torri l-Ahmar",
+                  "checkpointText": "St. Agatha Tower.",
+                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
+                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                },
+                {
+                  "id": "Foresta 2000",
+                  "type": "milestone",
+                  "latitude": 35.975254,         
+                  "longitude": 14.345427,
+                  "checkpointTitle": "Foresta 2000",
+                  "checkpointText": "Foresta 2000 is a lush forest area perfect for a peaceful walk.",
+                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Route starts and ends near entrance to Chadwick Lakes trail. By bus one can take routes 50, 51, 52, 53 from Valletta to Rabat (Stop at Saqqajja) and then change route to 109, and stop at Fiddien. By car there are limited parking spaces available near entrance - for less parking worries, leave vehicle near Għajn National Water Conservation Centre and take a 500m walk to start route. GPS coordinates to starting point: 35.969287, 14.349636"
                   },
                   {
                     "title": "The Route",
