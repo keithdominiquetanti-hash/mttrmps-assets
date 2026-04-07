@@ -1286,93 +1286,6 @@
             },
 
             {
-              "id": "nature-treks-kirkop-safi",
-              "name": "Kirkop - Safi",
-              "bannerImage": "assets/images/treks_zejtun_mxlokk_info_img1.jpg",
-              "badgeImage": "assets/badges/treks_zejtun_mxlokk_badge.png",
-              "gpxFile": "assets/gpx/kirkop-safi-test.gpx",
-              "shortDescription": "Kirkop - Safi",
-              "details": {
-                "distance": "6.8km",
-                "time": "1.5 hours",
-                "elevation": "63m",
-                "difficulty": "Easy",
-                "loop": "Loop",
-                "shoes": "Trainers",
-                "hidden_gems": "1",
-                "iconic_landmarks": "2"
-              },
-              "checkpoints": [
-                {
-                  "id": "Gnien Alexander Ball",
-                  "type": "iconic_landmark",
-                  "latitude": 35.834921,     
-                  "longitude": 14.490142,
-                  "checkpointTitle": "Gnien Alexander Ball",
-                  "checkpointText": "This is a historic, public space named after Captain Sir Alexander Ball, the first British Civil Commissioner of Malta. Originally built with permission from King George III, this garden is one of a series of such gardens commissioned between 1802 and 1808, and was planted with trees, vines, and herbs to promote local self-sufficiency. Its main feature is the vine-covered trellises along central pathways. Captain Ball, who admired these gardens, frequently visited, with the Ħal Safi garden being one of his favourites.",
-                   "checkpointImage": "assets/badges/treks_zejtun_mxlokk_landmark_tas_silg_temples.png",
-                  "badgeImage": "assets/badges/treks_zejtun_mxlokk_landmark_tas_silg_temples.png"
-                },
-                {
-                  "id": "Misrah Hlantun",
-                  "type": "hidden_gem",
-                  "latitude": 35.827713,    
-                  "longitude": 14.491465,
-                  "checkpointTitle": "Misrah Hlantun",
-                  "checkpointText": "Named after the medieval noble Ħal Antun, this square preserves one of the oldest place names in the area, reflecting feudal land ownership in late medieval Malta. It developed as a small village core, historically serving as a meeting point for surrounding agricultural communities and local routes.",
-                  "checkpointImage": "assets/badges/treks_zejtun_mxlokk_gem_san_niklaw_chapel.png",
-                  "badgeImage": "assets/badges/treks_zejtun_mxlokk_gem_san_niklaw_chapel.png"
-                },
-                {
-                  "id": "Safi Parish Church & Square",
-                  "type": "iconic_landmark",
-                  "latitude": 35.833599,      
-                  "longitude": 14.483699,
-                  "checkpointTitle": "Safi Parish Church & Square",
-                  "checkpointText": "Dedicated to the Conversion of Saint Paul, the Safi parish church was constructed between 1724 and 1732 to serve the newly established parish. Its façade is attributed to the architect Giovanni Barbara, featuring restrained Baroque elements and a proportioned bell tower typical of early 18th-century Maltese ecclesiastical design.",
-                  "checkpointImage": "assets/badges/treks_zejtun_mxlokk_landmark_tas_silg_temples.png",
-                  "badgeImage": "assets/badges/treks_zejtun_mxlokk_landmark_tas_silg_temples.png"
-                },
-                {
-                  "id": "Kirkop Menhir",
-                  "type": "iconic_landmark",
-                  "latitude": 35.844690,       
-                  "longitude": 14.485071,
-                  "checkpointTitle": "Kirkop Menhir",
-                  "checkpointText": "This prehistoric standing stone is thought to date back to Malta’s Bronze Age, representing one of the few surviving menhirs on the islands. Its purpose remains uncertain, though such stones are often linked to ritual, territorial marking, or early forms of monument building.",
-                  "checkpointImage": "assets/badges/treks_zejtun_mxlokk_landmark_tas_silg_temples.png",
-                  "badgeImage": "assets/badges/treks_zejtun_mxlokk_landmark_tas_silg_temples.png"
-                }
-              ],
-              "detailContent": {
-                "highlights": [
-                  {
-                    "title": "Getting there",
-                    "description": "Route starts and ends at the Kirkop Parish church and square, with parking spaces available mostly at the nearby Misrah iz-Zernieq. Bus routes 71 and 73 have Kirkop as a stop in between the Valletta to Zurrieq bus route. GPS coordinates to starting point: 35.842180, 14.485949."
-                  },
-                  {
-                    "title": "The Route",
-                    "description": "Travels in between two of Malta's smallest and most traditional villages  known for their quiet, time-stands-still atmosphere, characterized by narrow winding streets, historic village cores, and deep-rooted agricultural traditions. We will also explore some interesting landmarks along the country roads surronding the villages."
-                  },
-                  {
-                    "title": "Terrain",
-                    "description": "Trek is entirely and ashphalted surfaces and can be done easily in trainers to keep light footed and comfortable."
-                  },
-                  {
-                    "title": "Amenities",
-                    "description": "Route is within and between two queiet villages having some small grocery shops and bars. WC facilities at Misrah iz-Zernieq right next to the route starting point."
-                  }
-                ],
-                "imagePrimary": "assets/images/details/treks_zejtun_mxlokk_info_img1.jpg",
-                "imageSecondary": "assets/images/details/treks_zejtun_mxlokk_info_img2.jpg"
-              },
-              "standardPrice": 3.0,
-              "discountedPrice": 2.0,
-              "couponTrekTrigger": "A",
-              "couponTrigger": "Z"
-            },
-
-            {
               "id": "nature-treks-test-route",
               "name": "Test Route",
               "bannerImage": "assets/images/treks_inwadar_banner.jpg",
@@ -2023,6 +1936,123 @@
                 ],
                 "imagePrimary": "assets/images/details/treks_katerina_info_img1.jpg",
                 "imageSecondary": "assets/images/details/treks_katerina_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+
+            {
+              "id": "nature-treks-safi",
+              "name": "Hal Safi Loop",
+              "bannerImage": "assets/images/treks_safi_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_safi_loop_badge.png",
+              "gpxFile": "assets/gpx/safi-loop.gpx",
+              "shortDescription": "Hal Safi Loop - a quiet walk within a traditional and historic Maltese village and its countryside surroundings",
+              "details": {
+                "distance": "4.7km",
+                "time": "1.5 hours",
+                "elevation": "42m",
+                "difficulty": "Easy",
+                "loop": "Loop",
+                "shoes": "Trainers",
+                "hidden_gems": "1",
+                "iconic_landmarks": "2"
+              },
+              "checkpoints": [
+                {
+                  "id": "Santa Marija Chapel",
+                  "type": "milestone",
+                  "latitude": 35.833372,     
+                  "longitude": 14.484152,
+                  "checkpointTitle": "Santa Marija Chapel",
+                  "checkpointText": "An 18th century chapel dedicated to St. Mary just a few steps away from the village's main parish church dedicated to the Conversion of St. Paul. First mention of a chapel on this site dates back to 1575 giving it historical significance as the oldest standing church in the locality. Historically, the chapel was known for its hospitality; during the feast of the Assumption (15th August), it traditionally opened its doors to provide a meal for the village's needy.",
+                  "checkpointImage": "assets/images/treks_safi_santa_marija.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Gnien Alexander Ball",
+                  "type": "hidden_gem",
+                  "latitude": 35.834912,      
+                  "longitude": 14.490198,
+                  "checkpointTitle": "Gnien Alexander Ball",
+                  "checkpointText": "This is a historic, public space named after Captain Sir Alexander Ball, the first British Civil Commissioner of Malta. Originally built with permission from King George III, this garden is one of a series of such gardens commissioned between 1802 and 1808, and was planted with trees, vines, and herbs to promote local self-sufficiency. Captain Ball, who admired these gardens, frequently visited, with the Ħal Safi garden being one of his favourites. Its main feature today is the central pathway with trellis and various trees and bushes exhibited on either side. At the end of the pathway there is a designated beekeeping area where hives are maintained.",
+                  "checkpointImage": "assets/badges/treks_safi_gem_alexander_ball_garden.png",
+                  "badgeImage": "assets/badges/treks_safi_gem_alexander_ball_garden.png"
+                },
+                {
+                  "id": "Misrah Hlantun",
+                  "type": "milestone",
+                  "latitude": 35.827622,    
+                  "longitude": 14.491090,
+                  "checkpointTitle": "Misrah Hlantun",
+                  "checkpointText": "Named after the medieval noble Ħal Antun, this square preserves one of the oldest place names in the area, reflecting feudal land ownership in late medieval Malta. It developed as a small village core, historically serving as a meeting point for surrounding agricultural communities and local routes. Today it is a quiet open spaces with some benches where you can take a mid-trek rest.",
+                  "checkpointImage": "assets/images/treks_safi_misrah_hlantun.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Il-Mithna tax-Xarolla and Catacombs",
+                  "type": "iconic_landmark",
+                  "latitude": 35.832273,       
+                  "longitude": 14.480439,
+                  "checkpointTitle": "Il-Mithna tax-Xarolla and Catacombs",
+                  "checkpointText": "A meticulously restored 18th-century windmill built by the Knights of Malta, notable for being the only operational windmill on the islands that still retains its original mechanisms. Directly adjacent to the mill is a significant complex of Paleo-Christian catacombs and tombs dating back to the Roman period, which feature unique rock-cut window tombs and decorative pilasters.",
+                   "checkpointImage": "assets/badges/treks_safi_landmark_mithna_xarolla.png",
+                  "badgeImage": "assets/badges/treks_safi_landmark_mithna_xarolla.png"
+                },
+                {
+                  "id": "St. Andrew's Chapel",
+                  "type": "milestone",
+                  "latitude": 35.832199,       
+                  "longitude": 14.480305,
+                  "checkpointTitle": "St. Andrew's Chapel",
+                  "checkpointText": "Uniquely situated on top of a section of the Tax-Xarolla catacombs lies St. Andrew's Chapel. Rebuilt in 1634, the simple rectangular structure features a square-headed door and a central bell-cot, though it was later used as a farm building before a dedicated restoration by Din l-Art Ħelwa.",
+                  "checkpointImage": "assets/images/treks_safi_st_andrew_chapel.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Roman Wall",
+                  "type": "milestone",
+                  "latitude": 35.832780,    
+                  "longitude": 14.481582,
+                  "checkpointTitle": "Roman Wall",
+                  "checkpointText": "A a 2,000-year-old masonry remnant likely belonging to a rural Roman farm or villa. This scheduled Class B national monument is built from large ashlar blocks and features specialized Lewis bolt slots once used for hoisting the stones into place. It is one of the few surviving examples of classical Roman architecture still visible in a rural Maltese setting.",
+                  "checkpointImage": "assets/images/treks_safi_roman_wall.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Safi Parish Church & Square",
+                  "type": "iconic_landmark",
+                  "latitude": 35.833521,     
+                  "longitude": 14.483486,
+                  "checkpointTitle": "Safi Parish Church & Square",
+                  "checkpointText": "The Safi Parish Church, dedicated to the Conversion of St. Paul, is a classic Baroque structure built between 1712 and 1744, featuring a striking façade with two bell towers and an interior housing a titular painting by Stefano Erardi. The church overlooks the village’s main Square, a peaceful, traditional space that serves as the heart of the community and is surrounded by typical Maltese townhouses and narrow winding streets.",
+                  "checkpointImage": "assets/badges/treks_safi_landmark_parish_church.png",
+                  "badgeImage": "assets/badges/treks_safi_landmark_parish_church.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Route starts and ends at the Safi Parish church and square - parking spaces within the square are limited with better chances in the village outskirts near the Safi playground (Xarolla area). Bus route 73 serves Safi from Valletta. GPS coordinates to starting point: 35.833390, 14.483817."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "Travels from the centre of one Malta's smallest and most traditional villages known for its quiet, time-stands-still atmosphere, characterized by narrow winding streets and a historic village core. The route then takes to village's very quite and peaceful countryside roads along which some interesting landmarks are to be discovered."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Trek is entirely on asphalted surfaces and can be done easily in trainers to keep light footed and comfortable."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Safi village core has some small grocery shops and bars. WC facilities near the Safi playground and Local Council at Triq il-Menqa, not too distant from the starting and ending points (and a good place to look for parking)."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_safi_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_safi_info_img2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
