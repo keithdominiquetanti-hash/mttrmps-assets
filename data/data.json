@@ -2928,20 +2928,20 @@
             },
 
             {
-              "id": "nature-treks-north-ahrax-coast",
-              "name": "Ahrax - Southern Coast",
+              "id": "nature-treks-north-ahrax-ghadira-side",
+              "name": "Ahrax - Ghadira Side",
               "bannerImage": "assets/images/treks_qannotta_viewpoint.jpg",
               "badgeImage": "assets/badges/treks_fiddien_bingemma_badge.png",
-              "gpxFile": "assets/gpx/ahrax-southern-coast-test.gpx",
-              "shortDescription": "The Sourthern Coast of Ahrax with views onto Ghadira Bay",
+              "gpxFile": "assets/gpx/ahrax-ghadira-side.gpx",
+              "shortDescription": "The Sourthern Coast of Ahrax with views onto Ghadira Bay and discovering hidden bays.",
               "details": {
-                "distance": "7.0km",
+                "distance": "7.1km",
                 "time": "2.0 hours",
-                "elevation": "100m",
+                "elevation": "121m",
                 "difficulty": "Moderate",
                 "loop": "Loop",
                 "shoes": "Trekking Shoes",
-                "hidden_gems": "1",
+                "hidden_gems": "2",
                 "iconic_landmarks": "1"
               },
               "checkpoints": [
@@ -3110,129 +3110,179 @@
             },
 
             {
-              "id": "nature-treks-north-ghadira-ghajn-tuta",
-              "name": "Ghadira - Ghajn Tuta",
-              "bannerImage": "assets/images/treks_qannotta_viewpoint.jpg",
-              "badgeImage": "assets/badges/treks_fiddien_bingemma_badge.png",
-              "gpxFile": "assets/gpx/ghadira-ghajn-tuta-test.gpx",
-              "shortDescription": "Mellieha Bays, Cliffs & more.",
+              "id": "nature-treks-north-qammiegh-latnija",
+              "name": "Qammiegh - Latnija",
+              "bannerImage": "assets/images/treks_qammiegh_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_qammiegh_latnija_badge.png",
+              "gpxFile": "assets/gpx/qammiegh-latnija.gpx",
+              "shortDescription": "Amazing changes in sceneries and attractions in a single trek",
               "details": {
-                "distance": "10.4km",
+                "distance": "9.1km",
                 "time": "3.0 hours",
-                "elevation": "331m",
+                "elevation": "350m",
                 "difficulty": "Challenging",
                 "loop": "Loop",
                 "shoes": "Trekking Shoes",
-                "hidden_gems": "2",
-                "iconic_landmarks": "2"
+                "hidden_gems": "5",
+                "iconic_landmarks": "3"
               },
               "checkpoints": [
                 {
-                  "id": "Ras il-Qammiegh",
+                  "id": "View onto Ghadira Nature Reserve",
                   "type": "milestone",
-                  "latitude": 35.968914,      
-                  "longitude": 14.322403,
-                  "checkpointTitle": "Ras il-Qammieh",
-                  "checkpointText": "Ras il-Qammieh.",
-                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
+                  "latitude": 35.971169,      
+                  "longitude": 14.343977,
+                  "checkpointTitle": "View onto Ghadira Nature Reserve",
+                  "checkpointText": "On your left side, you are now overlooking the Ghadira Nature Reserve. This seven-hectare wetland is a vital Mediterranean stopover for over 200 migratory bird species, including flamingos and herons. It preserves a rare mosaic of salt marshes and sand dunes, providing a protected habitat for indigenous flora and breeding residents like the Little Ringed Plover. Visitors can observe these seasonal populations from concealed hides overlooking brackish lagoons and tamarisk groves.",
+                  "checkpointImage": "assets/images/treks_qammiegh_view_ghadira.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Cliffs Arch",
+                  "id": "Worth the Climb",
+                  "type": "milestone",
+                  "latitude": 35.970755,      
+                  "longitude": 14.336616,
+                  "checkpointTitle": "Worth the Climb",
+                  "checkpointText": "Take a look back and we hope that the offered view onto Ghadira Bay, and also onto the Majjistral Nature Park (coastal side) made the steep climb worth it.",
+                  "checkpointImage": "assets/images/treks_qammiegh_view_after_climb.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Descending to the Coast",
+                  "type": "milestone",
+                  "latitude": 35.970328,       
+                  "longitude": 14.327004,
+                  "checkpointTitle": "Descending to the Coast",
+                  "checkpointText": "Now take this path that will take us down to the coastal edge. Quite steep so take it slow and steady but we will pass through an amazing spot along the way.",
+                  "checkpointImage": "assets/images/treks_qammiegh_descending_to_coast.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Qammiegh boulders",
                   "type": "hidden_gem",
-                  "latitude": 35.978645,       
-                  "longitude": 14.327349,
-                  "checkpointTitle": "Cliffs Arch",
-                  "checkpointText": "Cliffs Arch is a natural formation offering spectacular views.",
-                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
-                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                  "latitude": 35.969477,       
+                  "longitude":  14.326629,
+                  "checkpointTitle": "Qammiegh Boulders",
+                  "checkpointText": "This unique view of the path passing through fallen off boulders is worth an hidden gem badge for long-lasting memories. Route takes the path on the left that continues the descent.",
+                  "checkpointImage": "assets/badges/treks_qammiegh_gem_boulders_path.png",
+                  "badgeImage": "assets/badges/treks_qammiegh_gem_boulders_path.png"
                 },
                 {
-                  "id": "Ta Qassisu",
+                  "id": "Coastal Stretch",
                   "type": "milestone",
-                  "latitude": 35.978059,        
-                  "longitude": 14.324892,
-                  "checkpointTitle": "Ta Qassisu",
-                  "checkpointText": "Ta Qassisu is a scenic spot offering beautiful views.",
-                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
+                  "latitude": 35.968570,        
+                  "longitude": 14.325731,
+                  "checkpointTitle": "Coastal Stretch",
+                  "checkpointText": "Now taking a short coastal stretch offering a different kind of scenery. You can follow the rocks with orange/ red marks to guide you in this part of the route.",
+                  "checkpointImage": "assets/images/treks_qammiegh_coastal_stretch.jpg",
                   "badgeImage": ""
+                },
+                {
+                  "id": "Qammiegh Clay slopes",
+                  "type": "hidden_gem",
+                  "latitude": 35.968809,        
+                  "longitude":  14.323031,
+                  "checkpointTitle": "Qammiegh Clay Slopes",
+                  "checkpointText": "An amazing spot with large boulders fallen off from the Qammiegh cliffs and impermeable Blue Clay slopes creating a tiered andscape of gullies and ridges. Take the path right in between the slopes.",
+                  "checkpointImage": "assets/badges/treks_qammiegh_gem_clay_slopes.png",
+                  "badgeImage": "assets/badges/treks_qammiegh_gem_clay_slopes.png"
+                },
+                {
+                  "id": "Ta Qassisu Natural Window",
+                  "type": "hidden_gem",
+                  "latitude": 35.978058,        
+                  "longitude":  14.324982,
+                  "checkpointTitle": "Ta Qassisu Natural Window",
+                  "checkpointText": "This natural rock arch was formed by the collapse of a large sea cave along the rugged northern cliffs, creating a scenic frame for the Mediterranean. Tucked away near hidden boat houses, it remains one of the archipelago's most northern and least-frequented geological features.",
+                  "checkpointImage": "assets/badges/treks_qammiegh_gem_qassisu_window.png",
+                  "badgeImage": "assets/badges/treks_qammiegh_gem_qassisu_window.png"
                 },
                 {
                   "id": "Latnija Cave",
                   "type": "hidden_gem",
-                  "latitude": 35.977701,        
-                  "longitude": 14.328328,
+                  "latitude": 35.977425,       
+                  "longitude": 14.328392,
                   "checkpointTitle": "Latnija Cave",
-                  "checkpointText": "Latnija Cave is a hidden gem offering a peaceful retreat in the heart of the countryside.",
-                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
-                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                  "checkpointText": "This massive, collapsed limestone cavern features a vertical drop that has allowed a sheltered micro-forest of indigenous Carob and Bay Laurel trees to flourish within its walls. Groundbreaking excavations at this site recently rewrote national history, revealing that human habitation in Malta began 8,500 years ago—a full millennium earlier than previously believed.  Because of its newfound status as a heritage at risk and the presence of sensitive archaeological deposits still in situ, the cave is currently closed to the public and protected by an emergency conservation order.",
+                  "checkpointImage": "assets/badges/treks_qammiegh_gem_latnija_cave.png",
+                  "badgeImage": "assets/badges/treks_qammiegh_gem_latnija_cave.png"
+                },
+                {
+                  "id": "Latnija Arch Viewpoint",
+                  "type": "hidden_gem",
+                  "latitude": 35.977617,        
+                  "longitude":  14.327769,
+                  "checkpointTitle": "Latnija Arch Viewpoint",
+                  "checkpointText": "This stone arch serves as a historic gateway, framing an elevated panoramic view of the Gozo Channel and the distant islands of Comino and Gozo. Beyond the archway, a series of rock-cut steps—some potentially dating back to Roman times—descend the rugged ridge toward the shoreline.",
+                  "checkpointImage": "assets/badges/treks_qammiegh_gem_latnija_arch.png",
+                  "badgeImage": "assets/badges/treks_qammiegh_gem_latnija_arch.png"
                 },
                 {
                   "id": "Paradise Bay",
                   "type": "iconic_landmark",
-                  "latitude": 35.982274,      
-                  "longitude": 14.330978,
+                  "latitude": 35.981641,       
+                  "longitude": 14.330614,
                   "checkpointTitle": "Paradise Bay",
-                  "checkpointText": "Paradise Bay is a beautiful coastal area with pristine beaches.",
-                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
-                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                  "checkpointText": "This secluded, north-facing inlet is famed for its pale sands and exceptionally clear, turquoise waters that reveal vast underwater seagrass meadows from the cliffs above. The bay is naturally sheltered by high limestone ridges, creating a calm basin that feels worlds away from the busier beaches nearby.",
+                  "checkpointImage": "assets/badges/treks_qammiegh_landmark_paradise_bay.png",
+                  "badgeImage": "assets/badges/treks_qammiegh_landmark_paradise_bay.png"
                 },
                 {
-                  "id": "Gebel Qammiegh Viewpoint",
+                  "id": "Road to Red Tower",
                   "type": "milestone",
-                  "latitude": 35.971869,        
-                  "longitude": 14.324835,
-                  "checkpointTitle": "Gebel Qammiegh Viewpoint",
-                  "checkpointText": "Gebel Qammiegh Viewpoint offers breathtaking panoramic views.",
-                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
+                  "latitude": 35.972128,         
+                  "longitude": 14.326414,
+                  "checkpointTitle": "Road to Red Tower",
+                  "checkpointText": "Now taking a long and smoothly surfaced strech of road for a deserved easier stretch but still offering great side views.",
+                  "checkpointImage": "assets/images/treks_qammiegh_road_to_red_tower.jpg",
                   "badgeImage": ""
                 },
                 {
                   "id": "It-Torri l-Ahmar",
                   "type": "iconic_landmark",
-                  "latitude": 35.982274,      
-                  "longitude": 14.330978,
+                  "latitude": 35.974573,     
+                  "longitude": 14.342015,
                   "checkpointTitle": "It-Torri l-Ahmar",
-                  "checkpointText": "St. Agatha Tower.",
-                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
-                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                  "checkpointText": "Built in 1649 and named as St. Agatha's Tower, this Order of St. John fortification served as the primary defensive link between Valletta and Gozo, communicating signals across the islands via fire and smoke. Its distinct iron-oxide red exterior was designed not just for visibility, but as a psychological deterrent to Ottoman invaders approaching from the sea. From its roof, the 360-degree panorama offers a rare view of both the northern and southern coastlines of Malta simultaneously.",
+                  "checkpointImage": "assets/badges/treks_qammiegh_landmark_red_tower.png",
+                  "badgeImage": "assets/badges/treks_qammiegh_landmark_red_tower.png"
                 },
                 {
                   "id": "Foresta 2000",
-                  "type": "milestone",
-                  "latitude": 35.975254,         
-                  "longitude": 14.345427,
+                  "type": "iconic_landmark",
+                  "latitude": 35.975378,         
+                  "longitude": 14.345202,
                   "checkpointTitle": "Foresta 2000",
-                  "checkpointText": "Foresta 2000 is a lush forest area perfect for a peaceful walk.",
-                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
-                  "badgeImage": ""
+                  "checkpointText": "Trek concludes with a descent through Foresta 2000 - a sprawling reforestation project has transformed a formerly barren hillside into a flourishing Mediterranean woodland of over 20,000 indigenous trees, including Aleppo Pine, Holm Oak, and Carob. It serves as a vital ecological corridor, linking the Għadira wetlands to the high ridges of Marfa to provide a continuous habitat for protected wildlife like the Mediterranean Chameleon.",
+                  "checkpointImage": "assets/badges/treks_qammiegh_landmark_foresta_2000.png",
+                  "badgeImage": "assets/badges/treks_qammiegh_landmark_foresta_2000.png"
                 }
               ],
               "detailContent": {
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Route starts and ends near entrance to Chadwick Lakes trail. By bus one can take routes 50, 51, 52, 53 from Valletta to Rabat (Stop at Saqqajja) and then change route to 109, and stop at Fiddien. By car there are limited parking spaces available near entrance - for less parking worries, leave vehicle near Għajn National Water Conservation Centre and take a 500m walk to start route. GPS coordinates to starting point: 35.969287, 14.349636"
+                    "description": "Route start and end points are at the upper side of Ghadira Bay, near the Nature Reserve and Foresta 2000. Bus 222 takes the most direct route from Valletta to Ghadira. Plenty of parking spaces alongside Ghadira Bay which are quickly taken up in Summer but most of which would be available in Winter when more likely you'll be doing this trek. GPS coordinates to starting point: 35.973777, 14.348792"
                   },
                   {
                     "title": "The Route",
-                    "description": "First takes the recently regenerated and incredibly scenic path to Chadwick Lakes and walk within the Fidden and Qlejgha valleys, before heading up towards the Bingemma cliff viewpoints and Victoria lines at Bingemma Gap. A shorter return route is taken along vehicle roads surrunded by greenery."
+                    "description": "One of the most scenic routes amongst all treks which has everything - paths amongst greenery, coastal stretches, clay slopes, natural arches and windows, a cave, bays and a historic tower. Route takes into the area known as Qammiegh, heading to the Qassisu area and a historic cave and tower, before ending the route in a natural Mediterranean woodland."
                   },
                   {
                     "title": "Terrain",
-                    "description": "Crossing Fiddien and Qlejgha valley paths, as well as rocky terrain at Bingemma Gap. Possible with trainer shoes in dry conditions but trekking shoes recommended."
+                    "description": "You'll be taking rugged and rocky paths, covering coastal stretches, climbing a path within clay slopes and navigating through boulders and stepped paths, so trekking shoes are a necessity. Significant elevation changes on challenging terrain."
                   },
                   {
                     "title": "Safety Warning",
-                    "description": "Keep safe and do not take risks near Bingemma Cliff Edges."
+                    "description": "Take caution in the more challenging descents of this trek and keep safe distance along cliff edges. Respect private property which may have changed from the recon of this trek."
                   },
                   {
                     "title": "Amenities",
-                    "description": "No restrooms or food outlets along the route, so think ahead and bring water and snacks with you. On Weekends, there are usually some stands with traditional Maltese snacks set up near Chadwick Lakes trail entrance."
+                    "description": "Public restrooms and some snack kiosks/ restaurants available at Ghadira Bay near the starting/ end point, but otherwise the route is fully immersed in nature with no amenities."
                   }
                 ],
-                "imagePrimary": "assets/images/details/treks_fiddien_bingemma_info1.jpg",
-                "imageSecondary": "assets/images/details/treks_fiddien_bingemma_info2.jpg"
+                "imagePrimary": "assets/images/details/treks_qammiegh_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_qammiegh_info_img2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
