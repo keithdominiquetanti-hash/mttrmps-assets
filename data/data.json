@@ -2930,8 +2930,8 @@
             {
               "id": "nature-treks-north-ahrax-ghadira-side",
               "name": "Ahrax - Ghadira Side",
-              "bannerImage": "assets/images/treks_qannotta_viewpoint.jpg",
-              "badgeImage": "assets/badges/treks_fiddien_bingemma_badge.png",
+              "bannerImage": "assets/images/details/treks_ahrax_ghadira_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_ahrax_ghadira_badge.png",
               "gpxFile": "assets/gpx/ahrax-ghadira-side.gpx",
               "shortDescription": "The Sourthern Coast of Ahrax with views onto Ghadira Bay and discovering hidden bays.",
               "details": {
@@ -2946,71 +2946,111 @@
               },
               "checkpoints": [
                 {
-                  "id": "Tal-Imgahrrqa Bay",
+                  "id": "Green Path",
                   "type": "milestone",
-                  "latitude": 35.977884,   
-                  "longitude": 14.356380,
+                  "latitude": 35.976389,     
+                  "longitude": 14.347751,
+                  "checkpointTitle": "Green Path",
+                  "checkpointText": "Immediately take this path on the left to leave the vehicle road and proceed on a greener path that leads to the cliff side and some hidden bay gems.",
+                  "checkpointImage": "assets/images/treks_ghadira_ahrax_first_path.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Tal-Imgahrrqa Bay",
+                  "type": "hidden_gem",
+                  "latitude": 35.978124,   
+                  "longitude": 14.356744,
                   "checkpointTitle": "Tal-Imgharrqa Bay",
-                  "checkpointText": "Tal-Imgharrqa Bay is a scenic spot offering stunning views of the surrounding landscape.",
-                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
+                  "checkpointText": "This circular cove is a prime example of a collapsed doline, where the roof of an underground sea cave gave way to the elements over thousands of years. Look closely at the cliff faces; the layered limestone reveals the ancient seabed’s history, often hiding fossilized remains of sea urchins and shells.",
+                  "checkpointImage": "assets/badges/treks_ahrax_ghadira_gem_imgharrqa.png",
+                  "badgeImage": "assets/badges/treks_ahrax_ghadira_gem_imgharrqa.png"
+                },
+                {
+                  "id": "Dive Site",
+                  "type": "milestone",
+                  "latitude": 35.979749,      
+                  "longitude": 14.360120,
+                  "checkpointTitle": "Dive Site",
+                  "checkpointText": "A 'beach' characterised by a platform, often used by shore-entry divers who prefer its direct access to the deeper reef walls.",
+                  "checkpointImage": "assets/images/treks_ahrax_ghadira_dive_site.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Stone Wall",
+                  "type": "milestone",
+                  "latitude": 35.980259,       
+                  "longitude": 14.360665,
+                  "checkpointTitle": "Stone Wall",
+                  "checkpointText": "A distinctive low, weathered limestone wall that runs parallel to the shore, originally built to act as a barrier for the adjacent campsite.",
+                  "checkpointImage": "assets/images/treks_ahrax_ghadira_wall_fortification.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Cliff Side Path",
+                  "type": "milestone",
+                  "latitude": 35.983797,        
+                  "longitude": 14.362500,
+                  "checkpointTitle": "Cliff Side Path",
+                  "checkpointText": "We had to get back to the road to respect private propery but now we can return to the off beaten track. As the sign warns, the path in this part will go very close to cliff edge. If you wish to avoid that, you can proceed a bit further on the road and then join the same path later.",
+                  "checkpointImage": "assets/images/treks_ahrax_ghadira_cliff_side_path.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Path to Slugs Bay",
+                  "type": "milestone",
+                  "latitude": 35.987066,      
+                  "longitude": 14.373003,
+                  "checkpointTitle": "Path to Slugs Bay",
+                  "checkpointText": "You have just crossed one of the most popular and scenic camping spots in Malta, should you wish to return for a different camping adventure. Now follow the app's route market to find this path that takes to Slugs Bay.",
+                  "checkpointImage": "assets/images/treks_ahrax_ghadira_path_to_slugs_bay.jpg",
                   "badgeImage": ""
                 },
                 {
                   "id": "Slugs Bay",
                   "type": "hidden_gem",
-                  "latitude": 35.891877,   
-                  "longitude": 14.389337,
+                  "latitude": 35.986072,   
+                  "longitude": 14.372730,
                   "checkpointTitle": "Slugs Bay",
-                  "checkpointText": "Dahlet ix-Xileb.",
-                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
-                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                  "checkpointText": "Locals often call it Dħalet ix-Xilep, named after the Xilpa (Dreamfish or Salema porgy) commonly found in these waters. The beach was formed by a rare geological accident where massive boulders tumbled from the cliffs to create a sheltered basin that naturally traps fine sand. It earned its English nickname from the dark sea cucumbers often found on the seabed, which early British military personnel mistakenly identified as slugs.",
+                  "checkpointImage": "assets/badges/treks_ahrax_ghadira_gem_slugs_bay.png",
+                  "badgeImage": "assets/badges/treks_ahrax_ghadira_gem_slugs_bay.png"
                 },
                 {
                   "id": "Ahrax Immaculate Conception Chapel",
                   "type": "iconic_landmark",
-                  "latitude": 35.988284,    
-                  "longitude": 14.375299,
+                  "latitude": 35.988374,     
+                  "longitude": 14.375238,
                   "checkpointTitle": "Ahrax Immaculate Conception Chapel",
-                  "checkpointText": "Ahrax Immaculate Conception Chapel.",
-                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
-                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
-                },
-                {
-                  "id": "Foresta 2000",
-                  "type": "milestone",
-                  "latitude": 35.975157,    
-                  "longitude": 14.347650,
-                  "checkpointTitle": "Foresta 2000",
-                  "checkpointText": "Foresta 2000.",
-                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
-                  "badgeImage": ""
+                  "checkpointText": "Perched on the cliff edge, this small chapel was originally built to serve the local farming and fishing community who lived far from the village center. Legend says it was built on this specific spot to offer a final blessing to sailors departing for the dangerous crossing toward Sicily. This is the final landmark for the route, you may return back from the same route for a different perspective or take the long straight road back for a quicker and easier return.",
+                  "checkpointImage": "assets/badges/treks_ahrax_ghadira_landmark_kuncizzjoni.png",
+                  "badgeImage": "assets/badges/treks_ahrax_ghadira_landmark_kuncizzjoni.png"
                 }
               ],
               "detailContent": {
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Route starts and ends near entrance to Chadwick Lakes trail. By bus one can take routes 50, 51, 52, 53 from Valletta to Rabat (Stop at Saqqajja) and then change route to 109, and stop at Fiddien. By car there are limited parking spaces available near entrance - for less parking worries, leave vehicle near Għajn National Water Conservation Centre and take a 500m walk to start route. GPS coordinates to starting point: 35.973959, 14.348979"
+                    "description": "Route start and ends close to the 'Msid' bus stop at the start of Ahrax road. This is served by buses 41 and 42 from Valletta and bus 222 from Sliema area. If looking for parking, the spaces in the uphill road beyond Ghadira bay is the closest option. GPS coordinates to starting point: 35.973777, 14.348792"
                   },
                   {
                     "title": "The Route",
-                    "description": "First takes the recently regenerated and incredibly scenic path to Chadwick Lakes and walk within the Fidden and Qlejgha valleys, before heading up towards the Bingemma cliff viewpoints and Victoria lines at Bingemma Gap. A shorter return route is taken along vehicle roads surrunded by greenery."
+                    "description": "First takes an amazing hidden path to reach the southern cliffs of the Ahrax peninsula overlooking Ghadira Bay, to then discover some hidden bays. Once reaching the end of the peninsula, one could take the same route back for a different perspective or take the long straight road back for a quicker and easier return."
                   },
                   {
                     "title": "Terrain",
-                    "description": "Crossing Fiddien and Qlejgha valley paths, as well as rocky terrain at Bingemma Gap. Possible with trainer shoes in dry conditions but trekking shoes recommended."
+                    "description": "Mostly on the off beaten track with some rocky parts, so trekking shoes are highly recommended. The return can be made along a long but quiet straight vehicular road, still with pleasant views."
                   },
                   {
                     "title": "Safety Warning",
-                    "description": "Keep safe and do not take risks near Bingemma Cliff Edges."
+                    "description": "As sign posted on the road, a part of this trek goes along the very edge of the cliff subject to coastal erosion. One could proceed along the vehicular road in this path and rejoin the marked route at a later stage. Take caution in the more challenging descents of this trek and keep safe distance along cliff edges. Respect private property which may have changed from the recon of this trek."
                   },
                   {
                     "title": "Amenities",
-                    "description": "No restrooms or food outlets along the route, so think ahead and bring water and snacks with you. On Weekends, there are usually some stands with traditional Maltese snacks set up near Chadwick Lakes trail entrance."
+                    "description": "Public restrooms and some snack kiosks/ restaurants available at the Ghadira Bay located downhill from the starting/ end point, but otherwise the route is fully immersed in nature with no amenities."
                   }
                 ],
-                "imagePrimary": "assets/images/details/treks_fiddien_bingemma_info1.jpg",
-                "imageSecondary": "assets/images/details/treks_fiddien_bingemma_info2.jpg"
+                "imagePrimary": "assets/images/details/treks_ahrax_ghadira_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_ahrax_ghadira_info_img2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
