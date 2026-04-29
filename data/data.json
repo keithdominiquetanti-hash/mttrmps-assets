@@ -1583,89 +1583,89 @@
             {
               "id": "nature-treks-west-girgenti-laferla",
               "name": "Girgenti-Laferla Cross",
-              "bannerImage": "assets/images/treks_lapsi_bay.jpg",
-              "badgeImage": "assets/badges/treks_lapsi_badge.png",
-              "gpxFile": "assets/gpx/girgenti-laferla-design.gpx",
+              "bannerImage": "assets/images/treks_laferla_girgenti_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_laferla_girtenti_badge.png",
+              "gpxFile": "assets/gpx/girgenti-laferla.gpx",
               "shortDescription": "Walking up to the Laferla Cross",
               "details": {
-                "distance": "8.3km",
-                "time": "2 hours",
-                "elevation": "150m",
+                "distance": "4.9km",
+                "time": "1.5 hours",
+                "elevation": "130m",
                 "difficulty": "Moderate",
                 "loop": "Loop",
                 "shoes": "Trekking Shoes",
-                "hidden_gems": "2",
+                "hidden_gems": "1",
                 "iconic_landmarks": "2"
               },
               "checkpoints": [
                 {
-                  "id": "Start of Wied Hesri",
+                  "id": "Path to Laferla Cross",
                   "type": "milestone",
-                  "latitude": 35.860349, 
-                  "longitude": 14.434045,
-                  "checkpointTitle": "Start of Wied Hesri",
-                  "checkpointText": "Start of Wied Hesri",
-                  "checkpointImage": "assets/images/treks_laferla_wied_hesri.jpg",
+                  "latitude": 35.850854, 
+                  "longitude": 14.421203,
+                  "checkpointTitle": "Path to Laferla Cross",
+                  "checkpointText": "The statue you just passed by marks the official start of the Pilgrims Way and represents the first station of a life-size open-air Via Crucis (Way of the Cross). Sculpted from local limestone over 125 years ago, it was originally part of a more ambitious plan by Reverend Paul Laferla to have a full set of processional figures. On Maundy Thursday, the path beginning at this statue is transformed into a glowing trail lit by hundreds of fjakkoli (traditional torches), leading pilgrims on a steep 200-meter climb to the summit.",
+                  "checkpointImage": "assets/images/treks_laferla_girgenti_path_to_cross.jpg",
                   "badgeImage": ""
-                },
-                {
-                  "id": "Wied Hesri",
-                  "type": "hidden_gem",
-                  "latitude": 35.857556,   
-                  "longitude": 14.428858,
-                  "checkpointTitle": "Wied Hesri",
-                  "checkpointText": "Wied Hesri",
-                  "checkpointImage": "assets/badges/treks_laferla_gem_wied_hesri.png",
-                  "badgeImage": "assets/badges/treks_laferla_gem_wied_hesri.png"
-                },
-                {
-                  "id": "Girgenti Bridge",
-                  "type": "milestone",
-                  "latitude": 35.855860,  
-                  "longitude": 14.415060,
-                  "checkpointTitle": "Girgenti Bridge",
-                  "checkpointText": "Girgenti Bridge",
-                  "checkpointImage": "assets/images/treks_laferla_girgenti_bridge.jpg",
-                  "badgeImage": ""
-                },
-                {
-                  "id": "Madonna tal-Konsagrazzjoni Chapel",
-                  "type": "iconic_landmark",
-                  "latitude": 35.852439,   
-                  "longitude": 14.410993,
-                  "checkpointTitle": "Madonna tal-Konsagrazzjoni Chapel",
-                  "checkpointText": "Madonna tal-Konsagrazzjoni Chapel",
-                  "checkpointImage": "assets/badges/treks_laferla_landmark_madonna_konsagrazzjoni.png",
-                  "badgeImage": "assets/badges/treks_laferla_landmark_madonna_konsagrazzjoni.png"
-                },
-                {
-                  "id": "Wied Girgenti",
-                  "type": "hidden_gem",
-                  "latitude": 35.849579,     
-                  "longitude": 14.410057,
-                  "checkpointTitle": "Wied Girgenti",
-                  "checkpointText": "Wied Girgenti",
-                  "checkpointImage": "assets/badges/treks_laferla_gem_wied_girgenti.png",
-                  "badgeImage": "assets/badges/treks_laferla_gem_wied_girgenti.png"
                 },
                 {
                   "id": "Laferla Cross",
                   "type": "iconic_landmark",
-                  "latitude": 35.849860,   
-                  "longitude": 14.416881,
+                  "latitude": 35.849936,   
+                  "longitude": 14.416911,
                   "checkpointTitle": "Laferla Cross",
-                  "checkpointText": "Laferla Cross",
-                  "checkpointImage": "assets/badges/treks_laferla_landmark_laferla_cross.png",
-                  "badgeImage": "assets/badges/treks_laferla_landmark_laferla_cross.png"
+                  "checkpointText": "This 16-meter landmark sits atop one of Malta's highest hills, but its current form is actually a 1963 Italian replica reinforced with bronze after the original 1903 iron cross was toppled by fierce gales. Hidden inside its massive limestone pedestal is a tiny, functioning chapel housing a rudimentary altar and three religious paintings, including a depiction of the Virgin Mary.",
+                  "checkpointImage": "assets/badges/treks_laferla_girgenti_landmark_laferla_cross.png",
+                  "badgeImage": "assets/badges/treks_laferla_girgenti_landmark_laferla_cross.png"
                 },
                 {
-                  "id": "Our Lady of Mt Carmel Cemetery",
+                  "id": "Lunzjata Chapel",
                   "type": "milestone",
-                  "latitude": 35.856430,   
-                  "longitude": 14.428762,
-                  "checkpointTitle": "Our Lady of Mt Carmel Cemetery",
-                  "checkpointText": "Our Lady of Mt Carmel Cemetery",
-                  "checkpointImage": "assets/images/treks_laferla_our_lady_of_mt_carmel_cemetery.jpg",
+                  "latitude": 35.849720,  
+                  "longitude": 14.416801,
+                  "checkpointTitle": "Lunzjata Chapel",
+                  "checkpointText": "This stubborn chapel has been rebuilt three times since the 1400s after being repeatedly decimated by earthquakes, including a massive tremor in 1856 that leveled the structure. It sits directly on a geological fault line, which caused the building to start sliding down the hill; to save it, modern engineers had to anchor it to the plateau’s core using steel rods drilled 30 meters deep into the rock. Historically, it served as a vital maritime lighthouse of sorts, as its high elevation made it one of the first landmarks visible to sailors approaching Malta from the southwest.",
+                  "checkpointImage": "assets/images/treks_laferla_girgenti_lunzjata_chapel.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Girgenti View",
+                  "type": "milestone",
+                  "latitude": 35.847975,   
+                  "longitude": 14.412508,
+                  "checkpointTitle": "Girgenti View",
+                  "checkpointText": "As you descend back along this scenic road heading towards Dingli cliffs, take a moment to enjoy the panoramic view onto the Girgenti valley.",
+                  "checkpointImage": "assets/images/treks_laferla_girgenti_girgenti_view.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wied Girgenti",
+                  "type": "hidden_gem",
+                  "latitude": 35.849248,     
+                  "longitude": 14.407213,
+                  "checkpointTitle": "Wied Girgenti",
+                  "checkpointText": "Looking down into this fertile valley, you are seeing one of the few places in Malta where water flows year-round thanks to the Għajn il-Kbira spring, which once powered multiple flour mills in the area. The dense greenery below isn't just scenic; its a managed ecosystem where citrus groves and pomegranate trees thrive in a unique microclimate that is significantly more humid than the rest of the island. During the era of the Knights, this valley was a highly guarded resource, serving as the private garden that supplied the Inquisitors with fresh produce and ice-cooled water during the sweltering summer months.",
+                  "checkpointImage": "assets/badges/treks_laferla_girgenti_gem_wied_girgenti_path.png",
+                  "badgeImage": "assets/badges/treks_laferla_girgenti_gem_wied_girgenti_path.png"
+                },
+                {
+                  "id": "Madonna tal-Konsagrazzjoni Chapel",
+                  "type": "iconic_landmark",
+                  "latitude": 35.852149,    
+                  "longitude": 14.410687,
+                  "checkpointTitle": "Madonna tal-Konsagrazzjoni Chapel",
+                  "checkpointText": "This open-air shrine was established in 1986 following the reported visions of local resident Ġuża Mifsud, who claimed the Virgin Mary chose this peaceful valley as a place of refuge. The site is uniquely inclusive, featuring a statue of the Suffering Christ funded by a Welsh couple and a statue of St. Michael based on a specific vision Ġuża had of the archangel.",
+                  "checkpointImage": "assets/badges/treks_laferla_girgenti_landmark_konsagrazzjoni_chapel.png",
+                  "badgeImage": "assets/badges/treks_laferla_girgenti_landmark_konsagrazzjoni_chapel.png"
+                },
+                {
+                  "id": "Small Bridge",
+                  "type": "milestone",
+                  "latitude": 35.855850,   
+                  "longitude": 14.415033,
+                  "checkpointTitle": "Small Bridge", 
+                  "checkpointText": "Hope you enjoyed walking along the lovely cobbled downhill path to this small bridge in the valley bed. In a short moment we will take the final short stretch to the end point along a busy vehicular road. Cross safely to the left side of the road in traffic's direction and keep to the side.",
+                  "checkpointImage": "assets/images/treks_laferla_girgenti_small_bridge.jpg",
                   "badgeImage": ""
                 }
               ],
@@ -1673,27 +1673,158 @@
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Bus routes and parking information. Coordinates to start point."
+                    "description": "Route starts and ends near the Girgenti Bus Stop in the outskirts of Siggiewi, served by bus route 62 from Valletta. Vehicle parking in the area is limited - at the side of Triq ir-Remel can be best option. Coordinates to start point: 35.856554, 14.421567."
                   },
                   {
                     "title": "The route",
-                    "description": "Details on the type of excursion."
+                    "description": "This trail is a walk through Malta’s highest countryside, linking the famous hilltop Laferla Cross with the lush, green Girgenti Valley. You will experience a mix of steep limestone paths with panoramic views and quiet, shaded lanes filled with fruit trees and historic chapels. It’s a route that perfectly captures the island's unique blend of rugged nature and deep-rooted religious traditions."
                   },
                   {
                     "title": "Terrain",
-                    "description": "Terrain - Shoes. Weather conditions."
+                    "description": "You will trek along well-surfaced paths, parts of which are cobbled, and taking on moderate elevation gain along the Laferla Cross path. Trekking shoes are recommended but trek is doable in trainers, especially in dry weather conditions."
                   },
                   {
                     "title": "Safety Warnings",
-                    "description": "Terrain - Shoes. Weather conditions."
+                    "description": "The route concludes along a short stretch of busy and fast vehicular road. Cross safely to the left side of the road in traffic's direction and keep to the side for safety. If you wish to avoid this altogether, head straight instead of downhill when reaching the open-air chapel. This offers a safer route back."
                   },
                   {
                     "title": "Amenities",
-                    "description": "WCs, picnic areas, restaurants and other facilities"
+                    "description": "The route does not cross through any villages or amenities, so make sure to bring water, snacks and whatever required from the start."
                   }
                 ],
-                "imagePrimary": "assets/images/details/treks_lapsi_info_img1.jpg",
-                "imageSecondary": "assets/images/details/treks_lapsi_info_img2.jpg"
+                "imagePrimary": "assets/images/details/treks_laferla_girgenti_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_laferla_girgenti_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+
+            {
+              "id": "nature-treks-west-hesri-qirda",
+              "name": "Wied Qirda & Hesri",
+              "bannerImage": "assets/images/treks_hesri_qirda_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_qirda_hesri_badge.png",
+              "gpxFile": "assets/gpx/hesri-qirda.gpx",
+              "shortDescription": "Two connecting lush valleys between Siggiewi and Zebbug",
+              "details": {
+                "distance": "7.6km",
+                "time": "2.0 hours",
+                "elevation": "94m",
+                "difficulty": "Easy",
+                "loop": "Semi-Loop",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "2",
+                "iconic_landmarks": "1"
+              },
+              "checkpoints": [
+                {
+                  "id": "To the Valley Paths",
+                  "type": "milestone",
+                  "latitude": 35.858736,  
+                  "longitude": 14.436596,
+                  "checkpointTitle": "To the Valley Paths",
+                  "checkpointText": "The statue you just passed by marks the official start of the Pilgrims Way and represents the first station of a life-size open-air Via Crucis (Way of the Cross). Sculpted from local limestone over 125 years ago, it was originally part of a more ambitious plan by Reverend Paul Laferla to have a full set of processional figures. On Maundy Thursday, the path beginning at this statue is transformed into a glowing trail lit by hundreds of fjakkoli (traditional torches), leading pilgrims on a steep 200-meter climb to the summit.",
+                  "checkpointImage": "assets/images/treks_hesri_qirda_to_valley_paths.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Kappella tal-Vizitazzjoni",
+                  "type": "iconic_landmark",
+                  "latitude": 35.866925,    
+                  "longitude": 14.449613,
+                  "checkpointTitle": "Kappella tal-Vizitazzjoni",
+                  "checkpointText": "This 16-meter landmark sits atop one of Malta's highest hills, but its current form is actually a 1963 Italian replica reinforced with bronze after the original 1903 iron cross was toppled by fierce gales. Hidden inside its massive limestone pedestal is a tiny, functioning chapel housing a rudimentary altar and three religious paintings, including a depiction of the Virgin Mary.",
+                  "checkpointImage": "assets/badges/treks_qirda_hesri_landmark_vizitazzjoni.png",
+                  "badgeImage": "assets/badges/treks_qirda_hesri_landmark_vizitazzjoni.png"
+                },
+                {
+                  "id": "Wied Qirda",
+                  "type": "hidden_gem",
+                  "latitude": 35.867487,   
+                  "longitude": 14.450876,
+                  "checkpointTitle": "Wied Qirda",
+                  "checkpointText": "Looking down into this fertile valley, you are seeing one of the few places in Malta where water flows year-round thanks to the Għajn il-Kbira spring, which once powered multiple flour mills in the area. The dense greenery below isn't just scenic; its a managed ecosystem where citrus groves and pomegranate trees thrive in a unique microclimate that is significantly more humid than the rest of the island. During the era of the Knights, this valley was a highly guarded resource, serving as the private garden that supplied the Inquisitors with fresh produce and ice-cooled water during the sweltering summer months.",
+                  "checkpointImage": "assets/badges/treks_qirda_hesri_gem_wied_qirda.png",
+                  "badgeImage": "assets/badges/treks_qirda_hesri_gem_wied_qirda.png"
+                },
+                {
+                  "id": "Resting Spot & Path to Wied il-Kbir",
+                  "type": "milestone",
+                  "latitude": 35.867815,    
+                  "longitude": 14.456749,
+                  "checkpointTitle": "Resting Spot & Path to Wied il-Kbir",
+                  "checkpointText": "The statue you just passed by marks the official start of the Pilgrims Way and represents the first station of a life-size open-air Via Crucis (Way of the Cross). Sculpted from local limestone over 125 years ago, it was originally part of a more ambitious plan by Reverend Paul Laferla to have a full set of processional figures. On Maundy Thursday, the path beginning at this statue is transformed into a glowing trail lit by hundreds of fjakkoli (traditional torches), leading pilgrims on a steep 200-meter climb to the summit.",
+                  "checkpointImage": "assets/images/treks_hesri_qirda_path_wied_kbir.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "View onto Wied il-Kbir",
+                  "type": "milestone",
+                  "latitude": 35.865152,   
+                  "longitude": 14.458903,
+                  "checkpointTitle": "Wied Qirda",
+                  "checkpointText": "The statue you just passed by marks the official start of the Pilgrims Way and represents the first station of a life-size open-air Via Crucis (Way of the Cross). Sculpted from local limestone over 125 years ago, it was originally part of a more ambitious plan by Reverend Paul Laferla to have a full set of processional figures. On Maundy Thursday, the path beginning at this statue is transformed into a glowing trail lit by hundreds of fjakkoli (traditional torches), leading pilgrims on a steep 200-meter climb to the summit.",
+                  "checkpointImage": "assets/images/treks_hesri_qirda_wied_kbir_view.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wied Hesri Path",
+                  "type": "hidden_gem",
+                  "latitude": 35.860237,    
+                  "longitude": 14.433856,
+                  "checkpointTitle": "Wied Hesri Path",
+                  "checkpointText": "Looking down into this fertile valley, you are seeing one of the few places in Malta where water flows year-round thanks to the Għajn il-Kbira spring, which once powered multiple flour mills in the area. The dense greenery below isn't just scenic; its a managed ecosystem where citrus groves and pomegranate trees thrive in a unique microclimate that is significantly more humid than the rest of the island. During the era of the Knights, this valley was a highly guarded resource, serving as the private garden that supplied the Inquisitors with fresh produce and ice-cooled water during the sweltering summer months.",
+                  "checkpointImage": "assets/badges/treks_qirda_hesri_gem_wied_hesri.png",
+                  "badgeImage": "assets/badges/treks_qirda_hesri_gem_wied_hesri.png"
+                },
+                {
+                  "id": "Mt Carmel Chapel & Cemetary",
+                  "type": "milestone",
+                  "latitude": 35.856464,  
+                  "longitude": 14.429110,
+                  "checkpointTitle": "Mt Carmel Chapel & Cemetary",
+                  "checkpointText": "This stubborn chapel has been rebuilt three times since the 1400s after being repeatedly decimated by earthquakes, including a massive tremor in 1856 that leveled the structure. It sits directly on a geological fault line, which caused the building to start sliding down the hill; to save it, modern engineers had to anchor it to the plateau’s core using steel rods drilled 30 meters deep into the rock. Historically, it served as a vital maritime lighthouse of sorts, as its high elevation made it one of the first landmarks visible to sailors approaching Malta from the southwest.",
+                  "checkpointImage": "assets/images/treks_hesri_qirda_mt_carmel.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Elevated View of Wied Hesri",
+                  "type": "milestone",
+                  "latitude": 35.857738,   
+                  "longitude": 14.431050,
+                  "checkpointTitle": "Elevated View of Wied Hesri",
+                  "checkpointText": "As you descend back along this scenic road heading towards Dingli cliffs, take a moment to enjoy the panoramic view onto the Girgenti valley.",
+                  "checkpointImage": "assets/images/treks_hesri_qirda_hesri_elevated_view.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Route starts and ends near the Girgenti Bus Stop in the outskirts of Siggiewi, served by bus route 62 from Valletta. Vehicle parking in the area is limited - at the side of Triq ir-Remel can be best option. Coordinates to start point: 35.857921, 14.436082."
+                  },
+                  {
+                    "title": "The route",
+                    "description": "This trail is a walk through Malta’s highest countryside, linking the famous hilltop Laferla Cross with the lush, green Girgenti Valley. You will experience a mix of steep limestone paths with panoramic views and quiet, shaded lanes filled with fruit trees and historic chapels. It’s a route that perfectly captures the island's unique blend of rugged nature and deep-rooted religious traditions."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "You will trek along well-surfaced paths, parts of which are cobbled, and taking on moderate elevation gain along the Laferla Cross path. Trekking shoes are recommended but trek is doable in trainers, especially in dry weather conditions."
+                  },
+                  {
+                    "title": "Safety Warnings",
+                    "description": "The route concludes along a short stretch of busy and fast vehicular road. Cross safely to the left side of the road in traffic's direction and keep to the side for safety. If you wish to avoid this altogether, head straight instead of downhill when reaching the open-air chapel. This offers a safer route back."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "The route does not cross through any villages or amenities, so make sure to bring water, snacks and whatever required from the start."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_hesri_qirda_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_hesri_qirda_info_img2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
