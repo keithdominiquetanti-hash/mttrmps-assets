@@ -1725,7 +1725,7 @@
                   "latitude": 35.858736,  
                   "longitude": 14.436596,
                   "checkpointTitle": "To the Valley Paths",
-                  "checkpointText": "The statue you just passed by marks the official start of the Pilgrims Way and represents the first station of a life-size open-air Via Crucis (Way of the Cross). Sculpted from local limestone over 125 years ago, it was originally part of a more ambitious plan by Reverend Paul Laferla to have a full set of processional figures. On Maundy Thursday, the path beginning at this statue is transformed into a glowing trail lit by hundreds of fjakkoli (traditional torches), leading pilgrims on a steep 200-meter climb to the summit.",
+                  "checkpointText": "From this road you can already get an amazing wide view of the valley and the parallel paths we will be taking. First we will take the path on the right to take the south side of Wied Hesri and reach Wied Qirda in Zebbug (after taking an underpass).",
                   "checkpointImage": "assets/images/treks_hesri_qirda_to_valley_paths.jpg",
                   "badgeImage": ""
                 },
@@ -1735,7 +1735,7 @@
                   "latitude": 35.866925,    
                   "longitude": 14.449613,
                   "checkpointTitle": "Kappella tal-Vizitazzjoni",
-                  "checkpointText": "This 16-meter landmark sits atop one of Malta's highest hills, but its current form is actually a 1963 Italian replica reinforced with bronze after the original 1903 iron cross was toppled by fierce gales. Hidden inside its massive limestone pedestal is a tiny, functioning chapel housing a rudimentary altar and three religious paintings, including a depiction of the Virgin Mary.",
+                  "checkpointText": "Rebuilt in 1675, this chapel houses the tomb of its founder, Fr Bartolomeo Magro, who was tragically murdered during a robbery at his nearby farmhouse in 1722.  Look closely at the chapel’s exterior limestone walls to find dozens of 17th-century maritime graffiti—intricate carvings of galleons and ships etched by sailors as offerings for surviving storms at sea. This secluded sanctuary was a favorite of Malta's national poet, Dun Karm Psaila, who dedicated one of his famous sonnets to its profound silence.",
                   "checkpointImage": "assets/badges/treks_qirda_hesri_landmark_vizitazzjoni.png",
                   "badgeImage": "assets/badges/treks_qirda_hesri_landmark_vizitazzjoni.png"
                 },
@@ -1745,7 +1745,7 @@
                   "latitude": 35.867487,   
                   "longitude": 14.450876,
                   "checkpointTitle": "Wied Qirda",
-                  "checkpointText": "Looking down into this fertile valley, you are seeing one of the few places in Malta where water flows year-round thanks to the Għajn il-Kbira spring, which once powered multiple flour mills in the area. The dense greenery below isn't just scenic; its a managed ecosystem where citrus groves and pomegranate trees thrive in a unique microclimate that is significantly more humid than the rest of the island. During the era of the Knights, this valley was a highly guarded resource, serving as the private garden that supplied the Inquisitors with fresh produce and ice-cooled water during the sweltering summer months.",
+                  "checkpointText": "Literally meaning the Valley of Destruction the valley's name likely stems from either the violent flash floods that surge through its bed after heavy rains or the historical memory of 15th-century pirate raids. This Special Area of Conservation is also a vital sanctuary for rare flora, including Malta’s national tree, the Sandarac Gum Tree, and the elusive wild tulip.",
                   "checkpointImage": "assets/badges/treks_qirda_hesri_gem_wied_qirda.png",
                   "badgeImage": "assets/badges/treks_qirda_hesri_gem_wied_qirda.png"
                 },
@@ -1755,7 +1755,7 @@
                   "latitude": 35.867815,    
                   "longitude": 14.456749,
                   "checkpointTitle": "Resting Spot & Path to Wied il-Kbir",
-                  "checkpointText": "The statue you just passed by marks the official start of the Pilgrims Way and represents the first station of a life-size open-air Via Crucis (Way of the Cross). Sculpted from local limestone over 125 years ago, it was originally part of a more ambitious plan by Reverend Paul Laferla to have a full set of processional figures. On Maundy Thursday, the path beginning at this statue is transformed into a glowing trail lit by hundreds of fjakkoli (traditional torches), leading pilgrims on a steep 200-meter climb to the summit.",
+                  "checkpointText": "The small opening offers a good spot where to take a rest with some open views of the valley. From this open spot, there is a rugged green path that takes to Wied il-Kbir (discovered in another trek) and takes to the Tomb of the English Lady carved into the rocks.",
                   "checkpointImage": "assets/images/treks_hesri_qirda_path_wied_kbir.jpg",
                   "badgeImage": ""
                 },
@@ -1764,8 +1764,8 @@
                   "type": "milestone",
                   "latitude": 35.865152,   
                   "longitude": 14.458903,
-                  "checkpointTitle": "Wied Qirda",
-                  "checkpointText": "The statue you just passed by marks the official start of the Pilgrims Way and represents the first station of a life-size open-air Via Crucis (Way of the Cross). Sculpted from local limestone over 125 years ago, it was originally part of a more ambitious plan by Reverend Paul Laferla to have a full set of processional figures. On Maundy Thursday, the path beginning at this statue is transformed into a glowing trail lit by hundreds of fjakkoli (traditional torches), leading pilgrims on a steep 200-meter climb to the summit.",
+                  "checkpointTitle": "View onto Wied il-Kbir",
+                  "checkpointText": "As we reach the end of the surfaced road, enjoy this long-sighted view of how Wied il-Kbir valley meanders within its cliff edges. We explore this large valley and its hidden gems in one of our other treks.",
                   "checkpointImage": "assets/images/treks_hesri_qirda_wied_kbir_view.jpg",
                   "badgeImage": ""
                 },
@@ -1775,17 +1775,17 @@
                   "latitude": 35.860237,    
                   "longitude": 14.433856,
                   "checkpointTitle": "Wied Hesri Path",
-                  "checkpointText": "Looking down into this fertile valley, you are seeing one of the few places in Malta where water flows year-round thanks to the Għajn il-Kbira spring, which once powered multiple flour mills in the area. The dense greenery below isn't just scenic; its a managed ecosystem where citrus groves and pomegranate trees thrive in a unique microclimate that is significantly more humid than the rest of the island. During the era of the Knights, this valley was a highly guarded resource, serving as the private garden that supplied the Inquisitors with fresh produce and ice-cooled water during the sweltering summer months.",
+                  "checkpointText": "Along this 2km long valley you could notice the traditional stone dams designed to slow rushing rainwater, allowing local farmers to irrigate nearby fields even in drier months. Unlike many other valleys, Wied Ħesri remains remarkably untouched, serving as a vital sanctuary for native almond trees that often blossom as early as February. The temporary pools that form after heavy rains  often teem with tadpoles and provide a quiet drinking spot for local bird species.",
                   "checkpointImage": "assets/badges/treks_qirda_hesri_gem_wied_hesri.png",
                   "badgeImage": "assets/badges/treks_qirda_hesri_gem_wied_hesri.png"
                 },
                 {
-                  "id": "Mt Carmel Chapel & Cemetary",
+                  "id": "Mt Carmel Chapel & Cemetery",
                   "type": "milestone",
                   "latitude": 35.856464,  
                   "longitude": 14.429110,
-                  "checkpointTitle": "Mt Carmel Chapel & Cemetary",
-                  "checkpointText": "This stubborn chapel has been rebuilt three times since the 1400s after being repeatedly decimated by earthquakes, including a massive tremor in 1856 that leveled the structure. It sits directly on a geological fault line, which caused the building to start sliding down the hill; to save it, modern engineers had to anchor it to the plateau’s core using steel rods drilled 30 meters deep into the rock. Historically, it served as a vital maritime lighthouse of sorts, as its high elevation made it one of the first landmarks visible to sailors approaching Malta from the southwest.",
+                  "checkpointTitle": "Mt Carmel Chapel & Cemetery",
+                  "checkpointText": "The chapel’s position on the edge of the Wied Ħesri plateau was strategic; its bell served as a clock for the local farmers, signaling the start and end of their long working days in the surrounding valleys. The cemetery contains the grave of just one British casualty from the Second World War, Gunner V. A. R. Chappell, making it one of the smallest official Commonwealth sites in Malta.",
                   "checkpointImage": "assets/images/treks_hesri_qirda_mt_carmel.jpg",
                   "badgeImage": ""
                 },
@@ -1795,7 +1795,7 @@
                   "latitude": 35.857738,   
                   "longitude": 14.431050,
                   "checkpointTitle": "Elevated View of Wied Hesri",
-                  "checkpointText": "As you descend back along this scenic road heading towards Dingli cliffs, take a moment to enjoy the panoramic view onto the Girgenti valley.",
+                  "checkpointText": "We conclude this trek at this small playground where you can take a deserved rest with a panoramic view over the valley of Wied Hesri. Hope you enjoyed it!",
                   "checkpointImage": "assets/images/treks_hesri_qirda_hesri_elevated_view.jpg",
                   "badgeImage": ""
                 }
@@ -1804,23 +1804,23 @@
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Route starts and ends near the Girgenti Bus Stop in the outskirts of Siggiewi, served by bus route 62 from Valletta. Vehicle parking in the area is limited - at the side of Triq ir-Remel can be best option. Coordinates to start point: 35.857921, 14.436082."
+                    "description": "Trail starting and end points are near the Siggiewi Football Ground, with the parallel road offering plenty of parking spaces. Specifically the route starts near the 'Armonija' bus stop, severd by route 62 from Valletta. Coordinates to start point: 35.857921, 14.436082."
                   },
                   {
                     "title": "The route",
-                    "description": "This trail is a walk through Malta’s highest countryside, linking the famous hilltop Laferla Cross with the lush, green Girgenti Valley. You will experience a mix of steep limestone paths with panoramic views and quiet, shaded lanes filled with fruit trees and historic chapels. It’s a route that perfectly captures the island's unique blend of rugged nature and deep-rooted religious traditions."
+                    "description": "This trek traverses the main paths across two valleys adjoining Siggiewi and Zebbug - Wied Hesri and Wied Qirda. Both will be taken in either direction - offering different perspectives of these beautiful, green and quiet valley paths."
                   },
                   {
                     "title": "Terrain",
-                    "description": "You will trek along well-surfaced paths, parts of which are cobbled, and taking on moderate elevation gain along the Laferla Cross path. Trekking shoes are recommended but trek is doable in trainers, especially in dry weather conditions."
+                    "description": "Route goes for the major part along easy and well-surfaced paths - with only a short stretch of soily but easy path at the end of Wied Hesri. Trek can be easily done in trainers in dry conditions. Little elevation change as we remain mostly along valley bed paths."
                   },
                   {
                     "title": "Safety Warnings",
-                    "description": "The route concludes along a short stretch of busy and fast vehicular road. Cross safely to the left side of the road in traffic's direction and keep to the side for safety. If you wish to avoid this altogether, head straight instead of downhill when reaching the open-air chapel. This offers a safer route back."
+                    "description": "For a very short stretch at the end of the trek, route passess through a busy road. Keep safely on the side."
                   },
                   {
                     "title": "Amenities",
-                    "description": "The route does not cross through any villages or amenities, so make sure to bring water, snacks and whatever required from the start."
+                    "description": "The residential area close to the starting point has a number of small groceries/ markets, as well as a playground with public toilet at nearby Mattia Preti Street. A snack bar with WC also available at football club, if open at the time."
                   }
                 ],
                 "imagePrimary": "assets/images/details/treks_hesri_qirda_info_img1.jpg",
