@@ -3107,12 +3107,12 @@
                   "badgeImage": ""
                 },
                 {
-                  "id": "Stone Wall",
+                  "id": "Ta' Qassisu Entrenchment",
                   "type": "milestone",
                   "latitude": 35.980259,       
                   "longitude": 14.360665,
-                  "checkpointTitle": "Stone Wall",
-                  "checkpointText": "A distinctive low, weathered limestone wall that runs parallel to the shore, originally built to act as a barrier for the adjacent campsite.",
+                  "checkpointTitle": "Ta' Qassisu Entrenchment",
+                  "checkpointText": "`One of the few constructed and surviving entrenchment walls built by the Order of St. John in 1761. This was intended as part of a network of sea walls designed to present a physical barrier to invasion. In practice, this strategy involved the construction of many miles of fortifications, but the ambitious plans ran into financial difficulties and was not completed. This entrenchment is one of the few completed and well preserved examples.",
                   "checkpointImage": "assets/images/treks_ahrax_ghadira_wall_fortification.jpg",
                   "badgeImage": ""
                 },
@@ -3454,6 +3454,224 @@
                 ],
                 "imagePrimary": "assets/images/details/treks_qammiegh_info_img1.jpg",
                 "imageSecondary": "assets/images/details/treks_qammiegh_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+
+            {
+              "id": "nature-treks-north-mellieha-panoramas",
+              "name": "Mellieha Panoramas",
+              "bannerImage": "assets/images/treks_mellieha_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_mellieha_panoramas_badge.png",
+              "gpxFile": "assets/gpx/mellieha-panoramas.gpx",
+              "shortDescription": "A walk within the fantastic village of Mellieha, reaching some of its best open panoramic views",
+              "details": {
+                "distance": "4.5km",
+                "time": "1.0 hours",
+                "elevation": "150m",
+                "difficulty": "Moderate",
+                "loop": "Loop",
+                "shoes": "Trainers",
+                "hidden_gems": "0",
+                "iconic_landmarks": "3"
+              },
+              "checkpoints": [
+                {
+                  "id": "View onto Mellieha",
+                  "type": "iconic_landmark",
+                  "latitude": 35.963117,    
+                  "longitude": 14.363701,
+                  "checkpointTitle": "View onto Mellieha",
+                  "checkpointText": "The first main panoramic vantage point of the route, with a fantastic view of Mellieha Bay and the the Ahrax peninsula behind it (covered in other treks) and the left side a scenic view of the Mellieha village and its imposing parish church. Further down, notice a St. Paul statue erected on a hillrock.",
+                  "checkpointImage": "assets/badges/treks_mellieha_panoramas_landmark_mellieha_view.png",
+                  "badgeImage": "assets/badges/treks_mellieha_panoramas_landmark_mellieha_view.png"
+                },
+                {
+                  "id": "Grotto of Our Lady",
+                  "type": "milestone",
+                  "latitude": 35.960110,     
+                  "longitude": 14.361827,
+                  "checkpointTitle": "Grotto of Our Lady",
+                  "checkpointText": "During opening hours, you can descend the 70+ steps into this natural cave, transformed into a shrine in 1644 by a Sicilian merchant who rerouted a hidden spring to flow directly at the feet of the Madonna statue.  Similar to the Holy Land’s tradition, this cave was a primary site for expectant mothers or those struggling to nurse, who would visit to drink the miraculous spring water or pray for a safe delivery.",
+                  "checkpointImage": "assets/images/treks_mellieha_grotto.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Pope John Paul II Square",
+                  "type": "iconic_landmark",
+                  "latitude": 35.960163,    
+                  "longitude": 14.361477,
+                  "checkpointTitle": "Pope John Paul II Square",
+                  "checkpointText": "Located just next to Sanctuary of Our Lady, this square commemorates the historic 1990 visit of Pope John Paul II, who knelt here to pray at the ancient cave-shrine of the Madonna. Right beneath your feet is one of the largest underground shelter complexes in Malta (entrance nearby), stretching over 500 meters and including private rooms and a small medical clinic carved directly into the rock. Long before it was a paved square, this plateau was used as a lookout point to spot corsair ships entering Mellieħa Bay - go and take in the view yourself too!",
+                  "checkpointImage": "assets/badges/treks_mellieha_panoramas_landmark_john_paul_square.png",
+                  "badgeImage": "assets/badges/treks_mellieha_panoramas_landmark_john_paul_square.png"
+                },
+                {
+                  "id": "Sanctuary of Our Lady of Mellieha",
+                  "type": "milestone",
+                  "latitude": 35.960583,       
+                  "longitude": 14.361306,
+                  "checkpointTitle": "Sanctuary of Our Lady of Mellieha",
+                  "checkpointText": "The oldest Marian shrine in Malta, where the centerpiece is a 13th-century fresco of the Madonna and Child painted directly onto the cave wall. Tradition holds that the Evangelist St. Luke himself painted the original image when he was shipwrecked on the island with St. Paul in 60 AD. This sanctuary is so historically significant that it is one of only 20 shrines worldwide to have received a 'Golden Rose' from a Pope, a rare honor signifying its spiritual importance.",
+                  "checkpointImage": "assets/images/treks_mellieha_santwarju.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "View onto Mellieha Bay and ta' Qassisu",
+                  "type": "milestone",
+                  "latitude": 35.961931,        
+                  "longitude": 14.360389,
+                  "checkpointTitle": "View onto Mellieha Bay and ta' Qassisu",
+                  "checkpointText": "Another vantage point offering a slightly different perspective onto Mellieha Bay and a better panorama of the Ta' Qassisu area and the historic Red Tower, which are explored in of the most amazing treks in our itinerary. The adjacent playground is a great spot for a break with a view, or having a snack with at the cafe with one of the most scenic views on the island.",
+                  "checkpointImage": "assets/images/treks_mellieha_view_bay_qassisu.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "View onto Mellieha Cross",
+                  "type": "milestone",
+                  "latitude": 35.961175,        
+                  "longitude": 14.358430,
+                  "checkpointTitle": "View onto Mellieha Cross",
+                  "checkpointText": "The benches here offer a great sight onto the Mellieha Cross to which we'll venture to next and the more Western views from Mellieha. If staying in Mellieha, it's a great spot for enjoying a sunset as shown in the picture.",
+                  "checkpointImage": "assets/images/treks_mellieha_view_onto_cross.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Mellieha Calypso's Cave",
+                  "type": "milestone",
+                  "latitude": 35.959753,         
+                  "longitude": 14.357613,
+                  "checkpointTitle": "Mellieha Calypso's Cave",
+                  "checkpointText": "While Gozo is the more famous contender, some scholars argue this rugged cliff-side cave is the 'true' home of the nymph Calypso because its surroundings—fertile valleys and ancient freshwater springs—match Homer’s descriptions in The Odyssey more closely than the red sands of Gozo. These caves were likely inhabited by Byzantine-era settlers who carved the terraces and niches still visible in the rock today.",
+                  "checkpointImage": "assets/images/treks_mellieha_caypso_cave.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Mellieha Cross",
+                  "type": "iconic_landmark",
+                  "latitude": 35.959537,    
+                  "longitude": 14.357321,
+                  "checkpointTitle": "Mellieha Cross",
+                  "checkpointText": "Perched on a garrigue landscapte, this is often referred to as Is-Salib tal-Pellegrini or the Good Friday Cross. Erected for Good Friday during Covid Times, the cross became a national talking point when a Planning Authority order to remove it was dramatically reversed following a public outcry and intervention by the Prime Minister.",
+                  "checkpointImage": "assets/badges/treks_mellieha_panoramas_landmark_mellieha_cross.png",
+                  "badgeImage": "assets/badges/treks_mellieha_panoramas_landmark_mellieha_cross.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "The walking trail starts and ends near the Mellieha Primary School and Local Council. Parking can be searched in the adjacent side streets, or from Valletta one can take Bus numbers 41 and 42 to the 'Skrajda' bus stop in nearby Mellieha Centre. GPS coordinates to starting point: 35.957359, 14.359973"
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "From the above starting point, the trail takes a loop around varios spots in Mellieha offering breathtaking panoramic views onto the Northern parts of the island. In between it passess through the historic village centre and some of its interesting locations."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "For the most part is on asphalted roads, except for a short off the beaten path venture to reach the Mellieha Cross. Moderate elevation changes, mainly through the asending and descending of steps. Can be done in trainers, especially in dry conditions."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Half-way through the route, we pass through the village centre which is the main tourist spot with all related amenities and facilities."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_mellieha_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_mellieha_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+
+            {
+              "id": "nature-treks-north-selmun-tunnara",
+              "name": "Selmun - Mgiebah",
+              "bannerImage": "assets/images/treks_qannotta_viewpoint.jpg",
+              "badgeImage": "assets/badges/treks_fiddien_bingemma_badge.png",
+              "gpxFile": "assets/gpx/ahrax-selmum-tunnara-test.gpx",
+              "shortDescription": "From Selmun through Mgiebah Bay and to Tunnaras in Mellieha",
+              "details": {
+                "distance": "7.3km",
+                "time": "2.0 hours",
+                "elevation": "180m",
+                "difficulty": "Challenging",
+                "loop": "Loop",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "2",
+                "iconic_landmarks": "1"
+              },
+              "checkpoints": [
+                {
+                  "id": "Selmun Chapel",
+                  "type": "milestone",
+                  "latitude": 35.957174,    
+                  "longitude": 14.380101,
+                  "checkpointTitle": "Selmun Chapel",
+                  "checkpointText": "Selmun Chapel.",
+                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Imgiebah Bay",
+                  "type": "hidden_gem",
+                  "latitude": 35.967878,    
+                  "longitude": 14.381489,
+                  "checkpointTitle": "Imgiebah Bay",
+                  "checkpointText": "Imgiebah Bay is a scenic spot offering stunning views of the surrounding landscape.",
+                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
+                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                },
+                {
+                  "id": "Selmun Palace",
+                  "type": "iconic_landmark",
+                  "latitude": 35.959035,      
+                  "longitude": 14.380966,
+                  "checkpointTitle": "Selmun Palace",
+                  "checkpointText": "Selmun Palace is a historic site with significant cultural value.",
+                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
+                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                },
+                {
+                  "id": "Irdum Ghajn Hadid",
+                  "type": "hidden_gem",
+                  "latitude": 35.966528,   
+                  "longitude": 14.386597,
+                  "checkpointTitle": "Irdum Ghajn Hadid",
+                  "checkpointText": "Irdum Ghajn Hadid is a hidden gem offering a peaceful retreat in the heart of the countryside.",
+                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
+                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Route starts and ends near entrance to Chadwick Lakes trail. By bus one can take routes 50, 51, 52, 53 from Valletta to Rabat (Stop at Saqqajja) and then change route to 109, and stop at Fiddien. By car there are limited parking spaces available near entrance - for less parking worries, leave vehicle near Għajn National Water Conservation Centre and take a 500m walk to start route. GPS coordinates to starting point: 35.956695, 14.379940"
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "First takes the recently regenerated and incredibly scenic path to Chadwick Lakes and walk within the Fidden and Qlejgha valleys, before heading up towards the Bingemma cliff viewpoints and Victoria lines at Bingemma Gap. A shorter return route is taken along vehicle roads surrunded by greenery."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Crossing Fiddien and Qlejgha valley paths, as well as rocky terrain at Bingemma Gap. Possible with trainer shoes in dry conditions but trekking shoes recommended."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "Keep safe and do not take risks near Bingemma Cliff Edges."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "No restrooms or food outlets along the route, so think ahead and bring water and snacks with you. On Weekends, there are usually some stands with traditional Maltese snacks set up near Chadwick Lakes trail entrance."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_fiddien_bingemma_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_fiddien_bingemma_info2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
