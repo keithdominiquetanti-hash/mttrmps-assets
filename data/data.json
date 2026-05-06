@@ -984,6 +984,137 @@
             },
 
             {
+              "id": "nature-treks-gudja-ghaxaq",
+              "name": "Gudja-Ghaxaq Countryside",
+              "bannerImage": "assets/images/treks_gudja_ghaxaq_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_gudja_ghaxaq_badge.png",
+              "gpxFile": "assets/gpx/gudja-ghaxaq.gpx",
+              "shortDescription": "Exploring countryside between these two quiet villages.",
+              "details": {
+                "distance": "6.7km",
+                "time": "1.5 hour",
+                "elevation": "86m",
+                "difficulty": "Easy",
+                "loop": "Loop",
+                "shoes": "Trainers",
+                "hidden_gems": "1",
+                "iconic_landmarks": "2"
+              },
+              "checkpoints": [
+                {
+                  "id": "Gudja Countryside Path",
+                  "type": "milestone",
+                  "latitude": 35.846983, 
+                  "longitude": 14.506083,
+                  "checkpointTitle": "Gudja Countryside Path",
+                  "checkpointText": "Now take this path to move to countryside roads. Although quite quiet, the streets are narrow so keep on the left side",
+                  "checkpointImage": "assets/images/gudja_ghaxaq_first_path.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Gudja Ta Loretu",
+                  "type": "milestone",
+                  "latitude": 35.842738,   
+                  "longitude": 14.507044,
+                  "checkpointTitle": "Ta Loretu Church",
+                  "checkpointText": "In the distance over the fields you can spot the Ta Loretu chapel. Another iconic landmark you can reach from the centre of Gudja on one of our other treks (Gudja Chapels trek).",
+                  "checkpointImage": "assets/images/gudja_ghaxaq_ta_loretu_distance.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Gudja - Saptan Valley",
+                  "type": "hidden_gem",
+                  "latitude": 35.839413,  
+                  "longitude": 14.513355,
+                  "checkpointTitle": "Saptan Valley",
+                  "checkpointText": "Enjoy an iconic view of this trek overlooking the Saptan Valley",
+                  "checkpointImage": "assets/badges/treks_gudja_ghaxaq_gem_saptan.png",
+                  "badgeImage": "assets/badges/treks_gudja_ghaxaq_gem_saptan.png"
+                },
+                {
+                  "id": "Taz-Zebbug Picnic Area",
+                  "type": "iconic_landmark",
+                  "latitude": 35.841894, 
+                  "longitude": 14.517590,
+                  "checkpointTitle": "Taz-Zebbug Picnic Area",
+                  "checkpointText": "While many Maltese place names refer to long-gone features, Taż-Żebbuġ (meaning 'of the olives') is literally true here - the site is home to over a hundred newly planted and established olive trees. This is a great place to have a quite mid-trek rest surrounded by olive trees - take your time to roam around and explore also the inner areas.",
+                  "checkpointImage": "assets/badges/treks_gudja_ghaxaq_landmark_zebbug.png",
+                  "badgeImage": "assets/badges/treks_gudja_ghaxaq_landmark_zebbug.png"
+                },
+                {
+                  "id": "It-Turretta Ghaxaq",
+                  "type": "milestone",
+                  "latitude": 35.847282,  
+                  "longitude": 14.514651,
+                  "checkpointTitle": "It-Turretta",
+                  "checkpointText": "Built by the British in 1848, this 'optical telegraph' tower was part of a high-tech communication chain that relayed military messages across the islands using three massive mechanical arms on its roof. It is one of only three identical towers ever built in Malta, strategically placed on this high point to maintain a clear line of sight with its sister stations in Għargħur and Nadur, Gozo.",
+                  "checkpointImage": "assets/images/gudja_ghaxaq_semaphore_tower.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Ghaxaq Small Park - Animal Monument",
+                  "type": "milestone",
+                  "latitude": 35.847679, 
+                  "longitude": 14.514191,
+                  "checkpointTitle": "Tiny Park dedicated to Animal love",
+                  "checkpointText": "Originally a neglected patch of land, this small square was transformed by local volunteers into a unique sanctuary dedicated to the 'unconditional love' of animals. Inaugurated in 2018, the monument serves as a rare national tribute to animal welfare, encouraging visitors to reflect on our responsibility toward the planet's more fragile creatures. This square has become a modern hub for the local Blessing of the Animals (Tberik tal-Annimali), an annual Għaxaq tradition where residents bring everything from dogs and cats to horses to be blessed.",
+                  "checkpointImage": "assets/badges/gudja_ghaxaq_animal_monument.png",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Ghaxaq - Green Views",
+                  "type": "milestone",
+                  "latitude": 35.846703, 
+                  "longitude": 14.510277,
+                  "checkpointTitle": "More Nature Views",
+                  "checkpointText": "Enjoy more views over the agricultural fields",
+                  "checkpointImage": "assets/images/gudja_ghaxaq_agriculture_land.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Xlejli Tower",
+                  "type": "iconic_landmark",
+                  "latitude": 35.848954,  
+                  "longitude": 14.506418,
+                  "checkpointTitle": "Xlejli Tower",
+                  "checkpointText": "Dominating the gardens of Palazzo Dorell, this mysterious round tower may date back to the Roman or medieval periods. Its name, Xlejli, translates to 'tacked together' in old Maltese, and inside, a secret stash of Roman copper medals was once discovered, suggesting it has served as a lookout point for millennia. It also earned the nickname 'Bettina Tower' after the Marchesa Bettina Dorell, a prominent 18th-century noblewoman who restored the structure to entertain her guests with 'tea and views' after long carriage rides from Valletta. It is located within a private Palazzo but you can get closer from the paths on your right",
+                  "checkpointImage": "assets/badges/treks_gudja_ghaxaq_landmark_xlejli.png",
+                  "badgeImage": "assets/badges/treks_gudja_ghaxaq_landmark_xlejli.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Route starts and ends on the Southern outskirts of Gudja near the Xlejli area. The long road offers plenty of parking spaces and Bus 88 from Valletta goes to start location. Start location coordinates: 35.848354, 14.505391"
+                  },
+                  {
+                    "title": "Type of Walk",
+                    "description": "The trail goes along queit and narrow countryside roads in Gudja and Ghaxaq, to enjoy most of the agricultural land and natural areas in between these two villages. Trail passess through part of the Has Saptan valley and heads to a large picnic area in Hal Ghaxaq known as taz-Zebbug, before heading back to Xlejli via an alternative route."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Very flat route, most of it on tarmac roads with parts on a bit bumpier concrete paths. Picnic area in Ghaxaq is on a grassy and rocky area but very flat, so the whole trek can be done in comfortable trainer shoes."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "While light on traffic, vehicles can approach on some of the narrow countryside roads. Keep caution by sticking to left side of the road."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "A playground with restroom facilities is located very close (Triq il-Markiza) to the starting and end points. Another larger public playground is located behind the Gudja Parish Church visible in the skyline. Restaurant with Maltese cuisine near Parish church."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_gudja_ghaxaq_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_gudja_ghaxaq_info2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "",
+              "couponTrigger": ""
+            },
+
+            {
               "id": "nature-treks-zejtun-marsaxlokk",
               "name": "San Girgor - Tas-Silg",
               "bannerImage": "assets/images/treks_zejtun_mxlokk_info_img1.jpg",
