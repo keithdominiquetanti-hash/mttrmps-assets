@@ -985,7 +985,7 @@
 
             {
               "id": "nature-treks-gudja-ghaxaq",
-              "name": "Gudja-Ghaxaq Countryside",
+              "name": "Gudja - Ghaxaq Countryside",
               "bannerImage": "assets/images/treks_gudja_ghaxaq_info_img1.jpg",
               "badgeImage": "assets/badges/treks_gudja_ghaxaq_badge.png",
               "gpxFile": "assets/gpx/gudja-ghaxaq.gpx",
@@ -3041,6 +3041,137 @@
                 ],
                 "imagePrimary": "assets/images/details/treks_qannotta_info_img1.jpg",
                 "imageSecondary": "assets/images/details/treks_qannotta_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+
+            {
+              "id": "nature-treks-north-gnejna-loop",
+              "name": "Gnejna Loop",
+              "bannerImage": "assets/images/details/treks_gnejna_loop_info1.jpg",
+              "badgeImage": "assets/badges/treks_gnejna_loop_badge.png",
+              "gpxFile": "assets/gpx/gnejna-loop.gpx",
+              "shortDescription": "Exploring the Gnejna Bay Area, as well as its amazing valley inland.",
+              "details": {
+                "distance": "7.2km",  
+                "time": "2 hours",
+                "elevation": "250m",
+                "difficulty": "Challenging",
+                "loop": "Loop",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "1",
+                "iconic_landmarks": "2"
+              },
+              "checkpoints": [
+                  {
+                  "id": "Small Gnejna West Loop",
+                  "type": "milestone",
+                  "latitude": 35.920262,  
+                  "longitude": 14.341263, 
+                  "checkpointTitle": "Small Gnejna West Loop",
+                  "checkpointText": "We will first take a path on the Western side of Gnejna Bay to get more spectacular elevated views onto the bay, as well as some amazaing geological formations amidst greenery on the other side of the path. The steep uphills are worth it.",
+                  "checkpointImage": "assets/images/treks_gnejna_loop_west_loop.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Upper View on Gnejna Bay",
+                  "type": "milestone",
+                  "latitude": 35.921771, 
+                  "longitude": 14.338960, 
+                  "checkpointTitle": "Upper View on Gnejna Bay",
+                  "checkpointText": "Some more information on Gnejna Bay as you ascend to more amazing views - this bay is one of the few places in Malta where you can see a perennial freshwater spring flowing directly into the sea. Along the shore udnerneath you, you’ll find a row of unique boathouses carved directly into the limestone, some of which have been used by local fishing families for over a century to protect their traditional 'luzzu' boats from winter storms.",
+                  "checkpointImage": "assets/images/treks_gnejna_loop_west_upper.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Gnejna Valley Path",
+                  "type": "milestone",
+                  "latitude": 35.919467,  
+                  "longitude": 14.342840, 
+                  "checkpointTitle": "Gnejna Valley Path",
+                  "checkpointText": "This path starting from the sandy beach takes us to the Gnejna Valley - an incredible switch from coastal views to an amazing fully green immersed landscape.",
+                  "checkpointImage": "assets/images/treks_gnejna_loop_valley_path.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Gnejna Valley",
+                  "type": "hidden_gem",
+                  "latitude": 35.913119,        
+                  "longitude": 14.346415,
+                  "checkpointTitle": "Gnejna Valley",
+                  "checkpointText": "Fed by one of Malta’s most consistent natural springs, this valley is lush thanks to a centuries-old network of stone channels that still irrigate its fertile terraced gardens. The perennial water flow creates a rare sanctuary for the endangered Maltese Freshwater Crab, which you might spot hiding among the wet reeds or under large limestone boulders. As you walk, notice how the valley floor is carpeted with wild bay laurel and fruit trees, a thriving ecosystem that has sustained local farming families since the time of the Knights.",
+                  "checkpointImage": "assets/badges/treks_gnejna_loop_gem_gnejna_valley.png",
+                  "badgeImage": "assets/badges/treks_gnejna_loop_gem_gnejna_valley.png"
+                },
+                {
+                  "id": "Top of Gnejna Valley",
+                  "type": "milestone",
+                  "latitude": 35.910567,    
+                  "longitude": 14.351047,
+                  "checkpointTitle": "Top of Gnejna Valley",
+                  "checkpointText": "Take a pause following the uphill climb to look back at the amazing path you have traversed, as from the sandy Gnejna beach. We will soon join a vehicular road that will take us to the other side of Gnejna Bay.",
+                  "checkpointImage": "assets/images/treks_gnejna_loop_valley_upper.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Tas-Santi",
+                  "type": "milestone",
+                  "latitude": 35.918997,      
+                  "longitude": 14.357679,
+                  "checkpointTitle": "Tas-Santi",
+                  "checkpointText": "The quiet road you have just walked down is named for the area known as Tas-Santi. In another trek (starting from Kuncizzjoni chapel in Rabat) we will explore the upper and more spectacular stretch of this road with amazing elevated panoramas. At the next junction, take the road staright ahead which will take us to the other upper side of Gnejna with such amazing views.",
+                  "checkpointImage": "assets/images/treks_gnejna_loop_tas_santi.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Lippija Tower",
+                  "type": "iconic_landmark",
+                  "latitude": 35.922310,    
+                  "longitude": 14.346174,
+                  "checkpointTitle": "Lippija Tower",
+                  "checkpointText": "Built in 1637, this watchtower was the first of the 'Lascaris towers' and served as a crucial lookout for pirate ships attempting to land in the bay below. It communicated via smoke signals by day and fire by night with the neighboring Binġemma and Għajn Tuffieħa towers, ensuring that even the most remote northwest corner of Malta was never unguarded. From its base, you can see how its strategic position allows a clear view over the clay slopes, a landscape that was historically a nightmare for invaders trying to climb the slippery terrain.",
+                  "checkpointImage": "assets/badges/treks_gnejna_loop_landmark_lippija_tower.png",
+                  "badgeImage": "assets/badges/treks_gnejna_loop_landmark_lippija_tower.png"
+                },
+                {
+                  "id": "Gnejna View from Lippija Tower",
+                  "type": "iconic_landmark",
+                  "latitude": 35.923050,    
+                  "longitude": 14.345628,
+                  "checkpointTitle": "Gnejna View from Lippija Tower",
+                  "checkpointText": "An iconic view onto the blue waters of Gnejna Bay, as well as the surrounding greenery which was traversed earlier. Next, look out for a downhill path that takes back to Gnejna beach. The path is very steep and can be slippery, so proceed with caution and safety. If not comfortable taking this path, you can take the previously taken path back, and at the previous cross-road near tas-Santi road, take the tarmaced downhill road - this is the vehicular route for getting to Gnejna.",
+                  "checkpointImage": "assets/badges/treks_gnejna_loop_landmark_lippija_view.png",
+                  "badgeImage": "assets/badges/treks_gnejna_loop_landmark_lippija_view.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Loop starts and ends at the picturesque Gnejna beach. It has a dedicated parking lot, which will have several spaces in the ideal non-summer months of this trek. There is no direct bus service from Valletta to Gnejna (except in Summer) - one needs to take route 44 from Valletta to Mgarr and then switch to route 101 from there. GPS coordinates to starting point: 35.920352, 14.343887."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "Starting from the sandy Gnejna beach, the route first takes a small loop on the Western side of the bay with scenic seaviews on one side and green views on the other. Then trail takes a path within the amazing green valley just behind the bay, before heading towards the upper Eastern side of Gnejna bay. A steep downhill path takes us back to the beach."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Mix of surphaced roads and off the beaten track paths (including a steep downhill section at the end of the trek). Trekking shoes are hence required for safety and ability to complete the trek. A challenging trek given the distance and steep elevation changes buth uphill and downhill."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "Route ends with a steep downhill off the beaten track path, close to edge drops at times. Trekking shoes are required for safety and this section calls for dry conditions. Always check path safety (even ones marked as conditions may change)."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Public toilets are located at Gnejna beach, and some kiosks can be open during most popular times (ulikely in Winter). The rest of the trail is immersed in nature, so bring provisions for the way!"
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_gnejna_loop_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_gnejna_loop_info2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
