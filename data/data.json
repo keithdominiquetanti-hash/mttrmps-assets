@@ -1256,6 +1256,137 @@
             },
 
             {
+              "id": "nature-treks-gibjun-fulija",
+              "name": "Gibjun - Wied Fulija",
+              "bannerImage": "assets/images/details/treks_fulija_gibjun_info1.jpg",
+              "badgeImage": "assets/badges/treks_gibjun_fulija_badge.png",
+              "gpxFile": "assets/gpx/gibjun-fulija.gpx",
+              "shortDescription": "From a Zurrieq playground with an amazing panorama to a beautifully regerenated valley.",
+              "details": {
+                "distance": "5.5km",
+                "time": "1.5 hours",
+                "elevation": "170m",
+                "difficulty": "Moderate",
+                "loop": "Out & Back",
+                "shoes": "Trainers",
+                "hidden_gems": "1",
+                "iconic_landmarks": "2"
+              },
+              "checkpoints": [
+                {
+                  "id": "View onto Wied Babu",
+                  "type": "milestone",
+                  "latitude": 35.824473,     
+                  "longitude": 14.467326,
+                  "checkpointTitle": "View onto Wied Babu",
+                  "checkpointText": "A scenic starting point with a view onto Zurrieq's Wied Babu - a destination in one of our other fantastic treks. At the end of the trek we'll get an even more elevated panormaic view.",
+                  "checkpointImage": "assets/images/treks_fulija_view_wied_babu.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Mithna tal-Qaret",
+                  "type": "milestone",
+                  "latitude": 35.823703,     
+                  "longitude": 14.468979,
+                  "checkpointTitle": "Mithna tal-Qaret",
+                  "checkpointText": "Built in 1674 by Grandmaster Nicolas Cotoner, this is one of the oldest surviving windmills in Malta and served as a vital lifeline for the local community by grinding grain for their daily bread. Its unique name, tal-Qaret, was inherited from the nickname of a 19th-century miller, Carmenu Zammit, whose family lived and worked within these limestone walls for generations. While it no longer has its sails, the sturdy millhouse remains a Grade 1 scheduled monument, preserved today as a private residence.",
+                  "checkpointImage": "assets/images/treks_fulija_mithna_tal_qaret.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "It-Torri tal-Wardija",
+                  "type": "iconic_landmark",
+                  "latitude": 35.819257,    
+                  "longitude": 14.473013,
+                  "checkpointTitle": "It-Torri tal-Wardija",
+                  "checkpointText": "Completed in 1659, this is the very last of the thirteen De Redin watchtowers built across Malta, marking the end of a massive 17th-century coastal defense project. Its original name was Torre della Guardia di Giorno (Tower of the Day Watch), as it was primarily used to monitor the coastline during daylight when pirate ambushes were most common.",
+                  "checkpointImage": "assets/badges/treks_gibjun_fulija_landmark_wardija_tower.png",
+                  "badgeImage": "assets/badges/treks_gibjun_fulija_landmark_wardija_tower.png"
+                },
+                {
+                  "id": "Wied Fulija Entrance",
+                  "type": "milestone",
+                  "latitude": 35.817015,      
+                  "longitude": 14.481920,
+                  "checkpointTitle": "Wied Fulija Entrance",
+                  "checkpointText": "We have now enetered the Wied Fulija Family Parl Park - Once a massive landfill containing nearly two billion kilograms of waste, this area has been expertly rehabilitated into a 91,000-square-metre green haven that now serves as a vital ecological bridge.",
+                  "checkpointImage": "assets/images/treks_fulija_wied_fulija_entrance.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wied Fulija Loop",
+                  "type": "hidden_gem",
+                  "latitude": 35.815365,         
+                  "longitude": 14.481312,
+                  "checkpointTitle": "Wied Fulija Loop",
+                  "checkpointText": "There are amazing semi-circular loops across both sides of this central path - feel free to take both. As you walk on the paved coastal paths, you are actually standing on stabilized mounds that have been capped and replanted with 43,000 native trees and shrubs. The vertical cliffs below are home to nesting sites for Scopoli’s Shearwaters; BirdLife Malta has installed specialized nesting boxes along the ridges to encourage these migratory seabirds to breed safely away from light pollution.",
+                  "checkpointImage": "assets/badges/treks_gibjun_fulija_gem_fulija_loop.png",
+                  "badgeImage": "assets/badges/treks_gibjun_fulija_gem_fulija_loop.png"
+                },
+                {
+                  "id": "Gnien il-Gibjun",
+                  "type": "milestone",
+                  "latitude": 35.822959,        
+                  "longitude": 14.468420,
+                  "checkpointTitle": "Gnien il-Gibjun",
+                  "checkpointText": "Perched on the edge of the Żurrieq cliffs, this garden is built atop a massive underground reservoir, or ġibjun, that historically served as a vital water source for the surrounding agricultural plains. At roughly 120 meters above sea level, the breeze here is so constant that the area was historically used by locals for winnowing grain - a great place to chase some breeze in hot Summer evenings.",
+                  "checkpointImage": "assets/images/treks_fulija_gnien_gibjun.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Il-Gibjun Panorama",
+                  "type": "iconic_landmark",
+                  "latitude": 35.823122,  
+                  "longitude": 14.467071,
+                  "checkpointTitle": "Il-Gibjun Panorama",
+                  "checkpointText": "An ultimate southern vantage point, where on a clear day, you can trace the rugged coastline all the way to the Dingli Cliffs. There is info on respective locatalities and locations on display. This is also This is also considered the best land-based spot in Malta to observe Filfla; look closely through binoculars and you might spot the ruins of the small 14th-century medieval chapel that once stood on the islet before it was used for target practice.",
+                  "checkpointImage": "assets/badges/treks_gibjun_fulija_landmark_gibjun_panorama.png",
+                  "badgeImage": "assets/badges/treks_gibjun_fulija_landmark_gibjun_panorama.png"
+                },
+                {
+                  "id": "1956 Żurrieq Avro York crash",
+                  "type": "milestone",
+                  "latitude": 35.823211,      
+                  "longitude": 14.467351,
+                  "checkpointTitle": "1956 Żurrieq Avro York crash",
+                  "checkpointText": "A stone's throw from these cliffs lies the site of Malta’s deadliest aviation disaster, where on February 18, 1956, an Avro York transport plane tragically crashed shortly after takeoff, claiming 50 lives. Among the victims were 12 young British servicemen who had 'won' their seats in a lucky draw to fly home early, rather than making the long journey back from the Suez Canal by sea. Today, a stainless steel memorial shaped like an aircraft's tailfin stands in the garden, marking the exact spot where the flight met its end in the fields of Nigret.",
+                  "checkpointImage": "assets/images/treks_grotto_maqluba_view_filfla.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "The trail's starting and end points are within Zurrieq's Nigret area, specifically near the Gibjun Garden. Exact starting point is at the 'Gibjun' bus stop served by directly by bus 117 from the centre of Malta. If from Valletta, then one needs to catch buses 71 or 73 to Zurrieq main road and then take a 5min (uphill) walk. Several parking spaces surrounding Gibjun Garden. GPS coordinates to starting point: 35.824983, 14.468082."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "We start off from near the Gibjun Garden with specactular panoramic views on Malta's West side and head towards Wied Fulija - a former landfill transformed into a beautiful green park with cliff top views around a circular loop. The same roads are taken back for a different perspective, back to Gibjun Garden with arguably the best elevated and breezy vistas in the South. If you would like to extend the middle part of the trek, you can proceed further than Wied Fulija to reach a beautiful cliff side area - while respecting private property, you can enter the rocky terrain from next to the small building structures and adventure into exploring some hidden caves too!"
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Trail is entirely on good surfaced roads and hence can be done in comfortable trainers. Be prepared for some significant elevation change with rather steep uphills and downhills."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "With the Wied Fulija park keep within the designated walking paths."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Public restrooms available within the Gibjun Garden, with a snack bar often opening during popular meal times."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_fulija_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_fulija_info2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+
+            {
               "id": "nature-treks-blue-grotto-maqluba",
               "name": "Blue Grotto - Maqluba",
               "bannerImage": "assets/images/details/treks_grotto_maqluba_info2.jpg",
@@ -3843,97 +3974,6 @@
                 ],
                 "imagePrimary": "assets/images/details/treks_mellieha_info_img1.jpg",
                 "imageSecondary": "assets/images/details/treks_mellieha_info_img2.jpg"
-              },
-              "standardPrice": 3.0,
-              "discountedPrice": 2.0,
-              "couponTrekTrigger": "A",
-              "couponTrigger": "Z"
-            },
-
-            {
-              "id": "nature-treks-north-selmun-tunnara",
-              "name": "Selmun - Mgiebah",
-              "bannerImage": "assets/images/treks_qannotta_viewpoint.jpg",
-              "badgeImage": "assets/badges/treks_fiddien_bingemma_badge.png",
-              "gpxFile": "assets/gpx/ahrax-selmum-tunnara-test.gpx",
-              "shortDescription": "From Selmun through Mgiebah Bay and to Tunnaras in Mellieha",
-              "details": {
-                "distance": "7.3km",
-                "time": "2.0 hours",
-                "elevation": "180m",
-                "difficulty": "Challenging",
-                "loop": "Loop",
-                "shoes": "Trekking Shoes",
-                "hidden_gems": "2",
-                "iconic_landmarks": "1"
-              },
-              "checkpoints": [
-                {
-                  "id": "Selmun Chapel",
-                  "type": "milestone",
-                  "latitude": 35.957174,    
-                  "longitude": 14.380101,
-                  "checkpointTitle": "Selmun Chapel",
-                  "checkpointText": "Selmun Chapel.",
-                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
-                  "badgeImage": ""
-                },
-                {
-                  "id": "Imgiebah Bay",
-                  "type": "hidden_gem",
-                  "latitude": 35.967878,    
-                  "longitude": 14.381489,
-                  "checkpointTitle": "Imgiebah Bay",
-                  "checkpointText": "Imgiebah Bay is a scenic spot offering stunning views of the surrounding landscape.",
-                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
-                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
-                },
-                {
-                  "id": "Selmun Palace",
-                  "type": "iconic_landmark",
-                  "latitude": 35.959035,      
-                  "longitude": 14.380966,
-                  "checkpointTitle": "Selmun Palace",
-                  "checkpointText": "Selmun Palace is a historic site with significant cultural value.",
-                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
-                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
-                },
-                {
-                  "id": "Irdum Ghajn Hadid",
-                  "type": "hidden_gem",
-                  "latitude": 35.966528,   
-                  "longitude": 14.386597,
-                  "checkpointTitle": "Irdum Ghajn Hadid",
-                  "checkpointText": "Irdum Ghajn Hadid is a hidden gem offering a peaceful retreat in the heart of the countryside.",
-                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
-                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
-                }
-              ],
-              "detailContent": {
-                "highlights": [
-                  {
-                    "title": "Getting there",
-                    "description": "Route starts and ends near entrance to Chadwick Lakes trail. By bus one can take routes 50, 51, 52, 53 from Valletta to Rabat (Stop at Saqqajja) and then change route to 109, and stop at Fiddien. By car there are limited parking spaces available near entrance - for less parking worries, leave vehicle near Għajn National Water Conservation Centre and take a 500m walk to start route. GPS coordinates to starting point: 35.956695, 14.379940"
-                  },
-                  {
-                    "title": "The Route",
-                    "description": "First takes the recently regenerated and incredibly scenic path to Chadwick Lakes and walk within the Fidden and Qlejgha valleys, before heading up towards the Bingemma cliff viewpoints and Victoria lines at Bingemma Gap. A shorter return route is taken along vehicle roads surrunded by greenery."
-                  },
-                  {
-                    "title": "Terrain",
-                    "description": "Crossing Fiddien and Qlejgha valley paths, as well as rocky terrain at Bingemma Gap. Possible with trainer shoes in dry conditions but trekking shoes recommended."
-                  },
-                  {
-                    "title": "Safety Warning",
-                    "description": "Keep safe and do not take risks near Bingemma Cliff Edges."
-                  },
-                  {
-                    "title": "Amenities",
-                    "description": "No restrooms or food outlets along the route, so think ahead and bring water and snacks with you. On Weekends, there are usually some stands with traditional Maltese snacks set up near Chadwick Lakes trail entrance."
-                  }
-                ],
-                "imagePrimary": "assets/images/details/treks_fiddien_bingemma_info1.jpg",
-                "imageSecondary": "assets/images/details/treks_fiddien_bingemma_info2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
