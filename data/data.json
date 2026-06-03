@@ -3986,27 +3986,27 @@
     },
 
     { 
-      "name": "Stroller Walks",
+      "name": "History Summer Nights",
       "regions": [
         {
-          "name": "West",
+          "name": "Grand Harbour",
           "treks": [
             {
-              "id": "stroller-walks-gudja-ghaxaq",
-              "name": "Gudja-Ghaxaq Countryside",
+              "id": "history-birgu",
+              "name": "Birgu - Citta Vittoriosa",
               "bannerImage": "assets/images/stroller_gudja_ghaxaq_agriculture_land.jpg",
               "badgeImage": "assets/badges/stroller_gudja_ghaxaq_badge.png",
-              "gpxFile": "assets/gpx/stroller-gudja-ghaxaq.gpx",
-              "shortDescription": "History and Nature",
+              "gpxFile": "assets/gpx/history-vittoriosa.gpx",
+              "shortDescription": "Historic charm of Citta Vittoriosa",
               "details": {
-                "distance": "4.5km",
-                "time": "1 hour",
-                "elevation": "52m",
+                "distance": "3.7km",
+                "time": "1.5 hour",
+                "elevation": "80m",
                 "difficulty": "Easy",
                 "loop": "Loop",
                 "shoes": "Trainers",
-                "hidden_gems": "0",
-                "iconic_landmarks": "2"
+                "hidden_gems": "1",
+                "iconic_landmarks": "5"
               },
               "checkpoints": [
                 {
@@ -4030,81 +4030,111 @@
                   "badgeImage": ""
                 },
                 {
-                  "id": "Gudja Ta Loretu",
+                  "id": "Couvre Porte",
                   "type": "milestone",
-                  "latitude": 35.842738,   
-                  "longitude": 14.507044,
-                  "checkpointTitle": "Ta Loretu Church",
+                  "latitude": 35.885403,   
+                  "longitude": 14.522261,
+                  "checkpointTitle": "Couvre Porte",
                   "checkpointText": "In the distance over the fields you can spot the Ta Loretu chapel. Another landmark you can reach from the centre of Gudja on another trek",
                   "checkpointImage": "assets/images/stroller_gudja_ghaxaq_ta_loretu_distance.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Gudja - Saptan Valley",
+                  "id": "Vittoriosa Ditch Gardens",
                   "type": "iconic_landmark",
-                  "latitude": 35.839413,  
-                  "longitude": 14.513355,
-                  "checkpointTitle": "Saptan Valley",
+                  "latitude": 35.885474,  
+                  "longitude": 14.522443,
+                  "checkpointTitle": "Vittoriosa Ditch",
                   "checkpointText": "Enjoy an iconic view of this trek overlooking the Saptan Valley",
                   "checkpointImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png",
                   "badgeImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png"
                 },
                 {
-                  "id": "It-Turretta Ghaxaq",
+                  "id": "View onto Kalkara",
                   "type": "milestone",
-                  "latitude": 35.847282,  
-                  "longitude": 14.514651,
-                  "checkpointTitle": "It-Turretta",
-                  "checkpointText": "One of the three semaphore towers in Malta. We are now in the village of Hal Ghaxaq",
-                  "checkpointImage": "assets/images/stroller_gudja_ghaxaq_semaphore_tower.jpg",
+                  "latitude": 35.888810,   
+                  "longitude": 14.525123,
+                  "checkpointTitle": "View onto Kalkara",
+                  "checkpointText": "In the distance over the fields you can spot the Ta Loretu chapel. Another landmark you can reach from the centre of Gudja on another trek",
+                  "checkpointImage": "assets/images/stroller_gudja_ghaxaq_ta_loretu_distance.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Ghaxaq Small Park - Animal Monument",
+                  "id": "TBD",
                   "type": "iconic_landmark",
-                  "latitude": 35.847679, 
-                  "longitude": 14.514191,
-                  "checkpointTitle": "Tiny Park dedicated to Animal love",
-                  "checkpointText": "A small haven where you can take a break near the monument dedicated to animals and let the little ones name the animals",
-                  "checkpointImage": "assets/badges/stroller_gudja_ghaxaq_landmark_animals_monument.png",
-                  "badgeImage": "assets/badges/stroller_gudja_ghaxaq_landmark_animals_monument.png"
+                  "latitude": 35.890893,   
+                  "longitude": 14.519674,
+                  "checkpointTitle": "Vittoriosa Ditch",
+                  "checkpointText": "Enjoy an iconic view of this trek overlooking the Saptan Valley",
+                  "checkpointImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png",
+                  "badgeImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png"
                 },
                 {
-                  "id": "Ghaxaq - Green Views",
+                  "id": "Forti St. Anglu",
+                  "type": "iconic_landmark",
+                  "latitude": 35.890893,   
+                  "longitude": 14.519674,
+                  "checkpointTitle": "Forti St. Anglu",
+                  "checkpointText": "Enjoy an iconic view of this trek overlooking the Saptan Valley",
+                  "checkpointImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png",
+                  "badgeImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png"
+                },
+                {
+                  "id": "Valletta View from St. Anglu",
+                  "type": "hidden_gem",
+                  "latitude": 35.892670,   
+                  "longitude": 14.516989,
+                  "checkpointTitle": "Valletta View from St. Anglu",
+                  "checkpointText": "Enjoy an iconic view of this trek overlooking the Saptan Valley",
+                  "checkpointImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png",
+                  "badgeImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png"
+                },
+                {
+                  "id": "Pjazza Vittoriosa",
                   "type": "milestone",
-                  "latitude": 35.846703, 
-                  "longitude": 14.510277,
-                  "checkpointTitle": "More Nature Views",
-                  "checkpointText": "Enjoy more views over the agricultural fields",
-                  "checkpointImage": "assets/images/stroller_gudja_ghaxaq_agriculture_land.jpg",
+                  "latitude": 35.888169,   
+                  "longitude": 14.522016,
+                  "checkpointTitle": "Pjazza Vittoriosa",
+                  "checkpointText": "In the distance over the fields you can spot the Ta Loretu chapel. Another landmark you can reach from the centre of Gudja on another trek",
+                  "checkpointImage": "assets/images/stroller_gudja_ghaxaq_ta_loretu_distance.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Xlejli Tower",
+                  "id": "Annunzjata Churh & Inquisitor's Palace",
                   "type": "milestone",
-                  "latitude": 35.847010, 
-                  "longitude": 14.508820,
-                  "checkpointTitle": "Xlejli Tower",
-                  "checkpointText": "The Xlejli Tower also known as Bettina Tower now comes into view. It is thought to have served as a watchtower as far as from Roman or Medieval times but its exact age remains a mystery. It is located within a private Palazzo but you can get closer from the paths on your right",
-                  "checkpointImage": "assets/images/stroller_gudja_ghaxaq_xlejli_tower.jpg",
+                  "latitude": 35.887020,    
+                  "longitude": 14.522479,
+                  "checkpointTitle": "Annunzjata Churh & Inquisitor's Palace",
+                  "checkpointText": "In the distance over the fields you can spot the Ta Loretu chapel. Another landmark you can reach from the centre of Gudja on another trek",
+                  "checkpointImage": "assets/images/stroller_gudja_ghaxaq_ta_loretu_distance.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Back to Gudja Church",
-                  "type": "milestone",
-                  "latitude": 35.848349, 
-                  "longitude": 14.502510,
-                  "checkpointTitle": "Back to Gudja Parish Chruch",
-                  "checkpointText": "Roman Catholic church dedicated to the Assumption of St. Mary whose feast is celebrated on the 15th of August. Built mostly in Baroque style and built in 1656 on the plans of Tumas Dingli. The trek now closes at Gnien Raymond Caruana for a well deserved rest or kids play time.",
-                  "checkpointImage": "assets/images/stroller_gudja_ghaxaq_gudja_church.jpg",
-                  "badgeImage": ""
-                }
+                  "id": "Wesghet il-Kolleggjata",
+                  "type": "iconic_landmark",
+                  "latitude": 35.887634,    
+                  "longitude": 14.521649,
+                  "checkpointTitle": "Wesghet il-Kolleggjata",
+                  "checkpointText": "Enjoy an iconic view of this trek overlooking the Saptan Valley",
+                  "checkpointImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png",
+                  "badgeImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png"
+                },
+                {
+                  "id": "Monument Jum il-Helsien & Kolleggjata San Lawrenz",
+                  "type": "iconic_landmark",
+                  "latitude": 35.887124,     
+                  "longitude": 14.520702,
+                  "checkpointTitle": "Monument Jum il-Helsien & Kolleggjata San Lawrenz",
+                  "checkpointText": "Enjoy an iconic view of this trek overlooking the Saptan Valley",
+                  "checkpointImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png",
+                  "badgeImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png"
+                }  
               ],
               "detailContent": {
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Route starts from the parish church of Gudja and ends at a nearby playground. Bus 88 from Valletta goes to start location. Most parking slots in tax-Xlejli area if by private transport. Start location coordinates: 35.8481865, 14.5027438"
+                    "description": "Route starts from the parish church of Gudja and ends at a nearby playground. Bus 88 from Valletta goes to start location. Most parking slots in tax-Xlejli area if by private transport. Start location coordinates: 35.885248, 14.523319"
                   },
                   {
                     "title": "Type of Walk",
