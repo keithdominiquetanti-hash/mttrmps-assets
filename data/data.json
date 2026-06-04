@@ -3999,9 +3999,9 @@
               "gpxFile": "assets/gpx/history-vittoriosa.gpx",
               "shortDescription": "Historic charm of Citta Vittoriosa",
               "details": {
-                "distance": "3.7km",
+                "distance": "3.9km",
                 "time": "1.5 hour",
-                "elevation": "80m",
+                "elevation": "85m",
                 "difficulty": "Easy",
                 "loop": "Loop",
                 "shoes": "Trainers",
@@ -4010,32 +4010,12 @@
               },
               "checkpoints": [
                 {
-                  "id": "Gudja Bandli",
-                  "type": "milestone",
-                  "latitude": 35.847625, 
-                  "longitude": 14.506098,
-                  "checkpointTitle": "Bandli tax-Xlejli",
-                  "checkpointText": "Area known as tax-Xlejli in Gudja. Restroom facilties",
-                  "checkpointImage": "assets/images/stroller_gudja_ghaxaq_xlejli_bandli.jpg",
-                  "badgeImage": ""
-                },
-                {
-                  "id": "Gudja Countryside Path",
-                  "type": "milestone",
-                  "latitude": 35.846983, 
-                  "longitude": 14.506083,
-                  "checkpointTitle": "Gudja Countryside Path",
-                  "checkpointText": "Now moving to countryside roads. Although quite quiet, the streets are narrow so keep on the left side",
-                  "checkpointImage": "assets/images/stroller_gudja_ghaxaq_first_path.jpg",
-                  "badgeImage": ""
-                },
-                {
                   "id": "Couvre Porte",
                   "type": "milestone",
-                  "latitude": 35.885403,   
-                  "longitude": 14.522261,
+                  "latitude": 35.885399,    
+                  "longitude": 14.522300,
                   "checkpointTitle": "Couvre Porte",
-                  "checkpointText": "In the distance over the fields you can spot the Ta Loretu chapel. Another landmark you can reach from the centre of Gudja on another trek",
+                  "checkpointText": "The Couvre Porte is a complex, multi-layered defensive gateway system built by the Knights of St John between 1716 and 1730 to safeguard the main entrance to Vittoriosa. Designed by French military engineers Charles François de Mondion and Louis François de Tigné, this impressive Baroque bottleneck forced attackers to navigate three successive gates under constant defensive fire. Interestingly, the name Couvre Porte translates from French to covered gate, referring to the strategic outer counterguard built specifically to hide and shelter the city's inner gates from direct enemy artillery. Today, the British-era barracks built directly inside these massive fortification walls house the popular Malta at War Museum.",
                   "checkpointImage": "assets/images/stroller_gudja_ghaxaq_ta_loretu_distance.jpg",
                   "badgeImage": ""
                 },
@@ -4045,27 +4025,27 @@
                   "latitude": 35.885474,  
                   "longitude": 14.522443,
                   "checkpointTitle": "Vittoriosa Ditch",
-                  "checkpointText": "Enjoy an iconic view of this trek overlooking the Saptan Valley",
+                  "checkpointText": "The Vittoriosa Ditch is a massive defensive trench carved directly into the limestone during the 16th century to safeguard the city’s landfront from enemy invasions. Following extensive restoration work, this former military dead-zone reopened as a peaceful public garden filled with olive trees and winding walkways. Deep inside the ditch walls, you can spot old doorways that served as vital, life-saving air-raid shelters for civilians during World War II. The garden also hides a rare, excavated 18th-century caponier —a fortified stone tunnel designed to allow Knights to safely cross the ditch while firing at attackers from a protected position.",
                   "checkpointImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png",
                   "badgeImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png"
                 },
                 {
-                  "id": "View onto Kalkara",
+                  "id": "View onto Kalkara Bay",
                   "type": "milestone",
                   "latitude": 35.888810,   
                   "longitude": 14.525123,
-                  "checkpointTitle": "View onto Kalkara",
-                  "checkpointText": "In the distance over the fields you can spot the Ta Loretu chapel. Another landmark you can reach from the centre of Gudja on another trek",
+                  "checkpointTitle": "View onto Kalkara Bay",
+                  "checkpointText": "This scenic viewpoint along the Vittoriosa promenade offers a panoramic look across Kalkara Bay toward the grand, neo-classical St. Joseph Parish Church rising directly from the water's edge. Built in the 1950s, this massive domed temple actually replaced an earlier 19th-century church that stood slightly closer to the marina until it was completely leveled during a devastating World War II air raid on April 10, 1942. Looking across the water to the right, you can also spot the sprawling colonial complex of Villa Bighi. Once a premier British naval hospital, it famously featured an outdoor cliffside elevator built specifically to hoist injured sailors straight out of incoming sea vessels and up into the medical wards.",
                   "checkpointImage": "assets/images/stroller_gudja_ghaxaq_ta_loretu_distance.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "TBD",
+                  "id": "L-Arkati",
                   "type": "iconic_landmark",
-                  "latitude": 35.890893,   
-                  "longitude": 14.519674,
-                  "checkpointTitle": "Vittoriosa Ditch",
-                  "checkpointText": "Enjoy an iconic view of this trek overlooking the Saptan Valley",
+                  "latitude": 35.890857,    
+                  "longitude": 14.519624,
+                  "checkpointTitle": "L-Arkati",
+                  "checkpointText": "This distinctive row of limestone arches forms an elevated stone bridge that connects the main bastions of Birgu directly to the entrance of Fort St. Angelo. Originally built by the Knights of St John, this arched ramp replaced an old medieval drawbridge to ensure a safer, more stable passage over the deep sea water moat. Fascinatingly, during the 18th century, these arches functioned like a miniature aqueduct system, hiding a gravity-fed stone channel inside them to transport fresh water into the fort's massive underground cisterns.",
                   "checkpointImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png",
                   "badgeImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png"
                 },
@@ -4075,7 +4055,7 @@
                   "latitude": 35.890893,   
                   "longitude": 14.519674,
                   "checkpointTitle": "Forti St. Anglu",
-                  "checkpointText": "Enjoy an iconic view of this trek overlooking the Saptan Valley",
+                  "checkpointText": "Fort St. Angelo is a massive bastioned fortress that served as the grand headquarters for the Knights of St John during the epic Great Siege of Malta in 1565. Strategically positioned at the very tip of the peninsula, this historic site has been occupied since prehistoric times and was originally a medieval castle known as the Castrum Maris (Castle of the Sea). In a unique legal arrangement, the upper tier of the fort does not belong to the Maltese government; it is leased exclusively to the Sovereign Military Order of Malta, making it an independent sovereign enclave. The fort also played a bizarre role in art history when the hot-tempered painter Caravaggio was imprisoned in its deep, underground rock-cut dungeon in 1608 before making a daring, nighttime escape from the island. Now look for the marked path alongside the fort to get to the very tip of the peninsula",
                   "checkpointImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png",
                   "badgeImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png"
                 },
@@ -4085,7 +4065,7 @@
                   "latitude": 35.892670,   
                   "longitude": 14.516989,
                   "checkpointTitle": "Valletta View from St. Anglu",
-                  "checkpointText": "Enjoy an iconic view of this trek overlooking the Saptan Valley",
+                  "checkpointText": "Now right at the very tip of the peninsula in front of Fort St. Angelo, this breathtaking viewpoint offers a rare, unobstructed panorama of the entire Grand Harbour, with the fortified city of Valletta rising dramatically on the opposite shore. From this vantage point, you can see the full sweep of Valletta's iconic skyline, including the domes of its historic churches. This specific angle perfectly highlights the mighty Fort St. Elmo guarding the harbor mouth opposite you, mirroring Fort St. Angelo's defensive position. Ironically, during the 1565 Great Siege, this vast water gap was a terrifying, active combat zone where Ottoman soldiers and the Knights relentlessly traded heavy cannon fire across the harbor.",
                   "checkpointImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png",
                   "badgeImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png"
                 },
@@ -4095,27 +4075,37 @@
                   "latitude": 35.888169,   
                   "longitude": 14.522016,
                   "checkpointTitle": "Pjazza Vittoriosa",
-                  "checkpointText": "In the distance over the fields you can spot the Ta Loretu chapel. Another landmark you can reach from the centre of Gudja on another trek",
+                  "checkpointText": "Victory Square is the bustling, historic heart of Birgu, serving as the central gathering place for the community since medieval times. It was famously renamed to honor the heroic defense of the city during the Great Siege of 1565, which successfully broke the Ottoman invasion force. The prominent statue in the center represents Victory and was erected in 1705, though it was uniquely crafted by an anonymous Maltese sculptor whose identity remains unknown to this day.",
                   "checkpointImage": "assets/images/stroller_gudja_ghaxaq_ta_loretu_distance.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Annunzjata Churh & Inquisitor's Palace",
+                  "id": "St. James and St. John's Cavaliers",
                   "type": "milestone",
-                  "latitude": 35.887020,    
-                  "longitude": 14.522479,
-                  "checkpointTitle": "Annunzjata Churh & Inquisitor's Palace",
-                  "checkpointText": "In the distance over the fields you can spot the Ta Loretu chapel. Another landmark you can reach from the centre of Gudja on another trek",
+                  "latitude": 35.887276,    
+                  "longitude": 14.524049,
+                  "checkpointTitle": "St. James and St. John's Cavaliers",
+                  "checkpointText": "These two towering stone platforms, St. James Cavalier and St. John's Cavalier, were engineered prior to the Great Siege of 1565 to give the Knights elevated artillery positions over Birgu's landfront defenses. Designed by Spanish engineer Pedro Pardo, these massive stone structures essentially acted as fortifications within fortifications, built high enough to fire over the main outer walls. While Valletta famously has its own twin cavaliers by the exact same names, these original Birgu versions are the ones that actually endured the brutal bombardment of the 1565 siege.",
                   "checkpointImage": "assets/images/stroller_gudja_ghaxaq_ta_loretu_distance.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Wesghet il-Kolleggjata",
+                  "id": "Inquisitor's Palace",
+                  "type": "milestone",
+                  "latitude": 35.887158,     
+                  "longitude": 14.522449,
+                  "checkpointTitle": "Inquisitor's Palace",
+                  "checkpointText": "The Inquisitor's Palace is a massive 16th-century complex that served as the official seat and supreme tribunal of the Roman Inquisition in Malta. It is one of the very few surviving palaces of its kind in the entire world, functioning simultaneously as a courthouse, a high-society residence, and a grim prison network. If you visit, you can explore the dark prison cells inside, you can still see hundreds of incredibly detailed graffiti drawings carved into the limestone walls by desperate inmates waiting for their trials [1]. The building also hides a secret escape hatch behind a seemingly normal cupboard in the Inquisitor's private quarters, engineered specifically so he could quickly flee to safety into the street during public riots or security breaches.",
+                  "checkpointImage": "assets/images/stroller_gudja_ghaxaq_ta_loretu_distance.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wesghet il-Kolleggjata 1820",
                   "type": "iconic_landmark",
                   "latitude": 35.887634,    
                   "longitude": 14.521649,
-                  "checkpointTitle": "Wesghet il-Kolleggjata",
-                  "checkpointText": "Enjoy an iconic view of this trek overlooking the Saptan Valley",
+                  "checkpointTitle": "Wesghet il-Kolleggjata 1820",
+                  "checkpointText": "Wesgħet il-Kolleġġjata 1820 is the official name given to the open parish squares directly bordering the side of the monumental Collegiate Church of St. Lawrence. This side terrace links the main church parvis with the adjacent Oratory of St. Joseph, acting as a gathering space for the community during major religious events. Its specific title was inaugurated to commemorate the historic bicentenary of Pope Pius VII elevating this ancient parish to the prestigious status of a Collegiate church back in 1820.",
                   "checkpointImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png",
                   "badgeImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png"
                 },
@@ -4125,7 +4115,7 @@
                   "latitude": 35.887124,     
                   "longitude": 14.520702,
                   "checkpointTitle": "Monument Jum il-Helsien & Kolleggjata San Lawrenz",
-                  "checkpointText": "Enjoy an iconic view of this trek overlooking the Saptan Valley",
+                  "checkpointText": "This waterfront plaza brings you face-to-face with the Freedom Day Monument, framed by the grand Baroque facade of the Collegiate Church of St. Lawrence. The prominent, man-made hill monument was sculpted by Anton Agius to mark March 31, 1979—the historic day the British military closed its local base and withdrew from Malta completely. Every detail on the hill is symbolic: the large stones were carted in directly from the rugged Dingli Cliffs, and the four bronze figures replicate the actual Maltese citizens and British sailors who shook hands during the official handover ceremony. The Collegiate Church was built by Lorenzo Gafà and served as the Knights' very first conventual headquarters long before Valletta even existed.",
                   "checkpointImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png",
                   "badgeImage": "assets/badges/stroller_gudja_ghaxaq_landmark_saptan.png"
                 }  
@@ -4134,23 +4124,19 @@
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Route starts from the parish church of Gudja and ends at a nearby playground. Bus 88 from Valletta goes to start location. Most parking slots in tax-Xlejli area if by private transport. Start location coordinates: 35.885248, 14.523319"
+                    "description": "Route starts and ends near the outer gates of Vittoriosa. Parking is best sought outside the fortified walls. There is a small parking area near the college and parking spaces around the bus stop area. Bus routes 2 and 3 connect Valletta and Birgu, as well as the fast ferry service and private rides on traditional Maltese boats. Start location coordinates: 35.885248, 14.523319."
                   },
                   {
-                    "title": "Type of Walk",
-                    "description": "Most of walk goes along countryside roads in Gudja and Ghaxaq to enjoy most of the nature views in this area."
+                    "title": "Historic experience",
+                    "description": "Walking through Vittoriosa is like stepping straight into a time capsule of living medieval and maritime history. This trek layout allows users to experience the intimate, authentic side of Malta’s past, completely away from the heavy crowds of the capital. By navigating these exact pathways, users trace the ultimate timeline of the island."
                   },
                   {
-                    "title": "Terrain",
-                    "description": "Very flat route, most of it on tarmac roads with parts on a bit bumpier concrete paths."
+                    "title": "The Route",
+                    "description": "Takes you on an immersive journey through the highly fortified peninsula of Birgu, exploring its grand defense systems, hidden quarters, and monumental waterfronts. You will first unlock the intricate layer of Baroque fortifications at the Couvre Porte and descend into the transformed Vittoriosa Ditch Gardens. The path then guides you along the panoramic seaside promenade looking out onto Kalkara Bay, loops through the iconic arches of the mighty Fort St. Angelo, and sweeps past historical epicenters like Victory Square and the infamous Inquisitor's Palace."
                   },
                   {
-                    "title": "Safety Warning",
-                    "description": "While light on traffic, vehicles can approach on some of the narrow countryside roads. Keep caution by sticking to left side of the road."
-                  },
-                  {
-                    "title": "Amenities",
-                    "description": "Route takes to a playground with restroom facilities a few minutes after the start, and ends in another public garden. Restaurant with Maltese cuisine near Parish church."
+                    "title": "Practical Info",
+                    "description": "To beat the intense summer heat, start this trek between 06:30 PM and 07:30 PM to catch the sunset before the ancient streets light up for an atmospheric night walk. Keep in mind that the Vittoriosa Ditch Gardens close their gates daily at 09:00 PM, so complete that checkpoint early in your loop. Finally, wear comfortable footwear for the historic staircases."
                   }
                 ],
                 "imagePrimary": "assets/images/details/stroller_gudja_ghaxaq_info1.jpg",
