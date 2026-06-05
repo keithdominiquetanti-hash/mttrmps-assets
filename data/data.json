@@ -3994,7 +3994,7 @@
             {
               "id": "history-birgu",
               "name": "Birgu - Citta Vittoriosa",
-              "bannerImage": "assets/images/history_vittoriosa_info_img1.jpg",
+              "bannerImage": "assets/images/history_vittoriosa_info_img.jpg",
               "badgeImage": "assets/badges/history_vittoriosa_badge.png",
               "gpxFile": "assets/gpx/history-vittoriosa.gpx",
               "shortDescription": "Historic charm of Citta Vittoriosa",
@@ -4149,7 +4149,7 @@
                     "description": "To beat the intense summer heat, start this trek between 06:30 PM and 07:30 PM to catch the sunset before the ancient streets light up for an atmospheric night walk. Keep in mind that the Vittoriosa Ditch Gardens close their gates daily at 09:00 PM, so complete that checkpoint early in your loop. Finally, wear comfortable footwear for the historic staircases."
                   }
                 ],
-                "imagePrimary": "assets/images/details/history_vittoriosa_info_img1.jpg",
+                "imagePrimary": "assets/images/details/history_vittoriosa_info_img.jpg",
                 "imageSecondary": "assets/images/details/history_vittoriosa_info_img2.jpg"
               },
               "standardPrice": 0.0,
