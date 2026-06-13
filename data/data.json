@@ -4166,14 +4166,14 @@
             {
               "id": "history-marsascala",
               "name": "Marsascala Bay",
-              "bannerImage": "assets/images/history_vittoriosa_info_img1.jpg",
-              "badgeImage": "assets/badges/history_vittoriosa_badge.png",
-              "gpxFile": "assets/gpx/history-mscala-design-test.gpx",
+              "bannerImage": "assets/images/history_mscala_info_img1.jpg",
+              "badgeImage": "assets/badges/history_mscala_badge.png",
+              "gpxFile": "assets/gpx/history-marsascala.gpx",
               "shortDescription": "From Zonqor to St. Thomas Bay, a walk along the scenic Marsascala coastline",
               "details": {
-                "distance": "5.9km (7.5km full loop)",
-                "time": "2.0 hour",
-                "elevation": "50m",
+                "distance": "4.9km (6.3km full loop)",
+                "time": "1.5 hour",
+                "elevation": "27m",
                 "difficulty": "Easy",
                 "loop": "Semi-Loop",
                 "shoes": "Trainers",
@@ -4182,107 +4182,97 @@
               },
               "checkpoints": [
                 {
-                  "id": "Zonqor Coastal Fortifications",
+                  "id": "Zonqor Pillbox",
                   "type": "milestone",
-                  "latitude": 35.867981,    
-                  "longitude": 14.573666,
-                  "checkpointTitle": "Zonqor Coastal Fortifications",
-                  "checkpointText": "The Couvre Porte is a complex, multi-layered defensive gateway system built by the Knights of St John between 1716 and 1730 to safeguard the main entrance to Vittoriosa. Designed by French military engineers Charles François de Mondion and Louis François de Tigné, this impressive Baroque bottleneck forced attackers to navigate three successive gates under constant defensive fire. Interestingly, the name Couvre Porte translates from French to covered gate, referring to the strategic outer counterguard built specifically to hide and shelter the city's inner gates from direct enemy artillery. Today, the British-era barracks built directly inside these massive fortification walls house the popular Malta at War Museum.",
-                  "checkpointImage": "assets/images/history_vittoriosa_couvre_porte.jpg",
+                  "latitude": 35.867456,     
+                  "longitude": 14.574030,
+                  "checkpointTitle": "Zonqor Pillbox",
+                  "checkpointText": "Standing right on the rocky coastline, the Żonqor Pillbox is a heavily reinforced concrete bunker built by the British military during World War II to scan the coast for enemy landings. This structure served as a vital beach defense post, featuring narrow slits called loopholes where infantrymen could safely fire Vickers machine guns. Fascinatingly, this concrete bunker sits directly on the historic footprint of the Żonqor Tower—a 17th-century Knights' watchtower that the British completely demolished in 1915 purely to clear the line of fire for their own modern artillery.",
+                  "checkpointImage": "assets/images/history_mscala_zonqor_pillbox.jpg",
                   "badgeImage": ""
                 },
                 {
                   "id": "Briconet Redoubt",
                   "type": "milestone",
-                  "latitude": 35.865405,     
-                  "longitude": 14.565266,
+                  "latitude": 35.865395,      
+                  "longitude": 14.565300,
                   "checkpointTitle": "Briconet Redoubt",
-                  "checkpointText": "The Couvre Porte is a complex, multi-layered defensive gateway system built by the Knights of St John between 1716 and 1730 to safeguard the main entrance to Vittoriosa. Designed by French military engineers Charles François de Mondion and Louis François de Tigné, this impressive Baroque bottleneck forced attackers to navigate three successive gates under constant defensive fire. Interestingly, the name Couvre Porte translates from French to covered gate, referring to the strategic outer counterguard built specifically to hide and shelter the city's inner gates from direct enemy artillery. Today, the British-era barracks built directly inside these massive fortification walls house the popular Malta at War Museum.",
-                  "checkpointImage": "assets/images/history_vittoriosa_couvre_porte.jpg",
+                  "checkpointText": "The Briconet Redoubt is a pentagonal, loopholed defensive fortification built by the Knights of St John in 1715 to defend Marsascala Bay from pirate beach raids. Funded by and named after the wealthy French Knight Giovanni Battista Briconet, this coastal strongpoint served as a heavily armed blockhouse where local militia could regroup and fire muskets at invaders. In a bizarre twist of maritime history, the building spent decades serving a completely non-military purpose as a local police station and, later, a popular seafood restaurant.",
+                  "checkpointImage": "assets/images/history_mscala_briconet_redoubt.jpg",
                   "badgeImage": ""
                 },
                 {
                   "id": "Marsascala Parish Church",
                   "type": "milestone",
-                  "latitude": 35.865469,   
-                  "longitude": 14.563477,
+                  "latitude": 35.866074,    
+                  "longitude": 14.563780,
                   "checkpointTitle": "Marsascala Parish Church",
-                  "checkpointText": "The Couvre Porte is a complex, multi-layered defensive gateway system built by the Knights of St John between 1716 and 1730 to safeguard the main entrance to Vittoriosa. Designed by French military engineers Charles François de Mondion and Louis François de Tigné, this impressive Baroque bottleneck forced attackers to navigate three successive gates under constant defensive fire. Interestingly, the name Couvre Porte translates from French to covered gate, referring to the strategic outer counterguard built specifically to hide and shelter the city's inner gates from direct enemy artillery. Today, the British-era barracks built directly inside these massive fortification walls house the popular Malta at War Museum.",
-                  "checkpointImage": "assets/images/history_vittoriosa_couvre_porte.jpg",
+                  "checkpointText": "The Marsascala Parish Church, dedicated to St. Anne, is a prominent 20th-century temple built to accommodate the rapidly growing population of this former fishing village. Local lore holds that fishermen used to gather right outside the church steps before dawn, using the building's bright facade as a visual shoreline beacon to safely guide their wooden luzzu boats back into the bay after long night trips.",
+                  "checkpointImage": "assets/images/history_mscala_parish_church.jpg",
                   "badgeImage": ""
+                },
+                {
+                  "id": "Kappella tar-Ruzarju",
+                  "type": "hidden_gem",
+                  "latitude": 35.865280,    
+                  "longitude": 14.562437,
+                  "checkpointTitle": "Kappella tar-Ruzarju",
+                  "checkpointText": "Tucked away just off the main bay area, the Chapel of Our Lady of the Rosary—affectionately known by locals as Tal-Barunissa—was built in 1856 by the nobleman Luigi dei Conti Manduca. This elegant private chapel initially served the spiritual needs of wealthy families spending their summer months by the sea long before Marsascala became a bustling, independent parish. Today, the property has been completely transformed, serving a heartwarming civic role as a quiet retirement home for elderly diocesan priests.",
+                  "checkpointImage": "assets/badges/history_mscala_gem_ruzarju_chapel.png",
+                  "badgeImage": "assets/badges/history_mscala_gem_ruzarju_chapel.png"
                 },
                 {
                   "id": "Marsascala Bay & Church Viewpoint",
                   "type": "iconic_landmark",
-                  "latitude": 35.888810,   
-                  "longitude": 14.562522,
+                  "latitude": 35.863648,   
+                  "longitude": 14.564122,
                   "checkpointTitle": "Marsascala Bay & Church Viewpoint",
-                  "checkpointText": "The Vittoriosa Ditch is a massive defensive trench carved directly into the limestone during the 16th century to safeguard the city’s landfront from enemy invasions. Following extensive restoration work, this former military dead-zone reopened as a peaceful public garden filled with olive trees and winding walkways. Deep inside the ditch walls, you can spot old doorways that served as vital, life-saving air-raid shelters for civilians during World War II. The garden also hides a rare, excavated 18th-century caponier —a fortified stone tunnel designed to allow Knights to safely cross the ditch while firing at attackers from a protected position.",
-                  "checkpointImage": "assets/badges/history_vittoriosa_landmark_ditch.png",
-                  "badgeImage": "assets/badges/history_vittoriosa_landmark_ditch.png"
+                  "checkpointText": "From this point you can get an iconic view of the bay with reflecting night lights and the parish church in the background. The Kappella tar-Ruzarju we have just visited is also part of this great vista.",
+                  "checkpointImage": "assets/badges/history_mscala_landmark_bay_church.png",
+                  "badgeImage": "assets/badges/history_mscala_landmark_bay_church.png"
+                },
+                {
+                  "id": "Jerma Palace Hotel",
+                  "type": "milestone",
+                  "latitude": 35.861898,    
+                  "longitude": 14.573235,
+                  "checkpointTitle": "Jerma Palace Hotel",
+                  "checkpointText": "Opened in 1982 on the il-Ħamrija headland, the Jerma Palace Hotel was once the largest and most luxurious resort in southern Malta, completely transforming Marsascala from a sleepy fishing village into a major tourism hub. Financed by a Libyan investment fund, the sprawling complex abruptly shut its doors in March 2007 and has since sat entirely abandoned, slowly crumbling into a massive, graffiti-covered concrete skeleton. Fascinatingly, because of the hotel's deep Libyan ties, the infamous dictator Muammar Gaddafi actually maintained a private, permanent presidential suite inside the complex during his close diplomatic years with Malta.",
+                  "checkpointImage": "assets/images/history_mscala_jerma_palace.jpg",
+                  "badgeImage": ""
                 },
                 {
                   "id": "St. Thomas Tower & Battery",
                   "type": "iconic_landmark",
-                  "latitude": 35.861282,     
-                  "longitude": 14.573229,
+                  "latitude": 35.861247, 
+                  "longitude": 14.571931,
                   "checkpointTitle": "St. Thomas Tower & Battery",
-                  "checkpointText": "This distinctive row of limestone arches forms an elevated stone bridge that connects the main bastions of Birgu directly to the entrance of Fort St. Angelo. Originally built by the Knights of St John, this arched ramp replaced an old medieval drawbridge to ensure a safer, more stable passage over the deep sea water moat. Fascinatingly, during the 18th century, these arches functioned like a miniature aqueduct system, hiding a gravity-fed stone channel inside them to transport fresh water into the fort's massive underground cisterns.",
-                  "checkpointImage": "assets/badges/history_vittoriosa_landmark_arkati.png",
-                  "badgeImage": "assets/badges/history_vittoriosa_landmark_arkati.png"
-                },
-                {
-                  "id": "View onto Ponta tal-Mignuna",
-                  "type": "hidden_gem",
-                  "latitude": 35.855202,   
-                  "longitude": 14.567286,
-                  "checkpointTitle": "View onto Ponta tal-Mignuna",
-                  "checkpointText": "Now right at the very tip of the peninsula in front of Fort St. Angelo, this breathtaking viewpoint offers a rare, unobstructed panorama of the entire Grand Harbour, with the fortified city of Valletta rising dramatically on the opposite shore. From this vantage point, you can see the full sweep of Valletta's iconic skyline, including the domes of its historic churches. This specific angle perfectly highlights the mighty Fort St. Elmo guarding the harbor mouth opposite you, mirroring Fort St. Angelo's defensive position. Ironically, during the 1565 Great Siege, this vast water gap was a terrifying, active combat zone where Ottoman soldiers and the Knights relentlessly traded heavy cannon fire across the harbor.",
-                  "checkpointImage": "assets/badges/history_vittoriosa_gem_valletta_view.png",
-                  "badgeImage": "assets/badges/history_vittoriosa_gem_valletta_view.png"
-                },
-                {
-                  "id": "St. Thomas Bay & Rihama Battery",
-                  "type": "milestone",
-                  "latitude": 35.854093,   
-                  "longitude": 14.563583,
-                  "checkpointTitle": "St. Thomas Bay & Rihama Battery",
-                  "checkpointText": "Victory Square is the bustling, historic heart of Birgu, serving as the central gathering place for the community since medieval times. It was famously renamed to honor the heroic defense of the city during the Great Siege of 1565, which successfully broke the Ottoman invasion force. The prominent statue in the center represents Victory and was erected in 1705, though it was uniquely crafted by an anonymous Maltese sculptor whose identity remains unknown to this day.",
-                  "checkpointImage": "assets/images/history_vittoriosa_pjazza.jpg",
-                  "badgeImage": ""
-                },
-                {
-                  "id": "Il-Maghluq Natura 2000 site",
-                  "type": "milestone",
-                  "latitude": 35.860803,     
-                  "longitude": 14.562744,
-                  "checkpointTitle": "Il-Maghluq Natura 2000 site",
-                  "checkpointText": "These two towering stone platforms, St. James Cavalier and St. John's Cavalier, were engineered prior to the Great Siege of 1565 to give the Knights elevated artillery positions over Birgu's landfront defenses. Designed by Spanish engineer Pedro Pardo, these massive stone structures essentially acted as fortifications within fortifications, built high enough to fire over the main outer walls. While Valletta famously has its own twin cavaliers by the exact same names, these original Birgu versions are the ones that actually endured the brutal bombardment of the 1565 siege.",
-                  "checkpointImage": "assets/images/history_vittoriosa_cavaliers.jpg",
-                  "badgeImage": ""
-                }  
+                  "checkpointText": "Erected in 1614, St. Thomas Tower is a massive, four-turreted coastal fortress that holds the record as the largest surviving watchtower in Malta. Commissioned by Grandmaster Alof de Wignacourt following a devastating Ottoman pirate raid on nearby Żejtun, its primary mission was to prevent enemy troop ships from dropping anchor in Marsascala Creek. Interestingly, its entrance features a vaulted limestone doorway equipped with a historic wooden drawbridge mechanism that is completely unique for being the only original one to survive intact across the Maltese islands. In 1715, engineers reinforced the seaward face of the stronghold by adding a semi-circular cannon battery to maximize firepower against corsairs. Today, after a comprehensive national restoration project, the interior of the ancient fort has been creatively repurposed into the highly immersive Pirates and Corsairs Museum.",
+                  "checkpointImage": "assets/badges/history_mscala_landmark_thomas_tower.png",
+                  "badgeImage": "assets/badges/history_mscala_landmark_thomas_tower.png"
+                } 
               ],
               "detailContent": {
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Route starts near the outer gates of Vittoriosa and ends at the scenic waterfront. Parking is best sought outside the fortified walls. There is a small parking area near the college and parking spaces around the bus stop area. Bus routes 2 and 3 connect Valletta and Birgu, as well as the fast ferry service and private rides on traditional Maltese boats. Start location coordinates: 35.885248, 14.523319."
+                    "description": "The route starts from the Zonqor point, also for ease of parking with ample parking available. It then ends close to the bustling waterfront where one can celebrate the trek with a snack or drink. Bus route 92 from Valletta takes to Zonqor and the route ends at the main bus station in Marsascala. Start location coordinates: 35.867905, 14.573674."
                   },
                   {
                     "title": "Historic experience",
-                    "description": "Walking through Vittoriosa is like stepping straight into a time capsule of living medieval and maritime history. This trek layout allows users to experience the intimate, authentic side of Malta’s past, completely away from the heavy crowds of the capital. By navigating these exact pathways, users trace the ultimate timeline of the island."
+                    "description": "This trek offers a beautiful contrast between Malta’s wild, wave-swept coastline and its centuries-old defense networks. Walking this route allows users to experience how Marsascala evolved from a highly vulnerable, pirate-ravaged bay into a vibrant seaside community."
                   },
                   {
                     "title": "The Route",
-                    "description": "Takes you on an immersive journey through the highly fortified peninsula of Birgu, exploring its grand defense systems, hidden quarters, and monumental waterfronts. You will first unlock the intricate layer of Baroque fortifications at the Couvre Porte and descend into the transformed Vittoriosa Ditch Gardens. The path then guides you along the panoramic seaside promenade looking out onto Kalkara Bay, loops through the iconic arches of the mighty Fort St. Angelo, and sweeps past historical epicenters like Victory Square and the infamous Inquisitor's Palace."
+                    "description": "By following these coastal paths, users trace an incredible military timeline: from dodging 17th-century Ottoman corsairs at St. Thomas Tower, to witnessing World War II coastal lookouts at the Żonqor Pillbox, and finally examining the haunting modern ruins of 20th-century tourism at the abandoned Jerma Palace."
                   },
                   {
                     "title": "Practical Info",
-                    "description": "To beat the intense summer heat, start this trek between 06:30 PM and 07:30 PM to catch the sunset before the ancient streets light up for an atmospheric night walk. Keep in mind that the Vittoriosa Ditch Gardens close their gates daily at 09:00 PM, so complete that checkpoint early in your loop. Finally, wear comfortable footwear for the historic staircases."
+                    "description": "Starting the walk around sunset is a great way to enjoy the scenery but the route is also great in full darkness and reflecting lights. The entire route is flat and entirely open-air. Be sure to stick strictly to the public paths when passing the abandoned Jerma Palace Hotel to avoid severe structural hazards, and wear sturdy footwear as the limestone walkways near the old military pillbox can be uneven."
                   }
                 ],
-                "imagePrimary": "assets/images/details/history_vittoriosa_info_img1.jpg",
-                "imageSecondary": "assets/images/details/history_vittoriosa_info_img2.jpg"
+                "imagePrimary": "assets/images/details/history_mscala_info_img1.jpg",
+                "imageSecondary": "assets/images/details/history_mscala_info_img2.jpg"
               },
               "standardPrice": 0.0,
               "discountedPrice": 0.0,
@@ -4371,8 +4361,8 @@
                 {
                   "id": "Pinto Battery",
                   "type": "milestone",
-                  "latitude": 35.831254,   
-                  "longitude": 14.533231,
+                  "latitude": 35.826714,   
+                  "longitude": 14.533266,
                   "checkpointTitle": "Pinto Battery",
                   "checkpointText": "Victory Square is the bustling, historic heart of Birgu, serving as the central gathering place for the community since medieval times. It was famously renamed to honor the heroic defense of the city during the Great Siege of 1565, which successfully broke the Ottoman invasion force. The prominent statue in the center represents Victory and was erected in 1705, though it was uniquely crafted by an anonymous Maltese sculptor whose identity remains unknown to this day.",
                   "checkpointImage": "assets/images/history_vittoriosa_pjazza.jpg",
