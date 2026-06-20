@@ -4173,7 +4173,7 @@
                 "loop": "Loop",
                 "shoes": "Trainers",
                 "hidden_gems": "1",
-                "iconic_landmarks": "3"
+                "iconic_landmarks": "4"
               },
               "checkpoints": [
                 {
@@ -4292,6 +4292,143 @@
                   {
                     "title": "Getting there",
                     "description": "Route starts near the outer gates of Vittoriosa and ends at the scenic waterfront. Parking is best sought outside the fortified walls. There is a small parking area near the college and parking spaces around the bus stop area. Bus routes 2 and 3 connect Valletta and Birgu, as well as the fast ferry service and private rides on traditional Maltese boats. Start location coordinates: 35.885248, 14.523319."
+                  },
+                  {
+                    "title": "Historic experience",
+                    "description": "Walking through Vittoriosa is like stepping straight into a time capsule of living medieval and maritime history. This trek layout allows users to experience the intimate, authentic side of Malta’s past, completely away from the heavy crowds of the capital. By navigating these exact pathways, users trace the ultimate timeline of the island."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "Takes you on an immersive journey through the highly fortified peninsula of Birgu, exploring its grand defense systems, hidden quarters, and monumental waterfronts. You will first unlock the intricate layer of Baroque fortifications at the Couvre Porte and descend into the transformed Vittoriosa Ditch Gardens. The path then guides you along the panoramic seaside promenade looking out onto Kalkara Bay, loops through the iconic arches of the mighty Fort St. Angelo, and sweeps past historical epicenters like Victory Square and the infamous Inquisitor's Palace."
+                  },
+                  {
+                    "title": "Practical Info",
+                    "description": "To beat the intense summer heat, start this trek between 06:30 PM and 07:30 PM to catch the sunset before the ancient streets light up for an atmospheric night walk. Keep in mind that the Vittoriosa Ditch Gardens close their gates daily at 09:00 PM, so complete that checkpoint early in your loop. Finally, wear comfortable footwear for the historic staircases."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/history_vittoriosa_info_img1.jpg",
+                "imageSecondary": "assets/images/details/history_vittoriosa_info_img2.jpg"
+              },
+              "standardPrice": 0.0,
+              "discountedPrice": 0.0,
+              "couponTrekTrigger": "",
+              "couponTrigger": ""
+            },
+
+            {
+              "id": "history-valletta-coastal",
+              "name": "Valletta Coastal Walk",
+              "bannerImage": "assets/images/history_vittoriosa_info_img1.jpg",
+              "badgeImage": "assets/badges/history_vittoriosa_badge.png",
+              "gpxFile": "assets/gpx/history-valletta-loop-test.gpx",
+              "shortDescription": "Loop around the outer ring of Valletta's fortifications along the coast for some sea breeze.",
+              "details": {
+                "distance": "5.0km",
+                "time": "2.0 hour",
+                "elevation": "81m",
+                "difficulty": "Moderate",
+                "loop": "Loop",
+                "shoes": "Trainers",
+                "hidden_gems": "1",
+                "iconic_landmarks": "4"
+              },
+              "checkpoints": [
+                {
+                  "id": "Mall Garden & Indepedence Monument",
+                  "type": "milestone",
+                  "latitude": 35.893414,       
+                  "longitude": 14.505110,
+                  "checkpointTitle": "Mall Garden & Indepedence Monument",
+                  "checkpointText": "The Couvre Porte is a complex, multi-layered defensive gateway system built by the Knights of St John between 1716 and 1730 to safeguard the main entrance to Vittoriosa. Designed by French military engineers Charles François de Mondion and Louis François de Tigné, this impressive Baroque bottleneck forced attackers to navigate three successive gates under constant defensive fire. Interestingly, the name Couvre Porte translates from French to covered gate, referring to the strategic outer counterguard built specifically to hide and shelter the city's inner gates from direct enemy artillery. Today, the British-era barracks built directly inside these massive fortification walls house the popular Malta at War Museum.",
+                  "checkpointImage": "assets/images/history_vittoriosa_couvre_porte.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Marsamxett Harbour & Manoel Island View",
+                  "type": "milestone",
+                  "latitude": 35.899121,      
+                  "longitude": 14.506218,
+                  "checkpointTitle": "Marsamxett Harbour & Manoel Island View",
+                  "checkpointText": "The Couvre Porte is a complex, multi-layered defensive gateway system built by the Knights of St John between 1716 and 1730 to safeguard the main entrance to Vittoriosa. Designed by French military engineers Charles François de Mondion and Louis François de Tigné, this impressive Baroque bottleneck forced attackers to navigate three successive gates under constant defensive fire. Interestingly, the name Couvre Porte translates from French to covered gate, referring to the strategic outer counterguard built specifically to hide and shelter the city's inner gates from direct enemy artillery. Today, the British-era barracks built directly inside these massive fortification walls house the popular Malta at War Museum.",
+                  "checkpointImage": "assets/images/history_vittoriosa_couvre_porte.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "St. Elmo Bridge & Breakwater",
+                  "type": "hidden_gem",
+                  "latitude": 35.902843,  
+                  "longitude": 14.520206,
+                  "checkpointTitle": "St. Elmo Bridge & Breakwater",
+                  "checkpointText": "Now right at the very tip of the peninsula in front of Fort St. Angelo, this breathtaking viewpoint offers a rare, unobstructed panorama of the entire Grand Harbour, with the fortified city of Valletta rising dramatically on the opposite shore. From this vantage point, you can see the full sweep of Valletta's iconic skyline, including the domes of its historic churches. This specific angle perfectly highlights the mighty Fort St. Elmo guarding the harbor mouth opposite you, mirroring Fort St. Angelo's defensive position. Ironically, during the 1565 Great Siege, this vast water gap was a terrifying, active combat zone where Ottoman soldiers and the Knights relentlessly traded heavy cannon fire across the harbor.",
+                  "checkpointImage": "assets/badges/history_vittoriosa_gem_valletta_view.png",
+                  "badgeImage": "assets/badges/history_vittoriosa_gem_valletta_view.png"
+                },
+                {
+                  "id": "Fort St. Elmo",
+                  "type": "iconic_landmark",
+                  "latitude": 35.902524,  
+                  "longitude": 14.520059,
+                  "checkpointTitle": "Fort St. Elmo",
+                  "checkpointText": "The Vittoriosa Ditch is a massive defensive trench carved directly into the limestone during the 16th century to safeguard the city’s landfront from enemy invasions. Following extensive restoration work, this former military dead-zone reopened as a peaceful public garden filled with olive trees and winding walkways. Deep inside the ditch walls, you can spot old doorways that served as vital, life-saving air-raid shelters for civilians during World War II. The garden also hides a rare, excavated 18th-century caponier —a fortified stone tunnel designed to allow Knights to safely cross the ditch while firing at attackers from a protected position.",
+                  "checkpointImage": "assets/badges/history_vittoriosa_landmark_ditch.png",
+                  "badgeImage": "assets/badges/history_vittoriosa_landmark_ditch.png"
+                },
+                {
+                  "id": "World War II Memorial & Siege Bell",
+                  "type": "iconic_landmark",
+                  "latitude": 35.898267,  
+                  "longitude": 14.518001,
+                  "checkpointTitle": "World War II Memorial & Siege Bell",
+                  "checkpointText": "The Vittoriosa Ditch is a massive defensive trench carved directly into the limestone during the 16th century to safeguard the city’s landfront from enemy invasions. Following extensive restoration work, this former military dead-zone reopened as a peaceful public garden filled with olive trees and winding walkways. Deep inside the ditch walls, you can spot old doorways that served as vital, life-saving air-raid shelters for civilians during World War II. The garden also hides a rare, excavated 18th-century caponier —a fortified stone tunnel designed to allow Knights to safely cross the ditch while firing at attackers from a protected position.",
+                  "checkpointImage": "assets/badges/history_vittoriosa_landmark_ditch.png",
+                  "badgeImage": "assets/badges/history_vittoriosa_landmark_ditch.png"
+                },
+                {
+                  "id": "Lower Barrakka Gardens",
+                  "type": "iconic_landmark",
+                  "latitude": 35.897507,  
+                  "longitude": 14.517083,
+                  "checkpointTitle": "Lower Barrakka Gardens",
+                  "checkpointText": "The Vittoriosa Ditch is a massive defensive trench carved directly into the limestone during the 16th century to safeguard the city’s landfront from enemy invasions. Following extensive restoration work, this former military dead-zone reopened as a peaceful public garden filled with olive trees and winding walkways. Deep inside the ditch walls, you can spot old doorways that served as vital, life-saving air-raid shelters for civilians during World War II. The garden also hides a rare, excavated 18th-century caponier —a fortified stone tunnel designed to allow Knights to safely cross the ditch while firing at attackers from a protected position.",
+                  "checkpointImage": "assets/badges/history_vittoriosa_landmark_ditch.png",
+                  "badgeImage": "assets/badges/history_vittoriosa_landmark_ditch.png"
+                },
+                {
+                  "id": "Victoria Gate & Bridge",
+                  "type": "milestone",
+                  "latitude": 35.896132, 
+                  "longitude": 14.513615,
+                  "checkpointTitle": "Victoria Gate & Bridge",
+                  "checkpointText": "This scenic viewpoint along the Vittoriosa promenade offers a panoramic look across Kalkara Bay toward the grand, neo-classical St. Joseph Parish Church rising directly from the water's edge. Built in the 1950s, this massive domed temple actually replaced an earlier 19th-century church that stood slightly closer to the marina until it was completely leveled during a devastating World War II air raid on April 10, 1942. Looking across the water to the right, you can also spot the sprawling colonial complex of Villa Bighi. Once a premier British naval hospital, it famously featured an outdoor cliffside elevator built specifically to hoist injured sailors straight out of incoming sea vessels and up into the medical wards.",
+                  "checkpointImage": "assets/images/history_vittoriosa_kalkara_bay.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Knisja Madonna ta' Liesse",
+                  "type": "iconic_landmark",
+                  "latitude": 35.895107,  
+                  "longitude": 14.513464,
+                  "checkpointTitle": "Knisja Madonna ta' Liesse",
+                  "checkpointText": "The Vittoriosa Ditch is a massive defensive trench carved directly into the limestone during the 16th century to safeguard the city’s landfront from enemy invasions. Following extensive restoration work, this former military dead-zone reopened as a peaceful public garden filled with olive trees and winding walkways. Deep inside the ditch walls, you can spot old doorways that served as vital, life-saving air-raid shelters for civilians during World War II. The garden also hides a rare, excavated 18th-century caponier —a fortified stone tunnel designed to allow Knights to safely cross the ditch while firing at attackers from a protected position.",
+                  "checkpointImage": "assets/badges/history_vittoriosa_landmark_ditch.png",
+                  "badgeImage": "assets/badges/history_vittoriosa_landmark_ditch.png"
+                },
+                {
+                  "id": "Tritoni Fountain & Square",
+                  "type": "iconic_landmark",
+                  "latitude": 35.895384,      
+                  "longitude": 14.508666,
+                  "checkpointTitle": "Tritoni Fountain & Square",
+                  "checkpointText": "Wesgħet il-Kolleġġjata 1820 is the official name given to the open parish squares directly bordering the side of the monumental Collegiate Church of St. Lawrence. This side terrace links the main church parvis with the adjacent Oratory of St. Joseph, acting as a gathering space for the community during major religious events. Its specific title was inaugurated to commemorate the historic bicentenary of Pope Pius VII elevating this ancient parish to the prestigious status of a Collegiate church back in 1820.",
+                  "checkpointImage": "assets/badges/history_vittoriosa_landmark_wesghet_kolleggjata.png",
+                  "badgeImage": "assets/badges/history_vittoriosa_landmark_wesghet_kolleggjata.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "Route starts near the outer gates of Vittoriosa and ends at the scenic waterfront. Parking is best sought outside the fortified walls. There is a small parking area near the college and parking spaces around the bus stop area. Bus routes 2 and 3 connect Valletta and Birgu, as well as the fast ferry service and private rides on traditional Maltese boats. Start location coordinates: 35.892723, 14.504318."
                   },
                   {
                     "title": "Historic experience",
