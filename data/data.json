@@ -4161,9 +4161,9 @@
             {
               "id": "history-bormla-isla",
               "name": "Bormla - Isla",
-              "bannerImage": "assets/images/history_vittoriosa_info_img1.jpg",
-              "badgeImage": "assets/badges/history_vittoriosa_badge.png",
-              "gpxFile": "assets/gpx/history-bormla-isla-test.gpx",
+              "bannerImage": "assets/images/history_isla_info_img1.jpg",
+              "badgeImage": "assets/badges/history_isla.png",
+              "gpxFile": "assets/gpx/history_bormla_isla.gpx",
               "shortDescription": "From Bormla Dock 1 to Isla Peninsula - A walk through history",
               "details": {
                 "distance": "3.5km",
@@ -4182,8 +4182,8 @@
                   "latitude": 35.884293,      
                   "longitude": 14.521226,
                   "checkpointTitle": "St. Theresa Church",
-                  "checkpointText": "The Couvre Porte is a complex, multi-layered defensive gateway system built by the Knights of St John between 1716 and 1730 to safeguard the main entrance to Vittoriosa. Designed by French military engineers Charles François de Mondion and Louis François de Tigné, this impressive Baroque bottleneck forced attackers to navigate three successive gates under constant defensive fire. Interestingly, the name Couvre Porte translates from French to covered gate, referring to the strategic outer counterguard built specifically to hide and shelter the city's inner gates from direct enemy artillery. Today, the British-era barracks built directly inside these massive fortification walls house the popular Malta at War Museum.",
-                  "checkpointImage": "assets/images/history_vittoriosa_couvre_porte.jpg",
+                  "checkpointText": "Built between 1626 and 1633, the Church of St. Theresa of Avila in Bormla is widely recognized as the very first church dedicated to this iconic Carmelite saint anywhere in the world. Directly outside the sanctuary in the public square (Wesgħa ta' Santa Tereza), there is the historic Statue of St. Elias—a highly detailed stone monument erected on a grand pedestal to honor the spiritual founding prophet of the Carmelite Order.",
+                  "checkpointImage": "assets/images/history_isla_st_theresa.jpg",
                   "badgeImage": ""
                 },
                 {
@@ -4192,8 +4192,8 @@
                   "latitude": 35.882284,    
                   "longitude": 14.520823,
                   "checkpointTitle": "Pjazza Paolino Vassallo",
-                  "checkpointText": "The Couvre Porte is a complex, multi-layered defensive gateway system built by the Knights of St John between 1716 and 1730 to safeguard the main entrance to Vittoriosa. Designed by French military engineers Charles François de Mondion and Louis François de Tigné, this impressive Baroque bottleneck forced attackers to navigate three successive gates under constant defensive fire. Interestingly, the name Couvre Porte translates from French to covered gate, referring to the strategic outer counterguard built specifically to hide and shelter the city's inner gates from direct enemy artillery. Today, the British-era barracks built directly inside these massive fortification walls house the popular Malta at War Museum.",
-                  "checkpointImage": "assets/images/history_vittoriosa_couvre_porte.jpg",
+                  "checkpointText": "Named after the legendary Bormla-born composer Paolino Vassallo, this vibrant square features the striking bronze Dom Mintoff Monument honoring Malta’s longest-serving 20th-century politician. Unveiled in December 2014, the expressive sculpture by Noel Galea Bason captures the former Prime Minister looking dynamically forward into his political stronghold. The surrounding square is framed by historic architecture, including the imposing facade of the former Rialto Cinema and the St. George's Band Club. Look closely at the monument’s design: Mintoff's outstretched arm is intentionally posed to freeze a defining moment of political decision-making in Malta's post-independence era.",
+                  "checkpointImage": "assets/images/history_isla_pjazza_paolino.jpg",
                   "badgeImage": ""
                 },
                 {
@@ -4202,9 +4202,9 @@
                   "latitude": 35.881332,  
                   "longitude": 14.520181,
                   "checkpointTitle": "War Victims Monument & Cospicua Parish Church",
-                  "checkpointText": "The Vittoriosa Ditch is a massive defensive trench carved directly into the limestone during the 16th century to safeguard the city’s landfront from enemy invasions. Following extensive restoration work, this former military dead-zone reopened as a peaceful public garden filled with olive trees and winding walkways. Deep inside the ditch walls, you can spot old doorways that served as vital, life-saving air-raid shelters for civilians during World War II. The garden also hides a rare, excavated 18th-century caponier —a fortified stone tunnel designed to allow Knights to safely cross the ditch while firing at attackers from a protected position.",
-                  "checkpointImage": "assets/badges/history_vittoriosa_landmark_ditch.png",
-                  "badgeImage": "assets/badges/history_vittoriosa_landmark_ditch.png"
+                  "checkpointText": "Dominating the skyline, the magnificent 17th-century Collegiate Parish Church of the Immaculate Conception stands directly behind the striking, modernist War Victims Monument. Erected in 1956, this abstract monument honors the hundreds of Bormla citizens who lost their lives during the intense World War II air raids that devastated the surrounding Dockyard creek. Miraculously, despite the entire city being reduced to rubble around it, the massive parish church survived the bombings completely unscathed.",
+                  "checkpointImage": "assets/badges/history_isla_landmark_bormla_church.png",
+                  "badgeImage": "assets/badges/history_isla_landmark_bormla_church.png"
                 },
                 {
                   "id": "Senglea Gate",
@@ -4212,8 +4212,8 @@
                   "latitude": 35.884583,       
                   "longitude": 14.519281,
                   "checkpointTitle": "Senglea Gate",
-                  "checkpointText": "At the start of the Birgu Waterfront promenade lies Malta's Maritime Museum. Housed in the historic Old Royal Naval Bakery, it is Malta's largest museum, , charting 7,000 years of the island’s seafaring history and its strategic role in the Mediterranean. It features a massive collection of 20,000+ artifacts, including ancient Roman anchors, scale ship models, and historical weaponry.",
-                  "checkpointImage": "assets/images/history_vittoriosa_muzew_marittimu.jpg",
+                  "checkpointText": "Serving as the fortified main entrance to the city, St. Anne’s Gate is a historic limestone archway built into the massive St. Michael Bastion. Designed in the Baroque fortification tradition by the French military engineer Mederico Blondel, the current layout replaced an earlier gateway that led straight down to the sea. If you look closely at the road layout, the large traffic arches running alongside it are modern additions; the original, narrower gate remains preserved strictly as a pedestrian walkway. Step under the historic archway to spot a traditional religious niche dedicated to St. Anne, placed there to offer a spiritual blessing to everyone entering or leaving the city.",
+                  "checkpointImage": "assets/images/history_isla_senglea_gate.jpg",
                   "badgeImage": ""
                 },
                 {
@@ -4222,9 +4222,9 @@
                   "latitude": 35.885696,      
                   "longitude": 14.518549,
                   "checkpointTitle": "Senglea Basilica",
-                  "checkpointText": "Wesgħet il-Kolleġġjata 1820 is the official name given to the open parish squares directly bordering the side of the monumental Collegiate Church of St. Lawrence. This side terrace links the main church parvis with the adjacent Oratory of St. Joseph, acting as a gathering space for the community during major religious events. Its specific title was inaugurated to commemorate the historic bicentenary of Pope Pius VII elevating this ancient parish to the prestigious status of a Collegiate church back in 1820.",
-                  "checkpointImage": "assets/badges/history_vittoriosa_landmark_wesghet_kolleggjata.png",
-                  "badgeImage": "assets/badges/history_vittoriosa_landmark_wesghet_kolleggjata.png"
+                  "checkpointText": "Built in 1580, the Basilica of the Nativity of Mary—popularly known as the Senglea Basilica—stands as a grand spiritual monument commemorating the Christian triumph over the Ottoman Empire during the Great Siege of 1565. The church was elevated to the status of a minor basilica by Pope Benedict XV in 1921, but was almost completely flattened by heavy German Axis bombing during World War II before being meticulously rebuilt by 1956. It is also home to the famously miraculous statue of Kristu Redentur (Christ the Redeemer), making it one of the most intense focal points of deep religious devotion anywhere on the Maltese islands.",
+                  "checkpointImage": "assets/badges/history_isla_landmark_basilica.png",
+                  "badgeImage": "assets/badges/history_isla_landmark_basilica.png"
                 },
                 {
                   "id": "St. Philip Church",
@@ -4232,19 +4232,9 @@
                   "latitude": 35.889399,     
                   "longitude": 14.515524,
                   "checkpointTitle": "St. Philip Church",
-                  "checkpointText": "Victory Square is the bustling, historic heart of Birgu, serving as the central gathering place for the community since medieval times. It was famously renamed to honor the heroic defense of the city during the Great Siege of 1565, which successfully broke the Ottoman invasion force. The prominent statue in the center represents Victory and was erected in 1705, though it was uniquely crafted by an anonymous Maltese sculptor whose identity remains unknown to this day.",
-                  "checkpointImage": "assets/images/history_vittoriosa_pjazza.jpg",
+                  "checkpointText": "Tucked away on the high ridge of the peninsula, St. Philip’s Church—officially dedicated to Our Lady of Porto Salvo—is a late 17th-century Baroque temple steeped in Senglea’s maritime identity. The current building replaces a smaller 1596 chapel that local sailors and fishermen built using their own funds to have an accessible place to pray right by the harbor. In a unique twist of civic history, the adjoining monastery complex was requisitioned by the British military in 1837 to serve as an emergency isolation hospital during a devastating cholera epidemic. Today, the historic complex is managed by the Salesians of Don Bosco and houses the St. Philip Library, a hidden repository of centuries-old theological texts.",
+                  "checkpointImage": "assets/images/history_isla_st_philip.jpg",
                   "badgeImage": ""
-                },
-                {
-                  "id": "Senglea Grand Harbour View",
-                  "type": "hidden_gem",
-                  "latitude": 35.890440,    
-                  "longitude": 14.514857,
-                  "checkpointTitle": "Senglea Grand Harbour View",
-                  "checkpointText": "Now right at the very tip of the peninsula in front of Fort St. Angelo, this breathtaking viewpoint offers a rare, unobstructed panorama of the entire Grand Harbour, with the fortified city of Valletta rising dramatically on the opposite shore. From this vantage point, you can see the full sweep of Valletta's iconic skyline, including the domes of its historic churches. This specific angle perfectly highlights the mighty Fort St. Elmo guarding the harbor mouth opposite you, mirroring Fort St. Angelo's defensive position. Ironically, during the 1565 Great Siege, this vast water gap was a terrifying, active combat zone where Ottoman soldiers and the Knights relentlessly traded heavy cannon fire across the harbor.",
-                  "checkpointImage": "assets/badges/history_vittoriosa_gem_valletta_view.png",
-                  "badgeImage": "assets/badges/history_vittoriosa_gem_valletta_view.png"
                 },
                 {
                   "id": "Gardjola Gardens",  
@@ -4252,9 +4242,19 @@
                   "latitude": 35.890371,    
                   "longitude": 14.514401,
                   "checkpointTitle": "Gardjola Gardens",
-                  "checkpointText": "This distinctive row of limestone arches forms an elevated stone bridge that connects the main bastions of Birgu directly to the entrance of Fort St. Angelo. Originally built by the Knights of St John, this arched ramp replaced an old medieval drawbridge to ensure a safer, more stable passage over the deep sea water moat. Fascinatingly, during the 18th century, these arches functioned like a miniature aqueduct system, hiding a gravity-fed stone channel inside them to transport fresh water into the fort's massive underground cisterns.",
-                  "checkpointImage": "assets/badges/history_vittoriosa_landmark_arkati.png",
-                  "badgeImage": "assets/badges/history_vittoriosa_landmark_arkati.png"
+                  "checkpointText": "Perched on the edge of the bastion, the Gardjola Gardens offer a panoramic view of Grand Harbour and Valletta. Grandmaster Claude de la Sengle planned these gardens in 1551 as a private relaxation area for the Knights of St. John. The main highlight is the iconic stone watchtower, known as Il-Gardjola, which hangs dramatically over the sea. Look closely at the window carvings on this watchtower: you will spot an eye, an ear, and a crane bird. These symbols represented the constant alertness required to guard the harbor against enemy ships and sneak pirate attacks.",
+                  "checkpointImage": "assets/badges/hisotry_isla_landmark_gardjola.png",
+                  "badgeImage": "assets/badges/hisotry_isla_landmark_gardjola.png"
+                },
+                {
+                  "id": "Senglea Grand Harbour View",
+                  "type": "hidden_gem",
+                  "latitude": 35.890440,    
+                  "longitude": 14.514857,
+                  "checkpointTitle": "Senglea Grand Harbour View",
+                  "checkpointText": "This wide stone terrace features a panoramic line of benches looking out over the sheer drop of the Senglea bastions. This specific vantage point offers an unobstructed, sweeping view across the deep waters of the Grand Harbour directly toward Valletta and Fort St. Angelo. During the Great Siege of 1565, this high bastion edge served as a critical artillery firing line where the Knights of St. John successfully bombarded Ottoman ships trying to enter French Creek.",
+                  "checkpointImage": "assets/badges/history_isla_gem_harbour_view.png",
+                  "badgeImage": "assets/badges/history_isla_gem_harbour_view.png"
                 },
                 {
                   "id": "Grand Harbour View from Senglea Point",
@@ -4262,8 +4262,8 @@
                   "latitude": 35.891022,   
                   "longitude": 14.514108,
                   "checkpointTitle": "Grand Harbour View from Senglea Point",
-                  "checkpointText": "This scenic viewpoint along the Vittoriosa promenade offers a panoramic look across Kalkara Bay toward the grand, neo-classical St. Joseph Parish Church rising directly from the water's edge. Built in the 1950s, this massive domed temple actually replaced an earlier 19th-century church that stood slightly closer to the marina until it was completely leveled during a devastating World War II air raid on April 10, 1942. Looking across the water to the right, you can also spot the sprawling colonial complex of Villa Bighi. Once a premier British naval hospital, it famously featured an outdoor cliffside elevator built specifically to hoist injured sailors straight out of incoming sea vessels and up into the medical wards.",
-                  "checkpointImage": "assets/images/history_vittoriosa_kalkara_bay.jpg",
+                  "checkpointText": "Descending directly to the water's edge, this rocky, sea-level promenade wraps around the absolute tip of the Senglea peninsula to offer an immersive, shoreline view of the Grand Harbour. Standing at the base of the towering bastions, you are positioned right where the historic chain boom was laid across the harbor entrance in 1565 to block enemy Ottoman vessels. The view from this low angle frames the massive stone walls of Fort St. Angelo rising directly out of the water on the opposite side of the creek. It is a fantastic spot to watch traditional wooden dħajsa water taxis zip past, completely untouched by the harbor wind currents that blow across the high bastions above.",
+                  "checkpointImage": "assets/images/history_isla_senglea_point.jpg",
                   "badgeImage": ""
                 },
                 {
@@ -4272,8 +4272,8 @@
                   "latitude": 35.885198,  
                   "longitude": 14.520074,
                   "checkpointTitle": "St. Michael Bastion & Sheer Bastion",
-                  "checkpointText": "This scenic viewpoint along the Vittoriosa promenade offers a panoramic look across Kalkara Bay toward the grand, neo-classical St. Joseph Parish Church rising directly from the water's edge. Built in the 1950s, this massive domed temple actually replaced an earlier 19th-century church that stood slightly closer to the marina until it was completely leveled during a devastating World War II air raid on April 10, 1942. Looking across the water to the right, you can also spot the sprawling colonial complex of Villa Bighi. Once a premier British naval hospital, it famously featured an outdoor cliffside elevator built specifically to hoist injured sailors straight out of incoming sea vessels and up into the medical wards.",
-                  "checkpointImage": "assets/images/history_vittoriosa_kalkara_bay.jpg",
+                  "checkpointText": "Forming the massive land-front defenses of Senglea, St. Michael Bastion withstood the fiercest Ottoman assaults during the 1565 Great Siege, while the adjoining Sheer Bastion became the engine room of Malta's naval industry. Sheer Bastion is universally known by its local nickname, Il-Maċina, derived from the Italian word macchina. In 1642, the Knights of St. John fitted a massive wooden sheer legs crane onto this specific bastion wall to lift and install heavy timber masts into their war galleys. The British military later replaced the wooden structure with a giant iron crane, transforming the fortified bastion into a cutting-edge engineering yard. Today, the heavily reinforced stone vaults inside this historic military complex have been completely restored, operating as a luxury boutique hotel and exclusive event venue.",
+                  "checkpointImage": "assets/images/history_isla_sheer_bastion.jpg",
                   "badgeImage": ""
                 },
                 {
@@ -4282,32 +4282,32 @@
                   "latitude": 35.882807,       
                   "longitude": 14.520094,
                   "checkpointTitle": "Bormla Dock 1",
-                  "checkpointText": "At the start of the Birgu Waterfront promenade lies Malta's Maritime Museum. Housed in the historic Old Royal Naval Bakery, it is Malta's largest museum, , charting 7,000 years of the island’s seafaring history and its strategic role in the Mediterranean. It features a massive collection of 20,000+ artifacts, including ancient Roman anchors, scale ship models, and historical weaponry.",
-                  "checkpointImage": "assets/badges/history_vittoriosa_landmark_wesghet_kolleggjata.png",
-                  "badgeImage": "assets/badges/history_vittoriosa_landmark_wesghet_kolleggjata.png"
+                  "checkpointText": "Enjoy the end of the route at Bormla Dock 1. Dating back to the 1840s, Dock No. 1 was the first drydock built by the British Admiralty in Malta, serving as the industrial beating heart of the Royal Navy's Mediterranean Fleet. This massive engineering hub once employed thousands of local dockworkers and saw decades of intensive shipbuilding, making it a prime target for devastating Axis air raids during World War II. Following the post-war decline of the commercial shipyards, the entire industrial dockyard sat closed off behind rusty barbed wire fences for generations. Today, a major urban regeneration project has completely transformed the historic site into a beautiful, landscaped pedestrian promenade, connecting the historic stone dock walls with public parks, seating areas, and a modern yacht marina.",
+                  "checkpointImage": "assets/badges/history_isla_landmark_dock1.png",
+                  "badgeImage": "assets/badges/history_isla_landmark_dock1.png"
                 }
               ],
               "detailContent": {
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Route starts near the outer gates of Vittoriosa and ends at the scenic waterfront. Parking is best sought outside the fortified walls. There is a small parking area near the college and parking spaces around the bus stop area. Bus routes 2 and 3 connect Valletta and Birgu, as well as the fast ferry service and private rides on traditional Maltese boats. Start location coordinates: 35.885248, 14.523319."
+                    "description": "Route starts near the outer gates of Vittoriosa and ends at Dock 1 in Bormla. Parking is best sought outside the fortified walls of Vittoriosa or at the Bormla waterfront. There is a small parking area near the college and parking spaces around the bus stop area. Bus routes 2 and 3 connect Valletta and Birgu, as well as the fast ferry service and private rides on traditional Maltese boats. Start location coordinates: 35.882638, 14.520282."
                   },
                   {
                     "title": "Historic experience",
-                    "description": "Walking through Vittoriosa is like stepping straight into a time capsule of living medieval and maritime history. This trek layout allows users to experience the intimate, authentic side of Malta’s past, completely away from the heavy crowds of the capital. By navigating these exact pathways, users trace the ultimate timeline of the island."
+                    "description": "This loop bridges Cospicua’s (Bormla) historic dock with the maritime heroism of Senglea (L-Isla). Walking this route lets your users step directly into Malta's naval core, exploring the docks that served the Knights of St. John and the British Mediterranean Fleet. The trek transitions from Bormla's beautifully restored dockyard into the fortified, historic roads of Senglea —a city famously dubbed Civitas Invicta (The Unconquered City) for resisting the Great Siege of 1565. Experience the contrast of modern yacht-lined marinas alongside centuries-old bastion walls that have survived Ottoman sieges and heavy World War II bombardments."
                   },
                   {
                     "title": "The Route",
-                    "description": "Takes you on an immersive journey through the highly fortified peninsula of Birgu, exploring its grand defense systems, hidden quarters, and monumental waterfronts. You will first unlock the intricate layer of Baroque fortifications at the Couvre Porte and descend into the transformed Vittoriosa Ditch Gardens. The path then guides you along the panoramic seaside promenade looking out onto Kalkara Bay, loops through the iconic arches of the mighty Fort St. Angelo, and sweeps past historical epicenters like Victory Square and the infamous Inquisitor's Palace."
+                    "description": "This walking route traces the historic naval heart of the Grand Harbour, linking industrial dockyards with fortified bastions. Your loop begins in Bormla at the Church of St. Theresa, before honoring local history at the World War II War Victims Monument. Crossing into Senglea through the monumental St. Anne's Gate, the path guides you past the grand Senglea Basilica and the hidden St. Philip’s Church. Finally, you will explore the iconic watchtower at Gardjola Gardens, walk along the sea-level shoreline at Senglea Point, and pass the industrial Maċina Bastion before ending at the transformed Dock No. 1 Waterfront."
                   },
                   {
                     "title": "Practical Info",
-                    "description": "To beat the intense summer heat, start this trek between 06:30 PM and 07:30 PM to catch the sunset before the ancient streets light up for an atmospheric night walk. Keep in mind that the Vittoriosa Ditch Gardens close their gates daily at 09:00 PM, so complete that checkpoint early in your loop. Finally, wear comfortable footwear for the historic staircases."
+                    "description": "To explore this loop seamlessly, schedule your walk to arrive at the Gardjola Gardens well before they close, as gates are generally locked at sunset. While the rest of the public waterfront walkways and the Bormla Dock No. 1 promenade remain fully accessible 24 hours a day, the gardens are strictly daylight-only. Time your trek to catch the golden hour over the Grand Harbour, but make sure to step inside the bastion walls before dusk to see the iconic watchtower up close. The route features multiple steep inclines and stone staircases as you transition from sea level up onto the high Senglea ridges, so wearing comfortable walking shoes is highly recommended."
                   }
                 ],
-                "imagePrimary": "assets/images/details/history_vittoriosa_info_img1.jpg",
-                "imageSecondary": "assets/images/details/history_vittoriosa_info_img2.jpg"
+                "imagePrimary": "assets/images/details/history_isla_info_img1.jpg",
+                "imageSecondary": "assets/images/details/history_isla_info_img2.jpg"
               },
               "standardPrice": 0.0,
               "discountedPrice": 0.0,
