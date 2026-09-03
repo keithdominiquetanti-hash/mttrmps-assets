@@ -1,7 +1,7 @@
 {
   "categories": [
     { 
-      "name": "Nature Hikes",
+      "name": "Nature Winter Hikes",
       "regions": [
         {
           "name": "South & South East",
@@ -484,12 +484,12 @@
               },
               "checkpoints": [
                 {
-                  "id": "Birzebbuga Fortifications",
+                  "id": "Birzebbuga Entrenchment",
                   "type": "milestone",
                   "latitude": 35.820624,
                   "longitude": 14.530162,  
-                  "checkpointTitle": "Fortification",
-                  "checkpointText": "Info on the fortified wall",
+                  "checkpointTitle": "Birzebbuga Entrenchment",
+                  "checkpointText": "Built by the Knights of St. John in 1761, this bastion wall represents a radical shift in Malta’s military strategy. For centuries, the Knights relied on retreating behind the massive walls of Valletta and Cottonera, leaving coastal villages to be plundered. This wall was part of an ambitious, late-18th-century plan to turn the entire island shoreline into an unbreachable frontline fortress, stopping invaders right at the water's edge before their boots even hit the sand.",
                   "checkpointImage": "assets/images/treks_znuber_bbg_walls.jpg",
                   "badgeImage": ""
                 },
@@ -499,7 +499,7 @@
                   "latitude": 35.816961, 
                   "longitude": 14.529758,
                   "checkpointTitle": "Country Roads",
-                  "checkpointText": "Farms & Farmhouses",
+                  "checkpointText": "These quiet tarmac lanes slice through a network of fields enclosed by 'ħitan tas-sejjieħ' (traditional rubble walls). Built entirely without mortar, these UNESCO-protected structures act as intricate ecosystems. They trap soil erosion during heavy rains while their hollow inner spaces provide critical, cool sanctuaries for endemic wildlife like the Maltese Wall Lizard and the rare Algerian Hedgehog during the blazing afternoon heat.",
                   "checkpointImage": "assets/images/treks_znuber_bbg_road.jpg",
                   "badgeImage": ""
                 },
@@ -509,7 +509,7 @@
                   "latitude": 35.809143, 
                   "longitude": 14.531811,
                   "checkpointTitle": "Fort Benghisa",
-                  "checkpointText": "Info on the Fort",
+                  "checkpointText": "Completed in 1912, this was the very last polygonal fort built by the British Empire in Malta. Designed to protect Marsaxlokk Harbour from sea-borne attacks, it was armed with massive breech-loading guns hidden behind low-profile earthen ramparts. Look closely at its design—unlike older, high-walled medieval stone fortresses, it was built flat and integrated into the natural landscape to make it practically invisible to enemy battleships out at sea.",
                   "checkpointImage": "assets/images/treks_znuber_benghisa_fort.jpg",
                   "badgeImage": ""
                 },
@@ -519,7 +519,7 @@
                   "latitude": 35.808298,
                   "longitude": 14.531060,
                   "checkpointTitle": "Solar Farm & Filfla",
-                  "checkpointText": "On your right - largest solar farm in Malta. Small Island of Filfla ... protected nature reserve... we'll walk closer to it and other treks with a closer view",
+                  "checkpointText": "On your right sits one of Malta’s largest solar farms, cleverly repurposed from a former quarry site. This modern green footprint stands in stark contrast to the horizon, where you can spot the tiny, flat-topped islet of Filfla. Now a strictly protected nature reserve hosting one of the world's largest colonies of the European Storm-petrel, Filfla was historically used for decades by the British Royal Navy as a target for target practice, which significantly altered its natural limestone profile. We'll get closer looks at it in other treks.",
                   "checkpointImage": "treks_znuber_filfla.jpg",
                   "badgeImage": ""
                 },
@@ -539,7 +539,7 @@
                   "latitude": 35.807245, 
                   "longitude": 14.525101,
                   "checkpointTitle": "Ghar ir Rih",
-                  "checkpointText": "Hidden Gem! You probably get why this cave gets it's name. Venture inside only if you feel you can do so safely",
+                  "checkpointText": "Hidden Gem! You can instantly feel how this coastal cave earned its name (Cave of the Wind), as the sea breezes compress and howl through the limestone opening. If you venture inside safely, look at the smooth, polished walls. Local folklore and historical maritime records note that this secluded cavern was heavily utilized by smugglers for centuries to quietly stash contraband goods away from the watchful eyes of coastal authorities.",
                   "checkpointImage": "assets/badges/treks_znuber_gem_ghar_rih.png",
                   "badgeImage": "assets/badges/treks_znuber_gem_ghar_rih.png"
                 },
@@ -549,7 +549,7 @@
                   "latitude": 35.807108, 
                   "longitude": 14.518981,
                   "checkpointTitle": "Towards the Next Cave",
-                  "checkpointText": "Find the path from the road to the cliffside path",
+                  "checkpointText": "Find this path from the road to the cliffside path.",
                   "checkpointImage": "assets/images/treks_znuber_to_ghar_hasan.jpg",
                   "badgeImage": ""
                 },
@@ -559,7 +559,7 @@
                   "latitude": 35.806661,
                   "longitude": 14.517770,
                   "checkpointTitle": "Ghar Hasan",
-                  "checkpointText": "Legend has it that ... Currently closed for safety reasons but can take a sneak peak",
+                  "checkpointText": "This massive cliffside cavern is steeped in one of Malta's most famous, tragic legends. Folklore states a 12th-century Saracen named Hasan hid here after abducting a local Maltese girl. When outraged villagers tracked him down, both tragically plunged from the 80-meter vertical cliff face into the sea below. Beyond the myth, the cave holds tangible history: archaeological excavations have recovered ancient Bronze Age tools, and it served a vital, practical purpose as a bomb shelter for nearby residents during the air raids of World War II. Currently closed for safety reasons but can take a sneak peak",
                   "checkpointImage": "assets/badges/treks_znuber_landmark_hasan.jpg",
                   "badgeImage": "assets/badges/treks_znuber_landmark_hasan.jpg"
                 },
@@ -579,7 +579,7 @@
                   "latitude": 35.809255, 
                   "longitude": 14.510254,
                   "checkpointTitle": "Znuber Valley",
-                  "checkpointText": "Enoy the cliff-sided valley view onto the sea and the iconic stair path",
+                  "checkpointText": "As you stand at the floor of Wied Żnuber, the temperature drops noticeably. This deep ravine is an ecological time capsule; its sheer limestone walls shield the floor from the sun and wind, trapping moisture to create a humid microclimate. This unique environment allows rare flora to thrive, including the Maltese Cliff-orache and the wild Aleppo Pine tree—locally known as Żnuber, which gives this entire valley its name.",
                   "checkpointImage": "assets/badges/treks_znuber_gem_wied_znuber.png",
                   "badgeImage": "assets/badges/treks_znuber_gem_wied_znuber.png"
                 },
@@ -589,10 +589,11 @@
                   "latitude": 35.812633,   
                   "longitude": 14.524316,
                   "checkpointTitle": "Kuncizzjoni Chapel",
-                  "checkpointText": "Info on the Chapel",
+                  "checkpointText": "Built originally in 1822, this rural chapel was financed by a local priest, Rev. Ġakbu Gauci, specifically to serve the isolated community of farmers working the surrounding fields. Before its construction and eventual 1860s expansion, families in this remote hamlet had to trek all the way to Żurrieq just to attend Sunday Mass. If you look up at its distinctive facade, the bell resting inside the small belfry tower carries a subtle personal detail—it is individually inscribed with the name 'Concetta'.",
                   "checkpointImage": "assets/badges/treks_znuber_landmark_kuncizzjoni.jpg",
                   "badgeImage": "assets/badges/treks_znuber_landmark_kuncizzjoni.jpg"
-                },                {
+                },                
+                {
                   "id": "Benghisa Park",
                   "type": "milestone",
                   "latitude": 35.815241, 
@@ -607,23 +608,23 @@
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Bus routes and parking information. Coordinates to start point."
+                    "description": "The trail starts and ends near Pretty Bay in Birżebbuġa. Street parking is widely available along the promenade, though it fills quickly on warm summer weekends. If traveling by public transport, bus routes 82 and X4 run directly from Valletta, while route 119 connects from Marsaxlokk and the airport. Start location coordinates: 35.823150, 14.529333"
                   },
                   {
-                    "title": "Cliffs, Caves & Znuber Valley",
-                    "description": "Benghisa countryside - Then... Details on the type of excursion."
-                  },
-                  {
-                    "title": "Safety Warning",
-                    "description": "Cliffside Paths & entering caves. Do only what you are comfortable and safe doing."
+                    "title": "The route",
+                    "description": "A diverse coastal and rural loop starting from the sandy shores of Pretty Bay. The path passes historic 18th-century entrenchments and military forts before transitioning into quiet country lanes, tracking spectacular high cliffs past deep sea-caverns, and descending right into the limestone bed of the pristine Wied Żnuber valley."
                   },
                   {
                     "title": "Terrain",
-                    "description": "Terrain - Shoes. Weather conditions."
+                    "description": "Highly varied. Expect sections of flat tarmac promenade and paved country lanes alternating with rough, jagged garigue limestone and loose soil paths. The descent into and ascent out of the Wied Żnuber valley involves a steep, stepped path that can become slick or muddy after rain. Sturdy trail shoes or hiking boots are strongly recommended."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "The cliffside trails near Għar ir-Riħ and Għar Ħasan feature severe, completely unprotected vertical drops with no safety barriers. Keep a safe distance from the edge, as the limestone shelves can be unstable or undercut by coastal erosion. Avoid exploring deep inside unlit caverns without proper safety equipment, and watch your footing for hidden fissures in the rock terrain."
                   },
                   {
                     "title": "Amenities",
-                    "description": "WCs, picnic areas, restaurants and other facilities"
+                    "description": "The start and end zones around Pretty Bay are highly developed, offering public restrooms, convenience stores, pharmacies, and a large concentration of cafes and restaurants. Once you leave the town limits and head past Fort Benghisa toward the cliffs and Wied Żnuber, there are absolutely no shops, water sources, or public facilities available."
                   }
                 ],
                 "imagePrimary": "assets/images/details/treks_znuber_info_img1.jpg",
@@ -1545,81 +1546,6 @@
               "discountedPrice": 2.0,
               "couponTrekTrigger": "A",
               "couponTrigger": "Z"
-            },
-
-            {
-              "id": "nature-treks-test-route",
-              "name": "Test Route",
-              "bannerImage": "assets/images/treks_inwadar_banner.jpg",
-              "badgeImage": "assets/badges/treks_test_route_xghajra_badge.png",
-              "gpxFile": "assets/gpx/test-route-xghajra.gpx",
-              "shortDescription": "Test Route Description",
-              "details": {
-                "distance": "1.0km",
-                "time": "1 hours",
-                "elevation": "98m",
-                "difficulty": "Moderate",
-                "loop": "Semi-Loop",
-                "shoes": "Trekking Shoes",
-                "hidden_gems": "1",
-                "iconic_landmarks": "1"
-              },
-              "checkpoints": [
-                {
-                  "id": "Promenade",
-                  "type": "milestone",
-                  "latitude": 35.888109, 
-                  "longitude": 14.548897,
-                  "checkpointTitle": "Promenade",
-                  "checkpointText": "Seaviews",
-                  "checkpointImage": "assets/images/treks_inwadar_pillbox.jpg",
-                  "badgeImage": ""
-                },
-                {
-                  "id": "Tal-Grazzja Fort & Park",
-                  "type": "hidden_gem",
-                  "latitude": 35.886976, 
-                  "longitude": 14.548498,
-                  "checkpointTitle": "Hidden Gem! Tal-Grazzja Fort & Park",
-                  "checkpointText": "Fort and Park",
-                  "checkpointImage": "assets/badges/treks_test_route_gem_grazie_battery.png",
-                  "badgeImage": "assets/badges/treks_test_route_gem_grazie_battery.png"
-                },
-                {
-                  "id": "Knisja Xghajra",
-                  "type": "iconic_landmark",
-                  "latitude": 35.886241, 
-                  "longitude":  14.546283,
-                  "checkpointTitle": "Inconic Landmark! Kinisja Xghajra",
-                  "checkpointText": "Dedicated to San Gakbu...",
-                  "checkpointImage": "assets/badges/treks_test_route_landmark_knisja.png",
-                  "badgeImage": "assets/badges/treks_test_route_landmark_knisja.png"
-                },
-                {
-                  "id": "Valley",
-                  "type": "milestone",
-                  "latitude": 35.887016, 
-                  "longitude":  14.545443,
-                  "checkpointTitle": "Valley",
-                  "checkpointText": "Looking over to Smart City",
-                  "checkpointImage": "assets/images/treks_inwadar_torri.jpg",
-                  "badgeImage": ""
-                }
-              ],
-              "detailContent": {
-                "highlights": [
-                  {
-                    "title": "Test Route",
-                    "description": "To check if it works"
-                  }
-                ],
-                "imagePrimary": "assets/images/details/treks_inwadar_info_img1.jpg",
-                "imageSecondary": "assets/images/details/treks_inwadar_info_img2.jpg"
-              },
-              "standardPrice": 3.0,
-              "discountedPrice": 2.0,
-              "couponTrekTrigger": "A",
-              "couponTrigger": "Z"
             }
           ]
         },
@@ -1651,7 +1577,7 @@
                   "latitude": 35.827339, 
                   "longitude": 14.444052,
                   "checkpointTitle": "Visitor Centre",
-                  "checkpointText": "Buy tickets during from here to view artefacts and visit the Hagar Qim and Mnajdra Archeological Archeological Park. Buy tickets from here or a snack",
+                  "checkpointText": "This eco-friendly hub serves as the primary gateway to the Archeological park, where visitors can purchase tickets to explore the world-famous megalithic complexes. The low-profile structure is built from local limestone and features a rainwater harvesting roof that mirrors ancient Neolithic water management systems.",
                   "checkpointImage": "assets/images/treks_lapsi_visitor_centre.jpg",
                   "badgeImage": ""
                 },
@@ -1660,8 +1586,8 @@
                   "type": "milestone",
                   "latitude": 35.827457, 
                   "longitude": 14.442728,
-                  "checkpointTitle": "Hagar Qim",
-                  "checkpointText": "Hagar Qim info - The first of the two... dated...",
+                  "checkpointTitle": "Hagar Qim Temples",
+                  "checkpointText": "Dating back to roughly 3600 BC, this megalithic complex is older than both Stonehenge and the Egyptian Pyramids. Look closely at the largest limestone monolith on the external wall—it weighs approximately 20 tonnes and is 6.4 metres wide, making it the largest single stone used in any Maltese temple structure. The builders cleverly aligned the oracle chamber hole so that during the summer solstice, the rising sun passes precisely through it to illuminate a stone slab inside.",
                   "checkpointImage": "assets/images/treks_lapsi_hagar_qim.jpg",
                   "badgeImage": ""
                 },
@@ -1670,8 +1596,8 @@
                   "type": "iconic_landmark",
                   "latitude": 35.826839, 
                   "longitude": 14.437159,
-                  "checkpointTitle": "Mnajdra",
-                  "checkpointText": "The second set of temples... ",
+                  "checkpointTitle": "Mnajdra Temples",
+                  "checkpointText": "Unlike Ħaġar Qim, which sits exposed on the hill, Mnajdra is tucked into a hollow sloped toward the sea. Built primarily from hard, gray Lower Coralline limestone, it has resisted erosion far better than its neighbor. The lower temple is a marvel of prehistoric astronomy: during the Spring and Autumn equinoxes, the rising sun aligns perfectly through the main doorway, illuminating the central axis of the entire complex with absolute precision.",
                   "checkpointImage": "assets/badges/treks_lapsi_landmark_mnajdra.png",
                   "badgeImage": "assets/badges/treks_lapsi_landmark_mnajdra.png"
                 },
@@ -1681,7 +1607,7 @@
                   "latitude": 35.825911, 
                   "longitude": 14.437675,
                   "checkpointTitle": "Congreve Memorial",
-                  "checkpointText": "Monument dedicated to Sir Walter Congreve, a former Governor of Malta who upon his wish was buried at sea between this Monument and the island of Filfla",
+                  "checkpointText": "This monument honours Sir Walter Congreve, a highly decorated British general and former Governor of Malta who died in 1927. Rather than being buried in a traditional cemetery, Congreve requested that his body be committed to the deep sea just off this coast. His coffin was lowered into the channel between this spot and the islet of Filfla, making this clifftop obelisk a cenotaph marking the precise point on land facing his final resting place.",
                   "checkpointImage": "assets/badges/treks_lapsi_landmark_congreve.png",
                   "badgeImage": "assets/badges/treks_lapsi_landmark_congreve.png"
                 },
@@ -1691,7 +1617,7 @@
                   "latitude": 35.824586, 
                   "longitude": 14.439936,
                   "checkpointTitle": "Hamrija Tower",
-                  "checkpointText": "One of the 13 coastal towers built by the Knights of St John Grand Master de Redin. Built in 1658-1659 as part of a chain of coastal fortifications to protect agaist the threat of a Turkish invasion and corsairs",
+                  "checkpointText": "Built by Grand Master De Redin in 1659, this watchtower stands as the sole coastal sentry on this specific southwestern cliff stretch. If you look closely at its design, you will notice it lacks an entry point on the ground floor. Guards originally accessed the structure using a removable wooden ladder to climb directly into the first-floor doorway, allowing them to pull the ladder up behind them and turn the tower into an isolated, secure stronghold if corsairs managed to breach the cliffs.",
                   "checkpointImage": "assets/badges/treks_lapsi_landmark_hamrija.png",
                   "badgeImage": "assets/badges/treks_lapsi_landmark_hamrija.png"
                 },
@@ -1711,7 +1637,7 @@
                   "latitude": 35.823320, 
                   "longitude": 14.438578,
                   "checkpointTitle": "Ghar Hanex Window",
-                  "checkpointText": "Natural arch .... ",
+                  "checkpointText": "This small, beautifully sculpted natural limestone arch frames a spectacular view of the blue Mediterranean and the islet of Filfla. Unlike larger, collapsed structures in the area, this resilient window showcases how wave action selectively hollows out weaker segments of the lower coralline cliff face over centuries. Walk with extreme caution near the clifftop edges here; the surrounding terrain remains highly susceptible to ongoing coastal erosion.",
                   "checkpointImage": "assets/badges/treks_lapsi_gem_ghar_hanex.png",
                   "badgeImage": "assets/badges/treks_lapsi_gem_ghar_hanex.png"
                 },
@@ -1741,7 +1667,7 @@
                   "latitude": 35.827605, 
                   "longitude": 14.423751,
                   "checkpointTitle": "Ghar Lapsi Bay",
-                  "checkpointText": "One of the most iconic bays in the Maltese Islands. Admire the cave formation enclosing the bay. Restaurant, restrooms and WC facilities",
+                  "checkpointText": "This picturesque coastal cove is framed by smooth limestone shelves that form a natural, shallow swimming pool sheltered from the open sea. Long favored by local fishermen, the bay features traditional boathouses carved directly into the rock face. While highly scenic, its fragile geology was starkly highlighted in early 2026 when severe winter storms triggered significant rockfalls along the overhanging cliffs. This event prompted extensive ongoing stabilization and regeneration works to protect the area's paths, serving as a powerful reminder of the relentless marine erosion shaping Malta's southwest coast.",
                   "checkpointImage": "assets/badges/treks_lapsi_landmark_lapsi.png",
                   "badgeImage": "assets/badges/treks_lapsi_landmark_lapsi.png"
                 },
@@ -1751,7 +1677,7 @@
                   "latitude": 35.828780,   
                   "longitude": 14.421218,
                   "checkpointTitle": "Lapsi Tower",
-                  "checkpointText": "Lapsi Tower... You can get closer taking a side path",
+                  "checkpointText": "Completed in 1659 under Grand Master De Redin, this watchtower was strategically built on a low ridge to secure the landing approaches at Għar Lapsi bay. If you look at its layout, it is significantly smaller than the massive coastal forts built by the Knights. It was designed primarily as a coastal telegraph post; rather than fighting off massive invasion fleets alone, the few guards stationed here were tasked with lighting warning fires on the roof to alert inland towers if enemy corsairs attempted a surprise beach landing. You can get closer taking a side path",
                   "checkpointImage": "assets/images/treks_lapsi_tower.jpg",
                   "badgeImage": ""
                 },
@@ -1761,7 +1687,7 @@
                   "latitude": 35.830850,
                   "longitude": 14.420586,
                   "checkpointTitle": "Lapsi Aqueduct",
-                  "checkpointText": "Info on the water carriage",
+                  "checkpointText": "This low stone channel archway is a surviving fragment of a massive 19th-century British engineering project. Built under Governor Sir Gaspard Le Marchant, the aqueduct system was designed to gravity-feed fresh water from the natural mountain springs at Fawwara and Għar Lapsi all the way to the dry, growing naval hubs around the Three Cities and Valletta.",
                   "checkpointImage": "assets/images/treks_lapsi_aqueduct.jpg",
                   "badgeImage": ""
                 },
@@ -1771,7 +1697,7 @@
                   "latitude": 35.833828, 
                   "longitude": 14.417373,
                   "checkpointTitle": "Xaqqa Valley",
-                  "checkpointText": "Take a look at the sea valley formation whilst respecting private property",
+                  "checkpointText": "This deep, vertical limestone fissure cutting straight into the coastline is one of Malta's premier natural rock-climbing locations. Known for its sheer, smooth rock faces, it offers a fascinating look at tectonic activity, as the massive gap was formed by the natural fault lines that run along the island's southwestern edge. If you look down safely, you can see how the narrow canyon opens directly into the sea, creating a high-walled channel where waves crash dynamically during stormy weather. Take a look at the sea valley formation whilst respecting private property",
                   "checkpointImage": "assets/images/treks_lapsi_xaqqa_valley.jpg",
                   "badgeImage": ""
                 },                
@@ -1781,7 +1707,7 @@
                   "latitude": 35.833812, 
                   "longitude": 14.422353,
                   "checkpointTitle": "Panorama Road",
-                  "checkpointText": "Only stretch of trek alongside road traffic... but wide street and named Panarama Road for a reason!",
+                  "checkpointText": "This is the only stretch of the trek running alongside active road traffic, but it is named Panorama Road for an excellent reason. As you walk, look out across the valley on your left to see the patchwork of traditional agricultural fields sloping down toward the sea.",
                   "checkpointImage": "assets/images/treks_lapsi_panoramic_view.jpg",
                   "badgeImage": ""
                 },
@@ -1810,27 +1736,23 @@
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Bus routes and parking information. Coordinates to start point."
+                    "description": "The loop starts and ends directly at the main Ħaġar Qim and Mnajdra Archaeological Park Visitor Centre near Qrendi. Ample parking spaces are available in the dedicated visitor lot outside the centre. If you are using public transport from Valletta, take bus route 74, which drops you off directly at the 'Ħaġar' stop outside the main gates. Start location coordinates: 35.827423, 14.445451"
                   },
                   {
-                    "title": "Archeological Park and then heading to hidden gems and landmarks along the Coast",
-                    "description": "Details on the type of excursion."
-                  },
-                  {
-                    "title": "Another trek combining history and nature",
-                    "description": "The trail passes near ancient watchtowers and fortifications."
+                    "title": "The route",
+                    "description": "A breathtaking coastal loop tracing through deep antiquity and raw geology. The trail leads from the high-tech Visitor Centre down to the prehistoric temple complexes of Ħaġar Qim and Mnajdra, winds past historical 17th-century watchtowers, and skims high rugged cliffside trails overlooking Filfla before descending toward the fishing cove of Għar Lapsi. The return leg climbs past the historic Fawwara aqueduct lines, sweeps alongside the sheer climbing walls of Wied ix-Xaqqa, and finishes along the beautiful, elevated vistas of Panorama Road."
                   },
                   {
                     "title": "Terrain",
-                    "description": "Terrain - Shoes. Weather conditions."
+                    "description": "Varied and highly exposed. The initial phases around the visitor centre and temples feature well-maintained gravel and paved pathways. However, the coastal extension quickly transitions into highly irregular, jagged garigue bedrock, sharp limestone shelves, and rough dirt tracks. The loop also includes steep climbs up from Għar Lapsi and a final stretch on flat, paved asphalt along Panorama Road. Good hiking shoes with solid ankle support and a robust grip are vital."
                   },
                   {
-                    "title": "Safety Warnings",
-                    "description": "Terrain - Shoes. Weather conditions."
+                    "title": "Safety Warning",
+                    "description": "The cliff trails near Għar Ħanex and the outer edges of the park feature sheer, completely unfenced vertical drop-offs. Keep a safe distance from all edges, as coastal erosion leaves many limestone shelves undercut and highly unstable. Due to the high cliffs and deep fissures like Wied ix-Xaqqa, watch your step at all times. Be mindful of vehicles on the Panorama Road stretch, as this is the only part of the trek with active road traffic."
                   },
                   {
                     "title": "Amenities",
-                    "description": "WCs, picnic areas, restaurants and other facilities"
+                    "description": "The Ħaġar Qim Visitor Centre includes public restrooms, a small cafeteria, and a souvenir shop. Traditional seafood restaurants are located at the midway point in Għar Lapsi bay, though operating hours vary depending on the season and ongoing coastal regeneration works. Once you leave these two primary hubs, there are absolutely no amenities, shops, or freshwater stations along the rural tracks and cliffside paths."
                   }
                 ],
                 "imagePrimary": "assets/images/details/treks_lapsi_info_img1.jpg",
@@ -3321,7 +3243,7 @@
                 "distance": "10.3km",
                 "time": "2.5 hours",
                 "elevation": "193m",
-                "difficulty": "Moderate",
+                "difficulty": "Challenging",
                 "loop": "Loop",
                 "shoes": "Trekking Shoes",
                 "hidden_gems": "1",
@@ -3587,56 +3509,56 @@
               "name": "Selmun - Mgiebah",
               "bannerImage": "assets/images/treks_qannotta_viewpoint.jpg",
               "badgeImage": "assets/badges/treks_fiddien_bingemma_badge.png",
-              "gpxFile": "assets/gpx/ahrax-selmum-tunnara-test.gpx",
+              "gpxFile": "assets/gpx/selmun-mgiebah.gpx",
               "shortDescription": "From Selmun through Mgiebah Bay and to Tunnaras in Mellieha",
               "details": {
-                "distance": "7.3km",
+                "distance": "6.7km",
                 "time": "2.0 hours",
-                "elevation": "180m",
+                "elevation": "160m",
                 "difficulty": "Challenging",
                 "loop": "Loop",
                 "shoes": "Trekking Shoes",
-                "hidden_gems": "2",
-                "iconic_landmarks": "1"
+                "hidden_gems": "1",
+                "iconic_landmarks": "3"
               },
               "checkpoints": [
                 {
                   "id": "Selmun Chapel",
-                  "type": "milestone",
-                  "latitude": 35.957174,    
-                  "longitude": 14.380101,
+                  "type": "iconic_landmark",
+                  "latitude": 35.957233,   
+                  "longitude": 14.380207,
                   "checkpointTitle": "Selmun Chapel",
                   "checkpointText": "Selmun Chapel.",
                   "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Imgiebah Bay",
-                  "type": "hidden_gem",
-                  "latitude": 35.967878,    
-                  "longitude": 14.381489,
-                  "checkpointTitle": "Imgiebah Bay",
-                  "checkpointText": "Imgiebah Bay is a scenic spot offering stunning views of the surrounding landscape.",
-                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
-                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
-                },
-                {
                   "id": "Selmun Palace",
                   "type": "iconic_landmark",
-                  "latitude": 35.959035,      
-                  "longitude": 14.380966,
+                  "latitude": 35.958815,  
+                  "longitude": 14.381064,
                   "checkpointTitle": "Selmun Palace",
-                  "checkpointText": "Selmun Palace is a historic site with significant cultural value.",
+                  "checkpointText": "Selmun Palace",
+                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Ghajn Hadid Beach",
+                  "type": "hidden_gem",
+                  "latitude": 35.966458,   
+                  "longitude": 14.386552,
+                  "checkpointTitle": "Ghajn Hadid Bay View",
+                  "checkpointText": "Irdum Ghajn Hadid is a hidden gem offering a peaceful retreat in the heart of the countryside.",
                   "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
                   "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
                 },
                 {
-                  "id": "Irdum Ghajn Hadid",
+                  "id": "Imgiebah Bay",
                   "type": "hidden_gem",
-                  "latitude": 35.966528,   
-                  "longitude": 14.386597,
-                  "checkpointTitle": "Irdum Ghajn Hadid",
-                  "checkpointText": "Irdum Ghajn Hadid is a hidden gem offering a peaceful retreat in the heart of the countryside.",
+                  "latitude": 35.967613,    
+                  "longitude": 14.382232,
+                  "checkpointTitle": "Imgiebah Bay",
+                  "checkpointText": "Imgiebah Bay is a scenic spot offering stunning views of the surrounding landscape.",
                   "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
                   "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
                 }
@@ -4162,7 +4084,7 @@
               "id": "history-bormla-isla",
               "name": "Bormla - Isla",
               "bannerImage": "assets/images/history_isla_info_img1.jpg",
-              "badgeImage": "assets/badges/history_isla.png",
+              "badgeImage": "assets/badges/history_isla_badge.png",
               "gpxFile": "assets/gpx/history_bormla_isla.gpx",
               "shortDescription": "From Bormla Dock 1 to Isla Peninsula - A walk through history",
               "details": {
