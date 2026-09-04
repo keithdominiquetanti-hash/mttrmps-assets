@@ -3505,12 +3505,12 @@
             },
 
             {
-              "id": "nature-treks-north-selmun-tunnara",
+              "id": "nature-treks-north-selmun-mgiebah",
               "name": "Selmun - Mgiebah",
-              "bannerImage": "assets/images/treks_qannotta_viewpoint.jpg",
-              "badgeImage": "assets/badges/treks_fiddien_bingemma_badge.png",
+              "bannerImage": "assets/images/details/treks_selmun_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_selmun_badge.png",
               "gpxFile": "assets/gpx/selmun-mgiebah.gpx",
-              "shortDescription": "From Selmun through Mgiebah Bay and to Tunnaras in Mellieha",
+              "shortDescription": "From Selmun through Ghajn Hadid Beach and Mgiebah Bay, to Santa Marija in Mellieha",
               "details": {
                 "distance": "6.7km",
                 "time": "2.0 hours",
@@ -3518,8 +3518,8 @@
                 "difficulty": "Challenging",
                 "loop": "Loop",
                 "shoes": "Trekking Shoes",
-                "hidden_gems": "1",
-                "iconic_landmarks": "3"
+                "hidden_gems": "2",
+                "iconic_landmarks": "2"
               },
               "checkpoints": [
                 {
@@ -3528,8 +3528,18 @@
                   "latitude": 35.957233,   
                   "longitude": 14.380207,
                   "checkpointTitle": "Selmun Chapel",
-                  "checkpointText": "Selmun Chapel.",
-                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
+                  "checkpointText": "Officially dedicated to Our Lady of Ransom, this 18th-century rural chapel was built to serve the scattered farming communities of the Selmun peninsula.  The chapel's elevated, peaceful setting offers an expansive view over the surrounding rolling clay valleys, marking the exact boundary where the inland hamlet gives way to the wild, open coastal paths ahead.",
+                  "checkpointImage": "assets/badges/treks_selmun_landmark_selmun_chapel.png",
+                  "badgeImage": "assets/badges/treks_selmun_landmark_selmun_chapel.png"
+                },
+                {
+                  "id": "Il-Bir tal-Hnejja",
+                  "type": "milestone",
+                  "latitude": 35.958641,      
+                  "longitude": 14.380930,
+                  "checkpointTitle": "Il-Bir tal-Hnejja",
+                  "checkpointText": "This beautifully preserved well features an elegant stone arch supporting a traditional bucket pulley system. If you look closely at the masonry, you will spot an engraving of the letter 'R'. This stands for Ransom (referring to the Monte della Redenzione degli Schiavi), indicating that this well and the surrounding fertile land were historically owned by the charitable foundation established to buy back and liberate Maltese Christians captured by Barbary corsairs.",
+                  "checkpointImage": "assets/images/treks_selmun_bir_hnejja.jpg",
                   "badgeImage": ""
                 },
                 {
@@ -3538,8 +3548,18 @@
                   "latitude": 35.958815,  
                   "longitude": 14.381064,
                   "checkpointTitle": "Selmun Palace",
-                  "checkpointText": "Selmun Palace",
-                  "checkpointImage": "assets/images/treks_fiddien_bingemma_chadwick_lakes_trail.jpg",
+                  "checkpointText": "This imposing, fortress-like structure is actually not a military fort, but a grand 18th-century hunting lodge built by the Knights of St. John. Financed by the same Monte della Redenzione foundation that built the nearby well, its defensive features—like the dummy corner turrets and high walls—were cleverly designed to look like a true bastion fortress from out at sea. This architectural trick successfully intimidated Barbary corsairs, deterring them from landing on the peninsula to raid the inland farms.",
+                  "checkpointImage": "assets/badges/treks_selmun_landmark_selmun_palace.png",
+                  "badgeImage": "assets/badges/treks_selmun_landmark_selmun_palace.png"
+                },
+                {
+                  "id": "Ghajn Hadid Tower",
+                  "type": "milestone",
+                  "latitude": 35.964169,     
+                  "longitude": 14.382286,
+                  "checkpointTitle": "Ghajn Hadid Tower",
+                  "checkpointText": "Looking ahead, you can see the crumbling remains of the Għajn Ħadid Tower perched on the cliff edge. Built in 1658 by Grand Master De Redin, it was the first of his famous coastal watchtowers, but it met a violent end in 1856 when a powerful earthquake cracked the cliff face and caused the tower's upper floor to collapse. Remarkably, its brass alarm bell survived the plunge and was later salvaged, eventually finding a home inside the Mellieħa parish church tower.",
+                  "checkpointImage": "assets/images/treks_selmun_ghajn_hadid_tower.jpg",
                   "badgeImage": ""
                 },
                 {
@@ -3548,9 +3568,9 @@
                   "latitude": 35.966458,   
                   "longitude": 14.386552,
                   "checkpointTitle": "Ghajn Hadid Bay View",
-                  "checkpointText": "Irdum Ghajn Hadid is a hidden gem offering a peaceful retreat in the heart of the countryside.",
-                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
-                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                  "checkpointText": "This secluded clay beach, located right below the collapsed watchtower, is named after the freshwater springs that seep out along the coastal slopes. The dark, iron-rich sand and surrounding clay hills form a fragile coastal ecosystem that remains completely untouched by commercial development. If you look carefully at the water's edge, you can see how the soft blue clay layers are constantly being reshaped by wave action, making this a raw, wild contrast to Malta's busier sandy bays.",
+                  "checkpointImage": "assets/badges/treks_selmun_gem_ghajn_hadid_beach.png",
+                  "badgeImage": "assets/badges/treks_selmun_gem_ghajn_hadid_beach.png"
                 },
                 {
                   "id": "Imgiebah Bay",
@@ -3558,36 +3578,66 @@
                   "latitude": 35.967613,    
                   "longitude": 14.382232,
                   "checkpointTitle": "Imgiebah Bay",
-                  "checkpointText": "Imgiebah Bay is a scenic spot offering stunning views of the surrounding landscape.",
-                  "checkpointImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png",
-                  "badgeImage": "assets/badges/treks_fiddien_bingemma_landmark_chadwick_lakes.png"
+                  "checkpointText": "This deep, rocky-sandy bay is one of Malta's most isolated coastal spots, framed by wild garigue terrain and crumbling clay slopes. The name Imġiebaħ translates to 'beehives' in old Maltese, indicating that this secluded valley was a historic hub for traditional apiculture, where farmers gathered wild honey from hives tucked into the natural limestone fissures. Because it is inaccessible by large vehicles, the bay has escaped modern development, allowing its marine life and coastal flora to thrive in an entirely natural state.",
+                  "checkpointImage": "assets/badges/treks_selmun_gem_imgiebah_bay.png",
+                  "badgeImage": "assets/badges/treks_selmun_gem_imgiebah_bay.png"
+                },
+                {
+                  "id": "Imgiebah Pillbox",
+                  "type": "milestone",
+                  "latitude": 35.967378,    
+                  "longitude": 14.381940,
+                  "checkpointTitle": "Perched discretely on the high ridge overlooking the bay, this concrete bunker is a camouflaged relic of Malta’s WWII coastal defense network. Built by the British military in the early 1940s, its exterior walls were deliberately faced with local rubble stones to make it look exactly like a harmless field wall from the air. Soldiers stationed inside this cramped position spent long hours peering through narrow gun slits, ready to defend the secluded beaches below against a potential Axis beach landing.",
+                  "checkpointText": "You have just crossed one of the most popular and scenic camping spots in Malta, should you wish to return for a different camping adventure. Now follow the app's route market to find this path that takes to Slugs Bay.",
+                  "checkpointImage": "assets/images/treks_selmun_mgiebah_pillbox.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Xatt ta Santa Marija",
+                  "type": "milestone",
+                  "latitude": 35.969188,    
+                  "longitude": 14.373787,
+                  "checkpointTitle": "Xatt ta Santa Marija",
+                  "checkpointText": "This wide, rocky shoreline sits directly at the base of the Mistra fault line, offering a spectacular look at Malta's violent geological past. The sheer limestone cliffs backing the coast were pushed skyward millions of years ago, creating a natural amphitheater that looks out over the northern channel. Today, it serves as a peaceful, boulder-strewn beach popular with local snorkelers due to the extensive underwater boulder screens that provide a natural habitat for diverse Mediterranean marine life.",
+                  "checkpointImage": "assets/images/treks_ahrax_ghadira_path_to_slugs_bay.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Selmun Valley",
+                  "type": "milestone",
+                  "latitude": 35.962343,  
+                  "longitude": 14.378290,
+                  "checkpointTitle": "Selmun Valley",
+                  "checkpointText": "As you loop inland through Selmun Valley, the landscape shifts into a lush, sheltered agricultural oasis. The valley bed acts as a natural drainage basin for the surrounding clay plateaus, trapping winter rainfall to sustain fertile terraced fields and wild cane groves year-round. While walking along the valley floor, look closely at the steep rock faces bounding the trail—you can spot small, rectangular openings carved into the stone, which are ancient rock-cut tombs used by Roman-era communities who farmed this very same soil thousands of years ago.",
+                  "checkpointImage": "assets/images/treks_selmun_selmun_valley.jpg",
+                  "badgeImage": ""
                 }
               ],
               "detailContent": {
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Route starts and ends near entrance to Chadwick Lakes trail. By bus one can take routes 50, 51, 52, 53 from Valletta to Rabat (Stop at Saqqajja) and then change route to 109, and stop at Fiddien. By car there are limited parking spaces available near entrance - for less parking worries, leave vehicle near Għajn National Water Conservation Centre and take a 500m walk to start route. GPS coordinates to starting point: 35.956695, 14.379940"
+                    "description": "The trek starts and ends near the Selmun Chapel in Mellieħa. Small parking pockets are available along the side roads near Selmun Palace. If traveling by public transport from Valletta, catch bus routes 41, 42, or 250 and disembark at the 'Selmun' stop just outside Mellieħa village. From there, it is a short, scenic walk down the straight country lane directly to the chapel. GPS coordinates to starting point: 35.956713, 14.380043"
                   },
                   {
                     "title": "The Route",
-                    "description": "First takes the recently regenerated and incredibly scenic path to Chadwick Lakes and walk within the Fidden and Qlejgha valleys, before heading up towards the Bingemma cliff viewpoints and Victoria lines at Bingemma Gap. A shorter return route is taken along vehicle roads surrunded by greenery."
+                    "description": "A rugged and deeply rewarding coastal loop around the Selmun peninsula. The path starts at the historic chapel and descends past ancient stone wells and hunting lodges to the remote shores of Għajn Ħadid beach. It then tracks along high clifftops to the pristine Imġiebaħ Bay, snakes along the boulder-strewn shore of Xatt ta' Santa Marija, and returns through the lush, shaded paths of the fertile Selmun Valley."
                   },
                   {
                     "title": "Terrain",
-                    "description": "Crossing Fiddien and Qlejgha valley paths, as well as rocky terrain at Bingemma Gap. Possible with trainer shoes in dry conditions but trekking shoes recommended."
+                    "description": "Highly varied and physically demanding in sections. The trail includes narrow, uneven paths cutting through sharp garigue limestone, loose gravel cliff tracks, and soft clay slopes that become exceptionally slick and sticky after rainy weather. Sturdy hiking shoes with excellent tread are absolutely essential."
                   },
                   {
                     "title": "Safety Warning",
-                    "description": "Keep safe and do not take risks near Bingemma Cliff Edges."
+                    "description": "The coastal tracks between Għajn Ħadid and Imġiebaħ Bay skim along steep, unfenced cliff edges subject to sudden rockfalls and land movements. Keep a safe distance from the edges, especially during or immediately after heavy downpours when the clay foundations become unstable. Carry plenty of water, as the steep climbs out of the bays offer no shade from the midday sun."
                   },
                   {
                     "title": "Amenities",
-                    "description": "No restrooms or food outlets along the route, so think ahead and bring water and snacks with you. On Weekends, there are usually some stands with traditional Maltese snacks set up near Chadwick Lakes trail entrance."
+                    "description": "This is a predominantly wild and rural route. Aside from a small mobile snack kiosk that occasionally parks near Selmun Palace, there are absolutely no shops, public restrooms, or freshwater stations once you leave the chapel area. Ensure you pack all necessary refreshments, sun protection, and emergency supplies before heading down toward the beaches. Restaurant with traditional Maltese cuisine near starting & end point."
                   }
                 ],
-                "imagePrimary": "assets/images/details/treks_fiddien_bingemma_info1.jpg",
-                "imageSecondary": "assets/images/details/treks_fiddien_bingemma_info2.jpg"
+                "imagePrimary": "assets/images/details/treks_selmun_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_selmun_info_img2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
