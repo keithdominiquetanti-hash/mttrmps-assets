@@ -4569,18 +4569,18 @@
             {
               "id": "history-birzebbuga",
               "name": "Birzebbuga through the Ages",
-              "bannerImage": "assets/images/history_vittoriosa_info_img1.jpg",
-              "badgeImage": "assets/badges/history_vittoriosa_badge.png",
-              "gpxFile": "assets/gpx/history-birzebbuga-design-test.gpx",
-              "shortDescription": "From prehistoric times to the modern history",
+              "bannerImage": "assets/images/history_bbugia_info_img1.jpg",
+              "badgeImage": "assets/badges/history_bbuga_badge.png",
+              "gpxFile": "assets/gpx/history-birzebbuga.gpx",
+              "shortDescription": "From prehistoric times to modern history",
               "details": {
-                "distance": "4.6km (5.0km full loop)",
+                "distance": "4.6km",
                 "time": "1.5 hour",
                 "elevation": "25m",
                 "difficulty": "Easy",
                 "loop": "Semi-Loop",
                 "shoes": "Trainers",
-                "hidden_gems": "0",
+                "hidden_gems": "1",
                 "iconic_landmarks": "2"
               },
               "checkpoints": [
@@ -4590,8 +4590,8 @@
                   "latitude": 35.826948,     
                   "longitude": 14.527335,
                   "checkpointTitle": "Birzebbuga Parish Church",
-                  "checkpointText": "The Couvre Porte is a complex, multi-layered defensive gateway system built by the Knights of St John between 1716 and 1730 to safeguard the main entrance to Vittoriosa. Designed by French military engineers Charles François de Mondion and Louis François de Tigné, this impressive Baroque bottleneck forced attackers to navigate three successive gates under constant defensive fire. Interestingly, the name Couvre Porte translates from French to covered gate, referring to the strategic outer counterguard built specifically to hide and shelter the city's inner gates from direct enemy artillery. Today, the British-era barracks built directly inside these massive fortification walls house the popular Malta at War Museum.",
-                  "checkpointImage": "assets/images/history_vittoriosa_couvre_porte.jpg",
+                  "checkpointText": "Dominating the skyline of the bay, the Parish Church of St. Peter in Chains stands as a monumental 20th-century temple built to celebrate the growth of this vibrant coastal community. While the first stone of this imposing Neo-Renaissance church was laid in 1913, construction stretched across several decades due to funding challenges and World War II interruptions, finally reaching its current architectural completion in 1956. Inside, the church houses a majestic, life-sized titular statue of St. Peter in Chains, carved out of oak in 1907 by the famous Maltese sculptor Ġlormu Darmanin.",
+                  "checkpointImage": "assets/images/history_bbugia_parish_church.jpg",
                   "badgeImage": ""
                 },
                 {
@@ -4600,19 +4600,29 @@
                   "latitude": 35.831191,     
                   "longitude": 14.530261,
                   "checkpointTitle": "Kappella San Gorg Martri",
-                  "checkpointText": "The Couvre Porte is a complex, multi-layered defensive gateway system built by the Knights of St John between 1716 and 1730 to safeguard the main entrance to Vittoriosa. Designed by French military engineers Charles François de Mondion and Louis François de Tigné, this impressive Baroque bottleneck forced attackers to navigate three successive gates under constant defensive fire. Interestingly, the name Couvre Porte translates from French to covered gate, referring to the strategic outer counterguard built specifically to hide and shelter the city's inner gates from direct enemy artillery. Today, the British-era barracks built directly inside these massive fortification walls house the popular Malta at War Museum.",
-                  "checkpointImage": "assets/images/history_vittoriosa_couvre_porte.jpg",
+                  "checkpointText": "Dating back to 1682, this small, rustic limestone chapel dedicated to St. George the Martyr sits quietly tucked away directly behind the massive stone walls of the 18th-century St. George’s Redoubt. uring the early British military period, the chapel’s strategic position caused it to be temporarily requisitioned and used as a storage ammunition magazine for the surrounding coastal gun batteries.",
+                  "checkpointImage": "assets/images/history_bbugia_st_gorg_chapel.jpg",
                   "badgeImage": ""
                 },
                 {
                   "id": "Borg in-Nadur",
                   "type": "iconic_landmark",
-                  "latitude": 35.831493,   
-                  "longitude": 14.529391,
+                  "latitude": 35.831491,   
+                  "longitude": 14.529433,
                   "checkpointTitle": "Borg in-Nadur",
-                  "checkpointText": "The Vittoriosa Ditch is a massive defensive trench carved directly into the limestone during the 16th century to safeguard the city’s landfront from enemy invasions. Following extensive restoration work, this former military dead-zone reopened as a peaceful public garden filled with olive trees and winding walkways. Deep inside the ditch walls, you can spot old doorways that served as vital, life-saving air-raid shelters for civilians during World War II. The garden also hides a rare, excavated 18th-century caponier —a fortified stone tunnel designed to allow Knights to safely cross the ditch while firing at attackers from a protected position.",
-                  "checkpointImage": "assets/badges/history_vittoriosa_landmark_ditch.png",
-                  "badgeImage": "assets/badges/history_vittoriosa_landmark_ditch.png"
+                  "checkpointText": "Dating back to 2500 BC, Borġ in-Nadur is a highly significant archaeological site that reveals a dramatic transition from a peaceful Temple Period sanctuary into a heavily fortified Bronze Age village. Perched on a strategic rocky ridge between two river valleys, the site features the unique remains of a massive, four-meter-high semicircular stone defensive wall built by Bronze Age settlers to protect their huts from seaborne raiders. Excavations have uncovered deep, rock-cut silos used for storing grain and water, proving the community was engineered to withstand long sieges. Interestingly, the site sat completely forgotten under agricultural fields for centuries until archaeologists uncovered it in the late 19th century, revealing that this quiet hillside was actually one of the busiest, most heavily defended prehistoric trading hubs in the Mediterranean.",
+                  "checkpointImage": "assets/badges/history_bbuga_landmark_borg_nadur.png",
+                  "badgeImage": "assets/badges/history_bbuga_landmark_borg_nadur.png"
+                },
+                {
+                  "id": "Our Lady Help of Christians Chapel",
+                  "type": "hidden_gem",
+                  "latitude": 35.832675,   
+                  "longitude": 14.530453,
+                  "checkpointTitle": "Our Lady Help of Christians Chapel",
+                  "checkpointText": "Built in 1833 by Dr. Matteo Cachia, this quaint Doric-style sanctuary is highly significant for being the only chapel in all of Malta dedicated to Our Lady Help of Christians. Erected directly adjacent to Dr. Cachia’s historic seaside villa the private chapel initially served the growing influx of wealthy inland families from villages like Żejtun and Żurrieq who spent their hot summer months retreating by the shores of St. George's Bay. Though still in the private hands of the Cachia Zammit family and closed to the daily public, you can pause to admire its perfectly symmetrical facade and the classic stone statue of Our Lady standing on its front parvis.",
+                  "checkpointImage": "assets/badges/history_bbuga_gem_chapel.png",
+                  "badgeImage": "assets/badges/history_bbuga_gem_chapel.png"
                 },
                 {
                   "id": "Ferretti Battery",
@@ -4620,8 +4630,18 @@
                   "latitude": 35.832511,     
                   "longitude": 14.534180,
                   "checkpointTitle": "Ferretti Battery",
-                  "checkpointText": "The Couvre Porte is a complex, multi-layered defensive gateway system built by the Knights of St John between 1716 and 1730 to safeguard the main entrance to Vittoriosa. Designed by French military engineers Charles François de Mondion and Louis François de Tigné, this impressive Baroque bottleneck forced attackers to navigate three successive gates under constant defensive fire. Interestingly, the name Couvre Porte translates from French to covered gate, referring to the strategic outer counterguard built specifically to hide and shelter the city's inner gates from direct enemy artillery. Today, the British-era barracks built directly inside these massive fortification walls house the popular Malta at War Museum.",
-                  "checkpointImage": "assets/images/history_vittoriosa_couvre_porte.jpg",
+                  "checkpointText": "Built by the Knights of St. John between 1715 and 1716, Ferretti Battery is a heavily fortified coastal artillery outpost designed to prevent enemy warships from landing troops inside St. George’s Bay. Funded largely by the prominent Italian Knight Francesco Maria Ferretti, this semi-circular stone stronghold featured a massive sea-facing gun platform, a rear blockhouse for housing ammunition, and a defensive ditch cut directly out of the bedrock. In a remarkable twist of preservation history, the ancient military battery was creatively repurposed in modern times and currently operates as a unique, upscale seafood and Mediterranean restaurant , making it one of the few places in Malta where you can dine directly inside a Knights-era coastal defense fort.",
+                  "checkpointImage": "assets/images/history_bbugia_ferretti_battery.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "St. Joseph Chapel",
+                  "type": "milestone",
+                  "latitude": 35.832363,     
+                  "longitude": 14.530808,
+                  "checkpointTitle": "St. Joseph Chapel",
+                  "checkpointText": "Built in 1871 by Captain Emmanuele V. Zammit, the Chapel of St. Joseph stands on the shore of St. George's Bay as a unique Neo-Gothic architectural jewel built within a private estate. Constructed shortly after Pope Pius IX declared St. Joseph the Patron of the Universal Church, this private sanctuary quickly became an active spiritual focal point for the early coastal community. Historically, the local feast of St. Joseph was actually celebrated right here along the waters of St. George’s Bay every fourth Sunday of August. Inside, the chapel once housed a highly precious, rare early painting of St. Joseph by the legendary Maltese artist Giuseppe Calì—which has since moved into a private local collection. Today, the building serves as a private residence and remains closed to the public, but its distinctive pointed arches and historical plate can be clearly admired from the main promenade.",
+                  "checkpointImage": "assets/images/history_bbugia_st_gorg_chapel.jpg",
                   "badgeImage": ""
                 },
                 {
@@ -4630,19 +4650,19 @@
                   "latitude": 35.831254,   
                   "longitude": 14.530762,
                   "checkpointTitle": "St. George Redoubt & Cart Ruts",
-                  "checkpointText": "Victory Square is the bustling, historic heart of Birgu, serving as the central gathering place for the community since medieval times. It was famously renamed to honor the heroic defense of the city during the Great Siege of 1565, which successfully broke the Ottoman invasion force. The prominent statue in the center represents Victory and was erected in 1705, though it was uniquely crafted by an anonymous Maltese sculptor whose identity remains unknown to this day.",
-                  "checkpointImage": "assets/images/history_vittoriosa_pjazza.jpg",
+                  "checkpointText": "Constructed between 1714 and 1716, St. George’s Redoubt is an unusual semi-circular fortress built by the Knights of St. John to protect the inner shores of the bay. Unlike most Hospitaller redoubts which were built in a pentagonal shape, this defense post was uniquely designed to wrap around and absorb the pre-existing 1683 Chapel of St. George directly into its stone structure. Just across the road on the rocky shoreline of the bay, you can witness one of Malta's most striking archaeological enigmas: a pair of prehistoric cart ruts that slide directly off the land and disappear deep into the sea. Because these ancient grooves continue underwater along the sea floor, they offer fascinating geological proof that the sea level was significantly lower when prehistoric settlers carved these tracks thousands of years ago.",
+                  "checkpointImage": "assets/images/history_bbugia_st_george_redoubt.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "End of Cold War Monument",
+                  "id": "End of Cold War Memorial",
                   "type": "iconic_landmark",
                   "latitude": 35.827139,     
                   "longitude": 14.533442,
-                  "checkpointTitle": "End of Cold War Monument",
-                  "checkpointText": "The Vittoriosa Ditch is a massive defensive trench carved directly into the limestone during the 16th century to safeguard the city’s landfront from enemy invasions. Following extensive restoration work, this former military dead-zone reopened as a peaceful public garden filled with olive trees and winding walkways. Deep inside the ditch walls, you can spot old doorways that served as vital, life-saving air-raid shelters for civilians during World War II. The garden also hides a rare, excavated 18th-century caponier —a fortified stone tunnel designed to allow Knights to safely cross the ditch while firing at attackers from a protected position.",
-                  "checkpointImage": "assets/badges/history_vittoriosa_landmark_ditch.png",
-                  "badgeImage": "assets/badges/history_vittoriosa_landmark_ditch.png"
+                  "checkpointTitle": "End of Cold War Memorial",
+                  "checkpointText": "This abstract iron monument commemorates the historic 1989 Malta Summit where the Cold War was officially declared over. On December 2–3, 1989, US President George H.W. Bush and Soviet Leader Mikhail Gorbachev met aboard warships anchored just off this coastline. Because fierce winter storms heavily rolled the naval vessels during the talks, international journalists famously dubbed the historic event the Seasick Summit. The monument itself features an artistic design representing the prows of two distinct ships merging together, symbolizing the historic transition from global conflict to peaceful international cooperation.",
+                  "checkpointImage": "assets/badges/history_bbuga_landmark_cold_war_mon.png",
+                  "badgeImage": "assets/badges/history_bbuga_landmark_cold_war_mon.png"
                 },
                 {
                   "id": "Pinto Battery",
@@ -4650,8 +4670,8 @@
                   "latitude": 35.826714,   
                   "longitude": 14.533266,
                   "checkpointTitle": "Pinto Battery",
-                  "checkpointText": "Victory Square is the bustling, historic heart of Birgu, serving as the central gathering place for the community since medieval times. It was famously renamed to honor the heroic defense of the city during the Great Siege of 1565, which successfully broke the Ottoman invasion force. The prominent statue in the center represents Victory and was erected in 1705, though it was uniquely crafted by an anonymous Maltese sculptor whose identity remains unknown to this day.",
-                  "checkpointImage": "assets/images/history_vittoriosa_pjazza.jpg",
+                  "checkpointText": "Built between 1715 and 1716, Pinto Battery—also known locally as Batterija tal-Għżira—is an 18th-century military outpost constructed by the Order of St. John to protect Pretty Bay from enemy beach landings. Named after Grandmaster Manuel Pinto da Fonseca, who heavily reinforced Malta’s southern defenses, this stronghold originally featured a semi-circular gun platform equipped with eight cannon embrasures, a protective rock-cut ditch, and a rear defensive blockhouse. Over the centuries, the fort underwent bizarre domestic alterations; the original defensive walls and gun parapets were largely demolished, and the historic blockhouse was heavily modified to operate as a local bar and a private garage.  Though only the basic foundation outlines of the original military platform remain visible on Triq il-Gżira today, it stands as a Grade 1 protected monument showing how ancient coastal shields were absorbed into modern civilian streets.",
+                  "checkpointImage": "assets/images/history_bbugia_pinto_battery.jpg",
                   "badgeImage": ""
                 },
                 {
@@ -4660,8 +4680,8 @@
                   "latitude": 35.820868,  
                   "longitude": 14.530185,
                   "checkpointTitle": "Birzebbuga Entrenchment",
-                  "checkpointText": "Victory Square is the bustling, historic heart of Birgu, serving as the central gathering place for the community since medieval times. It was famously renamed to honor the heroic defense of the city during the Great Siege of 1565, which successfully broke the Ottoman invasion force. The prominent statue in the center represents Victory and was erected in 1705, though it was uniquely crafted by an anonymous Maltese sculptor whose identity remains unknown to this day.",
-                  "checkpointImage": "assets/images/history_vittoriosa_pjazza.jpg",
+                  "checkpointText": "Constructed in 1761, the Birżebbuġa Entrenchment represents a critical 18th-century shift in military strategy by the Knights of St. John to actively stop invading forces right at the shoreline. Moving away from their previous doctrine of letting enemies land and retreating to fortified inland cities, the Knights attempted to turn the entire island coast into an unbroken, impregnable defensive fortress. These lines featured six-meter-high rusticated stone curtain walls and obtuse-angled bastions pierced with central cannon embrasures to provide a constant firing line for local infantrymen.",
+                  "checkpointImage": "assets/images/history_bbugia_entrenchment.jpg",
                   "badgeImage": ""
                 }
               ],
@@ -4669,23 +4689,23 @@
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Route starts near the outer gates of Vittoriosa and ends at the scenic waterfront. Parking is best sought outside the fortified walls. There is a small parking area near the college and parking spaces around the bus stop area. Bus routes 2 and 3 connect Valletta and Birgu, as well as the fast ferry service and private rides on traditional Maltese boats. Start location coordinates: 35.826669, 14.527535."
+                    "description": "This circular route starts right by the Birżebbuġa Parish Church and finishes on the sandy shores of Pretty Bay, making it highly accessible by both public transport and private car. If traveling by bus, you can take route 82 directly from Valletta alighting at the Birżebbuġa stop right outside the church. For those driving, public parking spaces are available near the Church and along the Pretty Bay Promenade, even though this is a highly frequented area in summer. Start location coordinates: 35.826669, 14.527535."
                   },
                   {
                     "title": "Historic experience",
-                    "description": "Walking through Vittoriosa is like stepping straight into a time capsule of living medieval and maritime history. This trek layout allows users to experience the intimate, authentic side of Malta’s past, completely away from the heavy crowds of the capital. By navigating these exact pathways, users trace the ultimate timeline of the island."
+                    "description": "This trek offers a panoramic walk through time, tracing Malta's evolution from deep prehistory to contemporary global diplomacy. By following this trail, you will step onto a chronological timeline spanning thousands of years. You will witness ancient Bronze Age fortifications and mysterious underwater cart ruts, walk past an array of 18th-century Knights-era coastal redoubts and entrenchments, and stand where the Cold War was officially declared over in 1989. The journey highlights how a once-isolated, strategic military bay slowly transformed into a beloved seaside resort town."
                   },
                   {
                     "title": "The Route",
-                    "description": "Takes you on an immersive journey through the highly fortified peninsula of Birgu, exploring its grand defense systems, hidden quarters, and monumental waterfronts. You will first unlock the intricate layer of Baroque fortifications at the Couvre Porte and descend into the transformed Vittoriosa Ditch Gardens. The path then guides you along the panoramic seaside promenade looking out onto Kalkara Bay, loops through the iconic arches of the mighty Fort St. Angelo, and sweeps past historical epicenters like Victory Square and the infamous Inquisitor's Palace."
+                    "description": "This circular coastal route begins at the monumental Birżebbuġa Parish Church and loops around the scenic waterfronts of St. George's Bay and Pretty Bay. The trail leads you on a fascinating chronological journey, transitioning from ancient prehistoric footprints and Bronze Age defensive ruins into clusters of historic 17th and 18th-century chapels. As you hug the shoreline, the path highlights the dense network of coastal batteries, redoubts, and military entrenchments left behind by the Knights of St. John. The walk then brings you into modern history at a prominent global peace memorial, before tracking the town's defensive lines and opening up directly onto the sandy beach."
                   },
                   {
                     "title": "Practical Info",
                     "description": "To beat the intense summer heat, start this trek between 06:30 PM and 07:30 PM to catch the sunset before the ancient streets light up for an atmospheric night walk. Keep in mind that the Vittoriosa Ditch Gardens close their gates daily at 09:00 PM, so complete that checkpoint early in your loop. Finally, wear comfortable footwear for the historic staircases."
                   }
                 ],
-                "imagePrimary": "assets/images/details/history_vittoriosa_info_img1.jpg",
-                "imageSecondary": "assets/images/details/history_vittoriosa_info_img2.jpg"
+                "imagePrimary": "assets/images/details/history_bbugia_info_img1.jpg",
+                "imageSecondary": "assets/images/details/history_bbugia_info_img2.jpg"
               },
               "standardPrice": 0.0,
               "discountedPrice": 0.0,
