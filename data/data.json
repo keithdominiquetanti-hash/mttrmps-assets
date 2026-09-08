@@ -4289,19 +4289,19 @@
 
             {
               "id": "history-valletta-coastal",
-              "name": "Valletta Coastal Walk",
-              "bannerImage": "assets/images/history_vittoriosa_info_img1.jpg",
-              "badgeImage": "assets/badges/history_vittoriosa_badge.png",
-              "gpxFile": "assets/gpx/history-valletta-loop-test.gpx",
+              "name": "Valletta (DAYLIGHT) Coastal Walk",
+              "bannerImage": "assets/images/details/history_valletta_coastal_info_img1.jpg",
+              "badgeImage": "assets/badges/history_valletta_coastal_badge.png",
+              "gpxFile": "assets/gpx/history-valletta-coastal.gpx",
               "shortDescription": "Loop around the outer ring of Valletta's fortifications along the coast for some sea breeze.",
               "details": {
-                "distance": "5.1km",
+                "distance": "5.2km",
                 "time": "2.0 hour",
-                "elevation": "85m",
+                "elevation": "108m",
                 "difficulty": "Moderate",
                 "loop": "Loop",
-                "shoes": "Trainers",
-                "hidden_gems": "1",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "2",
                 "iconic_landmarks": "4"
               },
               "checkpoints": [
@@ -4311,8 +4311,8 @@
                   "latitude": 35.894068,   
                   "longitude": 14.512551,
                   "checkpointTitle": "Old Customs House & Upper Barakka Lift",
-                  "checkpointText": "The Vittoriosa Ditch is a massive defensive trench carved directly into the limestone during the 16th century to safeguard the city’s landfront from enemy invasions. Following extensive restoration work, this former military dead-zone reopened as a peaceful public garden filled with olive trees and winding walkways. Deep inside the ditch walls, you can spot old doorways that served as vital, life-saving air-raid shelters for civilians during World War II. The garden also hides a rare, excavated 18th-century caponier —a fortified stone tunnel designed to allow Knights to safely cross the ditch while firing at attackers from a protected position.",
-                  "checkpointImage": "assets/images/history_vittoriosa_couvre_porte.jpg",
+                  "checkpointText": "Built in 1774 by Grandmaster Manuel Pinto da Fonseca, the Old Customs House is a striking Baroque landmark that has welcomed maritime travelers arriving by ship into the Grand Harbour for over two centuries. This heavily fortified, elegant gateway stands directly at the water's edge, serving as a historic entry point where goods and merchants were inspected during the heights of Malta's historic shipping trade. Just across the road, you can look straight up at the monumental, 58-meter-high concrete tower of the modern Upper Barrakka Lift. While this loop stays firmly at sea level and does not take the elevator up, passing beneath its massive shadow highlights the sheer verticality of Valletta's defensive bastions, showing how the city's creators used natural cliffs to forge an impregnable fortress.",
+                  "checkpointImage": "assets/images/history_valletta_coastal_customs.jpg",
                   "badgeImage": ""
                 },
                 {
@@ -4321,8 +4321,8 @@
                   "latitude": 35.894981,  
                   "longitude": 14.513409,
                   "checkpointTitle": "Knisja Madonna ta' Liesse",
-                  "checkpointText": "The Vittoriosa Ditch is a massive defensive trench carved directly into the limestone during the 16th century to safeguard the city’s landfront from enemy invasions. Following extensive restoration work, this former military dead-zone reopened as a peaceful public garden filled with olive trees and winding walkways. Deep inside the ditch walls, you can spot old doorways that served as vital, life-saving air-raid shelters for civilians during World War II. The garden also hides a rare, excavated 18th-century caponier —a fortified stone tunnel designed to allow Knights to safely cross the ditch while firing at attackers from a protected position.",
-                  "checkpointImage": "assets/images/history_vittoriosa_couvre_porte.jpg",
+                  "checkpointText": "A beautiful 18th-century Baroque temple built directly onto the fortifications to protect and bless mariners entering the Grand Harbour. The current church was rebuilt in 1740 on the site of a 17th-century predecessor, funded heavily by the French Knights of the Order of St. John. The sanctuary is tied to a legendary medieval miracle involving three captive French knights and a miraculous statue of the Virgin Mary given to them by the Sultan's daughter in Cairo. Because of its location right next to the busy historic docks, this church quickly became the ultimate spiritual hub for sailors, corsairs, and laborers working the bustling Grand Harbour waterfront.",
+                  "checkpointImage": "assets/images/history_valletta_coastal_ta_liesse.jpg",
                   "badgeImage": ""
                 },
                 {
@@ -4331,9 +4331,9 @@
                   "latitude": 35.895819,  
                   "longitude": 14.513623,
                   "checkpointTitle": "Victoria Gate",
-                  "checkpointText": "This scenic viewpoint along the Vittoriosa promenade offers a panoramic look across Kalkara Bay toward the grand, neo-classical St. Joseph Parish Church rising directly from the water's edge. Built in the 1950s, this massive domed temple actually replaced an earlier 19th-century church that stood slightly closer to the marina until it was completely leveled during a devastating World War II air raid on April 10, 1942. Looking across the water to the right, you can also spot the sprawling colonial complex of Villa Bighi. Once a premier British naval hospital, it famously featured an outdoor cliffside elevator built specifically to hoist injured sailors straight out of incoming sea vessels and up into the medical wards.",
-                  "checkpointImage": "assets/badges/history_vittoriosa_gem_valletta_view.png",
-                  "badgeImage": "assets/badges/history_vittoriosa_gem_valletta_view.png"
+                  "checkpointText": "Built by the British military in 1885, Victoria Gate is a monumental limestone archway that stands as the only surviving historic gate along Valletta’s entire Grand Harbour waterfront. Designed by the prominent Maltese architect Emanuele Luigi Galizia, this grand Neo-Classical structure replaced an older, narrower 16th-century gate to accommodate the massive surge of traffic coming from the busy British dockyards below. The gate features two large archways for horse-drawn carriages alongside two smaller side doors for pedestrians, all crowned with the coat of arms of the British Royal Family and the Maltese island shield.",
+                  "checkpointImage": "assets/badges/history_valletta_coastal_landmark_victoria_gate.png",
+                  "badgeImage": "assets/badges/history_valletta_coastal_landmark_victoria_gate.png"
                 },
                 {
                   "id": "Lower Barrakka Gardens",
@@ -4341,68 +4341,108 @@
                   "latitude": 35.897507,  
                   "longitude": 14.517083,
                   "checkpointTitle": "Lower Barrakka Gardens",
-                  "checkpointText": "The Vittoriosa Ditch is a massive defensive trench carved directly into the limestone during the 16th century to safeguard the city’s landfront from enemy invasions. Following extensive restoration work, this former military dead-zone reopened as a peaceful public garden filled with olive trees and winding walkways. Deep inside the ditch walls, you can spot old doorways that served as vital, life-saving air-raid shelters for civilians during World War II. The garden also hides a rare, excavated 18th-century caponier —a fortified stone tunnel designed to allow Knights to safely cross the ditch while firing at attackers from a protected position.",
-                  "checkpointImage": "assets/badges/history_vittoriosa_landmark_ditch.png",
-                  "badgeImage": "assets/badges/history_vittoriosa_landmark_ditch.png"
+                  "checkpointText": "Perched high atop St. Christopher’s Bastion, the Lower Barrakka Gardens offer a lush, tranquil oasis looking directly out over the mouth of the Grand Harbour. The center of the garden features a prominent, neo-classical temple monument dedicated to Sir Alexander Ball, the British naval officer who led the Maltese insurgents during the 1798 blockade against the French. This scenic outpost sits directly across the water from the massive walls of Fort St. Angelo and the Three Cities, offering an incredible vantage point to view entering ships. If you look closely near the terrace edge, you can also spot a series of commemorative plaques honoring historical events, including the 50th anniversary of the 1956 Hungarian Revolution.",
+                  "checkpointImage": "assets/badges/history_valletta_coastal_landmark_lower_barakka.png",
+                  "badgeImage": "assets/badges/history_valletta_coastal_landmark_lower_barakka.png"
                 },
                 {
-                  "id": "World War II Memorial & Siege Bell",
+                  "id": "Siege Bell War Memorial",
                   "type": "milestone",
-                  "latitude": 35.898126,  
-                  "longitude": 14.517965,
-                  "checkpointTitle": "World War II Memorial & Siege Bell",
-                  "checkpointText": "The Vittoriosa Ditch is a massive defensive trench carved directly into the limestone during the 16th century to safeguard the city’s landfront from enemy invasions. Following extensive restoration work, this former military dead-zone reopened as a peaceful public garden filled with olive trees and winding walkways. Deep inside the ditch walls, you can spot old doorways that served as vital, life-saving air-raid shelters for civilians during World War II. The garden also hides a rare, excavated 18th-century caponier —a fortified stone tunnel designed to allow Knights to safely cross the ditch while firing at attackers from a protected position.",
-                  "checkpointImage": "assets/images/history_vittoriosa_kalkara_bay.jpg",
+                  "latitude": 35.897373,   
+                  "longitude": 14.518039,
+                  "checkpointTitle": "Siege Bell War Memorial",
+                  "checkpointText": "Unveiled in 1992 by Queen Elizabeth II, the Siege Bell War Memorial is a monumental neoclassical monument honoring the over 7,000 soldiers and civilians who lost their lives during the intense World War II Siege of Malta. Designed by British sculptor Michael Sandle, the memorial features a massive bronze bell—the largest ever cast in Malta—suspended inside a striking, open-air limestone belfry that projects out over the bastion walls. Directly adjacent to the belfry, a bronze sculpture of a fallen soldier lies draped in a burial shroud on a stone plinth, symbolizing the heavy price paid to defend the island during the air raids.",
+                  "checkpointImage": "assets/images/history_valletta_coastal_siege_ball.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Fort St. Elmo",
-                  "type": "iconic_landmark",
-                  "latitude": 35.900732,   
-                  "longitude": 14.519099,
-                  "checkpointTitle": "Fort St. Elmo",
-                  "checkpointText": "The Vittoriosa Ditch is a massive defensive trench carved directly into the limestone during the 16th century to safeguard the city’s landfront from enemy invasions. Following extensive restoration work, this former military dead-zone reopened as a peaceful public garden filled with olive trees and winding walkways. Deep inside the ditch walls, you can spot old doorways that served as vital, life-saving air-raid shelters for civilians during World War II. The garden also hides a rare, excavated 18th-century caponier —a fortified stone tunnel designed to allow Knights to safely cross the ditch while firing at attackers from a protected position.",
-                  "checkpointImage": "assets/badges/history_vittoriosa_landmark_ditch.png",
-                  "badgeImage": "assets/badges/history_vittoriosa_landmark_ditch.png"
+                  "id": "Natural Arch",
+                  "type": "hidden_gem",
+                  "latitude": 35.902351,     
+                  "longitude": 14.519966,
+                  "checkpointTitle": "Natural Arch",
+                  "checkpointText": "An amazing natural rock arch formation located right under the walls of St. Elmo and the Grand Harbour entrance.",
+                  "checkpointImage": "assets/badges/history_valletta_coastal_gem_arch.png",
+                  "badgeImage": "assets/badges/history_valletta_coastal_gem_arch.png"
                 },
                 {
                   "id": "St. Elmo Bridge & Breakwater",
                   "type": "hidden_gem",
-                  "latitude": 35.902730,   
-                  "longitude": 14.520160,
+                  "latitude": 35.902900,    
+                  "longitude": 14.520232,
                   "checkpointTitle": "St. Elmo Bridge & Breakwater",
-                  "checkpointText": "Now right at the very tip of the peninsula in front of Fort St. Angelo, this breathtaking viewpoint offers a rare, unobstructed panorama of the entire Grand Harbour, with the fortified city of Valletta rising dramatically on the opposite shore. From this vantage point, you can see the full sweep of Valletta's iconic skyline, including the domes of its historic churches. This specific angle perfectly highlights the mighty Fort St. Elmo guarding the harbor mouth opposite you, mirroring Fort St. Angelo's defensive position. Ironically, during the 1565 Great Siege, this vast water gap was a terrifying, active combat zone where Ottoman soldiers and the Knights relentlessly traded heavy cannon fire across the harbor.",
-                  "checkpointImage": "assets/badges/history_vittoriosa_gem_valletta_view.png",
-                  "badgeImage": "assets/badges/history_vittoriosa_gem_valletta_view.png"
+                  "checkpointText": "Constructed between 1903 and 1906, the massive Grand Harbour Breakwater stands as a monumental engineering feat designed by the British Admiralty to shelter the fleet from fierce winter storms. The primary highlight at this viewpoint is the striking St. Elmo Bridge, a sleek, modern steel footbridge unveiled in 2012 to replace the original 1906 Victorian footbridge that was spectacularly destroyed by an Italian explosive motorboat raid during World War II. Looking across the water from this angle, you can see the isolated outer lighthouse standing at the tip of the breakwater arm. This deep-water channel serves as the official marine gateway to the capital, making it a dramatic spot to watch huge cargo liners and traditional water taxis enter the sheltered waters of the harbor.",
+                  "checkpointImage": "assets/badges/history_valletta_coastal_gem_breakwater_bridge.png",
+                  "badgeImage": "assets/badges/history_valletta_coastal_gem_breakwater_bridge.png"
+                },
+                {
+                  "id": "Fort St. Elmo",
+                  "type": "iconic_landmark",
+                  "latitude": 35.902949,    
+                  "longitude": 14.520072,
+                  "checkpointTitle": "Fort St. Elmo",
+                  "checkpointText": "Standing at the absolute tip of the Sciberras Peninsula, this sea-level vantage point offers an incredible view of the jagged limestone foundations and towering curtain walls of Fort St. Elmo. This star-shaped fortress is legendary for its heroic, month-long resistance during the Great Siege of 1565, where a tiny garrison successfully delayed the massive Ottoman army, buying critical time for the rest of the island’s defenses to prepare. Viewing it from this rugged, wave-swept coastal path reveals the ingenious military architecture designed to withstand relentless bombardments from enemy warships entering both the Grand Harbour and Marsamxett Harbour.",
+                  "checkpointImage": "assets/badges/history_valletta_coastal_landmark_st_elmo.png",
+                  "badgeImage": "assets/badges/history_valletta_coastal_landmark_st_elmo.png"
                 },
                 {
                   "id": "Il-Fossa",
                   "type": "milestone",
-                  "latitude": 35.902185,       
-                  "longitude": 14.516602,
+                  "latitude": 35.902116,        
+                  "longitude": 14.516582,
                   "checkpointTitle": "Il-Fossa",
-                  "checkpointText": "The Couvre Porte is a complex, multi-layered defensive gateway system built by the Knights of St John between 1716 and 1730 to safeguard the main entrance to Vittoriosa. Designed by French military engineers Charles François de Mondion and Louis François de Tigné, this impressive Baroque bottleneck forced attackers to navigate three successive gates under constant defensive fire. Interestingly, the name Couvre Porte translates from French to covered gate, referring to the strategic outer counterguard built specifically to hide and shelter the city's inner gates from direct enemy artillery. Today, the British-era barracks built directly inside these massive fortification walls house the popular Malta at War Museum.",
-                  "checkpointImage": "assets/images/history_vittoriosa_couvre_porte.jpg",
+                  "checkpointText": "Tucked directly beneath the towering northern ramparts of Fort St. Elmo, Il-Fossa is a rugged, concrete beach platform that serves as a legendary local swimming spot and a hidden cultural enclave. The area provides an uninterrupted view across the mouth of Marsamxett Harbour toward Fort Tigné and is famous for its raw, exposed exposure to the open Mediterranean elements. Pause here to observe the colorful traditional boat houses carved directly into the lower limestone counterscarps.",
+                  "checkpointImage": "assets/images/history_valletta_coastal_fossa.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Fort Tigne",
+                  "type": "milestone",
+                  "latitude": 35.902424,        
+                  "longitude": 14.513468,
+                  "checkpointTitle": "Fort Tigne",
+                  "checkpointText": "Looking across the water from the northern coast of Valletta, you can spot Fort Tigné standing at the tip of the Sliema peninsula. Built by the Order of Saint John between 1793 and 1795, it is recognized globally as one of the oldest polygonal fortresses in the world. This promontory holds deep historical significance; during the Great Siege of Malta in 1565, the invading Ottomans placed an artillery battery on this exact spot to relentlessly bombard Valletta's Fort St. Elmo. Today, the fortress serves as a striking visual bridge where Malta's revolutionary military engineering directly contrasts with the modern skyline of Sliema.",
+                  "checkpointImage": "assets/images/history_valletta_coastal_tigne.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "St. Paul Anglican Cathedral",
+                  "type": "milestone",
+                  "latitude": 35.901644,         
+                  "longitude": 14.511913,
+                  "checkpointTitle": "St. Paul Anglican Cathedral",
+                  "checkpointText": "Rising over 60 metres above the rooftops, the neo-classical spire of St. Paul's Anglican Pro-Cathedral forms a defining silhouette along Valletta’s northern coastal front. Commissioned by the British Dowager Queen Adelaide and completed in 1844, this prominent needle stands as one of the most symbolic architectural markers of the British colonial era in Malta.",
+                  "checkpointImage": "assets/images/history_valletta_coastal_anglican.jpg",
                   "badgeImage": ""
                 },
                 {
                   "id": "Marsamxett Harbour & Manoel Island View",
                   "type": "milestone",
-                  "latitude": 35.899108,       
-                  "longitude": 14.506175,
+                  "latitude": 35.899475,       
+                  "longitude": 14.507321,
                   "checkpointTitle": "Marsamxett Harbour & Manoel Island View",
-                  "checkpointText": "The Couvre Porte is a complex, multi-layered defensive gateway system built by the Knights of St John between 1716 and 1730 to safeguard the main entrance to Vittoriosa. Designed by French military engineers Charles François de Mondion and Louis François de Tigné, this impressive Baroque bottleneck forced attackers to navigate three successive gates under constant defensive fire. Interestingly, the name Couvre Porte translates from French to covered gate, referring to the strategic outer counterguard built specifically to hide and shelter the city's inner gates from direct enemy artillery. Today, the British-era barracks built directly inside these massive fortification walls house the popular Malta at War Museum.",
-                  "checkpointImage": "assets/images/history_vittoriosa_couvre_porte.jpg",
+                  "checkpointText": "This panoramic viewing spot along the northern bastions offers an incredible view across the deep blue waters of Marsamxett Harbour directly toward the historic shores of Manoel Island. Looking out across the water, you can clearly see the sprawling stone layout of Fort Manoel, a star-shaped 18th-century fortress built by the Knights of St. John to protect Valletta's vulnerable northern flank. This side of the capital's perimeter historically faced the calmer, secondary harbor, which the Knights and British military cleverly utilized as a strict quarantine zone for arriving ships to prevent deadly plagues from entering the main city.",
+                  "checkpointImage": "assets/images/history_valletta_coastal_manoel_island.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Mall Garden & Indepedence Monument",
+                  "id": "St. Michael Bastion",
+                  "type": "milestone",
+                  "latitude": 35.898915,   
+                  "longitude": 14.505875,
+                  "checkpointTitle": "St. Michael Bastion",
+                  "checkpointText": "Positioned at the westernmost extremity of Valletta’s massive land front, St. Michael’s Bastion stands as a colossal guardian over the waters of Marsamxett Harbour. Constructed by the Order of Saint John in the late 16th century, this immense demi-bastion once held high-altitude artillery lines and strategic flour windmills designed to sustain the walled city during intense military sieges. Its sheer limestone drop is punctuated by a historic gardjola—a stone watchtower jutting out over the precipice to give sentries a clear line of sight against invading ships. Today, the bastion's upper terrace forms a seamless part of the tranquil Hastings Gardens.",
+                  "checkpointImage": "assets/images/history_valletta_coastal_michael_bastion.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Indepedence Monument & Mall Garden",
                   "type": "milestone",
                   "latitude": 35.893498,        
                   "longitude": 14.505090,
-                  "checkpointTitle": "Mall Garden & Indepedence Monument",
-                  "checkpointText": "The Couvre Porte is a complex, multi-layered defensive gateway system built by the Knights of St John between 1716 and 1730 to safeguard the main entrance to Vittoriosa. Designed by French military engineers Charles François de Mondion and Louis François de Tigné, this impressive Baroque bottleneck forced attackers to navigate three successive gates under constant defensive fire. Interestingly, the name Couvre Porte translates from French to covered gate, referring to the strategic outer counterguard built specifically to hide and shelter the city's inner gates from direct enemy artillery. Today, the British-era barracks built directly inside these massive fortification walls house the popular Malta at War Museum.",
-                  "checkpointImage": "assets/images/history_vittoriosa_couvre_porte.jpg",
+                  "checkpointTitle": "Indepedence Monument & Mall Garden",
+                  "checkpointText": "Spanning a long, linear stretch just outside the main city gates, The Mall is a historic 17th-century promenade originally created by Grandmaster Lascaris as an exclusive playground for the Knights of St. John to play a popular croquet-like game called pallo a maglio. This beautifully landscaped walkway was the very first public garden established on the Maltese islands and is lined with historic stone pillars, monuments, and a series of busts honoring prominent figures in Maltese history. At the far end of this green corridor stands the monumental Independence Monument, a striking 14-meter-high abstract sculpture unveiled in 1989 to mark 25 years since Malta gained its independence from Great Britain. The expressive statue features a female figure representing Malta dynamically breaking free from her colonial bonds.",
+                  "checkpointImage": "assets/images/history_valletta_coastal_indepedence.jpg",
                   "badgeImage": ""
                 },
                 {
@@ -4411,32 +4451,32 @@
                   "latitude": 35.895440,     
                   "longitude": 14.508019,
                   "checkpointTitle": "Tritoni Fountain & Square",
-                  "checkpointText": "Wesgħet il-Kolleġġjata 1820 is the official name given to the open parish squares directly bordering the side of the monumental Collegiate Church of St. Lawrence. This side terrace links the main church parvis with the adjacent Oratory of St. Joseph, acting as a gathering space for the community during major religious events. Its specific title was inaugurated to commemorate the historic bicentenary of Pope Pius VII elevating this ancient parish to the prestigious status of a Collegiate church back in 1820.",
-                  "checkpointImage": "assets/badges/history_vittoriosa_landmark_wesghet_kolleggjata.png",
-                  "badgeImage": "assets/badges/history_vittoriosa_landmark_wesghet_kolleggjata.png"
+                  "checkpointText": "Serving as the spectacular final destination of this perimeter trek, Pjazza Tritoni is a grand, open-air public plaza centered around Malta's most iconic modernist landmark: the majestic Triton Fountain. Completed in 1959 by the celebrated Maltese sculptor Vincent Apap, the monumental fountain features three massive, bronze mythical Tritons dynamically balancing a large travertine platter on their shoulders. This vast pedestrian plaza was once the frantic, smog-filled hub for the island's old fleet of colorful buses until a major urban regeneration project completely restored the square, pushing traffic away to reveal the raw majesty of Valletta's colossal city gate bastions.",
+                  "checkpointImage": "assets/badges/history_valletta_coastal_tritoni_fountain.png",
+                  "badgeImage": "assets/badges/history_valletta_coastal_tritoni_fountain.png"
                 }
               ],
               "detailContent": {
                 "highlights": [
                   {
                     "title": "Getting there",
-                    "description": "Route starts near the outer gates of Vittoriosa and ends at the scenic waterfront. Parking is best sought outside the fortified walls. There is a small parking area near the college and parking spaces around the bus stop area. Bus routes 2 and 3 connect Valletta and Birgu, as well as the fast ferry service and private rides on traditional Maltese boats. Start location coordinates: 35.893767, 14.509394."
+                    "description": "Because this circular route begins exactly at the main Valletta Bus Terminus and ends next door at Pjazza Tritoni, public transport is the absolute ideal mode of travel. As the island's central transit hub, nearly every major bus route in Malta terminates right at this starting point, making it incredibly simple to access from any town or village. If you choose to drive, you will need to utilize the multi-story MCP Car Park in Floriana or look for parking spaces along the outer ring road, though catching a bus directly to the terminus remains the most stress-free option. Start location coordinates: 35.893767, 14.509394."
                   },
                   {
                     "title": "Historic experience",
-                    "description": "Walking through Vittoriosa is like stepping straight into a time capsule of living medieval and maritime history. This trek layout allows users to experience the intimate, authentic side of Malta’s past, completely away from the heavy crowds of the capital. By navigating these exact pathways, users trace the ultimate timeline of the island."
+                    "description": "This trek offers a profound appreciation for the sheer defensive scale of Valletta, shifting your attention from the busy grid of baroque palaces to the colossal stone walls that protected them. Walking this outer perimeter traces an incredible maritime and military timeline across the centuries. The journey beautifully captures the contrast between the bustling industrial echoes of the Grand Harbour and the peaceful, sweeping vistas of Marsamxett Harbour."
                   },
                   {
                     "title": "The Route",
-                    "description": "Takes you on an immersive journey through the highly fortified peninsula of Birgu, exploring its grand defense systems, hidden quarters, and monumental waterfronts. You will first unlock the intricate layer of Baroque fortifications at the Couvre Porte and descend into the transformed Vittoriosa Ditch Gardens. The path then guides you along the panoramic seaside promenade looking out onto Kalkara Bay, loops through the iconic arches of the mighty Fort St. Angelo, and sweeps past historical epicenters like Victory Square and the infamous Inquisitor's Palace."
+                    "description": "This perimeter loop breaks away from the main inner tourist attractions to guide you along a much quieter, cooler, and breezy outside loop around the capital's massive bastions. Starting right at the central bus terminus, the trail descends down to sea level along the Grand Harbour to trace the historic shipping gateways and dockside chapels built directly into the fortifications. The path then ascends toward the high bastion edges, leading you through scenic garden oases and monumental war memorials overlooking the open sea. Hugging the absolute tip of the peninsula, you will explore the rugged coastal paths and local swimming enclaves beneath the towering walls of Fort St. Elmo. Finally, the walk transitions to the calmer Marsamxett side, offering panoramic harbor views toward Manoel Island before cutting through historic promenade gardens to finish at the majestic Triton Fountain."
                   },
                   {
                     "title": "Practical Info",
-                    "description": "To beat the intense summer heat, start this trek between 06:30 PM and 07:30 PM to catch the sunset before the ancient streets light up for an atmospheric night walk. Keep in mind that the Vittoriosa Ditch Gardens close their gates daily at 09:00 PM, so complete that checkpoint early in your loop. Finally, wear comfortable footwear for the historic staircases."
+                    "description": "To navigate this perimeter trek safely, you must plan your walk to complete the rugged stretch behind Fort St. Elmo and the breakwater during clear daylight hours. This specific coastal section is completely exposed to the elements and must strictly be avoided during windy conditions or rough seas, as large swells can suddenly crash over the low stone walkways. Because the route traces the natural contours of the Sciberras Peninsula, you will encounter significant vertical changes, so wearing sturdy, high-grip walking shoes is absolutely essential."
                   }
                 ],
-                "imagePrimary": "assets/images/details/history_vittoriosa_info_img1.jpg",
-                "imageSecondary": "assets/images/details/history_vittoriosa_info_img2.jpg"
+                "imagePrimary": "assets/images/details/history_valletta_coastal_info_img1.jpg",
+                "imageSecondary": "assets/images/details/history_valletta_coastal_info_img2.jpg"
               },
               "standardPrice": 0.0,
               "discountedPrice": 0.0,
@@ -4701,7 +4741,7 @@
                   },
                   {
                     "title": "Practical Info",
-                    "description": "To beat the intense summer heat, start this trek between 06:30 PM and 07:30 PM to catch the sunset before the ancient streets light up for an atmospheric night walk. Keep in mind that the Vittoriosa Ditch Gardens close their gates daily at 09:00 PM, so complete that checkpoint early in your loop. Finally, wear comfortable footwear for the historic staircases."
+                    "description": "To experience this trek at its absolute best, start your walk just before sunset (around 06:30 PM to 07:00 PM in summer). Setting off at this time allows you to catch the beautiful golden hour reflecting across St. George's Bay while avoiding the intense midday Mediterranean heat. The entire route is flat, entirely outdoors, and takes roughly 1.5 to 2 hours to complete at a leisurely pace. Because the historic chapels along this route are privately owned and remain closed to the public, you can view them seamlessly from the pavement without worrying about opening hours. Be sure to pack your swimwear and a towel—the route ends directly on the sandy beach of Pretty Bay, providing the perfect opportunity to reward yourself with a refreshing twilight dip in the sea as dusk falls."
                   }
                 ],
                 "imagePrimary": "assets/images/details/history_bbugia_info_img1.jpg",
