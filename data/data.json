@@ -4135,16 +4135,16 @@
               "name": "Bormla - Isla",
               "bannerImage": "assets/images/history_isla_info_img1.jpg",
               "badgeImage": "assets/badges/history_isla_badge.png",
-              "gpxFile": "assets/gpx/history_bormla_isla.gpx",
+              "gpxFile": "assets/gpx/history-bormla-isla.gpx",
               "shortDescription": "From Bormla Dock 1 to Isla Peninsula - A walk through history",
               "details": {
-                "distance": "3.5km",
+                "distance": "3.9km",
                 "time": "1.5 hour",
-                "elevation": "55m",
+                "elevation": "80m",
                 "difficulty": "Easy",
                 "loop": "Loop",
                 "shoes": "Trainers",
-                "hidden_gems": "1",
+                "hidden_gems": "2",
                 "iconic_landmarks": "4"
               },
               "checkpoints": [
@@ -4189,6 +4189,16 @@
                   "badgeImage": ""
                 },
                 {
+                  "id": "St. Michael Bastion & Clock Tower",
+                  "type": "hidden_gem",
+                  "latitude": 35.884895,       
+                  "longitude": 14.518912,
+                  "checkpointTitle": "St. Michael Bastion & Clock Tower",
+                  "checkpointText": "Standing on the high platform of St. Michael’s Bastion in Senglea, you are positioned at the historic birthplace of this fortified city. Directly beside you rises the prominent Senglea Clock Tower, a British-era landmark built in the early 20th century upon the surviving limestone foundations of the original, 16th-century Fort St. Michael. Looking outward from this elevated vantage point, the bastioned walls sweep down toward the old city gate, providing sweeping views over Dockyard Creek and the busy waters where the Order of Saint John once fiercely repelled Ottoman naval attacks during the Great Siege of 1565.",
+                  "checkpointImage": "assets/badges/history_isla_gem_michael_clock_tower.png",
+                  "badgeImage": "assets/badges/history_isla_gem_michael_clock_tower.png"
+                },
+                {
                   "id": "Senglea Basilica",
                   "type": "iconic_landmark",
                   "latitude": 35.885696,      
@@ -4216,7 +4226,7 @@
                   "checkpointTitle": "Gardjola Gardens",
                   "checkpointText": "Perched on the edge of the bastion, the Gardjola Gardens offer a panoramic view of Grand Harbour and Valletta. Grandmaster Claude de la Sengle planned these gardens in 1551 as a private relaxation area for the Knights of St. John. The main highlight is the iconic stone watchtower, known as Il-Gardjola, which hangs dramatically over the sea. Look closely at the window carvings on this watchtower: you will spot an eye, an ear, and a crane bird. These symbols represented the constant alertness required to guard the harbor against enemy ships and sneak pirate attacks.",
                   "checkpointImage": "assets/badges/hisotry_isla_landmark_gardjola.png",
-                  "badgeImage": "assets/badges/hisotry_isla_landmark_gardjola.png"
+                  "badgeImage": "assets/badges/history_isla_landmark_gardjola.png"
                 },
                 {
                   "id": "Senglea Grand Harbour View",
@@ -4239,12 +4249,12 @@
                   "badgeImage": ""
                 },
                 {
-                  "id": "St. Michael Bastion & Sheer Bastion",
+                  "id": "Sheer Bastion (Macina)",
                   "type": "milestone",
                   "latitude": 35.885198,  
                   "longitude": 14.520074,
-                  "checkpointTitle": "St. Michael Bastion & Sheer Bastion",
-                  "checkpointText": "Forming the massive land-front defenses of Senglea, St. Michael Bastion withstood the fiercest Ottoman assaults during the 1565 Great Siege, while the adjoining Sheer Bastion became the engine room of Malta's naval industry. Sheer Bastion is universally known by its local nickname, Il-Maċina, derived from the Italian word macchina. In 1642, the Knights of St. John fitted a massive wooden sheer legs crane onto this specific bastion wall to lift and install heavy timber masts into their war galleys. The British military later replaced the wooden structure with a giant iron crane, transforming the fortified bastion into a cutting-edge engineering yard. Today, the heavily reinforced stone vaults inside this historic military complex have been completely restored, operating as a luxury boutique hotel and exclusive event venue.",
+                  "checkpointTitle": "Sheer Bastion (Macina)",
+                  "checkpointText": "Passing beneath the monumental stone arches cut directly into the street level of the Maċina (Sheer Bastion), you enter the primary maritime gateway of Senglea. Constructed by the Order of Saint John in 1554, this colossal, wedge-shaped fortress derived its local name from the massive masting crane (macchina) that once crowned its ramparts to hoist and fit heavy masts onto historical galleys docked in the creek below. Walking through the modern roadway tunnels carved right through its base, you can look straight up to admire the immense, vaulting limestone architecture that has seamlessly evolved from a highly strategic 16th-century naval shield into a beautifully preserved UNESCO World Heritage tentative site and luxury boutique hotel.",
                   "checkpointImage": "assets/images/history_isla_sheer_bastion.jpg",
                   "badgeImage": ""
                 },
