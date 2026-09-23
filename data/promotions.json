@@ -2,17 +2,17 @@
   "promotions": [
     {
       "id": "promo-template-000",
-      "active": true,
-      "featured": true,
+      "active": false,
+      "featured": false,
       "provider": "Template",
       "category": "Templates",
       "shortDescription": "Templates.",
       "imageUrl": "syncro.png",
       "linkUrl": "https://syncroexpats.com",
       "placements": {
-        "homeScreen": true,
-        "preTrekPopup": true,
-        "routeMarker": true
+        "homeScreen": false,
+        "preTrekPopup": false,
+        "routeMarker": false
       },
       "trekAssignment": {
         "assignedTrekIds": [
