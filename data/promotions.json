@@ -1,6 +1,38 @@
 {
   "promotions": [
     {
+      "id": "promo-template-000",
+      "active": true,
+      "featured": true,
+      "provider": "Template",
+      "category": "Templates",
+      "shortDescription": "Templates.",
+      "imageUrl": "syncro.png",
+      "linkUrl": "https://syncroexpats.com",
+      "placements": {
+        "homeScreen": true,
+        "preTrekPopup": true,
+        "routeMarker": true
+      },
+      "trekAssignment": {
+        "assignedTrekIds": [
+          "Nature Winter Hikes-South & South East-nature-treks-southeast-inwadar"
+        ],
+        "popupHeading": "Near Start Point",
+        "popupNote": "Catalan Restaurant."
+      },
+      "routeMarker": {
+        "latitude": 35.888761, 
+        "longitude": 14.547066,
+        "markerTitle": "El Catalan",
+        "markerText": "Full range menu.",
+        "markerCategory": "Restaurant"
+      },
+      "displayOrder": 1,
+      "validFrom": "2026-09-20",
+      "validUntil": "2027-12-31"
+    },
+    {
       "id": "promo-syncro-001",
       "active": true,
       "featured": false,
@@ -11,12 +43,12 @@
       "linkUrl": "https://syncroexpats.com",
       "placements": {
         "homeScreen": true,
-        "preTrekPopup": false,
-        "routeMarker": false
+        "preTrekPopup": true,
+        "routeMarker": true
       },
       "trekAssignment": null,
       "routeMarker": null,
-      "displayOrder": 1,
+      "displayOrder": 2,
       "validFrom": "2026-09-20",
       "validUntil": "2027-12-31"
     }
