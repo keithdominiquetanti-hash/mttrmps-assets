@@ -670,16 +670,16 @@
                   "latitude": 35.885362,
                   "longitude": 14.552317,
                   "checkpointTitle": "Tal-Milord",
-                  "checkpointText": "A deep sea bathing summer spot for locals. We will soon take a quick extra deviation with a path on the right alongside the next Pillbox paths for more coastal formations.",
+                  "checkpointText": "A deep sea bathing summer spot for locals. We will soon take a quick extra deviation with a path alongside the next Pillbox further on for more coastal formations.",
                   "checkpointImage": "assets/images/treks_inwadar_milord.jpg",
                   "badgeImage": ""
                 },
                 {
-                  "id": "Tal Milord Cave Formation",
+                  "id": "Cave Formation - Blata l-Bajda",
                   "type": "hidden_gem",
                   "latitude": 35.882897, 
                   "longitude": 14.555915,
-                  "checkpointTitle": "Tal-Milord Cave formation",
+                  "checkpointTitle": "Cave Formation - Blata l-Bajda",
                   "checkpointText": "Coastal erosion at work, forming a mild cave formation. Avoid edges and going under the small caves/ rocks as this area is subject to heavy coastal erosions",
                   "checkpointImage": "assets/badges/treks_inwadar_gem_milord_cave.png",
                   "badgeImage": "assets/badges/treks_inwadar_gem_milord_cave.png"
