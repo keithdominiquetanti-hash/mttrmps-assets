@@ -2017,6 +2017,147 @@
             },
 
             {
+              "id": "nature-treks-west-bahrija-mtahleb",
+              "name": "Bahrija-Mtahleb",
+              "bannerImage": "assets/images/details/treks_bahrija_mtahleb_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_bahrija_mtahleb_badge.png",
+              "gpxFile": "assets/gpx/bahrija-mtahleb.gpx",
+              "shortDescription": "From the quaint Bahrija Village throiugh the scenic Mtahleb cliffs.",
+              "details": {
+                "distance": "9.7km",
+                "time": "2.5 hours",
+                "elevation": "185m",
+                "difficulty": "Hard",
+                "loop": "Loop",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "2",
+                "iconic_landmarks": "3"
+              },
+              "checkpoints": [
+                {
+                  "id": "Bahrija Church",
+                  "type": "milestone",
+                  "latitude": 35.896064 , 
+                  "longitude": 14.348534,
+                  "checkpointTitle": "Bahrija Church",
+                  "checkpointText": "Dedicated to Saint Martin of Tours, this modern parish church serves as the structural and communal anchor of Baħrija. Before achieving full parish status in modern times, this remote community relied for centuries on a tiny, 15th-century chapel nearby (visiting next) to celebrate their famous annual autumn harvest feast. The church’s wide courtyard offers an elevated view over the surrounding plains, marking the final pocket of village life before the trail transitions into the deep, quiet agricultural valleys below.",
+                  "checkpointImage": "assets/images/treks_bahrija_parish_church.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "San Martin Chapel",
+                  "type": "milestone",
+                  "latitude": 35.895694,   
+                  "longitude": 14.346985,
+                  "checkpointTitle": "San Martin Chapel",
+                  "checkpointText": "Tucked away below the village ridge, this small, simple chapel is the true historic heart of Baħrija, with origins dating back to the 15th century. It is dedicated to Saint Martin of Tours and is famous for hosting the annual autumn Festa ta' San Martin, where children are traditionally gifted a cloth bag (bixkilla) packed with local walnuts, figs, and hard-shelled almonds. This peaceful sanctuary provides a stark architectural contrast to the modern parish church up the hill, serving as a quiet gateway onto the rural valley trails ahead.",
+                  "checkpointImage": "assets/images/treks_bahrija_st_martin_chapel.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Bahrija Square and Cart Ruts",
+                  "type": "milestone",
+                  "latitude": 35.895052,    
+                  "longitude": 14.346574,
+                  "checkpointTitle": "Bahrija Square and Cart Ruts",
+                  "checkpointText": "This scenic square is the historical and social hub of Baħrija, long famous for its traditional restaurants specializing in authentic Maltese fenkata (rabbit stew). From here, the trail leads you onto Cart Ruts Road, where you can look out for deep, parallel grooves cut directly into the flat limestone bedrock. These enigmatic 'cart ruts' date back thousands of years to the Bronze Age or earlier, showcasing how prehistoric communities carved transport tracks straight into the island's stone long before modern roads existed.",
+                  "checkpointImage": "assets/images/treks_bahrija_cart_ruts.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Tal-Marca Valley",
+                  "type": "hidden_gem",
+                  "latitude": 35.894930,     
+                  "longitude": 14.339631,
+                  "checkpointTitle": "Tal-Marca Valley",
+                  "checkpointText": "This lush valley cuts deeply into the hard Upper Coralline limestone, acting as a natural drainage channel for the entire Baħrija plateau. Sheltered from the harsh coastal winds, the valley floor forms a rich maquis ecosystem where wild reeds, ancient carob trees, and wild fennel thrive year-round. Because the deep ravine traps moisture right below the region's clay table, the upcoming path passes directly over soft clay deposits—expect a noticeably muddy, heavy, and slippery trail that requires extra attention to your footing.",
+                  "checkpointImage": "assets/badges/treks_bahrija_mtahleb_gem_wied_marca.png",
+                  "badgeImage": "assets/badges/treks_bahrija_mtahleb_gem_wied_marca.png"
+                },
+                {
+                  "id": "Il-Qlejgha tal-Bahrija",
+                  "type": "iconic_landmark",
+                  "latitude": 35.895931,      
+                  "longitude": 14.335800,
+                  "checkpointTitle": "Il-Qlejgha tal-Bahrija",
+                  "checkpointText": "You are standing on the sheer edge of Il-Qlejgħa tal-Baħrija, a flat-topped promontory that served as a highly secure Bronze Age citadel dating back to around 900 BC. The steep, vertical cliffs surrounding this plateau provided a massive natural fortification, requiring the prehistoric inhabitants to build a stone defensive wall only across the narrow land neck to secure the entire area. If you look down carefully from this vantage point, you can appreciate why this strategic position was chosen to guard the fertile valleys and coastal approaches below.",
+                  "checkpointImage": "assets/badges/treks_bahrija_mtahleb_landmark_qleghja.png",
+                  "badgeImage": "assets/badges/treks_bahrija_mtahleb_landmark_qleghja.png"
+                },
+                {
+                  "id": "View onto Migra il-Ferha",
+                  "type": "milestone",
+                  "latitude": 35.886302,   
+                  "longitude": 14.342335,
+                  "checkpointTitle": "View onto Migra il-Ferha",
+                  "checkpointText": "From this elevated clifftop vantage point, look out along the rugged western coastline toward the dramatic area of Miġra l-Ferha. This coastal region is renowned for its sheer vertical rock faces and unique geological formations that drop straight into the deep Mediterranean channel below. While that specific sea cleft serves as a spectacular destination for a completely separate coastal hike—where trailblazers can descend a steep fissure right to the water's edge—this high path offers the perfect perspective to appreciate the raw, scale-defying power of Malta's western cliffs.",
+                  "checkpointImage": "assets/images/treks_bahrija_migra_ferha_view.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Mtahleb View",
+                  "type": "iconic_landmark",
+                  "latitude": 35.881881,       
+                  "longitude": 14.351218,
+                  "checkpointTitle": "Mtahleb View",
+                  "checkpointText": "This striking view captures the true, isolated essence of the Mtaħleb region, where the silhouette of the 17th-century chapel of the Nativity of the Blessed Virgin Mary stands guard over the rolling terraced landscape. The dramatic cliffs and valleys dropping into the glistening sea are shaped by a complex geological sandwich: rainwater seeps down through the upper porous rock layer until it hits a hidden, impermeable band of Blue Clay, creating natural hillside springs that have allowed local farming families to irrigate these steep, dramatic terraces for centuries.",
+                  "checkpointImage": "assets/badges/treks_bahrija_mtahleb_landmark_mtahleb_panorama.png",
+                  "badgeImage": "assets/badges/treks_bahrija_mtahleb_landmark_mtahleb_panorama.png"
+                },
+                {
+                  "id": "Mtahleb Chapel",
+                  "type": "iconic_landmark",
+                  "latitude": 35.880681,       
+                  "longitude": 14.355344,
+                  "checkpointTitle": "Mtahleb Chapel",
+                  "checkpointText": "Perched dramatically on the cliff edge, this quiet chapel is officially dedicated to the Nativity of the Blessed Virgin Mary and was constructed in 1656 by the noble advocate Giovanni Francesco d'Amico. Built to provide a place of worship for the isolated farming families working these remote terraced lands, it stands as a resilient testament to rural Maltese faith. Take a moment to look at the stone steps and paths nearby—the entire structure rests directly on a layer of shifting Blue Clay, requiring careful maintenance over the centuries to protect it from the creeping coastal landslides that slowly shape this valley.",
+                  "checkpointImage": "assets/badges/treks_bahrija_mtahleb_landmark_mtahleb_chapel.png",
+                  "badgeImage": "assets/badges/treks_bahrija_mtahleb_landmark_mtahleb_chapel.png"
+                },
+                {
+                  "id": "Panoramic View onto Ras-id-Dawwara",
+                  "type": "hidden_gem",
+                  "latitude": 35.876566,         
+                  "longitude": 14.361505,
+                  "checkpointTitle": "Panoramic View onto Ras-id-Dawwara",
+                  "checkpointText": "This stunning, elevated clifftop panorama overlooks the lush, terraced agricultural fields and rugged western coastline surrounding the areas of Ras id-Dawwara and Miġra l-Ferha. The expansive view perfectly highlights the raw geological beauty of the island, where sweeping green valleys slope gently before plunging dramatically over vertical limestone cliffs into the deep blue Mediterranean below. You have now reached the final checkpoint of this trail! From this exact location, you can choose how to complete your hike: you can turn around to head back along the same highly scenic coastal path, or follow the more direct, inland country route as displayed on your map.",
+                  "checkpointImage": "assets/badges/treks_bahrija_mtahleb_gem_dawwara_view.png",
+                  "badgeImage": "assets/badges/treks_bahrija_mtahleb_gem_dawwara_view.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "The trek starts and ends at the village centre of Baħrija. Street parking is available around the main square and adjacent side streets. If you are using public transport from Valletta, take bus route 51, which runs directly to the 'Baħrija' terminus. Coordinates to start point: 35.894509, 14.349521."
+                  },
+                  {
+                    "title": "The route",
+                    "description": "A magnificent rural and coastal loop showcasing Malta's wild western highlands. Starting from the Baħrija parish church, the trail winds past the historic San Martin chapel and ancient cart ruts before descending into the fertile Tal-Marċa Valley. It then hugs the dramatic cliff edges overlooking Il-Qlejgħa tal-Baħrija and Miġra l-Ferha, passes the isolated Mtaħleb chapel, and concludes at a breathtaking panoramic viewpoint."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Highly varied and physically demanding. Expect a mix of paved village streets, uneven country tracks, and rough garigue limestone cliff trails. Due to the high water retention of the region's natural Blue Clay layer, the paths winding through the valley floors and Mtaħleb terraces can become exceptionally muddy, heavy, and slippery after rainfall. High-traction hiking boots or trail shoes are strongly recommended."
+                  },
+                  {
+                    "title": "Safety Warnings",
+                    "description": "The extensive clifftop sections of this route feature sheer, unfenced vertical drop-offs with no safety barriers. Keep a strict distance from the edges, as the limestone headlands are highly susceptible to sudden rockfalls and erosion. Strong, gusting crosswinds are common along this coast. Always watch your footing closely on the muddy paths to avoid slips."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Baħrija village square features several local restaurants, snack bars, and small convenience shops where you can purchase water and food before setting off. Once you leave the town limits and descend into the valleys toward Mtaħleb and the cliffs, there are absolutely no shops, public restrooms, or freshwater stations available. Ensure you carry ample provisions for the entire loop."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_bahrija_mtahleb_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_bahrija_mtahleb_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+
+            {
               "id": "nature-treks-west-hazrun-tejtes",
               "name": "Wied Hazrun - Ghajn Tejtes",
               "bannerImage": "assets/images/treks_hazrun_tejtes_info_img1.jpg",
