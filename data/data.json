@@ -4094,6 +4094,171 @@
               "couponTrigger": "Z"
             }
           ]
+        },
+        {
+          "name": "Gozo",
+          "treks": [
+            {
+              "id": "nature-treks-gozo-mgarr-hondoq",
+              "name": "Hondoq from Mgarr Harbour",
+              "bannerImage": "assets/images/details/treks_gozo_hondoq_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_gozo_hondoq_badge.png",
+              "gpxFile": "assets/gpx/gozo-mgarr-hondoq.gpx",
+              "shortDescription": "To Hondoq Bay area straight from ferry terminal at Mgarr Harbour.",
+              "details": {
+                "distance": "9.6km",
+                "time": "2.5 hours",
+                "elevation": "190m",
+                "difficulty": "Challenging",
+                "loop": "Loop",
+                "shoes": "Trekking Boots",
+                "hidden_gems": "2",
+                "iconic_landmarks": "3"
+              },
+              "checkpoints": [
+                {
+                  "id": "The Gozitan Boat",
+                  "type": "milestone",
+                  "latitude": 36.026834,     
+                  "longitude": 14.299203,
+                  "checkpointTitle": "The Gozitan Boat",
+                  "checkpointText": "This full-scale recreation honors the famous Dgħajsa tal-Latini (the Gozo Boat), a uniquely designed wooden vessel that served as the primary, vital lifeline between Gozo and Malta for generations before modern ferries existed. Built with a high, pointed bow and stern to slice through the rough, open waters of the Fliegu channel, its most distinctive feature was its massive, triangular lateen sails. These boats operated round-the-clock, packed tightly with local workers, livestock, and fresh Gozitan agricultural produce bound for the Grand Harbour markets, making them the absolute backbone of Gozo's historical economy.",
+                  "checkpointImage": "assets/images/treks_gozo_hondoq_dghajsa.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Sea Tragedy Memorial",
+                  "type": "milestone",
+                  "latitude": 36.027287,      
+                  "longitude": 14.300884,
+                  "checkpointTitle": "Sea Tragedy Memorial",
+                  "checkpointText": "Located at the Żewwieqa waterfront, this moving monument commemorates the gravest peacetime maritime disaster in Gozo’s modern history. On the stormy night of 30 October 1948, a large luzzu fishing boat left Marfa for Mġarr carrying double its safe capacity. As it fought the heavy waves off the shores of Qala and Ħondoq, the vessel capsized and sank. Out of 27 people on board, 23 perished in the pitch-dark waters—including a woman and two police officers—leaving only four survivors to tell the tale and changing the way inter-island transit safety was regulated forever.",
+                  "checkpointImage": "assets/images/treks_gozo_hondoq_tragedy_memorial.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Dahla tac-Cawl",
+                  "type": "milestone",
+                  "latitude": 36.026579,        
+                  "longitude": 14.317796,
+                  "checkpointTitle": "Dahla tac-Cawl",
+                  "checkpointText": "This narrow, deeply inset rocky creek serves as a hidden coastal sanctuary along the rugged stretch toward Ħondoq. The name translates to 'Cove of the Jackdaws' (or crows), hinting at the wild birdlife that historically nested within the craggy limestone fissures surrounding the water. Tucked away below the coastal path, its secluded, sheltered position creates a naturally calm pocket of crystal-clear water where small fishing boats could historically anchor safely away from the fierce currents sweeping through the main Gozo Channel.",
+                  "checkpointImage": "assets/images/treks_gozo_hondoq_dahla_cawl.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Dahla ta' Bemberin",
+                  "type": "hidden_gem",
+                  "latitude": 36.026789,     
+                  "longitude": 14.321386,
+                  "checkpointTitle": "Dahla ta'Bemberin",
+                  "checkpointText": "This beautifully secluded rocky cove is framed by low limestone ledges and holds a fascinating place in Gozo's maritime history. Local lore states that its unusual name comes from an old Maltese adaptation of the word bambin (child) or a corruption of an early maritime term. Because of its exceptionally deep water right up to the rocky shore and its hidden position from the main channel lookout posts, this cove was heavily utilized for centuries by local fishermen as a discrete spot to land catches—and by smugglers to quietly slip contraband goods onto Gozo's eastern shores undetected.",
+                  "checkpointImage": "assets/badges/treks_gozo_hondoq_gem_dahla_bemberin.png",
+                  "badgeImage": "assets/badges/treks_gozo_hondoq_gem_dahla_bemberin.png"
+                },
+                {
+                  "id": "Hondoq ir-Rummien Bay",
+                  "type": "iconic_landmark",
+                  "latitude": 36.028162,      
+                  "longitude": 14.321841,
+                  "checkpointTitle": "Hondoq ir-Rummien Bay",
+                  "checkpointText": "This immensely popular bay translates locally to 'Pomegranate Moat,' a name reflecting the historical presence of freshwater springs and wild vegetation that thrived in the valley behind it. Long before it became a hotspot for swimming, the bay served a vital industrial purpose. If you look closely at the surrounding rock faces, you will see the crisp, square scars of a 19th-century limestone quarry. The high-quality Globigerina limestone carved from these very walls was loaded directly onto barges here and shipped across the channel to build the massive British naval docks in Malta's Grand Harbour.",
+                  "checkpointImage": "assets/badges/treks_gozo_hondoq_landmark_hondoq_bay.png",
+                  "badgeImage": "assets/badges/treks_gozo_hondoq_landmark_hondoq_bay.png"
+                },
+                {
+                  "id": "Il-Gebla tal-Halfa",
+                  "type": "hidden_gem",
+                  "latitude": 36.029788,      
+                  "longitude": 14.329439,
+                  "checkpointTitle": "Il-Gebla tal-Halfa",
+                  "checkpointText": "This spectacular islet is a geological and biological time capsule sitting just off the coast. The name Ġebla tal-Ħalfa translates to 'Rock of the Oath,' which ties into a local legend stating that the Ottoman pirate Dragut swore a vow of vengeance against the islands from its shores. Beyond folklore, this rocky outpost is an absolute hidden gem for biodiversity: because it is completely isolated from the mainland, it hosts unique, protected ecosystems, including its own distinct subspecies of the Maltese Wall Lizard that has evolved in isolation for thousands of years.",
+                  "checkpointImage": "assets/badges/treks_gozo_hondoq_gem_gebla_halfa.png",
+                  "badgeImage": "assets/badges/treks_gozo_hondoq_gem_gebla_halfa.png"
+                },
+                {
+                  "id": "Il-Batterija ta' Sant'Antnin",
+                  "type": "iconic_landmark",
+                  "latitude": 36.032488,       
+                  "longitude": 14.334898,
+                  "checkpointTitle": "Il-Batterija ta' Sant'Antnin",
+                  "checkpointText": "Built by the Knights of St. John between 1731 and 1732, this polygonal bastion was strategically positioned to guard the narrowest part of the Gozo Channel. If you look closely at its land-facing side, you will notice a rare military feature: a sharply pointed V-shaped defensive wall designed specifically to prevent enemy soldiers from scaling the fort from behind. It stands as one of the very few surviving coastal batteries of its kind in Gozo, originally working in tandem with the towers on Comino to create a lethal crossfire network against invading fleets.",
+                  "checkpointImage": "assets/badges/treks_gozo_hondoq_landmark_stantnin_battery.png",
+                  "badgeImage": "assets/badges/treks_gozo_hondoq_landmark_stantnin_battery.png"
+                },
+                {
+                  "id": "Immaculate Conception Chapel - Qala",
+                  "type": "iconic_landmark",
+                  "latitude": 36.034202,
+                  "longitude": 14.320952,
+                  "checkpointTitle": "Immaculate Conception Chapel - Qala",
+                  "checkpointText": "Perched high on the hill overlooking the channel, this sanctuary is one of Gozo’s oldest places of devotion, with records dating back to 1575. Originally known as the Chapel of Saint Mary of the Rocks, it was heavily modified in the 17th century after a local hermit claimed to have seen a vision of the Virgin Mary pointing to this spot. If you examine the exterior limestone walls facing the sea, you can spot old, hand-carved graffiti of ships and crosses left by sailors who climbed this steep hill to pray for safe passage across the treacherous currents below.",
+                  "checkpointImage": "assets/badges/treks_gozo_hondoq_landmark_kuncizzjoni.png",
+                  "badgeImage": "assets/badges/treks_gozo_hondoq_landmark_kuncizzjoni.png"
+                },
+                {
+                  "id": "Qala Parish Church & Square",
+                  "type": "milestone",
+                  "latitude": 36.035258,   
+                  "longitude": 14.311565,
+                  "checkpointTitle": "Qala Parish Church & Square",
+                  "checkpointText": "This lively square is the civic and social heart of Qala, dominated by the grand 19th-century parish church dedicated to Saint Joseph. While the church is an architectural masterpiece of local globigerina limestone, the square itself holds a unique historical claim: it is traditionally regarded as the birthplace of the unique Gozitan festa music culture, where local brass bands first established the passionate rivalry that defines village feasts today. The spacious square serves as the final inland rest stop on your trek, offering a smooth transition from the tight-knit village core back out onto the panoramic roads overlooking the sea.",
+                  "checkpointImage": "assets/images/treks_gozo_hondoq_qala_church.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Anton Buttigieg Memorial",
+                  "type": "milestone", 
+                  "latitude": 36.034829,   
+                  "longitude": 14.309932,
+                  "checkpointTitle": "Anton Buttigieg Memorial",
+                  "checkpointText": "This memorial pays tribute to Dr. Anton Buttigieg, a prominent Maltese political figure, renowned romantic poet, and the second President of the Republic of Malta, who was born right here in Qala in 1912. Affectionately remembered as 'il-Profeta' (The Prophet), his literary works frequently drew vivid inspiration from the rugged cliffs, countryside, and rural serenity of his native Gozo. The monument stands as a proud reminder of how this quiet village produced a visionary leader who shaped the islands' modern identity during their transition into an independent nation.",
+                  "checkpointImage": "assets/images/treks_gozo_hondoq_anton_buttigieg.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Gozo Channel Panorama",
+                  "type": "milestone",  
+                  "latitude": 36.031031, 
+                  "longitude": 14.309293,
+                  "checkpointTitle": "Gozo Channel Panorama",
+                  "checkpointText": "Perched right at the edge of this quiet playground, this vantage point offers an unparalleled panoramic vista over the entire Gozo Channel, showcasing the islands of Comino and Malta stretched across the horizon. From this exact spot, you can clearly trace the busy maritime lanes where the inter-island ferries cross daily. This is the final checkpoint of your trail; these wide, sweeping sea views will accompany you all the way down the final, scenic downhill stretch of the road as you make your descent back into Mġarr Harbour.",
+                  "checkpointImage": "assets/images/treks_gozo_hondoq_gozo_channel.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "The trek starts and ends directly at Mġarr Harbour, immediately outside the Gozo Ferry Terminal. Ample parking is available in the multi-story ferry lot or along the Żewwieqa waterfront promenade. If arriving from Valletta, take the Gozo Highspeed ferry directly to this harbour, or take bus route 41 or 42 to Cirkewwa and board the main passenger ferry. GPS coordinates to starting point: 36.026100, 14.297586."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "A spectacularly scenic coastal and rural loop on Gozo's eastern tip. Starting with maritime monuments at Mġarr Harbour, the path hugs the shoreline past the rugged inlets of Daħla taċ-Ċawl and Daħla ta' Bemberin to the crystal waters of Ħondoq ir-Rummien. After exploring the historic St. Anthony's Battery, the route climbs steeply inland to the historic Immaculate Conception Chapel, winds through the heart of Qala village, and returns via a panoramic playground overlooking the entire Gozo Channel."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Moderately demanding and highly varied. The initial coastal stretch features rocky, uneven limestone paths, flat rocky ledges, and coastal scree tracks. The mid-section from Ħondoq up to the Immaculate Conception Chapel requires a steep, sustained uphill climb on a paved asphalt road. The final leg inside Qala and the descent back to the harbour follows smooth village pavements and downhill country lanes. Solid trail shoes or hiking sneakers are recommended." 
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "The coastal tracks between Mġarr and Ħondoq run close to low rock ledges and uneven shorelines. Avoid these rocky paths during strong southeasterly (Xlokk) or northeasterly (Grigall) winds, as heavy seas can crash unexpectedly over the ledges. The uphill asphalt road from Ħondoq handles vehicle traffic without side pavements - take caution."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Excellent at both ends of the hike. Mġarr Harbour and Qala village square both feature a high concentration of cafes, public restrooms, pharmacies, and traditional restaurants. Ħondoq ir-Rummien Bay also features a seasonal kiosk and public toilets. Once you are on the wild coastal path between Mġarr and Ħondoq, or walking the rural road up the hill, there are no amenities or freshwater stations available."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_gozo_hondoq_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_gozo_hondoq_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            }
+          ]
         }
       ]
     },
