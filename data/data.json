@@ -4107,7 +4107,7 @@
               "shortDescription": "To Hondoq Bay area straight from ferry terminal at Mgarr Harbour.",
               "details": {
                 "distance": "9.6km",
-                "time": "2.5 hours",
+                "time": "3.0 hours",
                 "elevation": "190m",
                 "difficulty": "Challenging",
                 "loop": "Loop",
@@ -4252,6 +4252,156 @@
                 ],
                 "imagePrimary": "assets/images/details/treks_gozo_hondoq_info_img1.jpg",
                 "imageSecondary": "assets/images/details/treks_gozo_hondoq_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+            {
+              "id": "nature-treks-gozo-mgarr-xini",
+              "name": "Mgarr ix-Xini from Mgarr Harbour",
+              "bannerImage": "assets/images/details/treks_gozo_mgarr_xini_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_gozo_mgarr_xini_badge.png",
+              "gpxFile": "assets/gpx/gozo-mgarr-xini.gpx",
+              "shortDescription": "To Mgarr ix-Xini straight from ferry terminal at Mgarr Harbour.",
+              "details": {
+                "distance": "8.4km",
+                "time": "3.0 hours",
+                "elevation": "240m",
+                "difficulty": "Challenging",
+                "loop": "Loop",
+                "shoes": "Trekking Boots",
+                "hidden_gems": "2",
+                "iconic_landmarks": "3"
+              },
+              "checkpoints": [
+                {
+                  "id": "Bajja ta' Gorgun",
+                  "type": "milestone",
+                  "latitude": 36.021511,      
+                  "longitude": 14.296770,
+                  "checkpointTitle": "Bajja ta' Gorgun",
+                  "checkpointText": "This small, pebble-strewn inlet tucked just outside the main harbour is known as Baħar iċ-Ċagħaq or Bajja ta' Ġorġun. Long before Mġarr was built into a modern port, this cove served as a crucial, sheltered landing beach for traditional boats seeking refuge from punishing northwesterly winds. If you look closely at the surrounding rock formations, you will see how the soft clay and globigerina layers slope gently into the sea, creating a natural ramp that local fishermen have utilized to haul up their wooden craft for centuries.",
+                  "checkpointImage": "assets/images/treks_gozo_mgarr_xini_gorgun.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Fort Chambray",
+                  "type": "milestone",
+                  "latitude": 36.020659,        
+                  "longitude": 14.291567,
+                  "checkpointTitle": "Fort Chambray",
+                  "checkpointText": "ou are walking directly beneath the soaring, cliff-like bastions of Fort Chambray. Initiated in 1749 by Jacques François de Chambray, a wealthy Knight of St. John, this massive stronghold was built with a visionary purpose: to serve as a new, fortified capital city for Gozo that could shelter the island's entire population during massive pirate invasions. However, because it was completed just as the threat of corsair raids began to fade, it never fulfilled its military destiny, later transforming into a British military barracks, a mental hospital, and now a unique residential enclave.",
+                  "checkpointImage": "assets/images/treks_gozo_mgarr_xini_chambray.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Ix-Xatt l-Ahmar",
+                  "type": "hidden_gem",
+                  "latitude": 36.019695,     
+                  "longitude": 14.288608,
+                  "checkpointTitle": "Ix-Xatt l-Ahmar",
+                  "checkpointText": "This quiet, boulder-strewn bay translates to 'The Red Beach,' a name inspired by the distinct, iron-rich orange clay slopes that frame the valley behind it. Sheltered from strong winds by the high plateau of Fort Chambray, its calm, deep waters make it a favored spot for local swimmers and snorkelers. While a small cluster of historic salt pans sits carved into the flat rock shelf on its side, the bay's true fame lies underwater: its deep seabed serves as a world-renowned maritime graveyard, hosting the intentionally scuttled wrecks of three iconic former Maltese passenger ferries—the MV Karwela, MV Cominoland, and MV Xlendi—which now thrive as artificial reefs teeming with marine life.",
+                  "checkpointImage": "assets/badges/treks_gozo_mgarr_xini_gem_xatt_ahmar.png",
+                  "badgeImage": "assets/badges/treks_gozo_mgarr_xini_gem_xatt_ahmar.png"
+                },
+                {
+                  "id": "The Fougasse",
+                  "type": "milestone",
+                  "latitude": 36.018095,      
+                  "longitude": 14.285580,
+                  "checkpointTitle": "The Fougasse",
+                  "checkpointText": "This circular rock-cut crater is a 'fougasse,' a rare and ingenious weapon developed by the Knights of St. John in the 1740s. Functioning as a giant stone mortar, soldiers would pack the bottom chamber with gunpowder, top it with tonnes of loose rocks and boulders, and aim it out over the water. If an enemy fleet attempted a beach landing at ix-Xatt l-Aħmar, the powder would be detonated, firing a lethal shower of shrapnel-like stones across the bay to shred the hulls of invading wooden boats before they could reach the shore.",
+                  "checkpointImage": "assets/images/treks_gozo_mgarr_xini_fougasse.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Ras il-Hobz & Gebla tal-Fessej",
+                  "type": "milestone",
+                  "latitude": 36.016860,       
+                  "longitude": 14.278647,
+                  "checkpointTitle": "Ras il-Hobz & Gebla tal-Fessej",
+                  "checkpointText": "Looking out into the open sea, you can see the striking limestone stack of Ġebla tal-Fessej, a dramatic 15-meter vertical column of rock shooting straight out of the water. Just adjacent is the headland of Ras il-Ħobż (Bread Head). While spectacular from land, this area is legendary underwater; the sheer vertical walls of the rock drop down over 50 meters into the deep blue channel, creating a high-energy marine highway where strong currents attract massive schools of barracuda, amberjacks, and tuna, making it one of Gozo's absolute premier scuba diving locations.",
+                  "checkpointImage": "assets/images/treks_gozo_mgarr_xini_ras_hobz.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Mgarr ix-Xini Tower",
+                  "type": "iconic_landmark",
+                  "latitude": 36.017266,       
+                  "longitude": 14.274553,
+                  "checkpointTitle": "Mgarr ix-Xini Tower",
+                  "checkpointText": "Built in 1661, this is the largest of Gozo's coastal watchtowers and the very last one funded by the Knights of St. John. Perched on the cliff face, its primary job was to guard the narrow, hidden mouth of the Mġarr ix-Xini gorge against surprise landings. Unlike other towers that were abandoned early, this outpost was heavily utilized by the British military into the 19th century as a key coastal telegraph station to track shipping lanes, and it remains a striking sentinel over the bay.",
+                  "checkpointImage": "assets/badges/treks_gozo_mgarr_xini_landmark_tower.png",
+                  "badgeImage": "assets/badges/treks_gozo_mgarr_xini_landmark_tower.png"
+                },
+                {
+                  "id": "Mgarr ix-Xini Bay",
+                  "type": "iconic_landmark",
+                  "latitude": 36.020783,        
+                  "longitude": 14.271643,
+                  "checkpointTitle": "Mgarr ix-Xini Bay",
+                  "checkpointText": "Looking down into the deep, winding limestone gorge of Mġarr ix-Xini, you get a spectacular bird's-eye view of this sheltered, fjord-like inlet. If you wish to take a detour, a steep, rocky path winds its way directly down from the cliffs to the pebble beach below. From the bay floor, avid hikers can actually cross over and continue trekking along the rugged paths on the opposite side of the valley, which lead further west toward Ta' Ċenċ Cliffs. Otherwise, the main loop trail returns back along the high clifftop tracks you came from.",
+                  "checkpointImage": "assets/badges/treks_gozo_mgarr_xini_landmark_xini_bay.png",
+                  "badgeImage": "assets/badges/treks_gozo_mgarr_xini_landmark_xini_bay.png"
+                },
+                {
+                  "id": "Ix-Xatt l-Ahmar Viewpoint",
+                  "type": "hidden_gem",
+                  "latitude": 36.022893,       
+                  "longitude": 14.285916,
+                  "checkpointTitle": "Ix-Xatt l-Ahmar Viewpoint",
+                  "checkpointText": "After conquering the steep, lung-burning ascent up Triq il-Fougasse, this elevated rest area with its welcome benches offers the perfect spot to catch your breath and recover. Your efforts are rewarded with an incredible bird's-eye panorama looking directly down onto the checkerboard salt pans and terracotta clay slopes of ix-Xatt l-Aħmar. Looking further out, you can trace the entire sweeping expanse of the Gozo Channel, watching the regular rhythm of the ferries cutting through the deep blue waters separating Gozo, Comino, and Malta.",
+                  "checkpointImage": "assets/badges/treks_gozo_mgarr_xini_gem_xatt_ahmar_view.png",
+                  "badgeImage": "assets/badges/treks_gozo_mgarr_xini_gem_xatt_ahmar_view.png"
+                },
+                {
+                  "id": "Madonna ta' Lourdes",
+                  "type": "iconic_landmark",
+                  "latitude": 36.025148,      
+                  "longitude": 14.295329,
+                  "checkpointTitle": "Madonna ta' Lourdes",
+                  "checkpointText": "Perched high on the sheer vertical cliff face directly overlooking Mġarr Harbour, this striking, Gothic-style sanctuary was completed in 1893. The choice of its dramatic location was deeply intentional; it was built to mimic the famous apparition site of Lourdes in France, with the natural rock crags below the church acting as a symbolic holy grotto. Its high, pointed spire serves as the ultimate maritime beacon, welcoming generations of travelers and ferry passengers the exact moment they enter Gozo's waters.",
+                  "checkpointImage": "assets/badges/treks_gozo_mgarr_xini_landmark_lourdes.png",
+                  "badgeImage": "assets/badges/treks_gozo_mgarr_xini_landmark_lourdes.png"
+                },
+                {
+                  "id": "Lourdes Grove",
+                  "type": "milestone",
+                  "latitude": 36.024171,         
+                  "longitude": 14.293907,
+                  "checkpointTitle": "Lourdes Grove",
+                  "checkpointText": "This peaceful, shaded path winds through Lourdes Grove, a tranquil woodland pocket filled with mature olive and carob trees planted along the steep hillside beneath the chapel. This lush canopy offers a refreshing, cool contrast to the exposed, sun-drenched coastal cliffs you navigated earlier. As you follow the gentle downhill dirt track through the trees, it guides you smoothly out of the quiet countryside and deposits you right back at the bustling entrance of Mġarr Harbour.",
+                  "checkpointImage": "assets/images/treks_gozo_mgarr_xini_lourdes_grove.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "The trek starts and ends directly at Mġarr Harbour, right outside the Gozo Ferry Terminal. Parking is widely available in the ferry terminal, along the Żewwieqa waterfront or even some spots near the starting co-ordinates. If you are traveling from Valletta, catch bus routes 41 or 42 to the Ċirkewwa Terminal and board the main passenger ferry, or use the direct Gozo Highspeed ferry service from the Grand Harbour straight into Mġarr. GPS coordinates to starting point: 36.021781, 14.296883."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "A magnificent western coastal trek exploring deep gorges and high clifftops. Leaving the harbor past the pebble cove of Bajja ta' Ġorġun, the trail skirts underneath the imposing bastions of Fort Chambray down to the diving hotspot of ix-Xatt l-Aħmar. After inspecting a historic rock-cut fougasse and coastal stone stacks, the trail reaches the dramatic mouth of Mġarr ix-Xini. The return loop tackles a steep incline up Triq il-Fougasse to a panoramic rest viewpoint, finishing with a visit to the neo-Gothic Lourdes Chapel and a shaded walk through Lourdes Grove."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Moderately challenging with significant elevation changes. The coastal paths consist of irregular, jagged garigue limestone, loose rubble tracks, and smooth rocky ledges around the bays. The return leg features a very steep, demanding uphill climb on concrete and asphalt roads (Triq il-Fougasse) to reach the cliff plateau. The final section through Lourdes Grove follows a gentle, packed-dirt downhill trail. Sturdy hiking shoes with reliable grip are highly recommended." 
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "The clifftop tracks approaching Mġarr ix-Xini and the viewpoint ridges feature sheer, completely unfenced vertical drops. Keep a strict distance from the edge, as these limestone cliffs are highly prone to sudden rockfalls and erosion. Do not attempt the low rocky coastline around ix-Xatt l-Aħmar during rough seas or strong southwesterly winds, as waves can breach the ledges. Pace yourself during the steep climb up from the coast to avoid overexertion."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Mġarr Harbour serves as the primary amenities hub, offering a large concentration of public restrooms, pharmacies, cafes, and restaurants. Mġarr ix-Xini Bay features a small restaurant, though its operating hours are highly seasonal. Once you leave the harbor and trek along the wild coastal path or up the rural backroads, there are absolutely no public facilities, shade, or freshwater stations available."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_gozo_mgarr_xini_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_gozo_mgarr_xini_info_img2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
