@@ -43,13 +43,33 @@
       "linkUrl": "https://syncroexpats.com",
       "placements": {
         "homeScreen": true,
-        "preTrekPopup": true,
-        "routeMarker": true
+        "preTrekPopup": false,
+        "routeMarker": false
       },
       "trekAssignment": null,
       "routeMarker": null,
       "displayOrder": 2,
       "validFrom": "2026-09-20",
+      "validUntil": "2027-12-31"
+    },
+    {
+      "id": "promo-malta-kids-002",
+      "active": true,
+      "featured": false,
+      "provider": "Malta for Kids",
+      "category": "Kids Activities Guide",
+      "shortDescription": "Your guide to kids’ events, activities, venues and outing ideas in Malta and Gozo. For all ages and budgets, updated frequently, all in one easy-to-browse place.",
+      "imageUrl": "malta_for_kids.png",
+      "linkUrl": "https://maltaforkids.com",
+      "placements": {
+        "homeScreen": true,
+        "preTrekPopup": false,
+        "routeMarker": false
+      },
+      "trekAssignment": null,
+      "routeMarker": null,
+      "displayOrder": 3,
+      "validFrom": "2026-10-21",
       "validUntil": "2027-12-31"
     }
   ]
