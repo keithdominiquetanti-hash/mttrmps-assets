@@ -4407,6 +4407,135 @@
               "discountedPrice": 2.0,
               "couponTrekTrigger": "A",
               "couponTrigger": "Z"
+            },
+            {
+              "id": "nature-treks-gozo-marsalforn-valley",
+              "name": "Marsalforn Valley",
+              "bannerImage": "assets/images/details/treks_gozo_marsalforn_valley_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_gozo_marsalforn_valley_badge.png",
+              "gpxFile": "assets/gpx/gozo-marsalforn-valley.gpx",
+              "shortDescription": "An easy flat route from Marsalforn Bay to Valley, and visiting Ghar Ghawqla Bay.",
+              "details": {
+                "distance": "4.0km",
+                "time": "1.0 hours",
+                "elevation": "30m",
+                "difficulty": "Easy",
+                "loop": "Loop",
+                "shoes": "Trekking Boots",
+                "hidden_gems": "2",
+                "iconic_landmarks": "1"
+              },
+              "checkpoints": [
+                {
+                  "id": "Marsalforn Bay",
+                  "type": "milestone",
+                  "latitude": 36.071190,      
+                  "longitude": 14.259224,
+                  "checkpointTitle": "Marsalforn Bay",
+                  "checkpointText": "Before Mġarr Harbour was developed, this bay was Gozo’s principal gateway to the outside world. For centuries, Sicilian merchant ships docked here to trade food, clothing, and supplies. In 1643, the Knights of St. John actually drew up plans to abandon the land-locked Citadel in Victoria and build an entirely new capital city here on Marsalforn’s coast, a mega-project that was ultimately canceled because the local population fiercely protested the tax required to fund it.",
+                  "checkpointImage": "assets/images/treks_gozo_marsalforn_valley_bay.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "The Valley Fork",
+                  "type": "milestone",
+                  "latitude": 36.069789,         
+                  "longitude": 14.260482,
+                  "checkpointTitle": "The Valley Path",
+                  "checkpointText": "You are standing at a literal crossroads of Gozitan rural life. Looking ahead, the path splits: to your right lies an off-the-beaten-path dirt trail tracking through untamed garigue and reedbeds, while the left offers a quiet vehicular lane used by local farmers to access their small fields. This checkpoint also acts as the final comfort hub for the interior leg of the hike, as public restrooms are located directly next to the path here.",
+                  "checkpointImage": "assets/images/treks_gozo_marsalforn_valley_path.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Marsalforn Valley",
+                  "type": "iconic_landmark",
+                  "latitude": 36.064356,     
+                  "longitude": 14.259610,
+                  "checkpointTitle": "Marsalforn Valley",
+                  "checkpointText": "This is one of the most fertile agricultural zones in the Maltese archipelago. Fed by perennial springs that flow through the surrounding hillsides, the valley floor enjoys a unique microclimate that allows farmers to harvest crops year-round. As you walk, look past the giant cane reeds; you will spot complex systems of traditional stone irrigation channels (ħorr) and drystone walls designed to capture every drop of winter water before it drains out to sea.",                 
+                  "checkpointImage": "assets/badges/treks_gozo_marsalforn_valley_landmark_valley.png",
+                  "badgeImage": "assets/badges/treks_gozo_marsalforn_valley_landmark_valley.png"
+                },
+                {
+                  "id": "View onto Salvatur Hill",
+                  "type": "milestone",
+                  "latitude": 36.064104,       
+                  "longitude": 14.259492,
+                  "checkpointTitle": "View onto Salvatur Hill",
+                  "checkpointText": "Despite looking like a perfectly shaped volcano, this prominent cone is pure geological illusion. Merzuq Hill (Salvatur Hill) is composed entirely of soft clay and limestone, sculpted into a volcanic shape by centuries of wind and rain erosion. The towering Christ statue at the summit was erected in the 1970s, replacing a series of crosses dating back to 1901 that were built by local farmers to serve as a beacon of hope and protection for fishermen out at sea.",
+                  "checkpointImage": "assets/images/treks_gozo_marsalforn_valley_salvatur_hill.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wied ta' Grezzju",
+                  "type": "hidden_gem",
+                  "latitude": 36.064356,     
+                  "longitude": 14.259610,
+                  "checkpointTitle": "Wied ta' Grezzju",
+                  "checkpointText": "You have reached the deepest inward point of the valley basin. The Wied ta' Grezzju stream acts as a vital freshwater ecological corridor, supporting specialized local wildlife like the endemic Maltese Freshwater Crab (il-Qabru), which relies on these hidden, shaded streams to survive the blistering summer heat. From this peaceful cul-de-sac, the loop changes direction, taking you back toward the coast along the western vehicular lane.",
+                  "checkpointImage": "assets/badges/treks_gozo_marsalforn_valley_gem_grezzju.png",
+                  "badgeImage": "assets/badges/treks_gozo_marsalforn_valley_gem_grezzju.png"
+                },
+                {
+                  "id": "St. Paul Church and Square",
+                  "type": "milestone",
+                  "latitude": 36.071343,         
+                  "longitude": 14.260954,
+                  "checkpointTitle": "St. Paul Church and Square",
+                  "checkpointText": "Local lore claims that St. Paul departed for Rome right from this rocky shoreline. The present church, dedicated to the Shipwreck of St. Paul, dates back to 1730 and stands as a testament to the deep maritime roots of the town. Long before Marsalforn became a bustling summer resort town, this square was a quiet gathering space where rugged fishermen mended hemp nets and salted their catches under the shade of traditional stone buildings.",
+                  "checkpointImage": "assets/images/treks_gozo_marsalforn_valley_church.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Ghar Ghawqla Bay",
+                  "type": "hidden_gem",
+                  "latitude": 36.073561,       
+                  "longitude": 14.262443,
+                  "checkpointTitle": "Ghar Ghawqla Bay",
+                  "checkpointText": "The name of Marsalforn itself might be hidden in the geomorphology of this bay. It is widely theorised that the word forn (oven) refers to the smooth, hollowed-out sea caves (forna) that waves have carved into the yellow Globigerina limestone here. The massive limestone pillar you see standing solo just offshore was once a spectacular natural sea arch connected to the mainland, until its heavy top span dramatically collapsed into the sea during the 20th century.",
+                  "checkpointImage": "assets/badges/treks_gozo_marsalforn_valley_gem_ghawqla.png",
+                  "badgeImage": "assets/badges/treks_gozo_marsalforn_valley_gem_ghawqla.png"
+                },
+                {
+                  "id": "Marsalforn Bay Return",
+                  "type": "milestone",
+                  "latitude": 36.072655,         
+                  "longitude": 14.261273,
+                  "checkpointTitle": "Marsalforn Bay Return",
+                  "checkpointText": " As you round the coastal corner back toward the main bay, you are next to an opening to the right from where you can get a different view of the Ghar Ghawqla Rock. However, take extreme caution as the concrete outlet you will find can be extremely slippery and avoid totally in windy conditions.",
+                  "checkpointImage": "assets/images/treks_gozo_marsalforn_valley_slipways.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "The hike kicks off right at the vibrant waterfront of Marsalforn Bay. If you are arriving by car, public parking is available along the promenade or within the designated parking area on Triq il-Wied. For those utilizing public transit from Victoria, take bus routes 310 or 322, both of which stop directly at the Marsalforn seafront terminal, just a short walk from the starting point. GPS coordinates to starting point: 36.071346, 14.258763."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "A diverse loop blending fertile inland valleys with rugged northern coastlines. From Marsalforn Bay, the trail turns southward into the green expanse of Marsalforn Valley, opting for the rustic, off-the-beaten-path dirt trail running along the right side of the stream. Reaching the inward point at the Wied ta' Grezzju stream, the route loops back via the low-traffic vehicular farm road. Upon returning to the harbor, the trail hugs the eastern coast toward the dramatic limestone pillar of Għar Għawqla Bay before executing a final coastal approach back into the center of Marsalforn."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Easy to moderate. The valley journey features a mix of earthen dirt paths, loose gravel, and narrow walking trails on the outbound leg, transitioning to flat asphalt and concrete country roads on the return. The coastal leg to Għar Għawqla consists of exposed, flat limestone rock shelves and concrete promenades. Trail runners or light hiking shoes are ideal for this terrain." 
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "Exercise extra caution along the Għar Għawqla inlets; the marine wet rock ledges are coated in algae and can be exceptionally slippery. The interior valley paths can become muddy and slick after heavy downpours. While the return country road has low traffic, maintain awareness for vehicles and local farmers navigating the narrow lane."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Marsalforn Bay stands as a prime tourism resort, featuring a dense concentration of public restrooms, supermarkets, pharmacies, diving shops, and seaside restaurants. A key set of public toilets is also located right at the valley fork checkpoint before you enter the rural loop. Once deep inside Marsalforn Valley, there are no commercial amenities or public drinking water stations."                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_gozo_marsalforn_valley_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_gozo_marsalforn_valley_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
             }
           ]
         }
