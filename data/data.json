@@ -3243,6 +3243,156 @@
             },
 
             {
+              "id": "nature-treks-north-mosta-valleys",
+              "name": "Mosta Valleys",
+              "bannerImage": "assets/images/details/treks_mosta_valleys_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_mosta_valleys_badge.png",
+              "gpxFile": "assets/gpx/mosta-valleys.gpx",
+              "shortDescription": "Exploring Wied il-Ghasel and Wied Speranza, passing by the Mosta Dome too.",
+              "details": {
+                "distance": "9.8km",
+                "time": "2.5 hours",
+                "elevation": "110m",
+                "difficulty": "Challenging",
+                "loop": "Loop",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "4",
+                "iconic_landmarks": "3"
+              },
+              "checkpoints": [
+                  {
+                  "id": "Santwarju Hniena Divina, Naxxar",
+                  "type": "milestone",
+                  "latitude": 35.917663,   
+                  "longitude": 14.439042, 
+                  "checkpointTitle": "Santwarju Hniena Divina, Naxxar",
+                  "checkpointText": "This sanctuary introduces a bold wave of contemporary sacred architecture to a town famed for its centuries-old chapels. Built in 2003 and opened for worship in 2009, its stark, modern design contrasts beautifully with the traditional limestone architecture of San Pawl tat-Tarġa. If inside, look out for the striking, non-traditional depiction of the 15 Stations of the Cross painted by renowned Maltese modern artist Austin Camilleri.",
+                  "checkpointImage": "assets/images/treks_mosta_valleys_hniena_divina.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "L-Inhawi tal-Wej",
+                  "type": "milestone",
+                  "latitude": 35.917459,    
+                  "longitude": 14.435461, 
+                  "checkpointTitle": "L-Inhawi tal-Wej",
+                  "checkpointText": "This flat, rugged karstland serves as a time capsule for prehistory and a sanctuary for ancient life. Designated as a Class A Area of Archaeological Importance, the limestone sheets beneath your feet contain mysterious Punic tombs and complex cart ruts. Furthermore, during winter rain cycles, the shallow depressions form temporary freshwater rock pools that host the Tadpole Shrimp (Triops cancriformis), a living fossil species that has survived unchanged for over 200 million years.",
+                  "checkpointImage": "assets/images/treks_mosta_valleys_tal_wej.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Dolmen ta' Wied Filep",
+                  "type": "milestone",
+                  "latitude": 35.919284,    
+                  "longitude": 14.431690, 
+                  "checkpointTitle": "Dolmen ta' Wied Filep",
+                  "checkpointText": "You are looking at the very first prehistoric dolmens discovered in the Maltese Islands. Unearthed in November 1908 on this raised limestone platform, these Bronze Age burial chambers (l-imsaqqfa) consist of massive, roughly hewn limestone capstones balanced on upright megaliths. If you look closely at the exposed rock behind the structures, you can still trace the quarry lines where Bronze Age builders painstakingly pried these multi-ton stones from the bedrock.",
+                  "checkpointImage": "assets/images/treks_mosta_valleys_wied_filep_dolmen.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Kappella ta' Santa Margherita",
+                  "type": "hidden_gem",
+                  "latitude": 35.916421,       
+                  "longitude": 14.430344,
+                  "checkpointTitle": "Kappella ta' Santa Margherita",
+                  "checkpointText": "This lonely medieval wayside chapel marks the old boundary lines between Naxxar and Mosta. Dedicated to St. Margaret of Antioch, it serves as a silent reminder of Malta's late-medieval rural layout, when small hamlets dotted the landscape before urban sprawl fused them together. The chapel is typically locked, but its austere, unadorned facade and tiny peep-holes reflect an era when local architecture focused purely on spiritual sanctuary and protection from the elements.",
+                  "checkpointImage": "assets/badges/treks_mosta_valleys_gem_st_margherita.png",
+                  "badgeImage": "assets/badges/treks_mosta_valleys_gem_st_margherita.png"
+                },
+                {
+                  "id": "Wied il-Ghasel",
+                  "type": "iconic_landmark",
+                  "latitude": 35.917529,        
+                  "longitude": 14.426841,
+                  "checkpointTitle": "Wied il-Ghasel",
+                  "checkpointText": "You have descended into a dramatic limestone gorge carved out by massive, ancient torrents. While 'Valley of Honey' sounds serene, this steep canyon functions as a major hydrological drainage channel for central Malta. Look at the vertical cliff walls around you; the deep scoring and smooth undercuts in the Lower Coralline Limestone were formed over millennia by powerful flash floods carrying mud and debris toward the sea.",
+                  "checkpointImage": "assets/badges/treks_mosta_valleys_landmark_wied_ghasel.png",
+                  "badgeImage": "assets/badges/treks_mosta_valleys_landmark_wied_ghasel.png"
+                },
+                {
+                  "id": "Kappella San Pawl Eremita",
+                  "type": "hidden_gem",
+                  "latitude": 35.920982,       
+                  "longitude": 14.428707,
+                  "checkpointTitle": "Kappella San Pawl Eremita",
+                  "checkpointText": "This extraordinary chapel is built directly into the hollow of an overhanging cliff face. Constructed in 1656 around a natural cave, the chapel marks a site visited by Inquisitor Pietro Dusina as early as 1575. Look inside the dripping cavern behind the main altar; it houses traditional hardstone basins engineered to collect freshwater filtering down through the limestone, which early locals believed held miraculous medicinal qualities.",
+                  "checkpointImage": "assets/badges/treks_mosta_valleys_gem_san_pawl_eremita.png",
+                  "badgeImage": "assets/badges/treks_mosta_valleys_gem_san_pawl_eremita.png"
+                },
+                {
+                  "id": "Victoria Lines Stopwall",
+                  "type": "hidden_gem",
+                  "latitude": 35.920950,        
+                  "longitude": 14.430446,
+                  "checkpointTitle": "Victoria Lines Stopwall",
+                  "checkpointText": "What looks like a ruin is actually the remnant of a high-stakes British military stopwall. Built in the late 1890s to span the gorge, this fortified masonry bridge allowed troops to cross the valley while blocking enemy forces from advancing up the dry riverbed. The central span stood intact until October 25, 1979, when an apocalyptic storm transformed the valley into a rushing torrent, washing away the massive stone wall and leaving only the three lower arches standing.",
+                  "checkpointImage": "assets/badges/treks_mosta_valleys_gem_vic_lines_bridge.png",
+                  "badgeImage": "assets/badges/treks_mosta_valleys_gem_vic_lines_bridge.png"
+                },
+                {
+                  "id": "Mosta Rotunda",
+                  "type": "iconic_landmark",
+                  "latitude": 35.920982,       
+                  "longitude": 14.428707,
+                  "checkpointTitle": "Mosta Rotunda",
+                  "checkpointText": "This iconic church features one of the largest unsupported masonry domes in the world. Completed in 1860, the massive structure was built directly over a smaller, pre-existing church so that mass could continue uninterrupted during construction. The building achieved global fame during World War II when a 500kg German aerial bomb pierced the dome during an evening service, skidded across the floor, and failed to detonate—a moment the locals still celebrate as the 'Mosta Bomb Miracle'",
+                  "checkpointImage": "assets/badges/treks_mosta_valleys_landmark_rotunda.png",
+                  "badgeImage": "assets/badges/treks_mosta_valleys_landmark_rotunda.png"
+                },
+                {
+                  "id": "Kappella Madonna tal-Isperanza",
+                  "type": "iconic_landmark",
+                  "latitude": 35.909499,       
+                  "longitude": 14.419340,
+                  "checkpointTitle": "Kappella Madonna tal-Isperanza",
+                  "checkpointText": "The elaborate architecture of this 1757 chapel celebrates a legendary arachnid intervention. According to local lore, a young girl harvesting fields was chased by invading Ottoman corsairs and took refuge in a small cave underneath this ledge. She prayed desperately to the Virgin Mary, and a spider instantly spun a thick, undisturbed web across the cave mouth. The pursuers assumed the cave was abandoned and moved on, saving her life.",
+                  "checkpointImage": "assets/badges/treks_mosta_valleys_landmark_speranza_chapel.png",
+                  "badgeImage": "assets/badges/treks_mosta_valleys_landmark_speranza_chapel.png"
+                },
+                {
+                  "id": "Wied Speranza",
+                  "type": "hidden_gem",
+                  "latitude": 35.909882,        
+                  "longitude": 14.419191,
+                  "checkpointTitle": "Wied Speranza",
+                  "checkpointText": "This bridge marks a crucial ecological transition zone where urban runoff meets wild valley dynamics. As the route splits into a loop around the valley floor, the riverbed opens up into an area packed with dense carob trees, wild olives, and towering giant reeds. Take note of the complex network of traditional rubble walls (ħitan tas-sejjieħ) flanking the path, which function as critical soil retention systems preventing the steep slopes from washing away during heavy winter storms.",
+                  "checkpointImage": "assets/badges/treks_mosta_valleys_gem_speranza_valley.png",
+                  "badgeImage": "assets/badges/treks_mosta_valleys_gem_speranza_valley.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "The trek initiates at San Pawl tat-Tarġa, Naxxar, immediately adjacent to the distinctive, modern Divine Mercy Sanctuary. Ample street parking is available along Triq il-Prekursur and the surrounding residential roads. For hikers using public transport, catch bus routes 46 or 49 from Valletta, or route 260 from Victoria Lines, alighting at the 'Targa' bus stop which sits just a brief walk from the starting point. GPS coordinates to starting point: 35.918163, 14.439619."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "A captivating circular trek threading together prehistoric wonders, deep valley beds, and historical military lines. Leaving Naxxar, the trail moves through the archaeologically rich karstland of L-Inħawi tal-Wej, visiting the ancient Wied Filep Dolmens and the Santa Margherita Chapel. The path then plunges steeply into the rugged gorge of Wied il-Għasel to explore the cave chapel of St. Paul the Hermit and the broken Victoria Lines bridge. Clambering back up to the urban plateau, the route routes past the magnificent Mosta Rotunda before descending into the legendary Speranza Valley. A scenic loop around the valley floor leads to a direct return path to close the circuit back at San Pawl tat-Tarġa."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Moderately demanding with sharp, steep descents and climbs. Expect exposed, uneven limestone rock faces, jagged karst surfaces, and loose stones while traversing Tal-Wej and descending the rocky cliff pathways into the valley beds. The interior valley tracks feature dirt trails that can become heavily waterlogged or slick after rainfall. Urban connectors consist of standard flat asphalt pavements. Sturdy hiking boots with solid ankle support and reliable grip are highly recommended."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "The descent and ascent paths into the Wied il-Għasel gorge are steep and feature completely unfenced drops; exercise deliberate foot placement and stay well away from loose cliff edges. Heavy flooding can occur rapidly in the valley bed during or immediately after heavy storms—do not enter the gorge if heavy rain is forecast. The stone steps leading down to the cave chapel and the valley pathways can be intensely slippery when wet or covered in fine dust."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Mosta center stands as the primary hub along this trek, offering an exhaustive selection of public restrooms, pharmacies, grocery stores, cafes, and restaurants around the Rotunda square. While the starting point at San Pawl tat-Tarġa features light commercial amenities nearby, the interior rural tracks of Tal-Wej and the deep valley floors of Wied il-Għasel and Speranza offer no public facilities, shade, or drinking water points."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_mosta_valleys_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_mosta_valleys_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+            {
               "id": "nature-treks-north-gnejna-loop",
               "name": "Gnejna Loop",
               "bannerImage": "assets/images/details/treks_gnejna_loop_info1.jpg",
