@@ -3250,7 +3250,7 @@
               "gpxFile": "assets/gpx/mosta-valleys.gpx",
               "shortDescription": "Exploring Wied il-Ghasel and Wied Speranza, passing by the Mosta Dome too.",
               "details": {
-                "distance": "10.0km",
+                "distance": "9.8km",
                 "time": "3.0 hours",
                 "elevation": "130m",
                 "difficulty": "Challenging",
@@ -3333,8 +3333,8 @@
                 {
                   "id": "Mosta Rotunda",
                   "type": "iconic_landmark",
-                  "latitude": 35.920982,       
-                  "longitude": 14.428707,
+                  "latitude": 35.909682,      
+                  "longitude": 14.426058,
                   "checkpointTitle": "Mosta Rotunda",
                   "checkpointText": "This iconic church features one of the largest unsupported masonry domes in the world. Completed in 1860, the massive structure was built directly over a smaller, pre-existing church so that mass could continue uninterrupted during construction. The building achieved global fame during World War II when a 500kg German aerial bomb pierced the dome during an evening service, skidded across the floor, and failed to detonate—a moment the locals still celebrate as the 'Mosta Bomb Miracle'",
                   "checkpointImage": "assets/badges/treks_mosta_valleys_landmark_rotunda.png",
