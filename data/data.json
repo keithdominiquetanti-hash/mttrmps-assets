@@ -4246,7 +4246,7 @@
             {
               "id": "nature-treks-north-milbrae-hzejjen",
               "name": "Milbrae Grove - Wied Hzejjen",
-              "bannerImage": "assets/images/details/treks_milbrae-hzejjen_info1.jpg",
+              "bannerImage": "assets/images/details/treks_milbrae-hzejjen_info_img1.jpg",
               "badgeImage": "assets/badges/treks_milbrae_hzejjen_badge.png",
               "gpxFile": "assets/gpx/milbrae-hzejjen.gpx",
               "shortDescription": "From Milbrae Grove in Mosta to the Wied Hzejjen valley crossing Bidnija and Mgarr.",
@@ -4375,8 +4375,8 @@
                     "description": "No restrooms or food outlets along the route, so think ahead and bring water and snacks with you. On Weekends, there are usually some stands with traditional Maltese snacks set up near Chadwick Lakes trail entrance."
                   }
                 ],
-                "imagePrimary": "assets/images/details/treks_milbrae-hzejjen_info1.jpg",
-                "imageSecondary": "assets/images/details/treks_milbrae-hzejjen_info2.jpg"
+                "imagePrimary": "assets/images/details/treks_milbrae-hzejjen_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_milbrae-hzejjen_info_img2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,
