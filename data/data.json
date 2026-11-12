@@ -3522,7 +3522,6 @@
               "couponTrekTrigger": "A",
               "couponTrigger": "Z"
             },
-
             {
               "id": "nature-treks-north-chadwick-bingemma",
               "name": "Fiddien - Bingemma",
@@ -4237,6 +4236,147 @@
                 ],
                 "imagePrimary": "assets/images/details/treks_mellieha_info_img1.jpg",
                 "imageSecondary": "assets/images/details/treks_mellieha_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+
+            {
+              "id": "nature-treks-north-milbrae-hzejjen",
+              "name": "Milbrae Grove - Wied Hzejjen",
+              "bannerImage": "assets/images/details/treks_milbrae-hzejjen_info1.jpg",
+              "badgeImage": "assets/badges/treks_milbrae_hzejjen_badge.png",
+              "gpxFile": "assets/gpx/milbrae-hzejjen.gpx",
+              "shortDescription": "From Milbrae Grove in Mosta to the Wied Hzejjen valley crossing Bidnija and Mgarr.",
+              "details": {
+                "distance": "7.3km",
+                "time": "2.0 hours",
+                "elevation": "109m",
+                "difficulty": "Moderate",
+                "loop": "Loop",
+                "shoes": "Trainers",
+                "hidden_gems": "1",
+                "iconic_landmarks": "3"
+              },
+              "checkpoints": [
+                {
+                  "id": "Gnien l-Gharusa tal-Mosta",
+                  "type": "milestone",
+                  "latitude": 35.918795,  
+                  "longitude": 14.418646,
+                  "checkpointTitle": "Gnien l-Gharusa tal-Mosta",
+                  "checkpointText": "The romantic name of this clifftop garden actually stems from a dark 16th-century tragedy. According to beloved Maltese folklore (L-Għarusa tal-Mosta), a young bride was abducted from Mosta by Barbary corsairs right on her wedding day. Sold into slavery in North Africa, she famously refused to abandon her faith or marry her captor, eventually plotting a daring escape by boat back to Malta. The park was named in her honor, standing right on the edge of the dramatic limestone escarpment overlooking the northern plains she once fled across.",
+                  "checkpointImage": "assets/images/treks_milbrae_hzejjen_gnien_gharusa.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Fort Mosta",
+                  "type": "iconic_landmark",
+                  "latitude": 35.921435,    
+                  "longitude": 14.424449,
+                  "checkpointTitle": "Fort Mosta",
+                  "checkpointText": "You are looking toward a rare pentagonal fortress designed to disappear into the rock. Built by the British between 1878 and 1880 as a pivotal anchor of the Victoria Lines, Fort Mosta was carved directly into the natural limestone ridge. Because it is surrounded by a deep, rock-cut ditch and built low to the ground, invading forces marching from the north would barely spot it until they were well within range of its heavy artillery. Today, the fort remains an active military compound used by the Armed Forces of Malta.",
+                  "checkpointImage": "assets/badges/treks_milbrae_hzejjen_landmark_fort_mosta.png",
+                  "badgeImage": "assets/badges/treks_milbrae_hzejjen_landmark_fort_mosta.png"
+                },
+                {
+                  "id": "Victoria Lines - Milbrae",
+                  "type": "iconic_landmark",
+                  "latitude": 35.919696,    
+                  "longitude": 14.419968,
+                  "checkpointTitle": "Victoria Lines - Milbrae",
+                  "checkpointText": "This monumental stone wall earned the nickname 'The Great Wall of Malta'. Stretching 12 kilometers across the entire width of the island, the Victoria Lines were constructed by the British military in the late 19th century to celebrate Queen Victoria’s Diamond Jubilee. Ingeniously utilizing the Great Fault—a massive natural geological fracture—the British engineers simply reinforced the sheer cliffs with masonry parapets, gun emplacements, and infantry walkways to stop any enemy landing in the north from reaching the Grand Harbour.",
+                  "checkpointImage": "assets/badges/treks_milbrae_hzejjen_landmark_victoria_lines.png",
+                  "badgeImage": "assets/badges/treks_milbrae_hzejjen_landmark_victoria_lines.png"
+                },
+                {
+                  "id": "Picnic tables with a view",
+                  "type": "milestone",
+                  "latitude": 35.917556,    
+                  "longitude": 14.414829,
+                  "checkpointTitle": "Picnic tables with a view",
+                  "checkpointText": "At these scenic picnic tables, you are standing directly above the weakest link in Malta's historic northern defenses. Known as the Tarġa Gap, this natural dip in the Great Fault ridge created an easy, gentle corridor for invading armies to march straight into the heart of the island. Because the cliffs lose their height here, the British had to construct intense, multi-layered defensive works—including nearby batteries, trenches, and barbed-wire entanglements—to seal off this vulnerable geographic bottleneck.",
+                  "checkpointImage": "assets/images/treks_milbrae_hzejjen_picnic_tables.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wied tal-Hzejjen Path Start",
+                  "type": "milestone",
+                  "latitude": 35.918530,      
+                  "longitude": 14.409487,
+                  "checkpointTitle": "Wied tal-Hzejjen Path Start",
+                  "checkpointText": "You are leaving the exposed military ridge to enter a lush, hidden microclimate. Known in English as the Valley of the Badgers or Little Ruined Houses depending on local linguistic roots, Wied il-Ħżejjen is a sunken tectonic valley tucked between Bidnija and Mġarr. As you descend from the windswept garigue above, the steep valley walls block the harsh coastal winds, trapping moisture and creating a sheltered corridor rich in carob trees, wild fennel, and ancient terraced fields.",
+                  "checkpointImage": "assets/images/treks_milbrae_hzejjen_hzejjen_path.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wied tal-Hzejjen Stream",
+                  "type": "hidden_gem",
+                  "latitude": 35.918490,    
+                  "longitude": 14.401255,
+                  "checkpointTitle": "Wied tal-Hzejjen Stream",
+                  "checkpointText": "This tranquil freshwater pool is fed by a crucial, ancient aquifer system. Unlike most Maltese valleys that run bone-dry outside of winter storms, the deeper geological strata here trap rainwater percolating down through the porous Upper Coralline Limestone onto an impermeable layer of Blue Clay below. This natural subterranean dam forces fresh spring water to the surface, creating vital permanent pools that sustain local amphibians, dragonflies, and lush riparian vegetation.",
+                  "checkpointImage": "assets/badges/treks_milbrae_hzejjen_gem_hzejjen_stream.png",
+                  "badgeImage": "assets/badges/treks_milbrae_hzejjen_gem_hzejjen_stream.png"
+                },
+                {
+                  "id": "L-Imselliet",
+                  "type": "milestone",
+                  "latitude": 35.917991,        
+                  "longitude": 14.392761,
+                  "checkpointTitle": "L-Imselliet",
+                  "checkpointText": "You have emerged into one of Malta’s oldest and most continuous agricultural basins. L-Imselliet, sitting quietly between Mġarr and Bidnija, is famous for its rich, clay-heavy soil (ħamrija tal-tafal), which retains water far better than the thin, rocky soils found elsewhere on the island. Look across the valley floor; you will see centuries-old vineyards and olive groves—some dating back to the Roman era—protected by meticulously stacked drystone walls.",
+                  "checkpointImage": "assets/images/treks_milbrae_hzejjen_mselliet.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Return onto Victoria Lines Path",
+                  "type": "milestone",
+                  "latitude": 35.910978,    
+                  "longitude": 14.402209,
+                  "checkpointTitle": "Return onto Victoria Lines Path",
+                  "checkpointText": "This rugged section of the trail reveals the raw, unfinished skeleton of the Victoria Lines. While the Milbrae Grove stretch looks like a manicured parapet, this western segment shows how the British blended masonry with the jagged natural bedrock. Notice how the wall suddenly vanishes where the natural cliff face becomes vertical enough to act as its own barrier, resuming only where the rock slopes down enough for an enemy soldier to climb.",
+                  "checkpointImage": "assets/images/treks_milbrae_hzejjen_return_victoria_lines.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Tat-Targa Battery",
+                  "type": "iconic_landmark",
+                  "latitude": 35.915650,     
+                  "longitude": 14.408769,
+                  "checkpointTitle": "Tat-Targa Battery",
+                  "checkpointText": "This sunken stone fortification was built to rain crossfire down onto the valley approaches. Constructed in 1887, Tarġa Battery was specifically positioned to guard the vulnerable Tarġa Gap you viewed earlier from across the ridge. Unlike classic coastal towers that rise high into the sky, this polygonal battery was sunk low into the earth to absorb enemy artillery shells, featuring subterranean ammunition magazines and a defensive ditch carved straight out of the limestone.",
+                  "checkpointImage": "assets/badges/treks_milbrae_hzejjen_landmark_targa_battery.png",
+                  "badgeImage": "assets/badges/treks_milbrae_hzejjen_landmark_targa_battery.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "The trek begins and ends at Ġnien l-Għarusa tal-Mosta (Milbrae Grove), located along Triq id-Difiża Ċivili on the northern edge of Mosta. Street parking is readily available directly outside the garden entrance and along the adjacent residential roads. If arriving via public transport, take bus routes 45, 48, or 186 to the 'Mosta' or 'Difiża' stops, followed by a short 5-to-10-minute walk up to the garden gates. GPS coordinates to starting point: 35.918452, 14.419273."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "A diverse circular route blending historic 19th-century fortifications with tranquil agricultural valleys. Starting inside Ġnien l-Għarusa tal-Mosta, the trail follows the Victoria Lines past views of Fort Mosta to the scenic picnic area overlooking Tarġa Gap. From there, the route drops down into the lush, sheltered bed of Wied il-Ħżejjen, tracking the valley stream from Bidnija through to the fertile plains of L-Imselliet. To close the loop, hikers follow a brief stretch of the main Mġarr road before ascending back onto the rugged Victoria Lines trail toward Tarġa Battery and returning to the garden."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Moderate difficulty with a mix of paved paths, rural dirt tracks, and rugged limestone trails. The initial section through Milbrae Grove features flat, well-maintained paved walkways. Descending into Wied il-Ħżejjen introduces uneven earthen paths, loose gravel, and rocky steps that can get muddy after rain. The return leg along the western Victoria Lines requires navigating jagged, exposed karst rock and steep inclines, alongside a short stretch of paved roadside walking. Sturdy hiking shoes with solid grip are recommended."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "Exercise caution along the short stretch of the main Mosta road; traffic moves fast and dedicated pedestrian pavements can narrow. Along the Victoria Lines and Milbrae Grove cliffs, stay well behind the low stone parapets, as sheer, unfenced drops exist directly beyond them. In Wied il-Ħżejjen, rocks near the stream and water pools can be exceptionally slick with moss and mud."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "No restrooms or food outlets along the route, so think ahead and bring water and snacks with you. On Weekends, there are usually some stands with traditional Maltese snacks set up near Chadwick Lakes trail entrance."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_milbrae-hzejjen_info1.jpg",
+                "imageSecondary": "assets/images/details/treks_milbrae-hzejjen_info2.jpg"
               },
               "standardPrice": 3.0,
               "discountedPrice": 2.0,

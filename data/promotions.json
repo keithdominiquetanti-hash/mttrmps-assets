@@ -71,6 +71,26 @@
       "displayOrder": 3,
       "validFrom": "2026-10-21",
       "validUntil": "2027-12-31"
+    },
+    {
+      "id": "promo-mt-local-goodies-003",
+      "active": true,
+      "featured": false,
+      "provider": "MT Local Goodies",
+      "category": "Online Marketplace",
+      "shortDescription": "MT Local Goodies brings Malta and Gozo’s food producers, craftspeople and local experiences together in one place. Find honey, cheese, crafts and tours near your next hike, and buy straight from the people who make them.",
+      "imageUrl": "mt_local_goodies.jpg",
+      "linkUrl": "https://mtlocalgoodies.com",
+      "placements": {
+        "homeScreen": true,
+        "preTrekPopup": false,
+        "routeMarker": false
+      },
+      "trekAssignment": null,
+      "routeMarker": null,
+      "displayOrder": 4,
+      "validFrom": "2026-11-12",
+      "validUntil": "2027-12-31"
     }
   ]
 }
