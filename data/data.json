@@ -3250,14 +3250,14 @@
               "gpxFile": "assets/gpx/mosta-valleys.gpx",
               "shortDescription": "Exploring Wied il-Ghasel and Wied Speranza, passing by the Mosta Dome too.",
               "details": {
-                "distance": "9.8km",
+                "distance": "10.7km",
                 "time": "3.0 hours",
                 "elevation": "130m",
-                "difficulty": "Challenging",
+                "difficulty": "Hard",
                 "loop": "Loop",
                 "shoes": "Trekking Shoes",
                 "hidden_gems": "4",
-                "iconic_landmarks": "3"
+                "iconic_landmarks": "4"
               },
               "checkpoints": [
                   {
@@ -3352,13 +3352,23 @@
                 },
                 {
                   "id": "Wied Speranza",
-                  "type": "hidden_gem",
-                  "latitude": 35.909882,        
-                  "longitude": 14.419191,
+                  "type": "iconic_landmark",
+                  "latitude": 35.909574,        
+                  "longitude": 14.418738,
                   "checkpointTitle": "Wied Speranza",
-                  "checkpointText": "This bridge marks a crucial ecological transition zone where urban runoff meets wild valley dynamics. As the route splits into a loop around the valley floor, the riverbed opens up into an area packed with dense carob trees, wild olives, and towering giant reeds. Take note of the complex network of traditional rubble walls (ħitan tas-sejjieħ) flanking the path, which function as critical soil retention systems preventing the steep slopes from washing away during heavy winter storms.",
-                  "checkpointImage": "assets/badges/treks_mosta_valleys_gem_speranza_valley.png",
-                  "badgeImage": "assets/badges/treks_mosta_valleys_gem_speranza_valley.png"
+                  "checkpointText": "As the route runs along the Wied Speranza valley floor, the riverbed opens up into an area packed with dense carob trees, wild olives, and towering giant reeds. Take note of the complex network of traditional rubble walls (ħitan tas-sejjieħ) flanking the path, which function as critical soil retention systems preventing the steep slopes from washing away during heavy winter storms.",
+                  "checkpointImage": "assets/badges/treks_mosta_valleys_landmark_speranza_valley.png",
+                  "badgeImage": "assets/badges/treks_mosta_valleys_landmark_speranza_valley.png"
+                },
+                {
+                  "id": "Kappella San Pawl Qlejgha",
+                  "type": "hidden_gem",
+                  "latitude": 35.904611,  
+                  "longitude": 14.410191,
+                  "checkpointTitle": "Kappella San Pawl Qlejgha",
+                  "checkpointText": "Emerging from the rugged trails of Speranza Valley, you arrive at the quiet, sun-drenched clearing where the San Pawl tal-Qlejgħa Chapel has stood in simple Baroque style since 1690. The weathered limestone facade of this secluded wayside sanctuary offers a peaceful place to catch your breath, complete with a small stone parvis overlooking the surrounding greenery and rocky valley floor. If you look closely at the outer walls, you can even spot centuries-old ex-voto graffiti of sailing ships etched into the stone by grateful locals and travelers.",
+                  "checkpointImage": "assets/badges/treks_mosta_valleys_gem_san_pawl_qlejgha.png",
+                  "badgeImage": "assets/badges/treks_mosta_valleys_gem_san_pawl_qlejgha.png"
                 }
               ],
               "detailContent": {
