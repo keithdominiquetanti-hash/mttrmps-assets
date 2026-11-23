@@ -4709,6 +4709,126 @@
               "couponTrigger": "Z"
             },
             {
+              "id": "nature-treks-gozo-gharb-wied-mielah",
+              "name": "Gharb - Wied il-Mielah",
+              "bannerImage": "assets/images/details/treks_gozo_wied_mielah_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_gozo_wied_mielah_badge.png",
+              "gpxFile": "assets/gpx/gozo-wied-mielah.gpx",
+              "shortDescription": "From Gharb Square to Wied il-Mielah via countryside lanes and an alternative view to Wied il-Ghasri.",
+              "details": {
+                "distance": "10.4km",
+                "time": "2.5 hours",
+                "elevation": "200m",
+                "difficulty": "Moderate",
+                "loop": "Loop",
+                "shoes": "Trekking Boots",
+                "hidden_gems": "2",
+                "iconic_landmarks": "1"
+              },
+              "checkpoints": [
+                {
+                  "id": "Gharb Parish Church & Square",
+                  "type": "milestone",
+                  "latitude": 36.059967,      
+                  "longitude": 14.209029,
+                  "checkpointTitle": "Gharb Parish Church & Square",
+                  "checkpointText": "The sweeping, concave facade of this church was heavily inspired by one of Rome's most famous Baroque masterpieces. Built between 1699 and 1729, the Church of the Visitation is modeled directly after Francesco Borromini’s Sant'Agnese in Agone in Piazza Navona. Look down at the square beneath your feet; Għarb is one of the oldest villages in Gozo, and its name literally translates to 'West' in Semitic—a direct geographical marker from the Arab period denoting the island's westernmost settlement.",
+                  "checkpointImage": "assets/images/treks_gozo_wied_mielah_gharb_church.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "San Dimitri Viewpoint",
+                  "type": "milestone",
+                  "latitude": 36.071133,          
+                  "longitude": 14.202091,
+                  "checkpointTitle": "San Dimitri Viewpoint",
+                  "checkpointText": "This panoramic vantage point aligns three of Gozo’s most iconic spiritual and maritime landmarks in a single sweep. Ahead sits the lonely San Dimitri Chapel perched on the cliff's edge, while to the east rises the flat-topped Gordan Hill, crowned by an 1881 British lighthouse whose beam can be seen 50 kilometers out to sea. Tucked into the valley below are glimpses of the Ta' Pinu Basilica, creating a visual map of how Gozitans historically balanced coastal defense with rural devotion. The Fanal tal-Gordan and Ta' Pinu Basilica are part of another amazing Gozo hike on our App.",
+                  "checkpointImage": "assets/images/treks_gozo_wied_mielah_dimitri_viewpoint.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "San Dimitri Chapel",
+                  "type": "hidden_gem",
+                  "latitude": 36.071289,     
+                  "longitude": 14.204653,
+                  "checkpointTitle": "San Dimitri Chapel",
+                  "checkpointText": "Local legend claims this cliffside chapel once floated out to sea with a burning candle still lit inside. According to tradition, an old woman named Natalizja prayed to St. Demetrius after Barbary corsairs kidnapped her only son. The saint allegedly rode straight out of the chapel's altarpiece on his white horse across the waves, rescuing the boy and returning him safely. Centuries later, an earthquake toppled the original chapel off the cliff into the ocean, where local fishermen swore they could still see her votive lamp glowing beneath the waves.",                 
+                  "checkpointImage": "assets/badges/treks_gozo_wied_mielah_gem_san_dimitri.png",
+                  "badgeImage": "assets/badges/treks_gozo_wied_mielah_gem_san_dimitri.png"
+                },
+                {
+                  "id": "Wied il-Mielah Window",
+                  "type": "iconic_landmark",
+                  "latitude": 36.078727,      
+                  "longitude": 14.212990,
+                  "checkpointTitle": "Wied il-Mielah Window",
+                  "checkpointText": "Following the 2017 collapse of the Azure Window, this massive limestone arch became Gozo’s premier natural sea bridge. Unlike its famous fallen cousin, the Wied il-Mielaħ Window sits at the mouth of a deep, water-carved valley rather than an open headland, meaning its thick, horizontal rock roof is still heavily supported by surrounding cliff walls. Before descending the rock-cut staircase, notice the distinct horizontal strata in the Upper Coralline Limestone, formed millions of years ago from compressed marine fossils.",                 
+                  "checkpointImage": "assets/badges/treks_gozo_wied_mielah_landmark_window.png",
+                  "badgeImage": "assets/badges/treks_gozo_wied_mielah_landmark_window.png"
+                },
+                {
+                  "id": "Cliffs & Caves",
+                  "type": "milestone",
+                  "latitude": 36.079886,       
+                  "longitude": 14.217481,
+                  "checkpointTitle": "Cliffs & Caves",
+                  "checkpointText": "You are walking atop an active geological workshop where the sea is slowly hollowing out the island from below. Look down at the waterline; the pounding winter swells exploit natural vertical fractures in the soft Globigerina limestone, carving deep, cathedral-like sea caves at water level. Because the white limestone floor reflects sunlight upward through crystal-clear water, the mouths of these submerged caverns glow an intense, electric sapphire blue.",
+                  "checkpointImage": "assets/images/treks_gozo_wied_mielah_cliffs_caves.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Wied il-Ghasri - Canyon Viewpoint",
+                  "type": "hidden_gem",
+                  "latitude": 36.079725,      
+                  "longitude": 14.228366,
+                  "checkpointTitle": "Wied il-Ghasri - Canyon Viewpoint",
+                  "checkpointText": "This dramatic, snake-like fjord is actually a drowned river valley sculpted during the last Ice Age. Thousands of years ago, when Mediterranean sea levels were drastically lower, rushing freshwater torrents carved this narrow, winding gorge deep into the plateau. When the glaciers melted and the sea rose, ocean water flooded the canyon floor. From this high western ridge, you can trace the entire S-curve of the gorge down to its tiny, hidden pebble beach.",
+                  "checkpointImage": "assets/badges/treks_gozo_wied_mielah_gem_wied_ghasri.png",
+                  "badgeImage": "assets/badges/treks_gozo_wied_mielah_gem_wied_ghasri.png"
+                },
+                {
+                  "id": "Wied il-Mielah - Valley Bed",
+                  "type": "milestone",
+                  "latitude": 36.074125,          
+                  "longitude": 14.210535,
+                  "checkpointTitle": "Wied il-Mielah - Valley Bed",
+                  "checkpointText": "The peaceful valley floor beside this road transforms into a vital hydrological highway during Gozo’s winter storms. Despite its name translating to 'Salty Valley' — a nod to the sea spray that blows inland and the traditional salt pans near its mouth—Wied il-Mielaħ drains massive amounts of rainwater from the surrounding Għarb hills. As you walk back, notice the series of low, sturdy stone bridges spanning the riverbed; they were engineered to allow farmers to cross the gorge while letting sudden, debris-heavy flash floods pass safely underneath.",
+                  "checkpointImage": "assets/images/treks_gozo_wied_mielah_valley_road.jpg",
+                  "badgeImage": ""
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "The hike begins and ends in the traditional village center of Għarb, right near the Parish Church square (Pjazza Żjara tal-Madonna). Free street parking is readily available along the surrounding village streets, such as Triq il-Knisja and Triq San Duminku. If arriving by public transport from Victoria, take bus route 312, which stops directly at the 'Għarb' square stop just steps away from the starting coordinates: 36.059628, 14.209273."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "A scenic northern coastal loop blending rural heritage, legendary cliffside chapels, and dramatic sea gorges. Leaving Għarb square, the trail follows quiet country lanes past sweeping viewpoints toward the isolated San Dimitri Chapel. From there, it tracks the rugged northern coastline to the massive limestone arch of the Wied il-Mielaħ Window before following the high sea cliffs east to peer down into the winding canyon of Wied il-Għasri. The return leg turns inland along the paved Wied il-Mielaħ valley road, passing a series of historic stone valley bridges on the steady climb back into Għarb."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Moderate difficulty with a mix of paved rural roads and exposed coastal rock. The initial approach to San Dimitri and the return leg along Wied il-Mielaħ follow smooth concrete and asphalt agricultural roads. The middle coastal stretch between Wied il-Mielaħ and Wied il-Għasri traverses uneven, jagged garigue limestone with loose stones and steep, rock-cut steps if descending toward the window. Trail shoes or sturdy walking sneakers with reliable grip are recommended." 
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "The coastal plateau between Wied il-Mielaħ and Wied il-Għasri features sheer, completely unfenced vertical drops; keep a strict distance from the cliff edges, especially during strong northerly winds. On the return leg along the concrete Wied il-Mielaħ road, the lane is very narrow with blind bends - walk single-file and step onto the verges when cars or farm vehicles pass."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Għarb village square serves as the sole amenities hub for this route, offering public restrooms, a pharmacy, a small convenience store, and a couple of traditional cafes and restaurants. Once you head north toward San Dimitri and along the coastal cliffs, there are zero public facilities, shade structures, or water refill points until you return to the village center."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_gozo_wied_mielah_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_gozo_wied_mielah_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+            {
               "id": "nature-treks-gozo-marsalforn-valley",
               "name": "Marsalforn Valley",
               "bannerImage": "assets/images/details/treks_gozo_marsalforn_valley_info_img1.jpg",
