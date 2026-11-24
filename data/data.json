@@ -4829,6 +4829,155 @@
               "couponTrigger": "Z"
             },
             {
+              "id": "nature-treks-gozo-gurdan-pinu",
+              "name": "Ta' Gurdan & Ta' Pinu",
+              "bannerImage": "assets/images/details/treks_gozo_gurdan_pinu_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_gozo_gurdan_pinu_badge.png",
+              "gpxFile": "assets/gpx/gozo-gurdan-pinu.gpx",
+              "shortDescription": "From Gharb Square to Il-Fanal ta' Gurdan and Ta' Pinu Sanctuary.",
+              "details": {
+                "distance": "9.1km",
+                "time": "2.5 hours",
+                "elevation": "250m",
+                "difficulty": "Hard",
+                "loop": "Out & Back",
+                "shoes": "Trekking Boots",
+                "hidden_gems": "1",
+                "iconic_landmarks": "3"
+              },
+              "checkpoints": [
+                {
+                  "id": "Gharb Parish Church & Square",
+                  "type": "milestone",
+                  "latitude": 36.059967,      
+                  "longitude": 14.209029,
+                  "checkpointTitle": "Gharb Parish Church & Square",
+                  "checkpointText": "While the church facade borrows from Roman Baroque, this square hides a unique linguistic legacy. Għarb is famous for preserving its own distinct dialect of Maltese, which retains ancient Semitic pronunciations and vocabulary rarely heard on the mainland. Look closely at the traditional stone balconies surrounding the square; many feature intricate, hand-carved limestone corbels (saljaturi) that showcase the centuries-old stone-masonry skills for which this westernmost village is renowned.",
+                  "checkpointImage": "assets/images/treks_gozo_wied_mielah_gharb_church.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Bridge View onto Wied il-Mielah",
+                  "type": "milestone",
+                  "latitude": 36.063463,     
+                  "longitude": 14.212982,
+                  "checkpointTitle": "Bridge View onto Wied il-Mielah",
+                  "checkpointText": "You are crossing the quiet, inland headwaters of the dramatic Wied il-Mielaħ gorge. Long before this valley carves its way down to the northern sea cliffs, it begins right here as a shallow, terraced agricultural basin. This bridge spans the upper catchment area where winter rainwater gathers from the surrounding Għarb and Għasri slopes, feeding the fertile terraced fields below before rushing north toward the coast. Wied il-Mielah is hiked in another amazing trek on our App, also starting from Gharb square.",
+                  "checkpointImage": "assets/images/treks_gozo_gurdan_pinu_mielah_bridge.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Kappella San Pupulju",
+                  "type": "milestone",
+                  "latitude": 36.065142,          
+                  "longitude": 14.216945,
+                  "checkpointTitle": "Kappella San Pupulju",
+                  "checkpointText": "This isolated 19th-century chapel honors Malta’s very first bishop and patron saint. Dedicated to St. Publius—the Roman governor who welcomed St. Paul after his famous shipwreck in 60 AD—this serene sanctuary sits quietly on the outskirts of the village. Unlike grand parish churches built at the center of town life, this chapel served as a spiritual anchor for scattered farming families working the surrounding fields, blending austere rural stonework with peaceful isolation.",
+                  "checkpointImage": "assets/images/treks_gozo_gurdan_pinu_pupulju.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Ghasri",
+                  "type": "milestone",
+                  "latitude": 36.067132,          
+                  "longitude": 14.221917,
+                  "checkpointTitle": "Ghasri",
+                  "checkpointText": "You are passing through the least populated village in the entire Maltese archipelago. With fewer than 500 residents, Għasri has remarkably resisted modern urban sprawl, preserving a way of life largely unchanged for generations. Its name derives from the Arabic word għasra (squeezing), a direct reference to the ancient olive oil presses that once operated in this fertile valley, where olives were crushed to extract oil for both cooking and sanctuary lamps.",
+                  "checkpointImage": "assets/images/treks_gozo_gurdan_pinu_ghasri_countryside.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Gurdan Hill Viewpoint",
+                  "type": "iconic_landmark",
+                  "latitude": 36.071604,     
+                  "longitude": 14.218765,
+                  "checkpointTitle": "Gurdan Hill Viewpoint",
+                  "checkpointText": "Standing at 161 meters above sea level, this flat-topped mesa offers a complete 360-degree geological map of Gozo. Unlike volcanic cones, Ġurdan Hill is a classic 'mesa' formed by differential erosion: a tough cap of Upper Coralline Limestone protects the softer clay and Globigerina layers underneath from washing away. From this elevated plateau, you can trace nearly the entire northern coastline and see how Gozo’s flat-topped hills divide the island into distinct, self-contained valleys.",                 
+                  "checkpointImage": "assets/badges/treks_gozo_gurdan_pinu_landmark_gurdan_hill.png",
+                  "badgeImage": "assets/badges/treks_gozo_gurdan_pinu_landmark_gurdan_hill.png"
+                },
+                {
+                  "id": "Fanal ta' Gurdan",
+                  "type": "iconic_landmark",
+                  "latitude": 36.072063,      
+                  "longitude": 14.218493,
+                  "checkpointTitle": "Fanal ta' Gurdan",
+                  "checkpointText": "Inaugurated in 1853, this British-built lighthouse once relied on burning olive oil to guide ships across the Mediterranean. Standing high atop the cliff, its lantern sits 180 meters above the sea, projecting a powerful beam visible up to 50 kilometers away. Today, while its light is fully automated, the compound serves a vital modern purpose as a Global Atmosphere Watch station—one of the cleanest air-monitoring sites in the central Mediterranean, tracking greenhouse gases and Saharan dust plumes.",                 
+                  "checkpointImage": "assets/badges/treks_gozo_gurdan_pinu_landmark_fanal.png",
+                  "badgeImage": "assets/badges/treks_gozo_gurdan_pinu_landmark_fanal.png"
+                },
+                {
+                  "id": "View onto Zebbug Hill & Wied Ghasri",
+                  "type": "milestone",
+                  "latitude": 36.071966,       
+                  "longitude": 14.221070,
+                  "checkpointTitle": "View onto Zebbug Hill & Wied Ghasri",
+                  "checkpointText": "From this eastern edge, you can spot the rare yellow-tinted stone that gave neighboring Żebbuġ its distinct reputation. Looking across the deep cut of Wied il-Għasri toward the flat ridge of Żebbuġ, you are viewing one of the few places in Malta where deposits of translucent, golden-yellow onyx (alabaster) were historically quarried. This prized stone was so famous it was shipped across the sea to decorate grand European churches, including St. John's Co-Cathedral in Valletta.",
+                  "checkpointImage": "assets/images/treks_gozo_gurdan_pinu_zebbug_view.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Ta' Pinu Basilica",
+                  "type": "iconic_landmark",
+                  "latitude": 36.061505,      
+                  "longitude": 14.216034,
+                  "checkpointTitle": "Ta' Pinu Basilica",
+                  "checkpointText": "This monumental Neo-Romanesque basilica was built around a tiny, humble wayside chapel that refused to be demolished. In 1883, a local peasant woman named Karmni Grima heard a voice calling her from the decaying 16th-century chapel that stood on this spot. When workers later tried to tear the old chapel down to expand it, the first man to strike a blow broke his arm—an event taken as a divine sign. Today, the original tiny chapel remains completely intact inside the grand basilica behind the main altar.",
+                  "checkpointImage": "assets/badges/treks_gozo_gurdan_pinu_landmark_ta_pinu.png",
+                  "badgeImage": "assets/badges/treks_gozo_gurdan_pinu_landmark_ta_pinu.png"
+                },
+                {
+                  "id": "Via Sagra - Ta' Pinu",
+                  "type": "milestone",
+                  "latitude": 36.061208,          
+                  "longitude": 14.216384,
+                  "checkpointTitle": "Via Sagra - Ta' Pinu",
+                  "checkpointText": "You are at the base of a striking outdoor pilgrimage path blending sacred art with raw Gozitan nature. Winding up the steep slopes of Għammar Hill opposite the basilica, the Via Sagra (Way of the Cross) features 14 life-sized Stations of the Cross crafted from pristine white Carrara marble. Installed in the late 1970s and early 1980s, the route invites hikers and pilgrims alike to ascend the rugged hillside in quiet contemplation.",
+                  "checkpointImage": "assets/images/treks_gozo_gurdan_pinu_via_crucis.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Ghammar Hilltop",
+                  "type": "hidden_gem",
+                  "latitude": 36.061505,      
+                  "longitude": 14.216034,
+                  "checkpointTitle": "Ghammar Hilltop",
+                  "checkpointText": "The summit of Għammar Hill crowns the spiritual journey with an open-air amphitheater carved into the natural rock. At the top of the climb stands a towering marble statue of the Risen Christ overlooking the valley toward Ta' Pinu. Look down at the hilltop flora around you; despite heavy foot traffic, the exposed limestone plateau supports tough aromatic garrigue shrubs like wild thyme and Mediterranean heath, which fill the air with a sharp, herbal scent on warm days.",
+                  "checkpointImage": "assets/badges/treks_gozo_gurdan_pinu_gem_ghammar.png",
+                  "badgeImage": "assets/badges/treks_gozo_gurdan_pinu_gem_ghammar.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "The hike begins and ends in the traditional village center of Għarb, right near the Parish Church square (Pjazza Żjara tal-Madonna). Free street parking is readily available along the surrounding village streets, such as Triq il-Knisja and Triq San Duminku. If arriving by public transport from Victoria, take bus route 312, which stops directly at the 'Għarb' square stop just steps away from the starting coordinates: 36.059628, 14.209273."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "A rewarding inland hill-bagging loop connecting Gozo's smallest village, historic coastal beacons, and iconic pilgrimage sites. Starting from Għarb square, the trail crosses upper Wied il-Mielaħ into the quiet hamlet of Għasri before tackling a steep ascent up to Ġurdan Lighthouse for sweeping 360-degree island views. Descending back into the valley, the route visits the grand Ta' Pinu Basilica before climbing the marble-lined Via Crucis up Għammar Hill, then looping smoothly back to Għarb."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Moderately challenging due to two distinct, steep uphill climbs. The paths connecting Għarb, Għasri, and Ta' Pinu consist of quiet, paved rural asphalt and concrete lanes. The ascent to Ġurdan Lighthouse follows a steep, paved narrow road, while the Via Crucis climb up Għammar Hill features rough stone steps, packed dirt tracks, and uneven rocky inclines. Sturdy walking shoes or trail runners with good grip are recommended." 
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "The climbs up both Ġurdan Hill and Għammar Hill are steep and completely exposed to the sun; pace yourself carefully and carry plenty of water, especially during warmer months. At the summit of Ġurdan Hill, keep a safe distance from the unfenced cliff perimeters. When walking along the narrow country roads around Għasri and near Ta' Pinu, stay alert for passing tour buses and local vehicles."                  },
+                  {
+                    "title": "Amenities",
+                    "description": "Għarb village square provides public restrooms, a pharmacy, a small convenience store, and cafes at the start and end of the trek. Mid-route, the visitor center and grounds at Ta' Pinu Basilica offer modern public restrooms, shaded seating, and water/snack kiosks. Għasri village and the hilltops of Ġurdan and Għammar have no commercial facilities."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_gozo_gurdan_pinu_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_gozo_gurdan_pinu_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
+            {
               "id": "nature-treks-gozo-marsalforn-valley",
               "name": "Marsalforn Valley",
               "bannerImage": "assets/images/details/treks_gozo_marsalforn_valley_info_img1.jpg",
