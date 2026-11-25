@@ -2398,7 +2398,136 @@
               "couponTrekTrigger": "A",
               "couponTrigger": "Z"
             },
-
+            {
+              "id": "nature-treks-kuncizzjoni-fomm-ir-rih",
+              "name": "Kuncizzjoni - Fomm ir-Rih",
+              "bannerImage": "assets/images/treks_kuncizzjoni_fomm_ir_rih_info_img1.jpg",
+              "badgeImage": "assets/badges/treks_kuncizzjoni_fomm_ir_rih_badge.png",
+              "gpxFile": "assets/gpx/kuncizzjoni-fomm-ir-rih.gpx",
+              "shortDescription": "From Kuncizzjoni to Fomm ir-Rih, passing through scenic Tas-Santi.",
+              "details": {
+                "distance": "7.9km",
+                "time": "2.0 hours",
+                "elevation": "180m",
+                "difficulty": "Moderate",
+                "loop": "Loop",
+                "shoes": "Trekking Shoes",
+                "hidden_gems": "3",
+                "iconic_landmarks": "2"
+              },
+              "checkpoints": [
+                {
+                  "id": "Kuncizzjoni Chapel",
+                  "type": "iconic_landmark",
+                  "latitude": 35.899745,       
+                  "longitude": 14.349579,
+                  "checkpointTitle": "Kuncizzjoni Chapel",
+                  "checkpointText": "This solitary 18th-century chapel actually helped fund the Knights of St. John's naval fleet. Built in 1736 by Grand Master António Manoel de Vilhena, it stands on agricultural land belonging to the Fondazione Paola—a special endowment whose rents were strictly dedicated to building and maintaining galleys for the Order. Look at the nearby stone archway bearing Grand Master Antoine de Paule's coat of arms; when Napoleon expelled the Knights in 1798, this chapel passed directly to the state, making it one of the few churches in Malta still owned by the government rather than the Archdiocese.",
+                  "checkpointImage": "assets/badges/treks_kuncizzjoni_fomm_ir_rih_landmark_kuncizzjoni_chapel.png",
+                  "badgeImage": "assets/badges/treks_kuncizzjoni_fomm_ir_rih_landmark_kuncizzjoni_chapel.png"
+                },
+                {
+                  "id": "Fort Bingemma",
+                  "type": "iconic_landmark",
+                  "latitude": 35.902881,       
+                  "longitude": 14.362085,
+                  "checkpointTitle": "Fort Bingemma",
+                  "checkpointText": "Built atop an ancient Roman settlement, this Victorian fortress later served as a secret Cold War training camp. Constructed between 1875 and 1878 as the western anchor of the Victoria Lines, its massive 9.2-inch guns were positioned 180 meters above sea level to command both the northern bays and the inland ridges. In the early 1950s, British and American intelligence officers quietly used this isolated compound to train anti-communist Albanian insurgents for covert missions. Following decades of private agricultural lease and illegal occupation, the fort was reclaimed by the state in 2025 to be restored into an astronomical observation center.",
+                  "checkpointImage": "assets/badges/treks_kuncizzjoni_fomm_ir_rih_landmark_fort_bingemma.png",
+                  "badgeImage": "assets/badges/treks_kuncizzjoni_fomm_ir_rih_landmark_fort_bingemma.png"
+                },
+                {
+                  "id": "Tas-Santi Viewpoint",
+                  "type": "hidden_gem",
+                  "latitude": 35.901469,       
+                  "longitude": 14.358085,
+                  "checkpointTitle": "Tas-Santi Viewpoint",
+                  "checkpointText": "You are standing on the geological spine of the Great Fault, looking down into Malta’s northwestern agricultural bowl. Below you, the land drops sharply from exposed karst plateaus into the fertile valleys feeding Mġarr and Ġnejna Bay. On a clear day, this elevated ridge lets you trace how Malta's tectonic tilt pushes the island's highest cliffs to the west while gently sloping the terraced fields down toward the northern coastline.",
+                  "checkpointImage": "assets/badges/treks_kuncizzjoni_fomm_ir_rih_gem_santi_view.png",
+                  "badgeImage": "assets/badges/treks_kuncizzjoni_fomm_ir_rih_gem_santi_view.png"
+                },
+                {
+                  "id": "Tas-Santi",
+                  "type": "milestone",
+                  "latitude": 35.904998,     
+                  "longitude": 14.357207,
+                  "checkpointTitle": "Tas-Santi",
+                  "checkpointText": "This quiet cluster of stone farmhouses represents one of Malta’s last unspoiled rural hamlets. Unlike larger villages dominated by grand parish churches, Tas-Santi grew organically around traditional irziezet (fortified farmhouses) designed for self-sufficiency. Notice the architectural features built for protection and climate control: thick limestone walls, tiny high-set windows facing north to block cold winter winds, and central courtyards (bitħa) where livestock were kept safe overnight while farmers slept upstairs.",
+                  "checkpointImage": "assets/images/treks_kuncizzjoni_fomm_ir_rih_santi.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Fomm ir-Rih Wind Vane",
+                  "type": "milestone",
+                  "latitude": 35.907920,   
+                  "longitude": 14.342803,
+                  "checkpointTitle": "Fomm ir-Rih Wind Vane",
+                  "checkpointText": "Standing at the tip of this windswept headland is a whimsical iron sculpture paying tribute to local feline lore. Perched atop the wind vane is a large, stylized silhouette of a cat—a playful nod to Malta's famous street cats and local folk tales, set right where the island meets the open sea. Because this exposed promontory catches the full brunt of Malta's prevailing northwesterly gusts, the vane spins almost constantly, acting as a rustic barometer for hikers and fishermen below.", 
+                  "checkpointImage": "assets/images/treks_kuncizzjoni_fomm_ir_rih_wind_vane.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Fomm ir-Rih Viewpoint",
+                  "type": "hidden_gem",
+                  "latitude": 35.908182,      
+                  "longitude": 14.342604,
+                  "checkpointTitle": "Fomm ir-Rih Viewpoint",
+                  "checkpointText": "Translating to 'Mouth of the Wind', this remote bay is a textbook display of coastal geology in action. From this high vantage point, you can clearly see where a major geological fault sliced the coastline into sheer vertical limestone cliffs dropping onto steep, sliding slopes of Blue Clay. Because the clay layer erodes rapidly beneath the heavy limestone cap, massive boulders continuously break off and tumble into the clear water below, creating Malta's wildest, most challengingly accessible pebble cove.",
+                  "checkpointImage": "assets/badges/treks_kuncizzjoni_fomm_ir_rih_gem_fomm_ir_rih.png",
+                  "badgeImage": "assets/badges/treks_kuncizzjoni_fomm_ir_rih_gem_fomm_ir_rih.png"
+                },
+                {
+                  "id": "Victoria Lines Shelter",
+                  "type": "milestone",
+                  "latitude": 35.902968,  
+                  "longitude": 14.346821,
+                  "checkpointTitle": "Victoria Lines Shelter",
+                  "checkpointText": "These fortified stone ruins once housed a Victorian-era searchlight system designed to blind invading armies at night. Built around 1898 at the extreme western end of the Victoria Lines, this compound protected an underground engine room and oil-powered generator. During a night attack, Royal Engineers would power up a massive, concentrated moving-beam searchlight to sweep across the dark slopes of Fomm ir-Riħ and Binġemma, illuminating enemy troops for the artillery batteries above.",
+                  "checkpointImage": "assets/images/treks_kuncizzjoni_fomm_ir_rih_lines_shelter.jpg",
+                  "badgeImage": ""
+                },
+                {
+                  "id": "Kuncizzjoni Victoria Lines View",
+                  "type": "hidden_gem",
+                  "latitude": 35.901519,  
+                  "longitude": 14.349590,
+                  "checkpointTitle": "Kuncizzjoni Victoria Lines View",
+                  "checkpointText": "You are walking along the literal western terminus of 'Malta’s Great Wall'. Here, the 12-kilometer masonry defense line finally meets the sheer vertical sea cliffs of the western coast, requiring no further wall to block an invasion. Looking back along Triq ix-Xifer (Edge Road) toward the tiny Kunċizzjoni Chapel, you can appreciate why British engineers chose this exact ridge: the natural drop-off forms an impenetrable fortress wall created entirely by nature.",
+                  "checkpointImage": "assets/badges/treks_kuncizzjoni_fomm_ir_rih_gem_kuncizzjoni_view.png",
+                  "badgeImage": "assets/badges/treks_kuncizzjoni_fomm_ir_rih_gem_kuncizzjoni_view.png"
+                }
+              ],
+              "detailContent": {
+                "highlights": [
+                  {
+                    "title": "Getting there",
+                    "description": "The hike starts and finishes near the isolated Kunċizzjoni Chapel (Wied Gerżuma) in the rural limits of Rabat. Limited roadside parking is available along the quiet lanes near the chapel. If you are traveling by public transport from the Valletta Terminus, take bus route 51, 52, or 53 to the 'Saqqajja' stop in Rabat, and transfer onto bus route 109 (direction Baħrija). Alight at the 'Għermieri' or 'Lellux' stop, followed by a scenic 15-to-20-minute walk along country roads to reach the chapel starting coordinates: 35.899776, 14.349086."
+                  },
+                  {
+                    "title": "The Route",
+                    "description": "A dramatic western coastal and ridge loop combining 19th-century military engineering with Malta's wildest sea cliffs. Starting at Kunċizzjoni Chapel, the route heads past Fort Binġemma and descends through the tranquil farmhouse hamlet of Tas-Santi in Mġarr. From there, it follows the Fomm ir-Riħ road out to the cat wind vane and elevated cliff viewpoints overlooking the bay before climbing back up along the rugged western stretch of the Victoria Lines past the old searchlight compound to close the loop."
+                  },
+                  {
+                    "title": "Terrain",
+                    "description": "Moderately challenging with steady inclines and rough, rocky paths on the return climb. The initial descent through Tas-Santi and the approach to Fomm ir-Riħ follow narrow, paved agricultural roads and packed dirt tracks. The final return leg ascending the Victoria Lines at Kunċizzjoni requires navigating uneven, jagged karst limestone, loose stones, and steep stepped inclines. Sturdy hiking shoes with strong grip are essential."
+                  },
+                  {
+                    "title": "Safety Warning",
+                    "description": "The cliff edges overlooking Fomm ir-Riħ Bay and along Triq ix-Xifer feature sheer, completely unfenced vertical drops; keep well back from the rim, especially during strong northwesterly winds. The Blue Clay slopes around Fomm ir-Riħ are unstable and prone to landslides, particularly after rain. Watch for occasional agricultural vehicles on the narrow lanes of Tas-Santi."
+                  },
+                  {
+                    "title": "Amenities",
+                    "description": "This is a completely wild, rural route with zero amenities along the trail. There are no public restrooms, shops, cafes, or freshwater refill stations at Kunċizzjoni, Tas-Santi, or Fomm ir-Riħ. Ensure you bring plenty of drinking water, snacks, and sun protection before arriving at the trailhead; the nearest commercial facilities are located back in the villages of Baħrija, Rabat, or Mġarr."
+                  }
+                ],
+                "imagePrimary": "assets/images/details/treks_kuncizzjoni_fomm_ir_rih_info_img1.jpg",
+                "imageSecondary": "assets/images/details/treks_kuncizzjoni_fomm_ir_rih_info_img2.jpg"
+              },
+              "standardPrice": 3.0,
+              "discountedPrice": 2.0,
+              "couponTrekTrigger": "A",
+              "couponTrigger": "Z"
+            },
             {
               "id": "nature-treks-safi",
               "name": "Hal Safi Loop",
@@ -4939,8 +5068,8 @@
                 {
                   "id": "Ghammar Hilltop",
                   "type": "hidden_gem",
-                  "latitude": 36.061505,      
-                  "longitude": 14.216034,
+                  "latitude": 36.059052,      
+                  "longitude": 14.219945,
                   "checkpointTitle": "Ghammar Hilltop",
                   "checkpointText": "The summit of Għammar Hill crowns the spiritual journey with an open-air amphitheater carved into the natural rock. At the top of the climb stands a towering marble statue of the Risen Christ overlooking the valley toward Ta' Pinu. Look down at the hilltop flora around you; despite heavy foot traffic, the exposed limestone plateau supports tough aromatic garrigue shrubs like wild thyme and Mediterranean heath, which fill the air with a sharp, herbal scent on warm days.",
                   "checkpointImage": "assets/badges/treks_gozo_gurdan_pinu_gem_ghammar.png",
